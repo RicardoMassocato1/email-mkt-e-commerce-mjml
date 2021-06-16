@@ -1,0 +1,377 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/EmailMkt_Frete01-topo.jpg"
+              title="Semana do Frete Gratis"
+              alt="Semana do Frete Gratis" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/feminino?map=c&O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/EmailMkt_Frete01-feminino.jpg"
+              title="Feminino"
+              alt="Feminino" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 5px">
+      <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/chemise-longo-fenda-lateral-azul-221765/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/Chemise%20Longo%20Fenda%20Lateral%20Azul.jpg"
+            title="Chemise Longo Fenda Lateral Azul"
+            alt="Chemise Longo Fenda Lateral Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Chemise Longo Fenda Lateral
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 699,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">12x de R$ 58,32</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/chemise-longo-fenda-lateral-azul-221765/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/macacao-reto-com-faixa-azul-223600/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/Macacao%20Reto%20Com%20Faixa%20Azul.jpg"
+            title="Macacao Reto Com Faixa Azul"
+            alt="Macacao Reto Com Faixa Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Reto Com Faixa Azul
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 51,10</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/macacao-reto-com-faixa-azul-223600/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.leboh.com.br/blusa-decote-redondo-manga-curta-bicolor-verde-225419/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/T-Shirt%20Dress%20Com%20Retilinea%20Azul.jpg"
+            title="T-Shirt Dress Com Retilinea Azul"
+            alt="T-Shirt Dress Com Retilinea Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Dress Com Retilinea Azul
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 51,10</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.leboh.com.br/blusa-decote-redondo-manga-curta-bicolor-verde-225419/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/masculino?map=c&O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/EmailMkt_Frete01-masculino.jpg"
+              title="Masculino"
+              alt="Masculino" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 5px">
+      <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/blazer-alfaiataria-preto-224989/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/Blazer%20Alfaiataria%20Preto.jpg"
+            title="Blusa Decote Redondo Manga Longa Trico Cinza"
+            alt="Blusa Decote Redondo Manga Longa Trico Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 52,84</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/blazer-alfaiataria-preto-224989/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/camisa-manga-longa-basica-azul-224609/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/Camisa%20Manga%20Longa%20Basica%20Azul.jpg"
+            title="Camisa Manga Longa Basica Azul"
+            alt="Camisa Manga Longa Basica Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/camisa-manga-longa-basica-azul-224609/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/calca-slim-cos-intermediario-basica-jeans-224642/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/Calca%20Slim%20Cos%20Intermediario%20Basica%20Jeans.jpg"
+            title="Calca Slim Cos Intermediario Basica Jeans"
+            alt="Calca Slim Cos Intermediario Basica Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Slim Basica Jeans
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 259,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 51,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/calca-slim-cos-intermediario-basica-jeans-224642/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="20px 0px 0px 0px"
+              width="600px"
+              href="https://www.zinco.com.br"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_26-04_Frete-Gratis/EmailMkt_Frete01-rodape.jpg"
+              title="Frete Grátis"
+              alt="Frete Grátis" />
+      </mj-column>  
+    </mj-section>
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

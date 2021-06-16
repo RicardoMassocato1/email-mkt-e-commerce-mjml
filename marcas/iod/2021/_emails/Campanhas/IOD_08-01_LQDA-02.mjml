@@ -1,0 +1,207 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_productClusterIds=260&pwaf_releaseDate=-&_t=LQDA%20Cal%C3%A7as"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_08-01_LQDA/Artboard%201%20copy-topo.jpg"
+          alt="LQDA até 50% off"
+          title="LQDA até 50% off" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+      <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#AB1622" font-size="23px" padding="30px 0px 10px 0px" align="center" font-weight="700" line-height="20px" letter-spacing="0.2px">
+          Até 50% off
+        </mj-text>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="15px" padding="0px 0px 40px 0px" align="center" font-weight="400" line-height="18px">
+          Renove o closet com essa<br>
+          seleção de calças!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-clochard-cos-elastico-barra-diferenciada-rosa-236160"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175765/CALCA-CLOCHARD-COS-ELASTICO-BARRA-DIFERENCIADA---LI-PINK---38.jpg?v=637327711995900000"
+            title="CALÇA IÓDICE CLOCHARD CÓS ELÁSTICO BARRA DIFERENCIADA ROSA"
+            alt="CALÇA IÓDICE CLOCHARD CÓS ELÁSTICO BARRA DIFERENCIADA ROSA" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Clochard<br> Cós Elástico Barra<br> Diferenciada Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 4.899,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            12x de R$ 204,16
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 2.449,95
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-clochard-cos-elastico-barra-diferenciada-rosa-236160" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-flare-cos-embutido-abertura-barra-preto-234524"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175245/CALCA-FLARE-COS-EMBUTIDO-ABERTURA-BARRA---CO-PRETO-OFF-WHITE---38.jpg?v=637327697843670000"
+            title="CALÇA IÓDICE FLARE CÓS EMBUTIDO ABERTURA BARRA PRETO"
+            alt="CALÇA IÓDICE FLARE CÓS EMBUTIDO ABERTURA BARRA PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Flare Cós<br> Embutido Abertura<br> Barra Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 849,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 70,82
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 424,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-flare-cos-embutido-abertura-barra-preto-234524" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-alfaiataria-cos-alto-com-nervuras-preto-223212"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/169375/CALCA-ALFAIATARIA-COS-ALTO-COM-NERVURAS---LI-PRETO---36.jpg?v=637193659185730000"
+            title="CALÇA IÓDICE ALFAIATARIA CÓS ALTO COM NERVURAS PRETO"
+            alt="CALÇA IÓDICE ALFAIATARIA CÓS ALTO COM NERVURAS PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Alfaiataria<br> Cós Alto Com Nervuras<br> Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 619,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 51,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 309,95
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-alfaiataria-cos-alto-com-nervuras-preto-223212" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-alfaiataria-cos-intermediario-bolso-faca-preto-228893"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/173362/CALCA-ALFAIATARIA-COS-INTERMEDIARIO-BOLSO-FACA---LI-PRETO---36.jpg?v=637237642083170000"
+            title="CALÇA IÓDICE ALFAIATARIA CÓS INTERMEDIÁRIO BOLSO FACA PRETO"
+            alt="CALÇA IÓDICE ALFAIATARIA CÓS INTERMEDIÁRIO BOLSO FACA PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Alfaiataria<br> Cós Intermediário Bolso<br> Faca Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 174,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-alfaiataria-cos-intermediario-bolso-faca-preto-228893" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Vestidos&pwaf_productClusterIds=211"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_08-01_LQDA/Artboard%201%20copy-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Blusas&pwaf_productClusterIds=195"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_08-01_LQDA/Artboard%201%20copy-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Comfy&pwaf_productClusterIds=238"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_08-01_LQDA/Artboard%201%20copy-comfy.jpg"
+          alt="Comfy"
+          title="Comfy" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

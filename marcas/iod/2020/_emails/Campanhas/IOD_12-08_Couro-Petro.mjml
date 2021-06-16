@@ -1,0 +1,178 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="30px 0px 10px 0px" background-color="#232323">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 30px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Couro&pwaf_productClusterIds=228"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Couro/IOD_12-08_Couro-Preto/Prancheta%202-topo.png" 
+              alt="Leather"
+              title="Leather"/>
+          </mj-column>
+          
+          <mj-column padding="0 5px 40px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #ffffff"
+              href="https://www.iodice.com.br/saia-curta-envelope-premium-preto-230350"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Couro/IOD_12-08_Couro-Preto/SAIA%20CURTA%20ENVELOPE%20PREMIUM%20PRETO.jpg"
+              title="SAIA CURTA ENVELOPE PREMIUM PRETO"
+              alt="SAIA CURTA ENVELOPE PREMIUM PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #f1ede8; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Saia Curta<br> Envolpe Premium
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#f1ede8" />
+            
+            <mj-text
+              color="#f1ede8"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 3.199,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#f1ede8"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 12x R$ 266,65</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #232323; background-color: #f1ede8; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 12px;"
+                href="https://www.iodice.com.br/saia-curta-envelope-premium-preto-230350"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 40px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #ffffff"
+              href="https://www.iodice.com.br/jaqueta-classica-premium-preto-230349"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Couro/IOD_12-08_Couro-Preto/JAQUETA%20CLASSICA%20PREMIUM%20PRETO.jpg"
+              title="JAQUETA CLASSICA PREMIUM PRETO"
+              alt="JAQUETA CLASSICA PREMIUM PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #f1ede8; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Jaqueta Classica<br> Premium
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#f1ede8" />
+
+            <mj-text
+              color="#f1ede8"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 5.459,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#f1ede8"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 12x R$ 454,99</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #232323; background-color: #f1ede8; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 12px;"
+                href="https://www.iodice.com.br/jaqueta-classica-premium-preto-230349"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 40px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #ffffff"
+              href="https://www.iodice.com.br/calca-skinny-cos-alto-premium-preto-230348"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Couro/IOD_12-08_Couro-Preto/CALCA%20SKINNY%20COS%20ALTO%20PREMIUM%20PRETO.jpg"
+              title="CALCA SKINNY COS ALTO PREMIUM PRETO"
+              alt="CALCA SKINNY COS ALTO PREMIUM PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #f1ede8; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Skinny Cos<br> Alto Premium
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#f1ede8" />
+
+            <mj-text
+              color="#f1ede8"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 4.499,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#f1ede8"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 12x R$ 374,99</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #232323; background-color: #f1ede8; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 12px;"
+                href="https://www.iodice.com.br/calca-skinny-cos-alto-premium-preto-230348"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,51 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria Valentina</mj-title>
+    <mj-preview>Maria Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px" background-color="#f8f8f7"  border= "5px solid #b0601f">
+        <mj-column padding="0px 0px">
+          <mj-text font-family="Roboto, sans-serif" color="#5e3304" font-size="30px" align= "justify" font-weight="600" padding="100px 0px 100px 30px" letter-spacing="5px">
+            *|FIRST_NAME|*
+          </mj-text>
+
+          <mj-text font-family="Roboto, sans-serif" color="#5e3304" font-size="18px" align="justify" font-weight="300" padding="0px 30px 60px 30px" line-height="22px" letter-spacing="3px">
+            Este mes celebramos a vida que recomeça. As boas histórias e os bons encontros.
+            <br>
+            <br>
+            Celebramos você!
+            <br>
+            <br>
+            E para comemorar:
+            <br>
+            <br>
+            <strong>10% de desconto em nossa loja virtual.</strong>
+            <br>
+            <br>
+            Use o cupom abaixo e aproveite!
+          </mj-text>
+
+          <mj-image
+            width="220px"
+            padding="0"
+            href="https://www.mariavalentina.com.br"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/aniversario/MV_Aniversariante-parabens.jpg"
+            alt="Parabens"
+            title="Parabens" /> 
+
+          <mj-text font-family="Work Sans, sans-serif" color="#5e3304" font-size="11px" align="center" font-weight="400" padding="60px 30px 50px 30px" line-height="18px" letter-spacing="0.4px">
+            *cupom não cumulativo com outras promoções
+          </mj-text>
+        </mj-column> 
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

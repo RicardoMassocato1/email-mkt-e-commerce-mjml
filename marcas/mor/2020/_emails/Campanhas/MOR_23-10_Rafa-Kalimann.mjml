@@ -1,0 +1,62 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Escolhas%20da%20Rafa&pwaf_productClusterIds=305"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_23_10_Rafa-Kalimann/Prancheta%201%20c%C3%B3pia-topo01.jpg"
+          alt="Descubra as queridinhas da Rafa Kalimann"
+          title="Rafa Kalimann" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="15px 5px 10px 26px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            href="https://www.morenarosa.com.br/blazer-alfaiataria-off-white-233356"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_23_10_Rafa-Kalimann/Prancheta%201%20c%C3%B3pia-01.jpg"
+            title="Blazer Alfaiataria Off White"
+            alt="Blazer Alfaiataria Off White" />
+        </mj-column>
+
+        <mj-column padding="15px 26px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            href="https://www.morenarosa.com.br/blazer-alfaiataria-off-white-233356"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_23_10_Rafa-Kalimann/Prancheta%201%20c%C3%B3pia-02.jpg"
+            title="Blazer Alfaiataria Off White"
+            alt="Blazer Alfaiataria Off White" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#1a388e" font-size="14px" padding="25px 0px 30px 0px" align="center" font-weight="500" line-height="23px" letter-spacing="1.2px">
+          A musa <strong>Rafa Kalimann</strong> escolheu suas<br> 
+          peças queridinhas da estação. <strong>A preferida</strong> ?<br> 
+          Nosso <strong>blazer off white</strong>. Confira!
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/blazer-alfaiataria-off-white-233356" text-decoration="none" text-transform="uppercase" inner-padding="7px 6px" align="center" font-weight="300" font-size="14.5px" padding="0px 0px 40px 0px" background-color="#1a388e" color="#fff" border-radius="0px" border= "1.2px solid #1a388e" target="_blank"><span style="letter-spacing:3px">COMPRE AQUI</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

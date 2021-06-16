@@ -1,0 +1,87 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=263"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_12-05_Lancamento/Fresh%20Print-01-min.jpg"
+          alt="Lançamento"
+          title="Lançamento" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#d4cec0"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#3c3835" font-size="13.5px" padding="25px 20px 25px 20px" align="center" font-weight="400" line-height="20px" letter-spacing="1.5px">
+          Unimos a sofisticação das nossas peças com a qualidade da AcquaAroma, para criarmos campanhas lindas e com um perfume maravilhoso!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/bata-maria-valentina-decote-v-com-amarracao-verde-254521"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_12-05_Lancamento/Fresh%20Print-02-min.jpg"
+          alt="Bata Maria.Valentina Decote V Com Amarração Verde"
+          title="Bata Maria.Valentina Decote V Com Amarração Verde" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/calca-maria-valentina-pantalona-cos-amarracao-com-drapeado-verde-252089"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_12-05_Lancamento/Fresh%20Print-03-min.jpg"
+          alt="Calça Maria.Valentina Pantalona Cós Amarração Com Drapeado Verde"
+          title="Calça Maria.Valentina Pantalona Cós Amarração Com Drapeado Verde" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-v-abertura-costas-verde-251985"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_12-05_Lancamento/Fresh%20Print-04-min.jpg"
+          alt="Vestido Maria.Valentina Midi Decote V Abertura Costas Verde"
+          title="Vestido Maria.Valentina Midi Decote V Abertura Costas Verde" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=263"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_12-05_Lancamento/Fresh%20Print-05-min.jpg"
+          alt="She Looks Like Sun"
+          title="She Looks Like Sun" />
+      </mj-column>
+    </mj-section>
+  
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

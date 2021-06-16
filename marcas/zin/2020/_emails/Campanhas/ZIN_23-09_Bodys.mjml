@@ -1,0 +1,244 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/bodys-12990?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Bodys/ZIN_23-09_Bodys/ZC_EmailMkt_Bodys.jpg"
+          alt="Bodys a 129,90"
+          title="Bodys a 129,90" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="13px" padding="20px 0px 0px 0px" align="center" font-weight="400" line-height="16px" letter-spacing="0.5px">
+          Aproveite para curtir o verão 
+          <br>com lookinho novo!
+        </mj-text>
+        <mj-button href="https://www.zinco.com.br/bodys-12990?O=OrderByReleaseDateDESC" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop Now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/body-decote-redondo-cavado-detalhe-ziper-off-white-217956/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/199608/BODY-DECOTE-REDONDO-CAVADO-DETALHE-ZIPER---LI-OFF-WHITE---P.jpg?v=637111661475800000"
+            title="Body Decote Redondo Cavado Detalhe Ziper Off White"
+            alt="Body Decote Redondo Cavado Detalhe Ziper Off White" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Decote<br> Redondo Cavado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 64,95
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 129,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/body-decote-redondo-cavado-detalhe-ziper-off-white-217956/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/body-decote-v-cavado-abertura-lateral-laranja-217958/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/199620/BODY-DECOTE-V-CAVADO-ABERTURA-LATERAL---LI-LARANJA---P.jpg?v=637111661702000000"
+            title="Body Decote V Cavado Abertura Lateral Laranja"
+            alt="Body Decote V Cavado Abertura Lateral Laranja" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Decote V<br> Cavado 
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 64,95
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 129,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/body-decote-v-cavado-abertura-lateral-laranja-217958/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/body-decote-v-alca-torcao-frente-mostarda-202105/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/194647/BODY-DECOTE-V-ALCA-TORCAO-FRENTE---LI-MOSTARDA---PP.jpg?v=637061651263630000"
+            title="Body Decote V Alca Torcao Frente Mostarda"
+            alt="Body Decote V Alca Torcao Frente Mostarda" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="17px 0 10px 0">
+            Body Decote V<br> Alca
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 229,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 64,95
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 129,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/body-decote-v-alca-torcao-frente-mostarda-202105/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/body-decote-redondo-cavado-bicolor-rosa-208457/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/190599/BODY-DECOTE-REDONDO-CAVADO-BICOLOR---LT-PINK---P.jpg?v=637003789114570000"
+            title="Body Decote Redondo Cavado Bicolor Rosa"
+            alt="Body Decote Redondo Cavado Bicolor Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Decote<br> Redondo Cavado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 229,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 64,95
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 129,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/body-decote-redondo-cavado-bicolor-rosa-208457/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/body-cavado-veludo-caramelo-198307/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/189088/BODY-CAVADO-VELUDO---LISTRADO-CAMEL---P.jpg?v=636985350242970000"
+            title="Body Cavado Veludo Caramelo"
+            alt="Body Cavado Veludo Caramelo" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Cavado<br> Veludo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 269,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 64,95
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 129,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/body-cavado-veludo-caramelo-198307/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/body-decote-redondo-detalhe-ziper-laranja-104646/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/171182/BODY-DECOTE-REDONDO-DETALHE-ZIPER---ESTAMPADO-CORAL---P.jpg?v=636697546538000000"
+            title="Body Decote Redondo Detalhe Ziper Laranja"
+            alt="Body Decote Redondo Detalhe Ziper Laranja" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Decote<br> Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 269,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 64,95
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 129,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/body-decote-redondo-detalhe-ziper-laranja-104646/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Bodys/ZIN_23-09_Bodys/Banner-final.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

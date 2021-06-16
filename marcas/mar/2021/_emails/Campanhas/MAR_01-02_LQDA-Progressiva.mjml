@@ -1,0 +1,199 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=252"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Fevereiro/MAR_01-02_LQDA-Progressiva/MV_EmailMkt_03-topo.jpg"
+          alt="LQDA Progressiva"
+          title="LQDA Progressiva" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="Roboto, sans-serif" color="#000000" text-transform="uppercase" font-size="16px" padding="30px 0px 5px 0px" align="center" font-weight="800" line-height="24px" letter-spacing="2px">
+          Jeans + Listras
+        </mj-text>
+        <mj-text font-family="Roboto, sans-serif" color="#000000" font-size="14px" padding="0px 0px 20px 0px" align="center" font-weight="400" line-height="21px" letter-spacing="1.5px">
+          A tendência das listras nas peças de<br>
+          sarja mais queridas da LQDA!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/blusa-maria-valentina-decote-v-manga-curta-com-botao-off-white-marinho-231807"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/231728/BLUSA-DECOTE-V-MANGA-CURTA-COM-BOTAO---LT-OFF-WHITE-AZUL-MARINHO---PP.jpg?v=637327850823330000"
+            title="Blusa Maria.Valentina Decote V Manga Curta Com Botão Off-White/Marinho"
+            alt="Blusa Maria.Valentina Decote V Manga Curta Com Botão Off-White/Marinho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Maria.Valentina<br> Decote V Manga Curta<br> Com Botão Off-...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 149,95<br><span style="font-weight:300; font-size:10.3px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/blusa-maria-valentina-decote-v-manga-curta-com-botao-off-white-marinho-231807" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-skinny-m--julia-cos-intermediario-com-puidos-jeans-196166"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/184229/12000202929000008-0-.jpg?v=636879277781400000"
+            title="Calça Maria.Valentina Skinny M. Julia Cós Intermediário Com Puídos Jeans"
+            alt="Calça Maria.Valentina Skinny M. Julia Cós Intermediário Com Puídos Jeans" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Maria.Valentina<br> Skinny M. Julia Cós<br> Intermediário C...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 199,95<br><span style="font-weight:300; font-size:10.3px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-skinny-m--julia-cos-intermediario-com-puidos-jeans-196166" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/shorts-maria-valentina-boxer-avios-rose-jeans-208573"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/241293/SHORTS-BOXER-AVIOS-ROSE---LI-DENIM---M.jpg?v=637448602579700000"
+            title="Shorts Maria.Valentina Boxer Avios Rosê Jeans"
+            alt="Shorts Maria.Valentina Boxer Avios Rosê Jeans" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Maria.Valentina<br> Boxer Avios Rosê<br> Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 159,95<br><span style="font-weight:300; font-size:10.3px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/shorts-maria-valentina-boxer-avios-rose-jeans-208573" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/bermuda-maria-valentina-fluida-com-faixa-off-white-marinho-234490"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232314/BERMUDA-FLUIDA-COM-FAIXA---LT-OFF-WHITE-AZUL-MARINHO---34.jpg?v=637327866814400000"
+            title="Bermuda Maria.Valentina Fluida Com Faixa Off-White/Marinho"
+            alt="Bermuda Maria.Valentina Fluida Com Faixa Off-White/Marinho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="26px 0 10px 0">
+            Bermuda Maria.Valentina<br> Fluida Com Faixa Off-<br>White/Marinho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 194,95<br><span style="font-weight:300; font-size:10.3px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/bermuda-maria-valentina-fluida-com-faixa-off-white-marinho-234490" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="Roboto, sans-serif" color="#000000" text-transform="uppercase" font-size="14px" padding="40px 0px 40px 0px" align="center" font-weight="500" line-height="0px" letter-spacing="3.5px">
+          Compre Também:
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/blusas/?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=252"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Fevereiro/MAR_01-02_LQDA-Progressiva/MV_EmailMkt_03-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/calcas/?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=252"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Fevereiro/MAR_01-02_LQDA-Progressiva/MV_EmailMkt_03-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestidos/?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=252"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Fevereiro/MAR_01-02_LQDA-Progressiva/MV_EmailMkt_03-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

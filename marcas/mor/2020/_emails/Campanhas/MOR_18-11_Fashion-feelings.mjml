@@ -1,0 +1,159 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 20px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/saias?pwaf_OrderByReleaseDateDESC=%20&pwaf_productClusterIds=226&_t=Fashion%20Feelings"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_18-11_Fashion-feelings/Finais_MKT%203.jpg"
+          alt="Fashion Feelings"
+          title="Fashion Feelings" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-abaixo-do-joelho-evase-com-fenda-preto-222162"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/330495/SAIA-ABAIXO-DO-JOELHO-EVASE-COM-FENDA---LI-PRETO---36.jpg?v=637172395006370000"
+            title="Saia Morena Rosa Abaixo Do Joelho Evasê Com Fenda Preto"
+            alt="Saia Morena Rosa Abaixo Do Joelho Evasê Com Fenda Preto" />
+
+          <mj-text align="center" color="#d44139" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Abaixo<br> Do Joelho Evasê Com Fenda
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#d44139" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-abaixo-do-joelho-evase-com-fenda-preto-222162" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e3e732" color="#d44139" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-abaixo-do-joelho-lapis-com-rebite-preto-230200"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/342166/SAIA-ABAIXO-DO-JOELHO-LAPIS-COM-REBITE---LI-PRETO---36.jpg?v=637237855415730000"
+            title="Saia Morena Rosa Abaixo Do Joelho Lápis Com Rebite Preto"
+            alt="Saia Morena Rosa Abaixo Do Joelho Lápis Com Rebite Preto" />
+
+          <mj-text align="center" color="#d44139" font-weight="300" font-size="14px" padding="26px 0 10px 0">
+            Saia Morena Rosa Abaixo<br> Do Joelho Lápis Com Rebite
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#d44139" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 51,32
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 307,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-abaixo-do-joelho-lapis-com-rebite-preto-230200" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e3e732" color="#d44139" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-curta-evase-detalhe-ilhos-preto-227691"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/341275/SAIA-CURTA-EVASE-DETALHE-ILHOS---LI-PRETO---36.jpg?v=637237835618930000"
+            title="Saia Morena Rosa Curta Evasê Detalhe Ilhós Preto"
+            alt="Saia Morena Rosa Curta Evasê Detalhe Ilhós Preto" />
+
+          <mj-text align="center" color="#d44139" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Curta<br> Evasê Detalhe Ilhós
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#d44139" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 619,90</text>
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 72,32
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 433,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-curta-evase-detalhe-ilhos-preto-227691" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e3e732" color="#d44139" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-midi-gode-basica-nude-preto-227583"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/341152/SAIA-MIDI-GODE-BASICA---ES-NUDE-PRETO---36.jpg?v=637237832572770000"
+            title="Saia Morena Rosa Midi Godê Básica Nude/Preto"
+            alt="Saia Morena Rosa Midi Godê Básica Nude/Preto" />
+
+          <mj-text align="center" color="#d44139" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa<br> Midi Godê Básica
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#d44139" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 53,65
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 321,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-midi-gode-basica-nude-preto-227583" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e3e732" color="#d44139" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

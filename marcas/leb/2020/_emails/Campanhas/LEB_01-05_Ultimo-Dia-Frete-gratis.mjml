@@ -1,0 +1,208 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 10px">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br"
+            width="600px"
+            padding="0"
+            alt="Semana do Frete Grátis"
+            title="Semana do Frete Grátis"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_01-05_Ultimo-Dia-Frete-gratis/Email-MKT-05-topo.jpg" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 5px">
+        <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macacao-reto-compose-de-tecidos-bege-224016/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_01-05_Ultimo-Dia-Frete-gratis/Macacao%20Reto%20Compose%20De%20Tecidos%20Bege.jpg"
+            title="Macacao Reto Compose De Tecidos Bege"
+            alt="Macacao Reto Compose De Tecidos Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Reto Compose
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 51,10</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/macacao-reto-compose-de-tecidos-bege-224016/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-decote-v-torcao-frente-vermelho-225431/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_01-05_Ultimo-Dia-Frete-gratis/Vestido%20Midi%20Decote%20V%20Torcao%20Frente%20Vermelho.jpg"
+            title="Vestido Midi Decote V Torcao Frente Vermelho"
+            alt="Vestido Midi Decote V Torcao Frente Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 53,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/vestido-midi-decote-v-torcao-frente-vermelho-225431/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-wide-cos-intermediario-bolso-faca-vinho-224267/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_01-05_Ultimo-Dia-Frete-gratis/Calca%20Wide%20Cos%20Intermediario%20Bolso%20Faca%20Vinho.jpg"
+            title="Calca Wide Cos Intermediario Bolso Faca Vinho"
+            alt="Calca Wide Cos Intermediario Bolso Faca Vinho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Wide Cos Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 55,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/calca-wide-cos-intermediario-bolso-faca-vinho-224267/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="10px 10px 30px 10px">
+      <mj-group>
+        <mj-column width="58%">
+           <mj-image
+            href="https://www.leboh.com.br/blusas?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_01-05_Ultimo-Dia-Frete-gratis/Email-MKT-05-blusas.jpg" />
+           <mj-image
+            href="https://www.leboh.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_01-05_Ultimo-Dia-Frete-gratis/Email-MKT-05-vestidos.jpg" />
+        </mj-column>
+        <mj-column width="42%">
+          <mj-image
+            href="https://www.leboh.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Calças"
+            title="Calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_01-05_Ultimo-Dia-Frete-gratis/Email-MKT-05-calcas.jpg" />
+        </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

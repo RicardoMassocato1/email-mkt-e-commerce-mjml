@@ -1,0 +1,167 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestidos/?pwaf_releaseDate=-&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=259"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_12-03_Semana-da-Consumidora/MV_EmailMkt_02.jpg"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#000000" font-size="15px" padding="30px 20px 30px 20px" align="center" font-weight="500" line-height="20px" letter-spacing="1.1px">
+          Longos, Curtos ou Midi? Qual o seu favorito? TODOS!! Leve para o seu clooset, e garanta R$ 900 Off + Brindes exclusivos! Não perca!
+        </mj-text>
+          <mj-button href="https://www.mariavalentina.com.br/vestidos/?pwaf_releaseDate=-&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=259" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="13px" padding="0px 0px 40px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-maria-valentina-assimetrico-decote-princesa-abertura-costas-bege-228131"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/228553/VESTIDO-ASSIMETRICO-DECOTE-PRINCESA-ABERTURA-COSTAS---ES-AREIA---P.jpg?v=637238002248530000"
+            title="Vestido Maria.Valentina Assimétrico Decote Princesa Abertura Costas Bege"
+            alt="Vestido Maria.Valentina Assimétrico Decote Princesa Abertura Costas Bege" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Maria.Valentina<br> Assimétrico Decote<br> Princesa Abertura Cos...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            10x de R$ 57,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 579,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/vestido-maria-valentina-assimetrico-decote-princesa-abertura-costas-bege-228131" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-redondo-metalizado-rosa-233935"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230783/VESTIDO-MIDI-DECOTE-REDONDO-METALIZADO---LI-ROSE---PP.jpg?v=637327834701100000"
+            title="Vestido Maria.Valentina Midi Decote Redondo Metalizado Rosa"
+            alt="Vestido Maria.Valentina Midi Decote Redondo Metalizado Rosa" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Maria.Valentina<br> Midi Decote Redondo<br> Metalizado Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            10x de R$ 82,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 829,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-redondo-metalizado-rosa-233935" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-maria-valentina-longo-gola-alta-com-faixa-pink-225787"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/227350/VESTIDO-LONGO-GOLA-ALTA-COM-FAIXA---LI-FUCSIA---PP.jpg?v=637237939472500000"
+            title="Vestido Maria.Valentina Longo Gola Alta Com Faixa Pink"
+            alt="Vestido Maria.Valentina Longo Gola Alta Com Faixa Pink" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Maria.Valentina<br> Longo Gola Alta Com<br> Faixa Pink
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            10x de R$ 79,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 799,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/vestido-maria-valentina-longo-gola-alta-com-faixa-pink-225787" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-v-fio-metalizado-laranja-235931"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232698/MARIA-VALENTINA_DIA_2_1920.jpg?v=637366326211200000"
+            title="Vestido Maria.Valentina Midi Decote V Fio Metalizado Laranja"
+            alt="Vestido Maria.Valentina Midi Decote V Fio Metalizado Laranja" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Maria.Valentina<br> Midi Decote V Fio<br> Metalizado Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            10x de R$ 95,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 959,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-v-fio-metalizado-laranja-235931" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Ticiane%20Pinheiro&pwaf_productClusterIds=257"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_02-03_Lan%C3%A7amento/MV_EmailMkt_01-topo.jpg"
+          alt="Maria.Valentina & Ticiane Pinheiro"
+          title="Maria.Valentina & Ticiane Pinheiro" />
+      </mj-column>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

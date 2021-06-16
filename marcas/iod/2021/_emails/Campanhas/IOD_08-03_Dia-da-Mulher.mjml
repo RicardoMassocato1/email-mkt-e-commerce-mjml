@@ -1,0 +1,100 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 70px 0px"
+          width="600px"
+          href="https://www.iodice.com.br"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_08-03_Dia-da-Mulher/Artboard%201.png"
+          alt="Dia da Mulher"
+          title="Dia da Mulher" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#fff" padding-bottom="0px" padding-top="0px">
+      <mj-column width="30%">
+        <mj-image src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_08-03_Dia-da-Mulher/carol%20pecegueiro.jpg" 
+          alt="Carol Pecegueiro" 
+          width="150px" 
+          padding-left="0px" 
+          padding-right="0px" 
+          padding-bottom="0px" 
+          padding-top="45px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-family="Poppins, sans-serif" align="center" color="#000" font-size="12.6px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="5px">
+          <p style="font-size: 19px;font-weight:500;">Carol Pecegueiro</p>
+          <p style="font-size: 14px;">Coordenadora de Estilo IÓDICE</p>
+          <p style="font-weight:300; letter-spacing:0.4px; line-height:16px"><strong>Qual a melhor parte de criar roupas para mulheres de todo o Brasil?</strong><br>
+            A melhor parte em criar roupas para mulheres de todo Brasil é saber que conseguimos levar nossos produtos, feitos com tanto amor e carinho, para pessoas tão diferentes e únicas. Imaginar nossas criações andando por aí, transmitindo alegria e autoconfiança, faz meu coração explodir de felicidade!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px" background-color="#ffffff"></mj-section>
+
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0px">
+      <mj-column width="70%">
+        <mj-text font-family="Poppins, sans-serif" align="center" color="#fff" font-size="12px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="5px">
+          <p style="font-size: 19px;font-weight:500;">Natalia Bueno</p>
+          <p style="font-size: 14px;">Assistente de Estilo IÓDICE</p>
+          <p style="font-weight:300; letter-spacing:0.4px; line-height:16px"><strong>O que a levou a escolher a sua profissão?</strong><br>
+            Eu escolhi trabalhar com criação porque sempre tive vontade de mostrar minhas ideias e emoções para o mundo, então para mim a moda é como uma forma de se expressar. Ainda pequena pude conhecer mais sobre a área, o que despertou uma curiosidade em saber como tudo acontecia e me levou a escolher minha profissão anos mais tarde.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image 
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_08-03_Dia-da-Mulher/natalia%20bueno.jpg" 
+          alt="Natalia Bueno" 
+          width="150px" 
+          padding-left="0px" 
+          padding-right="0px" 
+          padding-bottom="0px" 
+          padding-top="35px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px" background-color="#ffffff"></mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="0px" padding-top="0px">
+      <mj-column width="30%">
+        <mj-image src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_08-03_Dia-da-Mulher/julia%20ramires.jpg" 
+          alt="Júlia Ramires" 
+          width="150px" 
+          padding-left="0px" 
+          padding-right="0px" 
+          padding-bottom="0px" 
+          padding-top="35px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-family="Poppins, sans-serif" align="center" color="#000" font-size="12.6px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="20px">
+          <p style="font-size: 19px;font-weight:500;">Júlia Ramires</p>
+          <p style="font-size: 14px;">Gestão de Marca IÓDICE</p>
+          <p style="font-weight:300; letter-spacing:0.4px; line-height:16px"><strong>Como é seu dia a dia na empresa?</strong><br>
+            Todo dia é um novo desafio, aqui não temos muita rotina. Estamos sempre divididas entre provas de coleções, pensando nas criações, planejando o desenvolvimento... Diariamente aprendemos algo novo e acho isso muito estimulador!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#ffffff"></mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

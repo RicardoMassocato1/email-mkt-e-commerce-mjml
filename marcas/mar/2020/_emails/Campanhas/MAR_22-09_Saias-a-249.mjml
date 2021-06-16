@@ -1,0 +1,161 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/saias-24990?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Saias Midi a 249,00"
+            title="Saias Midi a 249,00"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_22-09_Saias-a-249/MV_EmailMkt_Saias.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="0">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="12.5px" padding="30px 0px 10px 0px" align="center" font-weight="500" line-height="17px" letter-spacing="1.2px" text-transform="uppercase">
+            Casuais e perfeitas para o trabalho,<br> aproveite para renovar o closet! 
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-midi-evase-com-cinto-mostarda-218933/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232512/12000203198000045-0-.jpg?v=637345870232930000"
+            title="Saia Midi Evase Com Cinto Mostarda"
+            alt="Saia Midi Evase Com Cinto Mostarda" />
+        </mj-column>
+
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 160px 0px 10px 0px; margin: 0px;">
+              Saia Midi Evase Com<br> Cinto Mostarda
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 529,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/saia-midi-evase-com-cinto-mostarda-218933/p" font-family="Roboto, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="700" font-size="12px" padding="10px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 160px 0px 10px 0px; margin: 0px;">
+              Saia Midi Lapis Fio<br> Metalizado Vermelho
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="right" padding="7px 0">
+            4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/saia-midi-lapis-fio-metalizado-vermelho-189287/p" font-family="Roboto, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="700" font-size="12px" padding="10px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-midi-lapis-fio-metalizado-vermelho-189287/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/204905/SAIA-MIDI-LAPIS-FIO-METALIZADO---LI-VERMELHO---PP.jpg?v=637098784477700000"
+            title="Saia Midi Lapis Fio Metalizado Vermelho"
+            alt="Saia Midi Lapis Fio Metalizado Vermelho" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-midi-assimetrica-com-babado-off-white-217853/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/213274/SAIA-MIDI-ASSIMETRICA-COM-BABADO---LI-OFF-WHITE---PP.jpg?v=637098995314370000"
+            title="Saia Midi Assimetrica Com Babado Off White"
+            alt="Saia Midi Assimetrica Com Babado Off White" />
+        </mj-column>
+
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 160px 0px 10px 0px; margin: 0px;">
+              Saia Midi Assimetrica<br> Com Babado Off White
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/saia-midi-assimetrica-com-babado-off-white-217853/p" font-family="Roboto, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="700" font-size="12px" padding="10px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/monica-salgado"
+            width="600px"
+            padding="0"
+            alt="Maria.Valentina + Mônica Salgado"
+            title="Maria.Valentina + Mônica Salgado"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_22-09_Saias-a-249/MV_EmailMkt_02-topo.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

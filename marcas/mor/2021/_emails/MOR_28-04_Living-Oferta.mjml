@@ -1,0 +1,99 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#493c67">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Oferta%20Especial&pwaf_productClusterIds=368"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Living-Oferta/Living-topo-min.jpg"
+          alt="Living 50% OFF"
+          title="Living 50% OFF" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#493c67">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="12.5px" padding="20px 20px 20px 20px" text-transform="none" align="center" font-weight="400" line-height="18px" letter-spacing="2.5px">
+          Se cuidar nunca esteve tão em alta! Aproveite que está passando mais tempo em casa e se cuide, mas sem deixar o estilo de lado. Aproveite essa oportunidade exclusiva de 50% Off com o Cupom abaixo, mas não perde, pois é por tempo limitado!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px" background-color="#000">
+    </mj-section>
+
+   <mj-section padding="20px 0px 0px 0px" background-color="#3e3258">
+      <mj-group>
+        <mj-column padding="0px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-esportiva-cos-alto-detalhe-contraste-verde-laranja-223982"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Living-Oferta/Living-01-min.jpg"
+            title="Calça Morena Rosa Esportiva Cós Alto Detalhe Contraste Verde/Laranja"
+            alt="Calça Morena Rosa Esportiva Cós Alto Detalhe Contraste Verde/Laranja" />
+        </mj-column>
+
+        <mj-column padding="50px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/top-morena-rosa-cropped-alca-detalhe-elastico-preto-233828"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Living-Oferta/Living-02-min.jpg"
+            title="Top Morena Rosa Cropped Alça Detalhe Elástico Preto"
+            alt="Top Morena Rosa Cropped Alça Detalhe Elástico Preto" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="40px 0px 30px 0px" background-color="#3e3258">
+      <mj-group>
+        <mj-column padding="0px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-morena-rosa-decote-redondo-alca-com-silk-preto-branco-232958"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Living-Oferta/Living-03-min.jpg"
+            title="Body Morena Rosa Decote Redondo Alça Com Silk Preto/Branco"
+            alt="Body Morena Rosa Decote Redondo Alça Com Silk Preto/Branco" />
+        </mj-column>
+
+        <mj-column padding="50px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/top-morena-rosa-cropped-nadador-detalhe-laser-verde-234153"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Living-Oferta/Living-04-min.jpg"
+            title="Top Morena Rosa Cropped Nadador Detalhe Laser Verde"
+            alt="Top Morena Rosa Cropped Nadador Detalhe Laser Verde" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-column>
+        <mj-image
+          padding="40px 50px 50px 50px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Oferta%20Especial&pwaf_productClusterIds=368"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Living-Oferta/Living-r.jpg"
+          alt="Use cupom: FITNESS"
+          title="Use cupom: FITNESS" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

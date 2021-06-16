@@ -1,0 +1,111 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 15px 0px" background-color="#efe7da">
+      <mj-group> 
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br"
+            width="600px"
+            padding="0"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_27-07_Dia-do-Amigo/EMAILmkt-topo.png"
+            alt="Leboh"
+            title="Leboh" />
+        </mj-column>
+
+        <mj-column width="80%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="13px"
+            padding="20px 0px 3px 130px"
+            align="left"
+            line-height="15px"
+            font-weight="500">
+            dia do amigo<br><strong>-</strong>
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="37px"
+            padding="30px 0px 25px 60px"
+            align="center"
+            line-height="32px"
+            font-weight="300">
+            olhar para<br> o&nbsp; &nbsp; &nbsp; outro
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="13px"
+            padding="20px 10px 30px 40px"
+            align="left"
+            line-height="15px"
+            font-weight="400">
+            hey, friend,<br><br> 
+            obrigada por comprar na<br>
+            <strong>Lebôh e ajudar a Hamburgada<br> do Bem.</strong><br><br>
+            este mês, a cada compra<br>
+            realizada no site, doamos uma<br>
+            outra peça para o projeto.<br><br>
+            hoje, a sua expressão de moda<br>
+            foi olhar para o outro e a gente<br>
+            te agradece muito por isso!<br><br>
+            com amor,<br>
+            <strong>@leboh_oﬁcial</strong>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image
+            align="right"
+            width="600px"
+            padding="0"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/EMAILmkt-icone2.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-column padding="0px 0px" width="100%">
+      <mj-image
+        href="https://www.leboh.com.br"
+        width="600px"
+        padding="0"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_27-07_Dia-do-Amigo/EMAILmkt-img.png"
+        alt="Hamburgada do Bem"
+        title="Hamburgada do Bem" />
+    </mj-column>
+    <mj-section padding="15px 0px" background-color="#5d60ca">
+      <mj-group> 
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#efe7da"
+            font-size="13px"
+            padding="30px 0px 30px 40px"
+            align="left"
+            line-height="16px"
+            font-weight="400">
+            <strong>sobre o projeto</strong>
+            <br><br>
+            o Hamburgada do Bem é uma ação<br> 
+            solidária que leva recreação,<br> 
+            assistência, informação e afeto à<br> 
+            crianças em comunidades carentes<br> 
+            pelo país.<br><br>
+            saiba mais acessando o IG<br>
+            @hamburgadadobem
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-column padding="20px 0px"></mj-column>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

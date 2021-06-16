@@ -1,0 +1,185 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/dia-dos-namorados"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_05-06_Dia-dos-Namorados/EmailMkt_03.png"
+            title="Encontro Marcado"
+            alt="Encontro Marcado" />
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="30px 0px"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_05-06_Dia-dos-Namorados/EmailMkt_01.png"
+            title="Dia dos Namorados"
+            alt="Dia dos Namorados" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/blusa-decote-v-manga-longa-bicolor-nude-226896/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_05-06_Dia-dos-Namorados/Blusa%20Decote%20V%20Manga%20Longa%20Bicolor%20Nude.jpg" 
+            title="Blusa Decote V Manga Longa Bicolor Nude" 
+            alt="Blusa Decote V Manga Longa Bicolor Nude" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V Manga Longa Bicolor
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 55,54</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-v-manga-longa-bicolor-nude-226896/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px"
+            href="https://www.mariavalentina.com.br/blusa-decote-v-manga-longa-detalhe-renda-preto-228118/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_05-06_Dia-dos-Namorados/Blusa%20Decote%20V%20Manga%20Longa%20Detalhe%20Renda%20Preto.jpg" 
+            title="Blusa Decote V Manga Longa Detalhe Renda Preto" 
+            alt="Blusa Decote V Manga Longa Detalhe Renda Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V Manga Longa Renda
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 56,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-v-manga-longa-detalhe-renda-preto-228118/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/calca-cropped-cos-amarracao-bolso-faca-mostarda-226249/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_05-06_Dia-dos-Namorados/Calca%20Cropped%20Cos%20Amarracao%20Bolso%20Faca%20Mostarda.jpg" 
+            title="Calca Cropped Cos Amarracao Bolso Faca Mostarda" 
+            alt="Calca Cropped Cos Amarracao Bolso Faca Mostarda" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Cropped Cos Bolso
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 529,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 52,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/calca-cropped-cos-amarracao-bolso-faca-mostarda-226249/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/macacao-reto-com-faixa-preto-226230/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_05-06_Dia-dos-Namorados/Macacao%20Reto%20Com%20Faixa%20Preto.jpg" 
+            title="Macacao Reto Com Faixa Preto" 
+            alt="Macacao Reto Com Faixa Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Reto C/ Faixa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 579,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 57,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/macacao-reto-com-faixa-preto-226230/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

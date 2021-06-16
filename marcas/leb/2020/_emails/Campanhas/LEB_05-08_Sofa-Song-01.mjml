@@ -1,0 +1,319 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="20px 0px 20px 0px" background-color="#80b2d7">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            font-style= "italic"
+            color="#f0ded2"
+            font-size="29px"
+            padding="15px 0px 25px 30px"
+            align="left"
+            line-height="32px"
+            font-weight="300">
+            <strong>lbh</strong> sofá song
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#f0ded2"
+            font-size="25px"
+            padding="0px 10px 0px 35px"
+            align="left"
+            line-height="15px"
+            font-weight="700">
+            -
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#f0ded2"
+            font-size="13.5px"
+            padding="8px 10px 20px 30px"
+            align="left"
+            line-height="17px"
+            letter-spacing="0.5px"
+            font-weight="300">
+            confira a nova coleção<br> capsula, e embarque no<br> mood preguicinha no sofá
+          </mj-text>
+          <mj-text align="left" padding="0px 0px 0px 30px">
+            <a
+              style="font-family:Ubuntu, sans-serif; font-weight: 400; text-decoration: none; background-color:#f0ded2; font-size: 13px; color: #80b2d7; display: inline-block; margin: 0px; padding: 6px 15px;"
+              href="https://www.leboh.com.br/sofa-song"
+              target="_blank"
+              title="comprar"
+              alt="comprar">
+              comprar
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image
+            align="center"
+            width="600px"
+            padding="0px 15px"
+            title="Coleção"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Sofa-Song/LEB_05-08_Sofa-Song-01/banner-EmailMKT-foto.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="30px 0px 20px 0px">
+      <mj-group>
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/conjunto-blusa-e-shorts-confort-azul-244712/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Sofa-Song/LEB_05-08_Sofa-Song-01/Conjunto%20Blusa%20E%20Shorts%20Confort%20Azul.jpg"
+            title="Conjunto Blusa E Shorts Confort Azul"
+            alt="Conjunto Blusa E Shorts Confort Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Conjunto Blusa<br> E Shorts<br> Confort Azul
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 139,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">2x de R$69,95</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #80b2d7; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #80b2d7;"
+              href="https://www.leboh.com.br/conjunto-blusa-e-shorts-confort-azul-244712/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/conjunto-cropped-e-shorts-confort-bege-244711/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Sofa-Song/LEB_05-08_Sofa-Song-01/Conjunto%20Cropped%20E%20Shorts%20Confort%20Bege.jpg"
+            title="Conjunto Cropped E Shorts Confort Bege"
+            alt="Conjunto Cropped E Shorts Confort Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Conjunto<br> Cropped E Shorts<br> Confort Bege
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 139,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">2x de R$69,95</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #80b2d7; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #80b2d7;"
+              href="https://www.leboh.com.br/conjunto-cropped-e-shorts-confort-bege-244711/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/conjunto-blusa-e-calca-confort-rosa-244710/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Sofa-Song/LEB_05-08_Sofa-Song-01/Conjunto%20Blusa%20E%20Calca%20Confort%20Rosa.jpg"
+            title="Conjunto Blusa E Calca Confort Rosa"
+            alt="Conjunto Blusa E Calca Confort Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Conjunto Blusa<br> E Calca<br> Confort Rosa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$55,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #80b2d7; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #80b2d7;"
+              href="https://www.leboh.com.br/conjunto-blusa-e-calca-confort-rosa-244710/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="15px 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/conjunto-cropped-e-calca-confort-cinza-244709/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Sofa-Song/LEB_05-08_Sofa-Song-01/Conjunto%20Cropped%20E%20Calca%20Confort%20Cinza.jpg"
+            title="Conjunto Cropped E Calca Confort Cinza"
+            alt="Conjunto Cropped E Calca Confort Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Conjunto Cropped E Calca<br> Confort Cinza
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 159,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$53,30</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #80b2d7; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #80b2d7;"
+              href="https://www.leboh.com.br/conjunto-cropped-e-calca-confort-cinza-244709/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="15px 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/conjunto-blusa-e-calca-confort-preto-amarelo-244713/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Sofa-Song/LEB_05-08_Sofa-Song-01/Conjunto%20Blusa%20E%20Calca%20Confort%20Preto-Amarelo.jpg"
+            title="Conjunto Blusa E Calca Confort Preto/Amarelo"
+            alt="Conjunto Blusa E Calca Confort Preto/Amarelo" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Conjunto Blusa E Calca<br> Confort Preto/Amarelo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 219,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$54,97</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #80b2d7; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #80b2d7;"
+              href="https://www.leboh.com.br/conjunto-blusa-e-calca-confort-preto-amarelo-244713/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

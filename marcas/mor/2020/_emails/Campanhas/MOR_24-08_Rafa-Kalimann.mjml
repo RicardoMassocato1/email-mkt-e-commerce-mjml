@@ -1,0 +1,204 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-column padding="0" width="100%">
+      <mj-image
+        padding="10px 25px 0px 0px"
+        width="600px"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_24-08_Rafa-Kalimann/E-mail%20mkt%202004-08-topo.jpg"
+        alt="Escolhas da Rafa Kalimann"
+        title="Escolhas da Rafa Kalimann" />
+    </mj-column>
+
+    <mj-column padding="20px 0px 0px 0px" width="100%">
+      <mj-text font-family="Roboto, serif" color="#694330" font-size="13px" padding="0px 0px" align="center" font-weight="400" line-height="22px" letter-spacing="1.4px">
+        Descubra as peças favoritas da Rafa Kalimann<br> para a estação mais quante do ano:
+      </mj-text>
+    </mj-column>
+    
+    <mj-section>
+      <mj-group>    
+        <mj-column padding="20px 5px 0px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-midi-evase-tricot-nude-235559"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355224/SAIA-MIDI-EVASE-TRICOT---CO-NUDE-PINK---38.jpg?v=637326728525030000"
+            title="Saia Midi Evase Tricot Nude"
+            alt="Saia Midi Evase Tricot Nude" />
+        </mj-column>
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #634432; font-weight: 400; font-size: 15px; padding: 160px 0px 10px 0px; margin: 0px;">
+              Saia Midi Evase<br> Tricot Nude
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">8x de R$ 106,23</span>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="300"
+            font-size="14px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 849,90</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11.8px; font-weight: 300; letter-spacing: 1.8px; background-color: #634432; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/saia-midi-evase-tricot-nude-235559"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #634432; font-weight: 400; font-size: 15px; padding: 160px 0px 10px 0px; margin: 0px;">
+              Camisa Manga Curta<br> Com Bolso Laranja
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">6x de R$ 91,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="300"
+            font-size="14px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 549,90</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11.8px; font-weight: 300; letter-spacing: 1.8px; background-color: #634432; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/camisa-manga-curta-com-bolso-laranja-234312"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 5px 0px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/camisa-manga-curta-com-bolso-laranja-234312"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355126/CAMISA-MANGA-CURTA-COM-BOLSO---ES-LARANJA-AREIA---P.jpg?v=637326725817100000"
+            title="Camisa Manga Curta Com Bolso Laranja"
+            alt="Camisa Manga Curta Com Bolso Laranja" />
+        </mj-column>
+
+
+        <mj-column padding="20px 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-longa-evase-com-babado-preto-236264"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352560/SAIA-LONGA-EVASE-COM-BABADO---ES-PRETO-OFF-WHITE---38.jpg?v=637326629768530000"
+            title="Saia Longa Evase Com Babado Preto"
+            alt="Saia Longa Evase Com Babado Preto" />
+        </mj-column>
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #634432; font-weight: 400; font-size: 15px; padding: 160px 0px 10px 0px; margin: 0px;">
+              Saia Longa Evase<br> Com Babado Preto
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">8x de R$ 106,23</span>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="300"
+            font-size="14px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 849,90</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11.8px; font-weight: 300; letter-spacing: 1.8px; background-color: #634432; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/saia-longa-evase-com-babado-preto-236264"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="40px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Blusas"
+            alt="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_21-08_Casa-de-Campo/E-mail%20mkt%202004-01-blusas.jpg" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/jeans?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Jeans"
+            alt="Jeans"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_21-08_Casa-de-Campo/E-mail%20mkt%202004-01-jeans.jpg" />
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/calcados?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Shoes"
+            alt="Shoes"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_21-08_Casa-de-Campo/E-mail%20mkt%202004-01-shoes.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

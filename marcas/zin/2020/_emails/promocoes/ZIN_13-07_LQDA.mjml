@@ -1,0 +1,307 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_13-07_LQDA/Cabe%C3%A7alho.png"
+            title="LQDA"
+            alt="LQDA" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text 
+            font-family= "Poppins, sans-serif" 
+            font-weight="500" 
+            padding="30px 0px 0px 0px" 
+            color="#000000" 
+            font-size="16px" 
+            align="center" 
+            line-height= "18px" 
+            letter-spacing= "0.2px">
+              Hoje é dia do rock, bebê! Solta o som e<br> curta o seu <strong>#RolêZincoEmCasa</strong> com estilo!
+          </mj-text>
+          <mj-text align="center" padding="10px 0px 40px 0px">
+            <a
+              style="background-color:#000000; text-decoration: none; font-weight: 600; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/lqda"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/regata-decote-redondo-bordada-preto-223289/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_13-07_LQDA/Regata%20Decote%20Redondo%20Bordada%20Preto.jpg"
+            title="Regata Decote Redondo Bordada Preto"
+            alt="Regata Decote Redondo Bordada Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Regata Decote Redondo Bordada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 219,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 131,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">2x de R$ 65,97</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/regata-decote-redondo-bordada-preto-223289/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/vestido-curto-decote-redondo-trico-verde-branco-222344/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_13-07_LQDA/Vestido%20Curto%20Decote%20Redondo%20Trico%20Verde-Branco.jpg"
+            title="Vestido Curto Decote Redondo Trico Verde/Branco"
+            alt="Vestido Curto Decote Redondo Trico Verde/Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 209,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">4x de R$ 52,48</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/vestido-curto-decote-redondo-trico-verde-branco-222344/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/calca-cenoura-clochard-cos-alto-com-cinto-preto-221449/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_13-07_LQDA/Calca%20Cenoura%20Clochard%20Cos%20Alto%20Com%20Cinto%20Preto.jpg"
+            title="Calca Cenoura Clochard Cos Alto Com Cinto Preto"
+            alt="Calca Cenoura Clochard Cos Alto Com Cinto Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Cenoura Clochard Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 739,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 443,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">8x de R$ 55,49</span>
+          </mj-text>
+          
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/calca-cenoura-clochard-cos-alto-com-cinto-preto-221449/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/calca-comfort-cos-alto-bolso-faca-preto-221334/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_13-07_LQDA/Calca%20Comfort%20Cos%20Alto%20Bolso%20Faca%20Preto.jpg"
+            title="Calca Comfort Cos Alto Bolso Faca Preto"
+            alt="Calca Comfort Cos Alto Bolso Faca Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos Alto Bolso Faca 
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 167,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">3x de R$ 55,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/calca-comfort-cos-alto-bolso-faca-preto-221334/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="20px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda/feminino"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_13-07_LQDA/Feminino.png"
+            title="Feminino"
+            alt="Feminino" />
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda/masculino"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_13-07_LQDA/Masculino.png"
+            title="Masculino"
+            alt="Masculino" />
+        </mj-column>  
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

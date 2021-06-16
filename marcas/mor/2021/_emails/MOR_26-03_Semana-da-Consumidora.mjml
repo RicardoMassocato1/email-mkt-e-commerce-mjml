@@ -1,0 +1,167 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=350"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Mar%C3%A7o/MOR_26-03_Semana-da-Consumidora/email%28ultimos%20dias%29.jpg"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#802425" font-size="14px" padding="30px 20px 10px 20px" align="center" font-weight="400" line-height="22px" letter-spacing="1px">
+          <strong>PRORROGAMOS</strong> os Descontos Progressivos, mas por pouco tempo!<br>
+        </mj-text>
+        <mj-text font-family="Roboto, serif" color="#802425" font-size="14px" padding="0px 20px 20px 20px" align="center" font-weight="400" line-height="22px" letter-spacing="1px">
+          Você pediu e a gente escutou! Nossa Semana da Consumidora foi prorrogada e você ainda pode levar para casa seu look desejo com descontos imbatíveis.
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=350" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="400" font-size="14px" padding="0px 0px 10px 0px" background-color="#802425" color="#fff" border-radius="0px" border= "1.2px solid #802425" target="_blank"><span style="letter-spacing:0.5px">SHOP NOW</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-slim-cropped-isadora-cos-alto-detalhe-tachas-jeans-234714/p"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355670/CALCA-SLIM-CROPPED-ISADORA-COS-ALTO-DETALHE-TACHAS---LI-JEANS-ESCURO---36.jpg?v=637327747760600000"
+            title="Calça Morena Rosa Slim Cropped Isadora Cós Alto Detalhe Tachas Jeans"
+            alt="Calça Morena Rosa Slim Cropped Isadora Cós Alto Detalhe Tachas Jeans" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa Slim<br> Cropped Isadora Cós Alto<br> Detalhe Tachas Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 83,31
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-slim-cropped-isadora-cos-alto-detalhe-tachas-jeans-234714/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-comfort-cos-elastico-detalhe-vivo-laranja-235390/p"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355450/CALCA-COMFORT-COS-ELASTICO-DETALHE-VIVO---CO-CAQUI-LARANJA-ROSA---36.jpg?v=637327741760470000"
+            title="Calça Morena Rosa Comfort Cós Elástico Detalhe Vivo Laranja"
+            alt="Calça Morena Rosa Comfort Cós Elástico Detalhe Vivo Laranja" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa<br> Comfort Cós Elástico<br> Detalhe Vivo Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 91,65
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-comfort-cos-elastico-detalhe-vivo-laranja-235390/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-curta-clochard-mix-de-tecidos-verde-230637/p"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/350890/SAIA-CURTA-CLOCHARD-MIX-DE-TECIDOS---LI-VERDE-PINHEIRO---34.jpg?v=637247124365500000"
+            title="Saia Morena Rosa Curta Clochard Mix De Tecidos Verde"
+            alt="Saia Morena Rosa Curta Clochard Mix De Tecidos Verde" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Curta Clochard Mix De Tecid...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 79,98
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 479,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-curta-clochard-mix-de-tecidos-verde-230637/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-evase-bolso-faca-verde-227363/p"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/340074/SHORTS-EVASE-BOLSO-FACA---ES-VERDE---38.jpg?v=637237723825770000"
+            title="Shorts Morena Rosa Evasê Bolso Faca Verde"
+            alt="Shorts Morena Rosa Evasê Bolso Faca Verde" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena Rosa<br> Evasê Bolso Faca Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-evase-bolso-faca-verde-227363/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Rafa%20Kalliman&pwaf_productClusterIds=347"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Mar%C3%A7o/MOR_26-03_Semana-da-Consumidora/Email%20MKT-rafa_1.jpg"
+          alt="Rafa Kaliman"
+          title="Lançamento Outono/Inverno 2021" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

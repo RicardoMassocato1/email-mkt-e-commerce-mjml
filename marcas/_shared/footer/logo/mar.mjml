@@ -1,0 +1,11 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+  <mj-image
+    href="https://www.mariavalentina.com.br"
+    alt="Maria.Valentina"
+    padding="5px 20px"
+    src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/footer/logo/v1/maria-valentina-black.png" />
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,477 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 30px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/vip-sale?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Prancheta%202-topo.png"
+            title="Vip Sale"
+            alt="Vip Sale" />
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Poppins, sans-serif" color="#9c9e9f" font-size="13px" padding="10px 10px" align="center" font-weight="600" line-height="18px" letter-spacing="2.2px" text-transform="uppercase">
+            Além disso, com o cupom
+          </mj-text>
+          <mj-text font-family="Poppins, sans-serif" color="#9c9e9f" font-size="32px" padding="10px 10px" align="center" font-weight="700" line-height="18px" letter-spacing="4px" text-transform="uppercase">
+            VIPSALE10
+          </mj-text>
+          <mj-text font-family="Poppins, sans-serif" color="#9c9e9f" font-size="13px" padding="10px 10px" align="center" font-weight="600" line-height="18px" letter-spacing="2.2px" text-transform="uppercase">
+            você ganha + 10% de desconto para<br> levar seu look preferido pra casa!*
+          </mj-text>
+          <mj-text align="center" padding="15px 0px 20px 0px">
+            <a
+              style="font-family:Poppins, sans-serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 14px; color: #9c9e9f; display: inline-block; margin: 0px; padding: 6px 9px; border: 1.2px solid #9c9e9f;"
+              href="https://www.zinco.com.br/vip-sale"
+              target="_blank"
+              title="eu quero"
+              alt="eu quero">
+              eu quero
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-section>
+      <mj-group>    
+        <mj-column width="49%"  padding="90px 0px 0px 0px">
+          <mj-text font-family="Roboto, sans-serif" color="#9c9e9f" font-size="30px" padding="10px 15px 10px 0px" align="right" font-weight="600" line-height="18px" letter-spacing="5px" text-transform="uppercase">
+            blusas
+          </mj-text>
+          <mj-text align="right" padding="8px 20px 0px 0px">
+              <a
+              style="font-family:Roboto, sans-serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 14px; color: #9c9e9f; display: inline-block; margin: 0px; padding: 6px 9px; border: 1.2px solid #9c9e9f;"
+              href="https://www.zinco.com.br/vip-sale/blusas"
+              target="_blank"
+              title="eu quero"
+              alt="eu quero">
+              eu quero
+            </a>
+            </mj-text>
+        </mj-column>
+        <mj-column width="51%">
+          <mj-image
+            href="https://www.zinco.com.br/vip-sale/blusas"
+            width="600px"
+            padding="0"
+            alt="blusas"
+            title="blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Prancheta%202-blusas.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>  
+    <mj-section>
+      <mj-group>
+        <mj-column width="51%">
+          <mj-image
+            href="https://www.zinco.com.br/vip-sale/calcas"
+            width="600px"
+            padding="0"
+            alt="calcas"
+            title="calcas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Prancheta%202-calcas.png" />
+        </mj-column>
+        <mj-column width="49%"  padding="90px 0px 0px 0px">
+          <mj-text font-family="Roboto, serif" color="#9c9e9f" font-size="30px" padding="10px 0px 10px 15px" align="left" font-weight="600" line-height="18px" letter-spacing="5px" text-transform="uppercase">
+            calças
+          </mj-text>
+          <mj-text align="left" padding="8px 0px 0px 20px">
+              <a
+              style="font-family:Roboto, serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 14px; color: #9c9e9f; display: inline-block; margin: 0px; padding: 6px 9px; border: 1.2px solid #9c9e9f;"
+              href="https://www.zinco.com.br/vip-sale/calcas"
+              target="_blank"
+              title="eu quero"
+              alt="eu quero">
+              eu quero
+            </a>
+            </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 40px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/vip-sale"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Prancheta%202-rodape.png"
+            title="vip sale"
+            alt="vip sale" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-five-pockets-detalhe-galao-jeans-221727/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Shorts%20Five%20Pockets%20Detalhe%20Galao%20Jeans.jpg"
+            title="Shorts Five Pockets Detalhe Galao Jeans"
+            alt="Shorts Five Pockets Detalhe Galao Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Five Pockets
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 287,91</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$57,58</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.zinco.com.br/shorts-five-pockets-detalhe-galao-jeans-221727/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-curto-decote-v-detalhe-retilinea-azul-221667/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Vestido%20Curto%20Decote%20V%20Detalhe%20Retilinea%20Azul.jpg"
+            title="Vestido Curto Decote V Detalhe Retilinea Azul"
+            alt="Vestido Curto Decote V Detalhe Retilinea Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 579,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 521,91</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$52,19</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.zinco.com.br/vestido-curto-decote-v-detalhe-retilinea-azul-221667/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/camisa-manga-longa-com-lastex-azul-221766/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Camisa%20Manga%20Longa%20Com%20Lastex%20Azul.jpg"
+            title="Camisa Manga Longa Com Lastex Azul"
+            alt="Camisa Manga Longa Com Lastex Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+         <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 395,91</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$56,55</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.zinco.com.br/camisa-manga-longa-com-lastex-azul-221766/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-lilly-cos-intermediario-detalhe-ponto-de-luz-verde-221771/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Calca%20Lilly%20Cos%20Intermediario%20Detalhe%20Ponto%20De%20Luz%20Verde.jpg"
+            title="Calca Lilly Cos Intermediario Detalhe Ponto De Luz Verde"
+            alt="Calca Lilly Cos Intermediario Detalhe Ponto De Luz Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Lilly Cos Interm.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 287,91</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$57,58</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.zinco.com.br/calca-lilly-cos-intermediario-detalhe-ponto-de-luz-verde-221771/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-skinny-regular-cos-alto-bolso-faca-preto-223980/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Calca%20Skinny%20Regular%20Cos%20Alto%20Bolso%20Faca%20Preto.jpg"
+            title="Calca Skinny Regular Cos Alto Bolso Faca Preto"
+            alt="Calca Skinny Regular Cos Alto Bolso Faca Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Skinny Regular
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 332,91</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$55,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.zinco.com.br/calca-skinny-regular-cos-alto-bolso-faca-preto-223980/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-bordada-azul-224590/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_26-06_Vip-Sale/Blusa%20Decote%20Redondo%20Manga%20Longa%20Bordada%20Azul.jpg"
+            title="Blusa Decote Redondo Manga Longa Bordada Azul"
+            alt="Blusa Decote Redondo Manga Longa Bordada Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 332,91</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$55,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-bordada-azul-224590/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

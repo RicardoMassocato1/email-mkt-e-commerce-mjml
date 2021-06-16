@@ -1,0 +1,176 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Friday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_23-11_Fashion-Friday/FASHION%20FRIDAY-08-topo.jpg"
+          alt="Fashion Friday"
+          title="Fashion Friday" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#000">
+      <mj-column>
+        <mj-text font-family="'Roboto', sans-serif" color="#ec5d33" text-transform="uppercase" font-size="15px" padding="40px 0px 10px 0px" align="center" font-weight="700" line-height="20px" letter-spacing="4px">
+          Compre por<br> categoria
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#000">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestuario/blusas/?pwaf_OrderByReleaseDateDESC=%20&_t=Fashion%20Friday&pwaf_productClusterIds=171"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_23-11_Fashion-Friday/FASHION%20FRIDAY-08-blusas.jpg"
+            title="Blusas"
+            alt="Blusas" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestuario/calcas/?pwaf_OrderByReleaseDateDESC=%20&_t=Fashion%20Friday&pwaf_productClusterIds=171"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_23-11_Fashion-Friday/FASHION%20FRIDAY-08-calcas.jpg"
+            title="Calças"
+            alt="Calças" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%20&_t=Fashion%20Friday&pwaf_productClusterIds=171"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_23-11_Fashion-Friday/FASHION%20FRIDAY-08-vestidos.jpg"
+            title="Vestidos"
+            alt="Vestidos" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#000">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-morena-rosa-decote-redondo-cavado-com-recortes-preto-212653"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/313068/BODY-DECOTE-REDONDO-CAVADO-COM-RECORTES---LI-PRETO---PP.jpg?v=637057929695000000"
+            title="Body Morena Rosa Decote Redondo Cavado Com Recortes Preto"
+            alt="Body Morena Rosa Decote Redondo Cavado Com Recortes Preto" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#fe4407" font-weight="400" font-size="15px" padding="140px 0 10px 0">
+            Body Morena Rosa<br> Decote Redondo<br> Cavado Com Recortes
+          </mj-text>
+
+          <mj-text color="#fe4407" font-weight="400" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#fe4407" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            2x R$ 74,97
+          </mj-text>
+
+          <mj-text color="#fe4407" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/body-morena-rosa-decote-redondo-cavado-com-recortes-preto-212653" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fe4407" color="#fff" border-radius="0px" border= "1.2px solid #fe4407" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#fe4407" font-weight="400" font-size="15px" padding="140px 0 10px 0">
+            Shorts Morena Rosa<br> Saia Com Rebite<br> Off White
+          </mj-text>
+
+          <mj-text color="#fe4407" font-weight="400" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#fe4407" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            4x R$ 62,48
+          </mj-text>
+
+          <mj-text color="#fe4407" font-weight="400" font-size="14px" align="right" padding="0px">
+            Por: R$ 249,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-saia-com-rebite-off-white-219363" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fe4407" color="#fff" border-radius="0px" border= "1.2px solid #fe4407" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-saia-com-rebite-off-white-219363"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/324558/SHORTS-SAIA-COM-REBITE---LI-OFF-WHITE---36.jpg?v=637099241464200000"
+            title="Shorts Morena Rosa Saia Com Rebite Off White"
+            alt="Shorts Morena Rosa Saia Com Rebite Off White" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#000">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-bordado-manual-dourado-219488"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/327586/SAIA-LONGA-EVASE-BORDADO-MANUAL---LI-OURO-ROSA---36.jpg?v=637116093579300000"
+            title="Saia Morena Rosa Longa Evasê Bordado Manual Dourado"
+            alt="Saia Morena Rosa Longa Evasê Bordado Manual Dourado" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#fe4407" font-weight="400" font-size="15px" padding="140px 0 10px 0">
+            Saia Morena Rosa<br> Longa Evasê Bordado<br> Manual Dourado
+          </mj-text>
+
+          <mj-text color="#fe4407" font-weight="400" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 899,90</text>
+          </mj-text>
+
+          <mj-text color="#fe4407" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x R$ 74,99
+          </mj-text>
+
+          <mj-text color="#fe4407" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 449,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-bordado-manual-dourado-219488" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fe4407" color="#fff" border-radius="0px" border= "1.2px solid #fe4407" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

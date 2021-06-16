@@ -1,0 +1,199 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_20-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%201-topo.jpg"
+          alt="Verão 50% OFF"
+          title="Verão 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-dupla-face-off-white-227652"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/342291/BIQUINI-CORTININHA-DUPLA-FACE---ES-OFF-WHITE-VERDE---M.jpg?v=637238597334530000"
+            title="Biquíni Morena Rosa Cortininha Dupla Face Off White"
+            alt="Biquíni Morena Rosa Cortininha Dupla Face Off White" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquíni Morena Rosa<br> Cortininha Dupla Face<br> Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-dupla-face-off-white-227652" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-passante-busto-laranja-rosa-228285"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/342573/BIQUINI-CORTININHA-PASSANTE-BUSTO---ES-LARANJA-ROSA---P.jpg?v=637238601426500000"
+            title="Biquíni Morena Rosa Cortininha Passante Busto Laranja/Rosa"
+            alt="Biquíni Morena Rosa Cortininha Passante Busto Laranja/Rosa" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquíni Morena Rosa<br> Cortininha Passante Busto<br> Laranja/Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,97
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-passante-busto-laranja-rosa-228285" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-morena-rosa-tomara-que-caia-detalhe-aviamentos-off-white-212869"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/327357/BIQUINI-TOMARA-QUE-CAIA-DETALHE-AVIAMENTOS---ES-BRANCO-AMARELO---P.jpg?v=637115029938000000"
+            title="Biquíni Morena Rosa Tomara Que Caia Detalhe Aviamentos Off White"
+            alt="Biquíni Morena Rosa Tomara Que Caia Detalhe Aviamentos Off White" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquíni Morena Rosa<br> Tomara Que Caia Detalhe<br> Aviamentos Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 174,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/biquini-morena-rosa-tomara-que-caia-detalhe-aviamentos-off-white-212869" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-morena-rosa-tomara-que-caia-com-metal-marrom-213756"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/316370/BIQUINI-TOMARA-QUE-CAIA-COM-METAL---ES-MARROM-OFF-WHITE---P.jpg?v=637061462879070000"
+            title="Biquíni Morena Rosa Tomara Que Caia Com Metal Marrom"
+            alt="Biquíni Morena Rosa Tomara Que Caia Com Metal Marrom" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquíni Morena Rosa<br> Tomara Que Caia Com<br> Metal Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/biquini-morena-rosa-tomara-que-caia-com-metal-marrom-213756" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#d9384a" font-size="14px" padding="20px 0px 10px 0px" align="center" font-weight="800" line-height="21px" letter-spacing="2.5px">
+          Compre também
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Blusas&pwaf_productClusterIds=234"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_20-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%201-blusas.jpg"
+            alt="Blusas"
+            title="Blusas" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestidos&pwaf_productClusterIds=244"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_20-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%201-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=160"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_20-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%201-calcas.jpg"
+            alt="Calças"
+            title="Calças" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

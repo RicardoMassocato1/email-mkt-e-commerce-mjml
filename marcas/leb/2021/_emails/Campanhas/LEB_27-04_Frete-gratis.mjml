@@ -1,0 +1,77 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 40px 0px" background-color="#8598b6">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_27-04_Frete-gratis/LBH-Email%20Mkt%20newlayout-01-min.jpg"
+            alt="hi-lo love club"
+            title="hi-lo love club" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#8598b6">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/blusa-leboh-decote-v-manga-babado-com-franzido-preto-261139/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_27-04_Frete-gratis/LBH-Email%20Mkt%20newlayout-05-min.jpg"
+            alt="Blusa Lebôh Decote V Manga Babado Com Franzido Preto"
+            title="Blusa Lebôh Decote V Manga Babado Com Franzido Preto" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px 20px 0px" background-color="#8598b6">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calca-leboh-cenoura-cos-alto-com-recorte-preto-261104/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_27-04_Frete-gratis/LBH-Email%20Mkt%20newlayout-02-min.jpg"
+            alt="Calça Lebôh Cenoura Cós Alto Com Recorte Preto"
+            title="Calça Lebôh Cenoura Cós Alto Com Recorte Preto" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#8598b6">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calca-leboh-comfort-cos-alto-detalhe-paete-preto-260082/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_27-04_Frete-gratis/LBH-Email%20Mkt%20newlayout-03-min.jpg"
+            alt="Calça Lebôh Comfort Cós Alto Detalhe Paetê Preto"
+            title="Calça Lebôh Comfort Cós Alto Detalhe Paetê Preto" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="60px 0px 0px 0px" background-color="#8598b6">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/dia-das-maes?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_27-04_Frete-gratis/LBH-Email%20Mkt%20newlayout-04-min.jpg"
+            alt="dia das mães"
+            title="dia das mães" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,181 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#dfa037">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/daytime-skyline?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_15-04_Summer-Vibes/Prancheta%201-2-topo.jpg"
+            alt="grenn breeze"
+            title="grenn breeze" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#e2aa4d"> 
+      <mj-column padding="30px 0px 40px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="14.3px" padding="0px 20px 0px 20px" align= "center" font-weight="300" line-height="17px" letter-spacing="2px">
+          O céu do verão trouxe os tons amarelados do sol para a nova coleção da Lebôh! E o protagonista da coleção, é a nossa estampa animal print super fashion e cool! 
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="30px 0px 10px 0px" background-color="#dfa037">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/regata-leboh-decote-redondo-barra-arredondada-estampado-247078/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190611/REGATA-DECOTE-REDONDO-BARRA-ARREDONDADA---ES-BEGE-PRETO---PP.jpg?v=637426009397970000"
+            title="Regata Lebôh Decote Redondo Barra Arredondada Estampado"
+            alt="Regata Lebôh Decote Redondo Barra Arredondada Estampado" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Lebôh Decote<br> Redondo Barra Arr...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+            Por: R$ 99,90
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="7px 0">
+            
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/regata-leboh-decote-redondo-barra-arredondada-estampado-247078/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#dfa037" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-decote-amarracao-manga-7-8-abertura-frente-estampado-245244/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190595/BLUSA-DECOTE-AMARRACAO-MANGA-7-8-ABERTURA-FRENTE---ES-BEGE-PRETO---PP.jpg?v=637426009188570000"
+            title="Blusa Lebôh Decote Amarração Manga 7/8 Abertura Frente Estampado"
+            alt="Blusa Lebôh Decote Amarração Manga 7/8 Abertura Frente Estampado" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Decote Amarração Manga 7/8...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              3x de R$ 53,30
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 159,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-decote-amarracao-manga-7-8-abertura-frente-estampado-245244/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#dfa037" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 30px 0px" background-color="#dfa037">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-transpassado-amarracao-cintura-estampado-245234/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190575/VESTIDO-MIDI-DECOTE-TRANSPASSADO-AMARRACAO-CINTURA---ES-BEGE-PRETO---PP.jpg?v=637426008940970000"
+            title="Vestido Lebôh Midi Decote Transpassado Amarração Cintura Estampado"
+            alt="Vestido Lebôh Midi Decote Transpassado Amarração Cintura Estampado" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Midi Decote<br> Transpassado Amarraç...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-transpassado-amarracao-cintura-estampado-245234/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#dfa037" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-reta-cos-elastico-com-amarracao-estampado-245236/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190579/CALCA-RETA-COS-ELASTICO-COM-AMARRACAO---ES-BEGE-PRETO---36.jpg?v=637426009006900000"
+            title="Calça Lebôh Reta Cós Elástico Com Amarração Estampado"
+            alt="Calça Lebôh Reta Cós Elástico Com Amarração Estampado" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Reta Cós<br> Elástico Com Amarra...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 279,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/calca-leboh-reta-cos-elastico-com-amarracao-estampado-245236/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#dfa037" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="15px 0px" background-color="#e2aa4d">
+    </mj-section>
+    <mj-section padding="20px 0px 0px 0px" background-color="#dfa037">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/blusas?map=c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_15-04_Summer-Vibes/Prancheta%201-2-blusas.jpg"
+            alt="Blusas"
+            title="Blusas" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="10px 0px 10px 0px" background-color="#dfa037">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_15-04_Summer-Vibes/Prancheta%201-2-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 50px 0px" background-color="#dfa037">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_15-04_Summer-Vibes/Prancheta%201-2-calcas.jpg"
+            alt="Calças"
+            title="Calças" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

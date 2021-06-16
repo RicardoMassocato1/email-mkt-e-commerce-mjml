@@ -1,0 +1,189 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Nova%20Cole%C3%A7%C3%A3o%20Big%20Cities&pwaf_productClusterIds=263"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Abril/IOD_13-04_Londres/Prancheta%201-8.jpg"
+          alt="Coleção Big Cities"
+          title="Coleção Big Cities" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="12.5px" padding="30px 20px 30px 20px" align="center" font-weight="400" line-height="18px">
+          Tonalidades encontradas na cidade famosa por sua casa de chá, transbordam feminilidade em peças atemporais e clássicas. Essas peças trazem a combinação perfeita de atitude e estilo!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-manga-longa-detalhe-gola-rosa-claro-246124"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/179217/CAMISA-MANGA-LONGA-DETALHE-GOLA---LI-ROSA-CLARO---P.jpg?v=637496248414970000"
+            title="CAMISA MANGA LONGA DETALHE GOLA ROSA CLARO"
+            alt="CAMISA MANGA LONGA DETALHE GOLA ROSA CLARO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Manga Longa<br> Detalhe Gola Rosa Claro
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 99,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 599,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/camisa-manga-longa-detalhe-gola-rosa-claro-246124" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-reta-alfaiataria-bolso-faca-roxo-246028"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/179420/CALCA-RETA-COS-ALFAIATARIA-BOLSO-FACA---LI-BERINGELA---36.jpg?v=637497953765800000"
+            title="CALÇA IODICE RETA ALFAIATARIA BOLSO FACA ROXO"
+            alt="CALÇA IODICE RETA ALFAIATARIA BOLSO FACA ROXO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Reta Alfaiataria<br> Bolso Faca Roxo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 111,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 669,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-reta-alfaiataria-bolso-faca-roxo-246028" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-cenoura-alfaiataria-detalhe-barra-rosa-245983"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/179448/CALCA-CENOURA-COS-ALFAIATARIA-DETALHE-BARRA---CO-BERINGELA-ROSA---36.jpg?v=637499639267000000"
+            title="CALÇA IODICE CENOURA ALFAIATARIA DETALHE BARRA ROSA"
+            alt="CALÇA IODICE CENOURA ALFAIATARIA DETALHE BARRA ROSA" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Cenoura<br> Alfaiataria Detalhe Bar...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 114,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 689,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-cenoura-alfaiataria-detalhe-barra-rosa-245983" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/bermuda-alfaiataria-com-metal-cinza-246144/p"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/179229/BERMUDA-ALFAIATARIA-COM-METAL---XD-AREIA-CINZA---36.jpg?v=637496248583600000"
+            title="BERMUDA ALFAIATARIA COM METAL CINZA"
+            alt="BERMUDA ALFAIATARIA COM METAL CINZA" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bermuda Alfaiataria<br> Com Metal Cinza
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 66,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 399,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/bermuda-alfaiataria-com-metal-cinza-246144/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="40px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/blusas?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Abril/IOD_13-04_Londres/Prancheta%201-7.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/vestidos?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Abril/IOD_13-04_Londres/Prancheta%201-6.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 10px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/calças?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Abril/IOD_13-04_Londres/Prancheta%201-5.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

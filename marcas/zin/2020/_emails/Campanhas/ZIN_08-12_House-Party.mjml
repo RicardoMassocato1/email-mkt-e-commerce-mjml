@@ -1,0 +1,195 @@
+'<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/ano-novo?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_08-12_House-Party/MV_EmailMkt_07-topo.jpg"
+          alt="House Party"
+          title="House Party" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="12.5px" padding="20px 10px 0px 10px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+           Tecidos metalizados deixam a trend esportiva pronta para brilhar 
+           na noite. Para o réveillon o branco ainda é o mais pedido, mas o 
+           vermelho também rouba a cena. Qual faz mais o seu estilo? 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-pantalona-cos-alto-detalhe-vivo-off-white-239192/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214740/CALCA-PANTALONA-COS-ALTO-DETALHE-VIVO---LI-OFF-WHITE---36.jpg?v=637378577152230000"
+            title="Calça Zinco Pantalona Cós Alto Detalhe Vivo Off White"
+            alt="Calça Zinco Pantalona Cós Alto Detalhe Vivo Off White" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Zinco Pantalona<br> Cós Alto Detalhe Vivo<br> Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 51,10
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/calca-zinco-pantalona-cos-alto-detalhe-vivo-off-white-239192/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-curta-detalhe-vies-off-white-239181/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214716/BLUSA-DECOTE-REDONDO-MANGA-CURTA-DETALHE-VIES---LI-OFF-WHITE---P.jpg?v=637378576868900000"
+            title="Blusa Zinco Decote Redondo Manga Curta Detalhe Viés Off White"
+            alt="Blusa Zinco Decote Redondo Manga Curta Detalhe Viés Off White" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Zinco Decote<br> Redondo Manga Curta<br> Detalhe Viés Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 57,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 229,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-curta-detalhe-vies-off-white-239181/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/top-zinco-amarracao-manga-longa-com-botao-branco-217965/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/199654/TOP-AMARRACAO-MANGA-LONGA-COM-BOTAO---LI-BRANCO---PP.jpg?v=637111667148600000"
+            title="Top Zinco Amarração Manga Longa Com Botão Branco"
+            alt="Top Zinco Amarração Manga Longa Com Botão Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Zinco Amarração<br> Manga Longa Com<br> Botão Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 223,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/top-zinco-amarracao-manga-longa-com-botao-branco-217965/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-zinco-midi-lapis-detalhe-trico-prata-219689/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/201681/SAIA-MIDI-LAPIS-DETALHE-TRICO---LI-PRATA---36.jpg?v=637111908304730000"
+            title="Saia Zinco Midi Lápis Detalhe Tricô Prata"
+            alt="Saia Zinco Midi Lápis Detalhe Tricô Prata" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Zinco Midi Lápis<br> Detalhe Tricô<br> Prata
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 529,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 52,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 370,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/saia-zinco-midi-lapis-detalhe-trico-prata-219689/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/camisas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_08-12_House-Party/MV_EmailMkt_07-camisas.jpg"
+          alt="Camisas"
+          title="Camisas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/calcas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_08-12_House-Party/MV_EmailMkt_07-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/blusas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_08-12_House-Party/MV_EmailMkt_07-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

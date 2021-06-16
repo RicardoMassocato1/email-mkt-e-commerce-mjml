@@ -1,0 +1,68 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Dia%20das%20M%C3%A3es&pwaf_productClusterIds=347"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-04_Dia-das-Maes/email-topo.jpg"
+          alt="Dia das Mães"
+          title="Dia das Mães" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="40px 0px 20px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/roupas/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-04_Dia-das-Maes/email-blusas.jpg"
+            alt="Blusas"
+            title="Blusas" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/roupas/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-04_Dia-das-Maes/email-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/roupas/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-04_Dia-das-Maes/email-calcas.jpg"
+            alt="Calças"
+            title="Calças" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 20px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Roupas&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-04_Dia-das-Maes/email-rodape.jpg"
+          alt="lqda 30%OFF"
+          title="lqda 30%OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

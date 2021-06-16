@@ -1,0 +1,209 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 10px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/cal%C3%A7a%20jeans?map=ft&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Mar%C3%A7o/LEB_03-03_Demin-da-Vez/Artboard%2011%20copy%206-topo.jpg"
+            alt="Demin da Vez"
+            title="Demin da Vez" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff"> 
+      <mj-column padding="15px 0px 30px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#000000" font-size="14px" padding="15px 0px 0px 75px" align= "left" font-weight="500" line-height="17px" letter-spacing="0.4px">
+          peças que trazem um<br> 
+          perfume retrô para o denim.<br> 
+          faça suas escolhas e<br> 
+          aproveite o melhor da<br> 
+          estação vestida com jeans!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-cigarrete-cos-alto-bicolor-jeans-229388/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187778/CALCA-CIGARRETE-COS-ALTO-BICOLOR---LI-JEANS-MEDIO---34.jpg?v=637250800506470000"
+            title="Calça Lebôh Cigarrete Cós Alto Bicolor Jeans"
+            alt="Calça Lebôh Cigarrete Cós Alto Bicolor Jeans" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Cigarrete<br> Cós Alto Bicolor Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 339,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 59,48
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 237,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-leboh-cigarrete-cos-alto-bicolor-jeans-229388/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-mom-cos-alto-bordado-industrial-jeans-229439/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188102/CALCA-MOM-COS-ALTO-BORDADO-INDUSTRIAL---LI-JEANS-MEDIO---34.jpg?v=637250807208500000"
+            title="Calça Lebôh Mom Cós Alto Bordado Industrial Jeans"
+            alt="Calça Lebôh Mom Cós Alto Bordado Industrial Jeans" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Mom Cós<br> Alto Bordado Industri...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 229,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,64
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 160,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-leboh-mom-cos-alto-bordado-industrial-jeans-229439/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-straight-cos-intermediario-detalhe-avesso-tecido-jeans-229409/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187946/CALCA-STRAIGHT-COS-INTERMEDIARIO-DETALHE-AVESSO-TECIDO---LI-JEANS-ESCURO---34.jpg?v=637250804360600000"
+            title="Calça Lebôh Straight Cós Intermediário Detalhe Avesso Tecido Jeans"
+            alt="Calça Lebôh Straight Cós Intermediário Detalhe Avesso Tecido Jeans" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Straight Cós<br> Intermediário Detal...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 339,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 59,48
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 237,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-leboh-straight-cos-intermediario-detalhe-avesso-tecido-jeans-229409/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-boot-cut-cos-intermediario-com-faixa-jeans-233062/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189523/CALCA-BOOT-CUT-COS-INTERMEDIARIO-COM-FAIXA---LI-JEANS-MEDIO---34.jpg?v=637332765364130000"
+            title="Calça Lebôh Boot Cut Cós Intermediário Com Faixa Jeans"
+            alt="Calça Lebôh Boot Cut Cós Intermediário Com Faixa Jeans" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Boot Cut Cós<br> Intermediário Com Fai...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 65,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 195,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/calca-leboh-boot-cut-cos-intermediario-com-faixa-jeans-233062/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          href="https://www.leboh.com.br/shorts?O=OrderByReleaseDateDESC"
+          width="600px"
+          padding="0"
+          alt="shorts"
+          title="shorts"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Lancamento-Agosto/LEB_28-08_Pink-and-Blue/Artboard%2011%20copy-shots.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          href="https://www.leboh.com.br/blusas?O=OrderByReleaseDateDESC"
+          width="600px"
+          padding="0"
+          alt="blusas"
+          title="blusas"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Lancamento-Agosto/LEB_28-08_Pink-and-Blue/Artboard%2011%20copy-blusas.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          href="https://www.leboh.com.br/calcas?O=OrderByReleaseDateDESC"
+          width="600px"
+          padding="0"
+          alt="calças"
+          title="calças"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Lancamento-Agosto/LEB_28-08_Pink-and-Blue/Artboard%2011%20copy-calcas.jpg" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

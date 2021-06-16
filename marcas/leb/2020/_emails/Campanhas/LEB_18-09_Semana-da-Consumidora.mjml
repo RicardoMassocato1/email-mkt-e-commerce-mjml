@@ -1,0 +1,167 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Semana da Cliente"
+            title="Semana da Cliente"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_18-09_Semana-da-Consumidora/Artboard%2011%20copy-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="30px 0px 25px 25px">
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="22px"  align= "left" font-weight="800"padding="0px 0px 0px 25px" line-height="0px" letter-spacing="0.4px">
+            _
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="17px"  align= "left" font-weight="400" padding="15px 0px 5px 25px" line-height="21px" letter-spacing="0.4px">
+            Últimos dias para aproveitar<br> a semana da cliente!<br>
+            <span style="font-weight: 500;">Corra e aproveite!</span>
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 22px" align="left" font-weight="400" font-size="12px" padding="10px 25px 0px 25px" background-color="#b1b025" color="#ffffff" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-alfaiataria-bolso-faca-laranja-220315/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/184113/SHORTS-ALFAIATARIA-BOLSO-FACA---ES-LARANJA---36.jpg?v=637111572862700000"
+            title="Shorts Alfaiataria Bolso Faca Laranja"
+            alt="Shorts Alfaiataria Bolso Faca Laranja" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Alfaiataria Bolso<br> Faca Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/shorts-alfaiataria-bolso-faca-laranja-220315/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#b1b025" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/top-cropped-alca-com-lastex-bege-188026/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_18-09_Semana-da-Consumidora/Sem%20T%C3%ADtulo-1.jpg"
+            title="Top Cropped Alca Com Lastex Bege"
+            alt="Top Cropped Alca Com Lastex Bege" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Cropped Alca Com<br> Lastex Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,30
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/top-cropped-alca-com-lastex-bege-188026/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#b1b025" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blazer-com-cadarco-verde-214450/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189731/22000101863001342-4-.jpg?v=637345855409100000"
+            title="Blazer Com Cadarco Verde"
+            alt="Blazer Com Cadarco Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blazer Com Cadarco<br> Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 55,54
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blazer-com-cadarco-verde-214450/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#b1b025" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-decote-quadrado-com-botao-preto-184570/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186340/22000102026000081-0-.jpg?v=637175451600470000"
+            title="Vestido Midi Decote Quadrado Com Botao Preto"
+            alt="Vestido Midi Decote Quadrado Com Botao Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi Decote<br> Quadrado Com Botao
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 52,84
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-midi-decote-quadrado-com-botao-preto-184570/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#b1b025" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lancamento"
+            width="600px"
+            padding="0"
+            alt="Lançamento"
+            title="Lançamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_18-09_Semana-da-Consumidora/Artboard%2011%20copy-rodape.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

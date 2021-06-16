@@ -1,0 +1,357 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_17-06_Progressiva-Junho/iod-Email-MKT-ID_17-06%20email1-topo.jpg" 
+              alt="Descontos Progressivos"
+              title="Descontos Progressivos"/>
+          </mj-column>
+          <mj-column padding="0" width="100%">
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#006c79"
+              font-size="14px"
+              padding="30px 0px 20px 0px"
+              align="center"
+              font-weight="400"
+              letter-spacing="0.2px"
+              line-height="19px">
+              Looks para aproveitar a<br> temporada com até 70% OFF.<br> Não perca essa oportunidade!
+            </mj-text>
+            <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color:#006c79; display: inline-block; margin-bottom: 50px; padding: 8px 13px;"
+                href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=207"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/regata-decote-v-com-recortes-vermelho-216309"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_17-06_Progressiva-Junho/REGATA%20DECOTE%20V%20COM%20RECORTES%20VERMELHO.jpg"
+              title="REGATA DECOTE V COM RECORTES VERMELHO"
+              alt="REGATA DECOTE V COM RECORTES VERMELHO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Regata Decote V
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 319,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 159,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 3x R$ 53,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/regata-decote-v-com-recortes-vermelho-216309"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/saia-abaixo-do-joelho-reta-com-fenda-preto-222266"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_17-06_Progressiva-Junho/SAIA%20ABAIXO%20DO%20JOELHO%20RETA%20COM%20FENDA%20PRETO.jpg"
+              title="SAIA ABAIXO DO JOELHO RETA COM FENDA PRETO"
+              alt="SAIA ABAIXO DO JOELHO RETA COM FENDA PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Saia Abaixo do Joelho
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 3229,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 1614,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 12x R$ 134,57</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/saia-abaixo-do-joelho-reta-com-fenda-preto-222266"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/vestido-midi-decote-redondo-com-faixa-off-white-221042"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_17-06_Progressiva-Junho/VESTIDO%20MIDI%20DECOTE%20REDONDO%20COM%20FAIXA%20OFF%20WHITE.jpg"
+              title="VESTIDO MIDI DECOTE REDONDO COM FAIXA OFF WHITE"
+              alt="VESTIDO MIDI DECOTE REDONDO COM FAIXA OFF WHITE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Midi Decote
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 699,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 349,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 58,32</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/vestido-midi-decote-redondo-com-faixa-off-white-221042"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/body-decote-redondo-cava-francesa-basico-off-white-220961"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_17-06_Progressiva-Junho/BODY%20DECOTE%20REDONDO%20CAVA%20FRANCESA%20BASICO%20OFF%20WHITE.jpg"
+              title="BODY DECOTE REDONDO CAVA FRANCESA BASICO OFF WHITE"
+              alt="BODY DECOTE REDONDO CAVA FRANCESA BASICO OFF WHITE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Body Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 449,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 224,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 4x R$ 56,23</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/body-decote-redondo-cava-francesa-basico-off-white-220961"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="50px 70px 20px 70px">
+        <mj-column width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=211"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_17-06_Progressiva-Junho/iod-Email-MKT-ID_17-06%20email1-vestidos.jpg" 
+            alt="Vestidos"
+            title="Vestidos"/>
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#006c79"
+            font-size="22px"
+            padding="15px 0px 5px 0px"
+            align="left"
+            font-weight="100"
+            line-height="19px">
+            VESTIDOS
+          </mj-text>
+          <mj-text align="left" padding="0">
+            <h1 style="color: #006c79; font-weight: 300; font-size: 13.5px; padding: 7px 0px; margin: 0px;">
+              Intensos e para todos os momentos
+            </h1>
+          </mj-text>
+          <mj-text align="left" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; background-color:#006c79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=211"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 70px 10px 70px">
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?p=7&_t=Progressivos&pwaf_productClusterIds=213"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_17-06_Progressiva-Junho/iod-Email-MKT-ID_17-06%20email1-jeans.jpg" 
+            alt="Jeans"
+            title="Jeans"/>
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#006c79"
+            font-size="22px"
+            padding="15px 0px 5px 0px"
+            align="left"
+            font-weight="100"
+            line-height="19px">
+            JEANS
+          </mj-text>
+          <mj-text align="left" padding="0">
+            <h1 style="color: #006c79; font-weight: 300; font-size: 13.5px; padding: 7px 0px; margin: 0px;">
+              Confortáveis e dinâmicos
+            </h1>
+          </mj-text>
+          <mj-text align="left" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; background-color:#006c79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?p=7&_t=Progressivos&pwaf_productClusterIds=213"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

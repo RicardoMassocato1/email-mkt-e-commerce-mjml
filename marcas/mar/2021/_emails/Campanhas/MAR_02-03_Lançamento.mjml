@@ -1,0 +1,188 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Ticiane%20Pinheiro&pwaf_productClusterIds=257"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_02-03_Lan%C3%A7amento/MV_EmailMkt_01-topo.jpg"
+          alt="Maria.Valentina & Ticiane Pinheiro"
+          title="Maria.Valentina & Ticiane Pinheiro" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#000000" font-size="13px" padding="30px 20px 30px 20px" align="center" font-weight="500" line-height="20px" letter-spacing="1.1px">
+          Mulher, mãe e dona de si, Ticiane Pinheiro ocupa espaço de destaque nas televisões brasileiras. Inspirada na sua trajetória livre e decidida, a apresentadora assina sua primeira coleção para a Maria.Valentina.
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/camisa-maria-valentina-manga-3-4-com-abertura-preto-246560"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/242331/CAMISA-MANGA-3-4-COM-ABERTURA---ES-PRETO---P.jpg?v=637492666843270000"
+            title="Camisa Maria.Valentina Manga 3/4 Com Abertura Preto"
+            alt="Camisa Maria.Valentina Manga 3/4 Com Abertura Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Maria.Valentina<br> Manga 3/4 Com Abertura<br> Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            10x de R$ 54,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/camisa-maria-valentina-manga-3-4-com-abertura-preto-246560" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-cenoura-cos-largo-com-recorte-verde-246432"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/241850/CALCA-CENOURA-COS-LARGO-COM-RECORTE---LI-VERDE---36.jpg?v=637492660619800000"
+            title="Calça Maria.Valentina Cenoura Cós Largo Com Recorte Verde"
+            alt="Calça Maria.Valentina Cenoura Cós Largo Com Recorte Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Maria.Valentina<br> Cenoura Cós Largo Com<br> Recorte Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            7x de R$ 55,70
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 389,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-cenoura-cos-largo-com-recorte-verde-246432" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-quadrado-com-abotoamento-jeans-248260"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/242916/VESTIDO-MIDI-DECOTE-QUADRADO-COM-ABOTOAMENTO---LI-JEANS-ESCURO---P.jpg?v=637492676367530000"
+            title="Vestido Maria.Valentina Midi Decote Quadrado Com Abotoamento Jeans"
+            alt="Vestido Maria.Valentina Midi Decote Quadrado Com Abotoamento Jeans" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Maria.Valentina<br> Midi Decote Quadrado<br> Com Abotoamento Je...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            10x de R$ 57,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 579,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-quadrado-com-abotoamento-jeans-248260" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/macacao-maria-valentina-reto-bloco-de-cores-verde-248273"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/242955/MACACAO-RETO-BLOCO-DE-CORES---CO-VERDE-CAQUI---P.jpg?v=637492676820330000"
+            title="Macacão Maria.Valentina Reto Bloco De Cores Verde"
+            alt="Macacão Maria.Valentina Reto Bloco De Cores Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacão Maria.Valentina<br> Reto Bloco De Cores<br> Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            9x de R$ 55,54
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/macacao-maria-valentina-reto-bloco-de-cores-verde-248273" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/blusas?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_02-03_Lan%C3%A7amento/MV_EmailMkt_01-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestidos?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_02-03_Lan%C3%A7amento/MV_EmailMkt_01-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/calcas?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_02-03_Lan%C3%A7amento/MV_EmailMkt_01-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

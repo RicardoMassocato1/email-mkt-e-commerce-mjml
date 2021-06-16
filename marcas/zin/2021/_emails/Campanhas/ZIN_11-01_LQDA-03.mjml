@@ -1,0 +1,205 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Janeiro/ZIN_11-01_LQDA/MV_EmailMkt_03-topo.jpg"
+          alt="LQDA até 50% OFF"
+          title="LQDA até 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="13px" padding="30px 0px 0px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="0.8px">
+          Vestidos para curtir o verão
+        </mj-text>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="17px" padding="0px 0px 30px 0px" align="center" font-weight="800" line-height="20px" letter-spacing="1.5px">
+          Com até 50% off!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-curto-decote-redondo-compose-de-tecidos-azul-227303/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/208013/VESTIDO-CURTO-DECOTE-REDONDO-COMPOSE-DE-TECIDOS---CO-AZUL-PRETO---P.jpg?v=637250821378730000"
+            title="Vestido Zinco Curto Decote Redondo Composê De Tecidos Azul"
+            alt="Vestido Zinco Curto Decote Redondo Composê De Tecidos Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Curto<br> Decote Redondo Composê<br> De Tecidos Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 57,48
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 229,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-curto-decote-redondo-compose-de-tecidos-azul-227303/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-midi-decote-quadrado-trico-prata-220923/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/200408/VESTIDO-MIDI-DECOTE-QUADRADO-TRICO---LI-PRATA---P.jpg?v=637111785989500000"
+            title="Vestido Zinco Midi Decote Quadrado Tricô Prata"
+            alt="Vestido Zinco Midi Decote Quadrado Tricô Prata" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Midi<br> Decote Quadrado Tricô<br> Prata
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 649,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 54,15
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0px">
+            Por: R$ 324,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-midi-decote-quadrado-trico-prata-220923/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-zinco-dress-com-sublimacao-rosa-234940/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213144/T-SHIRT-DRESS-COM-SUBLIMACAO---ES-PINK---PP.jpg?v=637327763567030000"
+            title="T-Shirt Zinco Dress Com Sublimação Rosa"
+            alt="T-Shirt Zinco Dress Com Sublimação Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Zinco Dress Com<br> Sublimação Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/t-shirt-zinco-dress-com-sublimacao-rosa-234940/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/chemise-zinco-curto-com-abotoamento-azul-223597/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/203316/CHEMISE-CURTO-COM-ABOTOAMENTO---LT-AZUL---PP.jpg?v=637172596809430000"
+            title="Chemise Zinco Curto Com Abotoamento Azul"
+            alt="Chemise Zinco Curto Com Abotoamento Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Chemise Zinco Curto Com<br> Abotoamento Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 54,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 219,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/chemise-zinco-curto-com-abotoamento-azul-223597/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Janeiro/ZIN_11-01_LQDA/MV_EmailMkt_03-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Janeiro/ZIN_11-01_LQDA/MV_EmailMkt_03-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Janeiro/ZIN_11-01_LQDA/MV_EmailMkt_03-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

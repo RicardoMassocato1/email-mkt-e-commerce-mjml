@@ -1,0 +1,162 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 55px 20px 30px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=331&_t=Lan%C3%A7amento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_Tarde-de-Sol-Lancamento/E-mails-mkt%202006-03-topo.jpg"
+          alt="Coleção - Tarde de Sol"
+          title="Coleção - Tarde de Sol" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 25px 0px" background-color="#fff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#5e3016" font-size="13.5px" padding="0px 50px 0px 60px" align="center" font-weight="500" line-height="20px" letter-spacing="2px">
+          Texturas naturais somadas à elementos botânicos e geométricos aparecem nas peças da coleção.
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-morena-rosa-pantacourt-basico-nude-244177"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/364765/MACACAO-PANTACOURT-BASICO---ES-CRU-ROSA---P.jpg?v=637425162393500000"
+            title="Macacão Morena Rosa Pantacourt Básico Nude"
+            alt="Macacão Morena Rosa Pantacourt Básico Nude" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#000" font-weight="400" font-size="15px" padding="145px 0 10px 0">
+            Macacão Morena<br> Rosa Pantacourt<br> Básico Nude
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 91,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/macacao-morena-rosa-pantacourt-basico-nude-244177" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#000" font-weight="400" font-size="15px" padding="145px 0 10px 0">
+            Vestido Morena Rosa<br> Curto Decote<br> Quadrado Recorte<br> Frente Bege
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            6x de R$ 99,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="right" padding="0px">
+            Por: R$ 599,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-quadrado-recorte-frente-bege-244062" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-quadrado-recorte-frente-bege-244062"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/364633/VESTIDO-CURTO-DECOTE-QUADRADO-RECORTE-FRENTE---LI-CRU---P.jpg?v=637425160537830000"
+            title="Vestido Morena Rosa Curto Decote Quadrado Recorte Frente Bege"
+            alt="Vestido Morena Rosa Curto Decote Quadrado Recorte Frente Bege" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-pantacourt-cos-intermediario-com-faixa-bege-239611"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/363953/CALCA-PANTACOURT-COS-INTERMEDIARIO-COM-FAIXA---LI-CRU---36.jpg?v=637425151185630000"
+            title="Calça Morena Rosa Pantacourt Cós Intermediário Com Faixa Bege"
+            alt="Calça Morena Rosa Pantacourt Cós Intermediário Com Faixa Bege" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#000" font-weight="400" font-size="15px" padding="135px 0 10px 0">
+            Calça Morena Rosa<br> Pantacourt Cós<br> Intermediário Com<br> Faixa Bege
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 83,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-pantacourt-cos-intermediario-com-faixa-bege-239611" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_Tarde-de-Sol-Lancamento/E-mails-mkt%202006-03-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_Tarde-de-Sol-Lancamento/E-mails-mkt%202006-03-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_Tarde-de-Sol-Lancamento/E-mails-mkt%202006-03-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

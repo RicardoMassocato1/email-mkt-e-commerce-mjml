@@ -1,0 +1,310 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_22-06_Progressiva-Junho/Email-MKT-ID_22-06%20email4-topo.jpg" 
+              alt="Descontos Progressivos"
+              title="Descontos Progressivos"/>
+            <mj-image
+              padding="0"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_22-06_Progressiva-Junho/Email-MKT-ID_22-06%20email4-img.jpg" 
+              alt="comfy look"
+              title="comfy look"/>
+
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#006c79"
+              font-size="23px"
+              padding="20px 0px 15px 0px"
+              align="center"
+              font-weight="100"
+              line-height="20px">
+              COMFY LOOK
+            </mj-text>
+            <mj-text align="center" padding="0px 0px 10px 0px">
+              <h1 style="font-family:Poppins, sans-serif; color: #006c79; font-weight: 300; font-size: 14px; margin: 0px; line-height:18px;">
+                Peças desejo para curtir os dias<br> em casa!
+              </h1>
+            </mj-text>
+            <mj-text align="center" padding="0px 0px 40px 0px">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color:#006c79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+                href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=207"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-pantacourt-cos-elastico-basica-bege-220283"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_22-06_Progressiva-Junho/CALCA%20PANTACOURT%20COS%20ELASTICO%20BASICA%20BEGE.jpg"
+              title="CALCA PANTACOURT COS ELASTICO BASICA BEGE"
+              alt="CALCA PANTACOURT COS ELASTICO BASICA BEGE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Pantacourt Cos Elastico Basica
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 399,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 279,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 5x R$ 55,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/calca-pantacourt-cos-elastico-basica-bege-220283"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/vestido-curto-decote-redondo-bordado-off-white-219902"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_22-06_Progressiva-Junho/VESTIDO%20CURTO%20DECOTE%20REDONDO%20BORDADO%20OFF%20WHITE.jpg"
+              title="VESTIDO CURTO DECOTE REDONDO BORDADO OFF WHITE"
+              alt="VESTIDO CURTO DECOTE REDONDO BORDADO OFF WHITE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Curto Decote Redondo Bordado
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 729,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 510,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 85,15</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/vestido-curto-decote-redondo-bordado-off-white-219902"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-alfaiataria-cos-elastico-detalhe-bolso-preto-220624"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_22-06_Progressiva-Junho/CALCA%20ALFAIATARIA%20COS%20ELASTICO%20DETALHE%20BOLSO%20PRETO.jpg"
+              title="CALCA ALFAIATARIA COS ELASTICO DETALHE BOLSO PRETO"
+              alt="CALCA ALFAIATARIA COS ELASTICO DETALHE BOLSO PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Alfaiataria Cos
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 479,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 335,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 55,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/calca-alfaiataria-cos-elastico-detalhe-bolso-preto-220624"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/macacao-pantacourt-detalhe-ziper-azul-bege-214606"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_22-06_Progressiva-Junho/MACACAO%20PANTACOURT%20DETALHE%20ZIPER%20AZUL-BEGE.jpg"
+              title="MACACAO PANTACOURT DETALHE ZIPER AZUL/BEGE"
+              alt="MACACAO PANTACOURT DETALHE ZIPER AZUL/BEGE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Macacao Pantacourt
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 749,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 524,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 87,48</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/macacao-pantacourt-detalhe-ziper-azul-bege-214606"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0px 0px" width="100%">
+            <mj-image
+              padding="40px 0px 0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=195"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_22-06_Progressiva-Junho/Email-MKT-ID_22-06%20email4-blusas.jpg" 
+              alt="Blusas"
+              title="Blusas"/>
+            <mj-image
+              padding="20px 0px 0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=211"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_22-06_Progressiva-Junho/Email-MKT-ID_22-06%20email4-vestidos.jpg" 
+              alt="Vestidos"
+              title="Vestidos"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

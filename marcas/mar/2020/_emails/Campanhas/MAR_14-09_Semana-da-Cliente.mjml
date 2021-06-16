@@ -1,0 +1,211 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Semana da Cliente"
+            title="Semana da Cliente"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Semana-da-Cliente/MAR_14-09_Semana-da-Cliente/MV_EmailMkt_Semana03-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="0">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="12px" padding="30px 0px" align="center" font-weight="500" line-height="17px" letter-spacing="1px" text-transform="uppercase">
+            Aproveite para renovar seu closet<br>
+            na semana da cliente!
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            width="600px"
+            padding="0"
+            alt="Progressiva: 30% 1 peça, 40% 2 peças, 50% 3 peças, 60% 4 peças, 70% 5 peças ou mais"
+            title="Modelo"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Semana-da-Cliente/MAR_14-09_Semana-da-Cliente/MV_EmailMkt_Semana03-meio.jpg" />
+        </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-boot-cut-m--valentina-cos-intermediario-compose-tecido-preto-221830/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/227057/12000203244000010-0-.jpg?v=637188537485100000"
+            title="Calca Boot Cut M. Valentina Cos Intermediario Compose Tecido Preto"
+            alt="Calca Boot Cut M. Valentina Cos Intermediario Compose Tecido Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Boot Cut M.<br> Valentina Cos Interm.
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,93
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/calca-boot-cut-m--valentina-cos-intermediario-compose-tecido-preto-221830/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-fio-metalizado-preto-225035/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/226922/12000203243000010-0-.jpg?v=637175411965100000"
+            title="T-Shirt Decote Redondo Com Fio Metalizado Preto"
+            alt="T-Shirt Decote Redondo Com Fio Metalizado Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Decote Redondo<br> Com Fio Metalizado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 389,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 54,58
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 272,93
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-fio-metalizado-preto-225035/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/bermuda-ciclista-detalhe-elastico-jeans-221817/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/226377/BERMUDA-CICLISTA-DETALHE-ELASTICO---LI-JEANS-ESCURO---34.jpg?v=637172370446570000"
+            title="Bermuda Ciclista Detalhe Elastico Jeans"
+            alt="Bermuda Ciclista Detalhe Elastico Jeans" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bermuda Ciclista Detalhe<br> Elastico Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 223,93
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/bermuda-ciclista-detalhe-elastico-jeans-221817/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-recorte-branco-221279/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/226914/12000203289000034-0-.jpg?v=637175391590470000"
+            title="T-Shirt Decote Redondo Com Recorte Branco"
+            alt="T-Shirt Decote Redondo Com Recorte Branco" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Decote Redondo<br> Com Recorte Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-recorte-branco-221279/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/lqda/vestidos"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Semana-da-Cliente/MAR_14-09_Semana-da-Cliente/MV_EmailMkt_Semana03-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/lqda/calcas"
+            width="600px"
+            padding="0"
+            alt="Calças"
+            title="Calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Semana-da-Cliente/MAR_14-09_Semana-da-Cliente/MV_EmailMkt_Semana03-calcas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Semana-da-Cliente/MAR_14-09_Semana-da-Cliente/MV_EmailMkt_Semana03-blusas.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

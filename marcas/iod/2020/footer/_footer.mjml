@@ -1,0 +1,190 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <!-- marcas -->
+    <mj-section padding="10px 0px 0px 0px">
+      <mj-column>
+        <mj-text
+          color="#999999"
+          font-weight="300"
+          font-size="14px"
+          align="center">
+          Conheça mais marcas do Grupo Morena Rosa
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-group width="50%">
+        <mj-column vertical-align="middle">
+          <mj-include path="../../../_shared/footer/logo/mor.mjml">
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-include path="../../../_shared/footer/logo/mar.mjml">
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="50%">
+        <mj-column vertical-align="middle">
+          <mj-include path="../../../_shared/footer/logo/zin.mjml">
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-include path="../../../_shared/footer/logo/leb.mjml">
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-divider padding="10px 0" border-width="5px" border-style="solid" border-color="#eeeeee" />
+      </mj-column>
+    </mj-section>
+    <!-- marcas -->
+
+    <!-- formas pagamento / social -->
+    <mj-section padding="10px 0px 0px 0px">
+      <mj-column>
+        <mj-text
+          color="#999999"
+          font-weight="300"
+          font-size="14px"
+          align="center">
+          Formas de pagamento
+        </mj-text>
+        <mj-image
+          alt="Formas de Pagamento"
+          padding="0px 0px 20px 0px"
+          width="150px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/footer/forma-pagamento/forma-pagamento.png" />
+      </mj-column>
+
+      <mj-column>
+        <mj-text
+          color="#999999"
+          font-weight="300"
+          font-size="14px"
+          align="center">
+          Nos acompanhe pelas redes sociais
+        </mj-text>
+        <mj-social mode="horizontal">
+          <mj-social-element
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/footer/social/facebook.png"
+            href="https://www.facebook.com/IODICEOFICIALBR"
+            alt="Facebook"
+            padding="10px"
+            icon-size="17px"
+            icon-height="35px">
+          </mj-social-element>
+          <mj-social-element
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/footer/social/instagram.png"
+            href="https://www.instagram.com/iodicebrasil"
+            alt="Instagram"
+            padding="10px"
+            icon-size="34px"
+            icon-height="35px">
+          </mj-social-element>
+          <mj-social-element
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/footer/social/youtube.png"
+            href="https://www.youtube.com/channel/UCfejNj1Xfus2cE2KnRP0b0Q"
+            alt="YouTube"
+            padding="10px"
+            icon-size="45px"
+            icon-height="35px">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-divider padding="10px 0" border-width="5px" border-style="solid" border-color="#eeeeee" />
+      </mj-column>
+    </mj-section>
+    <!-- formas pagamento / social -->
+
+    <!-- contato -->
+    <mj-section padding="0px 20px 10px 20px" text-align="left">
+      <mj-include path="../../../_shared/footer/contato/whats.mjml">
+    </mj-section>
+
+    <mj-section padding="0px 20px 10px 20px" text-align="left">
+      <mj-include path="../../../_shared/footer/contato/condicao-parcelamento.mjml">
+    </mj-section>
+
+    <mj-section padding="0px 20px 10px 20px" text-align="left">
+      <mj-include path="../../../_shared/footer/contato/frete.mjml">
+    </mj-section>
+    <!-- sac -->
+    <mj-section padding="0px 20px 10px 20px" text-align="left">
+      <mj-group>
+        <mj-column vertical-align="middle" width="25%">
+          <mj-image
+            padding="5px"
+            width="70px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/footer/contato/sac.png" />
+        </mj-column>
+        <mj-column vertical-align="middle" width="70%">
+          <mj-text css-class="sac" padding="0px" color="#999999" font-size="12px" line-height="18px">
+            <strong>SAC: </strong>Em caso de dúvidas, entre em contato.
+            </br>
+            <strong>Telefone: </strong>(11) 2388-0440
+            </br>
+            <strong>E-mail: </strong>
+              <a
+                style="color: #999999; text-decoration: underline;"
+                href="mailto:faleconosco@iodice.com.br"
+                title="Fale conosco">
+                faleconosco@iodice.com.br
+              </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- sac -->
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-divider padding="10px 0" border-width="5px" border-style="solid" border-color="#eeeeee" />
+      </mj-column>
+    </mj-section>
+    <!-- contato -->
+
+    <!-- endereco -->
+    <mj-section padding="20px 0px 0px 0px">
+      <mj-column vertical-align="middle" width="90%">
+        <mj-text align="center" padding="0px 10px" color="#999999" font-size="12px" line-height="18px">
+          Morena Rosa Indústria e Comércio de Confecções S/A - CNPJ 15.095.271/0005-79
+          <br />
+          Avenida das Fábricas, 412 BC e 462 ABC
+          <br />
+          Distrito Industrial Mitri Nabhan - Cianorte - Paraná
+          <br />
+          Telefone: (11) 2388-0440 - Todos os direitos reservados.
+          <br />
+        </mj-text>
+
+        <mj-text css-class="descadastrar" align="center" padding="30px 10px" color="#999999" font-size="12px" line-height="18px">
+          Deseja parar de receber nossos e-mails?
+          <a
+            style="color: #999999; text-decoration: underline;"
+            href="[unsubscribe]"
+            title="Descadastre-se">
+            Descadastre-se
+          </a>.
+        </mj-text>
+
+        <mj-text css-class="copy" align="center" padding="0px 10px" color="#999999" font-size="12px" line-height="18px">
+          © 2020 Iódice |
+          <a
+            style="color: #999999; text-decoration: underline;"
+            href="https://www.iodice.com.br"
+            title="Site Iódice">
+            iodice.com.br
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- endereco -->
+
+  </mj-body>
+</mjml>

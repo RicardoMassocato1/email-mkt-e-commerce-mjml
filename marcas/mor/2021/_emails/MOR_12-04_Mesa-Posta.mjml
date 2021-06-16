@@ -1,0 +1,78 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/roupas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_12-04_Mesa-Posta/Mesa%20Posta-topo.jpg"
+          alt="MR Mesa Posta"
+          title="MR Mesa Posta" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#916301">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="11px" padding="15px 20px 20px 20px" text-transform="uppercase" align="center" font-weight="400" line-height="18px" letter-spacing="2.5px">
+          compre R$ 999,00 e ganhe um kit de jogo americano para complementar as suas refeições e deixar os seus dias com muito mais estilo.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-transpassado-amarracao-cintura-estampado-248316"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_12-04_Mesa-Posta/Mesa%20Posta-01.jpg"
+          alt="Vestido Morena Rosa Curto Decote Transpassado Amarração Cintura Estampado"
+          title="Vestido Morena Rosa Curto Decote Transpassado Amarração Cintura Estampado" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/saia-morena-rosa-curta-linha-a-detalhe-ziper-azul-248275"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_12-04_Mesa-Posta/Mesa%20Posta-02.jpg"
+          alt="Saia Morena Rosa Curta Linha A Detalhe Zíper Azul"
+          title="Saia Morena Rosa Curta Linha A Detalhe Zíper Azul" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestido-morena-rosa-longo-decote-v-com-argola-preto-238796"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_12-04_Mesa-Posta/Mesa%20Posta-03.jpg"
+          alt="Vestido Morena Rosa Longo Decote V Com Argola Preto"
+          title="Vestido Morena Rosa Longo Decote V Com Argola Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 0" background-color="#000">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0" background-color="#916301">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

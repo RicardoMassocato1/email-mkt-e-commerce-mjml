@@ -1,0 +1,443 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/BannerWeb_50.jpg"
+            title="LQDA Progressiva"
+            alt="LQDA Progressiva" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text 
+            font-family= "Poppins, sans-serif" 
+            font-weight="500" 
+            padding="20px 0px 0px 0px" 
+            color="#000000" 
+            font-size="16px" 
+            align="center" 
+            line-height= "18px" 
+            letter-spacing= "0.2px">
+             <strong>Agora ou nunca!</strong> Aproveite a<br> progressiva pra renovar o closet!
+          </mj-text>
+          <mj-text align="center" padding="10px 0px 40px 0px">
+            <a
+              style="background-color:#000000; text-decoration: none; font-weight: 600; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/lqda"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda/feminino/blusas?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/Captura%20de%20Tela%202020-07-07%20%C3%A0s%2015.18.02-blusas.png"
+            title="Blusas"
+            alt="Blusas" />
+        </mj-column>  
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/blusa-gola-alta-manga-longa-compose-de-tecidos-marinho-221860/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/Blusa%20Gola%20Alta%20Manga%20Longa%20Compose%20De%20Tecidos%20Marinho.jpg"
+            title="Blusa Gola Alta Manga Longa Compose De Tecidos Marinho"
+            alt="Blusa Gola Alta Manga Longa Compose De Tecidos Marinho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Gola Alta Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 439,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">8x de R$54,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/blusa-gola-alta-manga-longa-compose-de-tecidos-marinho-221860/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/top-cropped-alca-detalhe-paete-preto-207411/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/Top%20Cropped%20Alca%20Detalhe%20Paete%20Preto.jpg"
+            title="Top Cropped Alca Detalhe Paete Preto"
+            alt="Top Cropped Alca Detalhe Paete Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Top Cropped Alca Detalhe Paete
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 239,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/top-cropped-alca-detalhe-paete-preto-207411/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/camisa-manga-curta-com-martingale-azul-221821/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/Camisa%20Manga%20Curta%20Com%20Martingale%20Azul.jpg"
+            title="Camisa Manga Curta Com Martingale Azul"
+            alt="Camisa Manga Curta Com Martingale Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Curta C/ Mart.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 279,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$55,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/camisa-manga-curta-com-martingale-azul-221821/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="35px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda/feminino/vestidos?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/Captura%20de%20Tela%202020-07-07%20%C3%A0s%2015.18.02-vestidos.png"
+            title="Vestidos"
+            alt="Vestidos" />
+        </mj-column>  
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/vestido-curto-decote-v-com-recorte-vermelho-223732/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/Vestido%20Curto%20Decote%20V%20Com%20Recorte%20Vermelho.jpg"
+            title="Vestido Curto Decote V Com Recorte Vermelho"
+            alt="Vestido Curto Decote V Com Recorte Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 619,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 495,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$55,10</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/vestido-curto-decote-v-com-recorte-vermelho-223732/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/vestido-midi-decote-v-compose-de-tecidos-preto-branco-218150/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/Vestido%20Midi%20Decote%20V%20Compose%20De%20Tecidos%20Preto-Branco.jpg"
+            title="Vestido Midi Decote V Compose De Tecidos Preto/Branco"
+            alt="Vestido Midi Decote V Compose De Tecidos Preto/Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 479,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 383,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$54,84</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/vestido-midi-decote-v-compose-de-tecidos-preto-branco-218150/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/chemise-curto-com-faixa-bordo-221544/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/Chemise%20Curto%20Com%20Faixa%20Bord%C3%B4.jpg"
+            title="Chemise Curto Com Faixa Bordô"
+            alt="Chemise Curto Com Faixa Bordô" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Chemise Curto Com Faixa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 351,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$50,27</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/chemise-curto-com-faixa-bordo-221544/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="40px 0px 10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda/masculino?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-07_LQDA/Captura%20de%20Tela%202020-07-08%20%C3%A0s%2010.11.18-masculino.png"
+            title="Masculino"
+            alt="Masculino" />
+        </mj-column>  
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

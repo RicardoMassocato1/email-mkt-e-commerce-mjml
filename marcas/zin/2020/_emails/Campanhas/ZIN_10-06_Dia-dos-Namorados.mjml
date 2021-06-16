@@ -1,0 +1,272 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/dia-dos-namorados"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_10-06_Dia-dos-Namorados/EmailMkt_01.png"
+            title="Dia dos Namorados"
+            alt="Dia dos Namorados" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text 
+            font-family= "Poppins, sans-serif" 
+            font-weight="600" 
+            padding="30px 0px 30px 0px" 
+            color="#000000" 
+            font-size="15px" 
+            align="center" 
+            line-height= "23px" 
+            letter-spacing= "1.2px">
+              Ainda não comprou o presente de quem<br> você gosta? Corre que dá tempo!
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/bata-gola-padre-com-botao-amarelo-226659/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_10-06_Dia-dos-Namorados/Bata%20Gola%20Padre%20Com%20Botao%20Amarelo.jpg"
+            title="Bata Gola Padre Com Botao Amarelo"
+            alt="Bata Gola Padre Com Botao Amarelo" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bata Gola Padre Com Botao Amarelo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">5x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/bata-gola-padre-com-botao-amarelo-226659/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/t-shirt-decote-redondo-com-transparencia-preto-227004/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_10-06_Dia-dos-Namorados/T-Shirt%20Decote%20Redondo%20Com%20Transparencia%20Preto.jpg"
+            title="T-Shirt Decote Redondo Com Transparencia Preto"
+            alt="T-Shirt Decote Redondo Com Transparencia Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote Redondo Com Transparencia
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">4x de R$ 57,47</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/t-shirt-decote-redondo-com-transparencia-preto-227004/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/calca-jogger-cos-alto-com-cordao-bege-227323/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_10-06_Dia-dos-Namorados/Calca%20Jogger%20Cos%20Alto%20Com%20Cordao%20Bege.jpg"
+            title="Calca Jogger Cos Alto Com Cordao Bege"
+            alt="Calca Jogger Cos Alto Com Cordao Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Jogger Cos Alto Com Cordao
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">8x de R$ 54,98</span>
+          </mj-text>
+          
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/calca-jogger-cos-alto-com-cordao-bege-227323/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/shorts-evase-com-argolas-vermelho-221982/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_10-06_Dia-dos-Namorados/Shorts%20Evase%20Com%20Argolas%20Vermelho.jpg"
+            title="Shorts Evase Com Argolas Vermelho"
+            alt="Shorts Evase Com Argolas Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Evase Com Argolas Vermelho
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">5x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/shorts-evase-com-argolas-vermelho-221982/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="20px 0px 0px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/feminino/vestidos?map=c,c"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_10-06_Dia-dos-Namorados/EmailMkt_02.png"
+            title="Vestidos"
+            alt="Vestidos" />
+          <mj-image
+            padding="20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/masculino/camisas?map=c,c"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_10-06_Dia-dos-Namorados/EmailMkt_03.png"
+            title="Camisas Masculinas"
+            alt="Camisas Masculinas" />
+          <mj-image
+            padding="0px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/feminino/blusas?map=c,c"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_10-06_Dia-dos-Namorados/EmailMkt_04.png"
+            title="Blusas"
+            alt="Blusas" />
+          <mj-image
+              padding="50px 0px 20px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/lancamento"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_10-06_Dia-dos-Namorados/EmailMkt_05.png"
+              title="Lançamento"
+              alt="Lançamento" />
+        </mj-column>  
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

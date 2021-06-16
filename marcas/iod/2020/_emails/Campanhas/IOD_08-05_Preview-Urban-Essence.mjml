@@ -1,0 +1,125 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Preview&pwaf_productClusterIds=222"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_08-05_Preview-Urban-Essence/Email-mkt2002.jpg" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px">
+      <mj-group>
+      
+        <mj-column padding="0 5px 25px 10px" width="50%">
+          <mj-image
+            align="center"
+            padding="0px 0px 0px 0px"
+            width="200px"
+            href="https://www.iodice.com.br/jaqueta-classica-premium-preto-230349"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_08-05_Preview-Urban-Essence/JAQUETA%20CLASSICA%20PREMIUM%20PRETO.jpg"
+            title="JAQUETA CLASSICA PREMIUM PRETO"
+            alt="JAQUETA CLASSICA PREMIUM PRETO" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Classica Premium 
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0px 0px 0px 0px">
+            <span style="display: block; padding: 10px 0">R$ 5.459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0px 0px 0px 0px">
+            <span style="display: block;">ou 12x R$ 454,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/jaqueta-classica-premium-preto-230349"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 10px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0px 0px 0px 0px"
+            width="200px"
+            href="https://www.iodice.com.br/saia-curta-envelope-premium-preto-230350"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_08-05_Preview-Urban-Essence/SAIA%20CURTA%20ENVELOPE%20PREMIUM%20PRETO.jpg"
+            title="SAIA CURTA ENVELOPE PREMIUM PRETO"
+            alt="SAIA CURTA ENVELOPE PREMIUM PRETO" />
+
+          <mj-text align="center" padding="0px 0px 0px 0px">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Premium
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 3.199,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0px 0px 0px 0px">
+            <span style="display: block;">ou 12x R$ 266,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/saia-curta-envelope-premium-preto-230350"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

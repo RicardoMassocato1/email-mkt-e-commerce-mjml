@@ -1,0 +1,265 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Preview&pwaf_productClusterIds=199"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/Lancamentos-Vestuario/IOD_31-03_Bicolor-Esportivo/01-EmailMKT.jpg" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+      <mj-group>
+        <mj-column>
+          <mj-image
+            title="Bicolores Esportivos"
+            padding="0px 0 30px 0"
+            align="left"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Preview&pwaf_productClusterIds=199"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/Lancamentos-Vestuario/IOD_31-03_Bicolor-Esportivo/05-EmailMKT.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" >
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#669999"
+            font-size="23px"
+            padding="0px 10px 0px 20px"
+            align="right"
+            font-weight="300"
+            line-height="1.1"
+            letter-spacing="1px">
+            Bicolores<br>Esportivos
+          </mj-text>
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#669999"
+            font-size="9.5px"
+            padding="7px 10px 9px 20px"
+            align="right"
+            font-weight="300">
+            Inspiradas pela tendência esportiva, peças bicolores se convertem em looks casuais perfeitos para momentos em que uma dose de sofisticação cool é buscada.
+          </mj-text>
+          <mj-text align="right">
+              <a
+                style="letter-spacing:1px;text-decoration: none; text-transform: uppercase; font-size: 9px; color: #669999; display: inline-block; margin-top: 0px; padding: 4px 15px; border: 1px solid #669999;"
+                href="https://www.mariavalentina.com.br/lancamento?O=OrderByReleaseDateDESC"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+        </mj-column>
+        </mj-group>
+      </mj-section>
+
+
+      <mj-section padding="0px 0px">
+        <mj-group>
+
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-alfaiataria-cos-intermediario-bicolor-bege-223868"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/Lancamentos-Vestuario/IOD_31-03_Bicolor-Esportivo/CALCA%20ALFAIATARIA%20COS%20INTERMEDIARIO%20BICOLOR%20BEGE.jpg"
+              title="CALCA ALFAIATARIA COS INTERMEDIARIO BICOLOR BEGE"
+              alt="CALCA ALFAIATARIA COS INTERMEDIARIO BICOLOR BEGE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                CALCA ALFAIATARIA COS
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 499,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 83,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.iodice.com.br/calca-alfaiataria-cos-intermediario-bicolor-bege-223868"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/vestido-midi-decote-v-compose-de-tecidos-bege-224898"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/Lancamentos-Vestuario/IOD_31-03_Bicolor-Esportivo/VESTIDO%20MIDI%20DECOTE%20V%20COMPOSE%20DE%20TECIDOS%20BEGE.jpg"
+              title="VESTIDO MIDI DECOTE V COMPOSE DE TECIDOS BEGE"
+              alt="VESTIDO MIDI DECOTE V COMPOSE DE TECIDOS BEGE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                VESTIDO MIDI DECOTE V
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 749,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 7x R$ 107,12</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.iodice.com.br/vestido-midi-decote-v-compose-de-tecidos-bege-224898"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/t-shirt-decote-v-com-retilinea-bege-224894"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/Lancamentos-Vestuario/IOD_31-03_Bicolor-Esportivo/T-SHIRT%20DECOTE%20V%20COM%20RETILINEA%20BEGE.jpg"
+              title="T-SHIRT DECOTE V COM RETILINEA BEGE"
+              alt="T-SHIRT DECOTE V COM RETILINEA BEGE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-SHIRT DECOTE V
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 319,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 53,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.iodice.com.br/t-shirt-decote-v-com-retilinea-bege-224894"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/shorts-linha-a-bicolor-estampado-nude-marinho-223724"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/Lancamentos-Vestuario/IOD_31-03_Bicolor-Esportivo/SHORTS%20LINHA%20A%20BICOLOR%20ESTAMPADO%20NUDE-MARINHO.jpg"
+              title="SHORTS LINHA A BICOLOR ESTAMPADO NUDE/MARINHO"
+              alt="SHORTS LINHA A BICOLOR ESTAMPADO NUDE/MARINHO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                SHORTS LINHA A BICOLOR
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 499,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 83,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.iodice.com.br/shorts-linha-a-bicolor-estampado-nude-marinho-223724"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

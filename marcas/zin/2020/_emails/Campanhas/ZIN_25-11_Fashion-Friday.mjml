@@ -1,0 +1,204 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-Friday/ofertas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_25-11_Fashion-Friday/MV_EmailMkt_02-topo.jpg"
+          alt="Fashion Friday"
+          title="Fashion Friday" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="16px" padding="10px 0px 10px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+          Renove o closet com lookinhos<br> para o verão com até
+        </mj-text>
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="32px" padding="10px 0px 20px 0px" align="center" font-weight="700" line-height="0px" letter-spacing="4px">
+          70% off!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/blusa-zinco-decote-v-alca-abertura-lateral-azul-218047/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/200672/BLUSA-DECOTE-V-ALCA-ABERTURA-LATERAL---LT-AZUL-BRANCO---PP.jpg?v=637111818373970000"
+            title="Blusa Zinco Decote V Alça Abertura Lateral Azul"
+            alt="Blusa Zinco Decote V Alça Abertura Lateral Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Zinco Decote V<br> Alça Abertura<br> Lateral Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/blusa-zinco-decote-v-alca-abertura-lateral-azul-218047/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/bata-zinco-decote-redondo-detalhe-lastex-laranja-218009/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/201478/BATA-DECOTE-REDONDO-DETALHE-LASTEX---ES-CORAL---P.jpg?v=637111901573330000"
+            title="Bata Zinco Decote Redondo Detalhe Lastex Laranja"
+            alt="Bata Zinco Decote Redondo Detalhe Lastex Laranja" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bata Zinco Decote<br> Redondo Detalhe<br> Lastex Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0px">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/bata-zinco-decote-redondo-detalhe-lastex-laranja-218009/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-zinco-boxer-detalhe-vivo-off-white-218243/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/201561/SHORTS-BOXER-DETALHE-VIVO---LI-OFF-WHITE---36.jpg?v=637111903457100000"
+            title="Shorts Zinco Boxer Detalhe Vivo Off White"
+            alt="Shorts Zinco Boxer Detalhe Vivo Off White" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Zinco Boxer<br> Detalhe Vivo Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 66,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 199,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/shorts-zinco-boxer-detalhe-vivo-off-white-218243/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macaquinho-zinco-gola-alta-bloco-de-cores-azul-218065/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/200772/MACAQUINHO-GOLA-ALTA-BLOCO-DE-CORES---CO-AZUL-CLARO-AZUL-ESCURO---PP.jpg?v=637111827532170000"
+            title="Macaquinho Zinco Gola Alta Bloco De Cores Azul"
+            alt="Macaquinho Zinco Gola Alta Bloco De Cores Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macaquinho Zinco Gola<br> Alta Bloco De Cores Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 579,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 57,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 289,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/macaquinho-zinco-gola-alta-bloco-de-cores-azul-218065/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/feminino/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_25-11_Fashion-Friday/MV_EmailMkt_02-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/feminino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_25-11_Fashion-Friday/MV_EmailMkt_02-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/feminino/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_25-11_Fashion-Friday/MV_EmailMkt_02-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

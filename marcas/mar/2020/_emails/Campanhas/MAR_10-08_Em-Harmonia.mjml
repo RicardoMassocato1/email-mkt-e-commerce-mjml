@@ -1,0 +1,193 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_10-08_Em-Harmonia/EmailMkt_01.png"
+            title="Lançamento"
+            alt="Lançamento" />
+          <mj-image
+            padding="40px 0px 10px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lancamento/blusas?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_10-08_Em-Harmonia/EmailMkt_02.png"
+            title="Blusas"
+            alt="Blusas" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-bordado-industrial-jeans-226580/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_10-08_Em-Harmonia/T-Shirt%20Decote%20Redondo%20Bordado%20Industrial%20Jeans.jpg" 
+            title="T-Shirt Decote Redondo Bordado Industrial Jeans" 
+            alt="T-Shirt Decote Redondo Bordado Industrial Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote Redondo<br> Bordado Industrial
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-bordado-industrial-jeans-226580/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/blusa-decote-redondo-manga-longa-basica-nude-228512/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_10-08_Em-Harmonia/Blusa%20Decote%20Redondo%20Manga%20Longa%20Basica%20Nude.jpg" 
+            title="Blusa Decote Redondo Manga Longa Basica Nude" 
+            alt="Blusa Decote Redondo Manga Longa Basica Nude" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo<br> Manga Longa Basica
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 52,84</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-redondo-manga-longa-basica-nude-228512/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-fio-metalizado-telha-227595/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_10-08_Em-Harmonia/T-Shirt%20Decote%20Redondo%20Com%20Fio%20Metalizado%20Telha.jpg" 
+            title="T-Shirt Decote Redondo Com Fio Metalizado Telha" 
+            alt="T-Shirt Decote Redondo Com Fio Metalizado Telha" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote Redondo<br> Com Fio Metalizado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 56,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-fio-metalizado-telha-227595/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-basica-vermelho-226324/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_10-08_Em-Harmonia/T-Shirt%20Decote%20Redondo%20Basica%20Vermelho.jpg" 
+            title="T-Shirt Decote Redondo Basica Vermelho" 
+            alt="T-Shirt Decote Redondo Basica Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote Redondo<br> Basica Vermelho
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-basica-vermelho-226324/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="25px 0px 10px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_10-08_Em-Harmonia/EmailMkt_05.png"
+            title="Em Harmonia"
+            alt="Em Harmonia" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

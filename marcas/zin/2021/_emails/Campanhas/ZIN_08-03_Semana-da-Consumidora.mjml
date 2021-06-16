@@ -1,0 +1,148 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/semana-da-consumidora?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_08-03_Semana-da-Consumidora/ZC_EmailMkt_01.jpg"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="right" color="#000" font-weight="400" font-size="15px" padding="130px 0 10px 0">
+            Macacão Zinco Flare<br> Com Botão Verde
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 579,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            8x de R$ 50,74
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 405,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/macacao-zinco-flare-com-botao-verde-232656/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="right" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-zinco-flare-com-botao-verde-232656/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212581/MACACAO-FLARE-COM-BOTAO---LT-VERDE---PP.jpg?v=637327752666000000"
+            title="Macacão Zinco Flare Com Botão Verde"
+            alt="Macacão Zinco Flare Com Botão Verde" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-longa-bordada-azul-224590/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/204228/BLUSA-DECOTE-REDONDO-MANGA-LONGA-BORDADA---LI-AZUL---PP.jpg?v=637172620168670000"
+            title="Blusa Zinco Decote Redondo Manga Longa Bordada Azul"
+            alt="Blusa Zinco Decote Redondo Manga Longa Bordada Azul" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="left" color="#000" font-weight="400" font-size="15px" padding="120px 0 10px 0">
+            Blusa Zinco Decote<br> Redondo Manga<br> Longa Bordada Azul
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="left" padding="0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 369,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            5x de R$ 51,78
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 258,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-longa-bordada-azul-224590/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="left" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="right" color="#000" font-weight="400" font-size="15px" padding="120px 0 10px 0">
+            Blusa Zinco Decote<br> Redondo Manga<br> Longa Com Cap...
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 479,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            6x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 335,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-longa-com-capuz-bege-221752/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="right" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-longa-com-capuz-bege-221752/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/206813/14000203382000046-0-.jpg?v=637173023759930000"
+            title="Blusa Zinco Decote Redondo Manga Longa Com Capuz Bege"
+            alt="Blusa Zinco Decote Redondo Manga Longa Com Capuz Bege" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="40px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_03-03_Tricot-de-Inverno/ZC_EmailMkt_02-topo.jpg"
+          alt="Lançamento Outono/Inverno 2021"
+          title="Lançamento Outono/Inverno 2021" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

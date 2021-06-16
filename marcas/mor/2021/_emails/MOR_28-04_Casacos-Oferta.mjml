@@ -1,0 +1,87 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#660703">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Oferta%20do%20Dia&pwaf_productClusterIds=366"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Jeans-Oferta/jeasn-01-min.jpg"
+          alt="Oferta do dia"
+          title="Oferta do dia" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#660703">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="12px" padding="20px 20px 20px 20px" text-transform="none" align="center" font-weight="400" line-height="18px" letter-spacing="2.5px">
+          Aproveite a nossa Oferta do Dia e garanta seu Jeans Morena Rosa com preços exclusivos de até R$299.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px" background-color="#000">
+    </mj-section>
+
+   <mj-section padding="20px 0px 0px 0px" background-color="#560502">
+      <mj-group>
+        <mj-column padding="0px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-slim-cropped-isadora-cos-alto-com-cinto-jeans-243492"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Jeans-Oferta/jeasn-10-min.jpg"
+            title="Calça Morena Rosa Slim Cropped Isadora Cós Alto Com Cinto Jeans"
+            alt="Calça Morena Rosa Slim Cropped Isadora Cós Alto Com Cinto Jeans" />
+        </mj-column>
+
+        <mj-column padding="50px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-slim-cropped-giane-cos-intermediario-ziper-lateral-jeans-243796"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Jeans-Oferta/jeasn-11-min.jpg"
+            title="Calça Morena Rosa Slim Cropped Giane Cós Intermediário Zíper Lateral Jeans"
+            alt="Calça Morena Rosa Slim Cropped Giane Cós Intermediário Zíper Lateral Jeans" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="40px 0px 30px 0px" background-color="#560502">
+      <mj-group>
+        <mj-column padding="0px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-mom-luisa-cos-alto-bordado-manual-jeans-243563"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Jeans-Oferta/jeasn-13-min.jpg"
+            title="Calça Morena Rosa Mom Luisa Cós Alto Bordado Manual Jeans"
+            alt="Calça Morena Rosa Mom Luisa Cós Alto Bordado Manual Jeans" />
+        </mj-column>
+
+        <mj-column padding="50px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-slim-cropped-isadora-cos-intermediario-cadarco-lateral-preto-243808"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Jeans-Oferta/jeasn-14-min.jpg"
+            title="Calça Morena Rosa Slim Cropped Isadora Cós Intermediário Cadarço Lateral Preto"
+            alt="Calça Morena Rosa Slim Cropped Isadora Cós Intermediário Cadarço Lateral Preto" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,83 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#233050">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/roupas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_15-04_Get-The-Trend/get%20the%20trend-topo.jpg"
+          alt="MR Jeans"
+          title="MR Jeans" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#233050">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="11.5px" padding="15px 25px 20px 25px" text-transform="uppercase" align="center" font-weight="400" line-height="18px" letter-spacing="2.5px">
+          O jeans é uma das principais apostas da temporada, ele protagoniza peças exclusivas de ousadas! Invista!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calca-morena-rosa-mom-luisa-cos-clochard-com-faixa-jeans-248206"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_15-04_Get-The-Trend/get%20the%20trend-01.jpg"
+          alt="Calça Morena Rosa Mom Luisa Cós Clochard Com Faixa Jeans"
+          title="Calça Morena Rosa Mom Luisa Cós Clochard Com Faixa Jeans" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/blusa-morena-rosa-gola-alta-manga-longa-tricot-azul-248982"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_15-04_Get-The-Trend/get%20the%20trend-02.jpg"
+          alt="Blusa Morena Rosa Gola Alta Manga Longa Tricot Azul"
+          title="Blusa Morena Rosa Gola Alta Manga Longa Tricot Azul" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/saia-morena-rosa-midi-reta-com-laser-jeans-248110"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_15-04_Get-The-Trend/get%20the%20trend-03.jpg"
+          alt="Saia Morena Rosa Midi Reta Com Laser Jeans"
+          title="Saia Morena Rosa Midi Reta Com Laser Jeans" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Roupas&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_15-04_Get-The-Trend/get%20the%20trend-rodape.jpg"
+          alt="lqda 30%OFF"
+          title="lqda 30%OFF" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0" background-color="#2f406b">
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

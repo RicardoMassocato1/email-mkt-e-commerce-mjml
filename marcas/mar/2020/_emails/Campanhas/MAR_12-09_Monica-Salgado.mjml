@@ -1,0 +1,147 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/monica-salgado"
+            width="600px"
+            padding="0"
+            alt="Lançamento Maria Valentina + Mônica Salgado"
+            title="Lançamento Maria Valentina + Mônica Salgado"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_12-09_Monica-Salgado/MV_EmailMkt_02-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="0">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="13px" padding="30px 10px" align="center" font-weight="400" line-height="17px" letter-spacing="1px">
+            <strong>Inspiradora, Mônica Salgado é jornalista e influencer digital.</strong><br>
+            Foi chefe de redação na Vogue, Diretora de<br> redação na Glamour e 
+            repórter na Rede Globo.
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 10px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            href="https://www.mariavalentina.com.br/blusa-decote-v-manga-3-4-detalhe-ziper-preto-235879/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_12-09_Monica-Salgado/MV_EmailMkt_02-01.jpg"
+            title="Blusa Decote V Manga 3/4 Detalhe Ziper Preto"
+            alt="Blusa Decote V Manga 3/4 Detalhe Ziper Preto" />
+
+          <mj-button href="https://www.mariavalentina.com.br/blusa-decote-v-manga-3-4-detalhe-ziper-preto-235879/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 10px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            href="https://www.mariavalentina.com.br/macacao-alfaiataria-com-faixa-rosa-235819/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_12-09_Monica-Salgado/MV_EmailMkt_02-02.jpg"
+            title="Macacao Alfaiataria Com Faixa Rosa"
+            alt="Macacao Alfaiataria Com Faixa Rosa" />
+          
+          <mj-button href="https://www.mariavalentina.com.br/macacao-alfaiataria-com-faixa-rosa-235819/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 10px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            href="https://www.mariavalentina.com.br/shorts-boxer-bolso-faca-nude-235837/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_12-09_Monica-Salgado/MV_EmailMkt_02-03.jpg"
+            title="Shorts Boxer Bolso Faca Nude"
+            alt="Shorts Boxer Bolso Faca Nude" />
+
+          <mj-button href="https://www.mariavalentina.com.br/shorts-boxer-bolso-faca-nude-235837/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 10px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            href="https://www.mariavalentina.com.br/chemise-longo-com-cinto-bege-235821/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_12-09_Monica-Salgado/MV_EmailMkt_02-04.jpg"
+            title="Chemise Longo Com Cinto Bege"
+            alt="Chemise Longo Com Cinto Bege" />
+
+          <mj-button href="https://www.mariavalentina.com.br/chemise-longo-com-cinto-bege-235821/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="0">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="13px" padding="30px 10px" align="center" font-weight="400" line-height="17px" letter-spacing="1px">
+            <strong>Highlights:</strong> peças marcantes, que trazem estampas étnicas como 
+            o paisley e cores fortes como o azul e o laranja para brilharem na temporada.
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 10px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            href="https://www.mariavalentina.com.br/colete-alongado-com-faixa-bege-235822/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_12-09_Monica-Salgado/MV_EmailMkt_02-05.jpg"
+            title="Colete Alongado Com Faixa Bege"
+            alt="Colete Alongado Com Faixa Bege" />
+
+          <mj-button href="https://www.mariavalentina.com.br/colete-alongado-com-faixa-bege-235822/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 10px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-abertura-lateral-azul-235883/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_12-09_Monica-Salgado/MV_EmailMkt_02-06.jpg"
+            title="T-Shirt Decote Redondo Abertura Lateral Azul"
+            alt="T-Shirt Decote Redondo Abertura Lateral Azul" />
+
+          <mj-button href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-abertura-lateral-azul-235883/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/monica-salgado"
+            width="600px"
+            padding="0"
+            alt="Confira a coleção completa Maria Valentina + Mônica Salgado"
+            title="Confira a coleção completa Maria Valentina + Mônica Salgado"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_12-09_Monica-Salgado/MV_EmailMkt_02rodape.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

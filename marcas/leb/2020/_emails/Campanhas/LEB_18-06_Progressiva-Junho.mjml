@@ -1,0 +1,318 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Brandon Text" href="https://fonts.googleapis.com/css?family=Brandon+Text:300,400,500,700&display=swap"/>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px">
+      <mj-group>
+        <mj-column padding="0px 10px 30px 10px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/"
+            width="600px"
+            padding="0"
+            alt="descontos progressivos"
+            title="descontos progressivos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_18-06_Progressiva-Junho/02-Email-MKT-topo.jpg" />
+        </mj-column>
+
+        <mj-column width="42%">
+          <mj-text
+            font-family= "Brandon Text, sans-serif"
+            color="#8900ee"
+            font-size="22px"
+            padding="75px 3px 0px 20px"
+            align="left"
+            line-height="19px"
+            font-weight="600">
+            urban<br> comfy<br><strong>-</strong>
+          </mj-text>
+          <mj-text
+            font-family= "Brandon Text, sans-serif"
+            color="#8900ee"
+            font-size="13px"
+            padding="0px 3px 0px 20px"
+            align="left"
+            line-height="14px"
+            font-weight="400">
+            o estilo urbano meets<br> comfy! peças perfeitas<br> para a temporada com<br> conforto extra.
+          </mj-text>
+          <mj-text align="left">
+              <a
+                style="letter-spacing:1px; text-decoration: none; font-weight:500; font-size: 12px; color: #ffffff; background-color: #8900ee; display: inline-block; padding: 5px 9px;"
+                href="https://www.leboh.com.br/lqda/"
+                title="shop now">
+                shop now
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column width="58%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/"
+            width="600px"
+            padding="0"
+            alt="leboh"
+            title="leboh"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_18-06_Progressiva-Junho/02-Email-MKT-img.jpg" />
+        </mj-column>
+
+        <mj-column padding="40px 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/shorts-boxer-detalhe-galao-azul-214730/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_18-06_Progressiva-Junho/Shorts%20Boxer%20Detalhe%20Galao%20Azul.jpg"
+              title="Shorts Boxer Detalhe Galao Azul"
+              alt="Shorts Boxer Detalhe Galao Azul" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Boxer Galao
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 179,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 125,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">2x de R$ 62,96</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/shorts-boxer-detalhe-galao-azul-214730/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="40px 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/shorts-boxer-amarracao-ilhos-jeans-210117/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_18-06_Progressiva-Junho/Shorts%20Boxer%20Amarracao%20Ilhos%20Jeans.jpg"
+              title="Shorts Boxer Amarracao Ilhos Jeans"
+              alt="Shorts Boxer Amarracao Ilhos Jeans" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Boxer Amarracao
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 159,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 111,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">2x de R$ 55,96</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/shorts-boxer-amarracao-ilhos-jeans-210117/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/shorts-comfort-bicolor-vermelho-220309/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_18-06_Progressiva-Junho/Shorts%20Comfort%20Bicolor%20Vermelho.jpg"
+              title="Shorts Comfort Bicolor Vermelho"
+              alt="Shorts Comfort Bicolor Vermelho" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Comfort Bicolor
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 229,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 160,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">3x de R$ 53,64</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/shorts-comfort-bicolor-vermelho-220309/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-pijama-cos-elastico-com-amarracao-azul-221413/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_18-06_Progressiva-Junho/Calca%20Pijama%20Cos%20Elastico%20Com%20Amarracao%20Azul.jpg"
+              title="Calca Pijama Cos Elastico Com Amarracao Azul"
+              alt="Calca Pijama Cos Elastico Com Amarracao Azul" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Pijama Cos Elastico
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 229,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 160,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">3x de R$ 53,64</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/calca-pijama-cos-elastico-com-amarracao-azul-221413/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 10px 30px 10px">
+      <mj-group>
+        <mj-column width="42%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_18-06_Progressiva-Junho/02-Email-MKT-vestidos.jpg" />
+        </mj-column>
+        <mj-column width="57.9%">
+          <mj-image
+            href="http://leboh.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_18-06_Progressiva-Junho/02-Email-MKT-blusas.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

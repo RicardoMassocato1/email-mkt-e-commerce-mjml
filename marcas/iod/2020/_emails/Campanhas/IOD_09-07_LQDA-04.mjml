@@ -1,0 +1,235 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 35px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?sort=-releaseDate&_t=LQDA&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_09-07_LQDA-04/iod-4-topo.jpg" 
+              alt="LQDA"
+              title="LQDA"/>
+              
+            <mj-divider padding="0px 30%" border-width="1.2px" border-style="solid" border-color="#b61622" />
+           
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#b61622"
+              font-size="15.5px"
+              padding="5px 0px 20px 0px"
+              align="center"
+              font-weight="400"
+              line-height="20px">
+              CASACOS PERFEITOS PARA ESTAÇÃO! 
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="right"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/blazer-alfaiataria-caramelo-208429"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_09-07_LQDA-04/BLAZER%20ALFAIATARIA%20CARAMELO.jpg"
+              title="BLAZER ALFAIATARIA CARAMELO"
+              alt="BLAZER ALFAIATARIA CARAMELO" />
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="left" padding="0">
+              <h1
+                style="font-family: Poppins, sans-serif; color: #b52034; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                BLAZER ALFAIATARIA<br> CARAMELO
+              </h1>
+            </mj-text>
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-top: 5px">R$ 729,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="700"
+              font-size="16px"
+              align="left"
+              padding="0">
+              <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 364,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 60,82</span>
+            </mj-text>
+
+            <mj-text align="left" padding="10px 0px">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+                href="https://www.iodice.com.br/blazer-alfaiataria-caramelo-208429"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="right" padding="0">
+              <h1
+                style="font-family: Poppins, sans-serif; color: #b52034; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                  PARKA COM RECORTE<br> ESTAMPADO
+              </h1>
+            </mj-text>
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-top: 5px">R$ 1219,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="700"
+              font-size="16px"
+              align="right"
+              padding="0">
+              <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 731,94</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 7x R$ 104,56</span>
+            </mj-text>
+
+            <mj-text align="right" padding="10px 0px">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+                href="https://www.iodice.com.br/parka-com-recorte-estampado-nude-marinho-223731"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="left"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/parka-com-recorte-estampado-nude-marinho-223731"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_09-07_LQDA-04/PARKA%20COM%20RECORTE%20ESTAMPADO%20NUDE-MARINHO.jpg"
+              title="PARKA COM RECORTE ESTAMPADO NUDE/MARINHO"
+              alt="PARKA COM RECORTE ESTAMPADO NUDE/MARINHO" />
+          </mj-column>
+
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="right"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/blazer-alfaiataria-preto-mostarda-223222"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_09-07_LQDA-04/BLAZER%20ALFAIATARIA%20PRETO-MOSTARDA.jpg"
+              title="BLAZER ALFAIATARIA PRETO/MOSTARDA"
+              alt="BLAZER ALFAIATARIA PRETO/MOSTARDA" />
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="left" padding="0">
+              <h1
+                style="font-family: Poppins, sans-serif; color: #b52034; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                BLAZER ALFAIATARIA<br> PRETO/MOSTARDA
+              </h1>
+            </mj-text>
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-top: 5px">R$ 769,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="700"
+              font-size="16px"
+              align="left"
+              padding="0">
+              <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 538,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 89,82</span>
+            </mj-text>
+
+            <mj-text align="left" padding="10px 0px">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+                href="https://www.iodice.com.br/blazer-alfaiataria-preto-mostarda-223222"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0px 0px" width="100%">
+            <mj-image
+              padding="30px 0px 0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?p=6&sort=-releaseDate&_t=LQDA&pwaf_productClusterIds=210"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_09-07_LQDA-04/iod-4-shorts.jpg" 
+              alt="Shorts"
+              title="Shorts"/>
+            <mj-image
+              padding="0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?p=6&_t=LQDA&pwaf_productClusterIds=195"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_09-07_LQDA-04/iod-4-blusas.jpg" 
+              alt="Blusas"
+              title="Blusas"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

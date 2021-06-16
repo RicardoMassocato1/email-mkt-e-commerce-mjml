@@ -1,0 +1,175 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#000">
+      <mj-column>
+        <mj-image
+          padding="60px 70px 0px 70px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calcados/?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=225&_t=Esquenta%20Fashion%20Friday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_27_10_Fashion-Friday/ESQUENTA%20BLACK%20FRIDAY-08-topo.jpg"
+          alt="Black Friday"
+          title="Black Friday" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#000">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#fff" font-size="18px" padding="20px 0px 0px 0px" align="center" font-weight="700" line-height="23px" letter-spacing="4px">
+          esquenta
+        </mj-text>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#fff" font-size="23px" padding="10px 0px 0px 0px" align="center" font-weight="300" line-height="23px" letter-spacing="3px">
+          Fashion Friday
+        </mj-text>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="13.5px" padding="15px 0px 30px 0px" align="center" font-weight="300" line-height="18px" letter-spacing="1.8px">
+          Shoes com até <strong>60% OFF!</strong> Aproveite!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 20px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calcados/?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=225&_t=Esquenta%20Fashion%20Friday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_27_10_Fashion-Friday/ESQUENTA%20BLACK%20FRIDAY-produto.jpg"
+          alt="Produtos"
+          title="Produtos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapatilha-bico-redondo-enfeite-personalizado-----------------marrom-220425"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/324187/SAPATILHA-BICO-REDONDO-ENFEITE-PERSONALIZADO---LI-MARFIM---34.jpg?v=637098143466070000"
+            title="Sapatilha Bico Redondo Enfeite Personalizado Marrom"
+            alt="Sapatilha Bico Redondo Enfeite Personalizado Marrom" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sapatilha Bico Redondo<br> Enfeite Personalizado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 199,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0 0px 0">
+            Por: R$ 79,96
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/sapatilha-bico-redondo-enfeite-personalizado-----------------marrom-220425" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #303e2f" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-salto-alto-detalhe-elastico-traseiro-preto-226166"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/338155/SANDALIA-SALTO-ALTO-DETALHE-ELASTICO-TRASEIRO---LI-PRETO---36.jpg?v=637172567824000000"
+            title="Sandalia Salto Alto Detalhe Elastico Traseiro Preto"
+            alt="Sandalia Salto Alto Detalhe Elastico Traseiro Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sandalia Salto Alto Detalhe<br> Elastico Traseiro 
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 339,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0 0px 0">
+            Por: R$ 95,17
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sandalia-salto-alto-detalhe-elastico-traseiro-preto-226166" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #303e2f" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 10px 0px" background-color="#000">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapato-loafer-bicolor----------------------------------------marrom-220440"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/324235/SAPATO-LOAFER-BICOLOR---LI-MARFIM---34.jpg?v=637098144210100000"
+            title="Sapato Loafer Bicolor Marrom"
+            alt="Sapato Loafer Bicolor Marrom" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sapato Loafer Bicolor<br> Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 269,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 53,98
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 107,96
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/sapato-loafer-bicolor----------------------------------------marrom-220440" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #303e2f" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tamanco-salto-fachete-rebite-personalizado-preto-226229"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/338435/TAMANCO-SALTO-FACHETE-REBITE-PERSONALIZADO---LI-PRETO---34.jpg?v=637172572890070000"
+            title="Tamanco Salto Fachete Rebite Personalizado Preto"
+            alt="Tamanco Salto Fachete Rebite Personalizado Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Tamanco Salto Fachete<br> Rebite Personalizado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 339,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 67,98
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 135,96
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/tamanco-salto-fachete-rebite-personalizado-preto-226229" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #303e2f" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

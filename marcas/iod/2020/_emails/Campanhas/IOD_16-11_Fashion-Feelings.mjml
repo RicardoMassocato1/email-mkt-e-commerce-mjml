@@ -1,0 +1,183 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Feelings&pwaf_productClusterIds=251"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_16-11_Fashion-Feelings/Artboard%201-topo.jpg"
+          alt="Fashion Feelings"
+          title="Fashion Feelings" />
+      </mj-column>
+    </mj-section> 
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 30px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Semana-da-Cliente/IOD_08-09_Semana-da-Cliente/Prancheta%201-01.jpg"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="uppercase" color="#000" font-size="15px" padding="5px 0px 20px 40px" align="left" font-weight="300" line-height="20px">
+          Garanta seus looks para a nova<br>
+          estação com até <strong>70% off!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-skinny-cos-intermediario-basica-jeans-228843"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/173149/CALCA-SKINNY-COS-INTERMEDIARIO-BASICA---LI-JEANS-ESCURO---36.jpg?v=637237639096730000"
+            title="CALÇA IÓDICE SKINNY CÓS INTERMEDIÁRIO BÁSICA JEANS"
+            alt="CALÇA IÓDICE SKINNY CÓS INTERMEDIÁRIO BÁSICA JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Iódice Skinny Cós<br> Intermediário Básica
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 61,23
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 244,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-skinny-cos-intermediario-basica-jeans-228843" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/regata-iodice-decote-redondo-com-sobreposicao-vermelho-230271"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174347/03-12-2019--ECOM-IODICE-20028317.jpg?v=637247974381200000"
+            title="REGATA IÓDICE DECOTE REDONDO COM SOBREPOSIÇÃO VERMELHO"
+            alt="REGATA IÓDICE DECOTE REDONDO COM SOBREPOSIÇÃO VERMELHO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Iódice Decote R.<br> Com Sobreposição
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 223,93
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/regata-iodice-decote-redondo-com-sobreposicao-vermelho-230271" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-curto-decote-v-com-pregas-preto-228904"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174397/03-12-2019--ECOM-IODICE-20029705.jpg?v=637250646630330000"
+            title="VESTIDO IÓDICE CURTO DECOTE V COM PREGAS PRETO"
+            alt="VESTIDO IÓDICE CURTO DECOTE V COM PREGAS PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Vestido Iódice Curto<br> Decote V com Pregas
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 769,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0 24px 0">
+            7x de R$ 109,98
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-curto-decote-v-com-pregas-preto-228904" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-iodice-curta-alfaiataria-com-recorte-preto-229029"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174389/03-12-2019--ECOM-IODICE-20029461.jpg?v=637250579380070000"
+            title="SAIA IÓDICE CURTA ALFAIATARIA COM RECORTE PRETO"
+            alt="SAIA IÓDICE CURTA ALFAIATARIA COM RECORTE PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Saia Iódice Curta Alfaiataria<br> Com Recorte Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 449,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 314,93
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/saia-iodice-curta-alfaiataria-com-recorte-preto-229029" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=239"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_16-11_Fashion-Feelings/Artboard%201-rodape.jpg"
+          alt="Lançamento"
+          title="Lançamento" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

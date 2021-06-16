@@ -1,0 +1,35 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            href="https://www.iodice.com.br/"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/dia-da-mulher-2020/01/topo-1.jpg" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            title="Descubra"
+            padding="50px 0 20px 0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Outono%252520Inverno&pwaf_productClusterIds=199"
+            width="485px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/dia-da-mulher-2020/01/topo-2.jpg" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../../../_shared/prod/_2x2.mjml" />
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,264 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Anivers%C3%A1rio%20MR&pwaf_productClusterIds=337"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Fevereiro/MOR_02-02_Anivers%C3%A1rio-MR/Anivers%C3%A1rio-Mr-.gif"
+          alt="Aniversário MR"
+          title="Aniversário MR" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="15px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_productClusterIds=308&_t=Lan%C3%A7amento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-topo.jpg"
+          alt="Casa Urbana - O abóbora em contraste com os tons de verde - com destaque para o acqua - são cores que se destacam na temporada."
+          title="Casa Urbana" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 20px 15px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-abobora.jpg"
+          alt="Abóbora"
+          title="Abóbora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-clochard-com-faixa-laranja-241203"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/361680/SHORTS-CLOCHARD-COM-FAIXA---LI-LARANJA---34.jpg?v=637381924122200000"
+            title="Shorts Morena Rosa Clochard Com Faixa Laranja"
+            alt="Shorts Morena Rosa Clochard Com Faixa Laranja" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena<br> Rosa Clochard<br> Com Faixa Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 53,31
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 319,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-clochard-com-faixa-laranja-241203" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#734627" border-radius="0px" border= "1.2px solid #694330" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-longo-decote-v-com-faixa-coral-240208"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/357695/VESTIDO-LONGO-DECOTE-V-COM-FAIXA---LI-CORAL---P.jpg?v=637377992822900000"
+            title="Vestido Morena Rosa Longo Decote V Com Faixa Coral"
+            alt="Vestido Morena Rosa Longo Decote V Com Faixa Coral" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena<br> Rosa Longo<br> Decote V Com...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            8x R$ 112,48
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 899,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-longo-decote-v-com-faixa-coral-240208" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#734627" border-radius="0px" border= "1.2px solid #694330" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-evase-basico-laranja-239615"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/356843/SHORTS-EVASE-BASICO---LI-LARANJA---36.jpg?v=637377974031130000"
+            title="Shorts Morena Rosa Evasê Básico Laranja"
+            alt="Shorts Morena Rosa Evasê Básico Laranja" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena<br> Rosa Evasê<br> Básico Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 53,31
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 319,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-evase-basico-laranja-239615" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#734627" border-radius="0px" border= "1.2px solid #694330" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 20px 15px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-acqua.jpg"
+          alt="Acqua"
+          title="Acqua" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-boxer-minha-morena-verde-243630"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/364175/SHORTS-BOXER-MINHA-MORENA---ES-ACQUA-OFF-WHITE---36.jpg?v=637425154523600000"
+            title="Shorts Morena Rosa Boxer Minha Morena Verde"
+            alt="Shorts Morena Rosa Boxer Minha Morena Verde" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena<br> Rosa Boxer Minha<br> Morena Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 53,31
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 319,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-boxer-minha-morena-verde-243630" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#734627" border-radius="0px" border= "1.2px solid #694330" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-reto-detalhe-bolso-azul-239025"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/360492/SHORTS-RETO-DETALHE-BOLSO---ES-OFF-WHITE-AZUL---M.jpg?v=637378521778700000"
+            title="Shorts Morena Rosa Reto Detalhe Bolso Azul"
+            alt="Shorts Morena Rosa Reto Detalhe Bolso Azul" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena<br> Rosa Reto<br> Detalhe Bols...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x R$ 62,47
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-reto-detalhe-bolso-azul-239025" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#734627" border-radius="0px" border= "1.2px solid #694330" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-redondo-bicolor-azul-241453"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/362794/VESTIDO-MIDI-DECOTE-REDONDO-BICOLOR---CO--ACQUA-AREIA---P.jpg?v=637387994758000000"
+            title="Vestido Morena Rosa Midi Decote Redondo Bicolor Azul"
+            alt="Vestido Morena Rosa Midi Decote Redondo Bicolor Azul" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena<br> Rosa Midi Decote<br> Redondo Bicolor...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 63,31
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 379,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-redondo-bicolor-azul-241453" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#734627" border-radius="0px" border= "1.2px solid #694330" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,85 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_ranking=-&_t=Best%20Sellers&pwaf_productClusterIds=263"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_16-06_Vermelhoe_e_Roxo/trend-01-min.jpg"
+          alt="Vermelho e Roxo"
+          title="Vermelho e Roxo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#d4cec0"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#3b3936" font-size="13.5px" padding="20px 25px 30px 25px" align="center" font-weight="400" line-height="20px" letter-spacing="1.1px">
+          A combinação de vermelho e roxo é muito linda e nada básica. Aposte nessa tendência e fique linda!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="15px 0" background-color="#fff">  
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#d4cec0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-redondo-duo-color-vermelho-252067"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_16-06_Vermelhoe_e_Roxo/trend-02-min.jpg"
+          alt="Regata Maria.Valentina Decote Redondo Duo Color Vermelho"
+          title="Regata Maria.Valentina Decote Redondo Duo Color Vermelho" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#d4cec0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/blusa-maria-valentina-decote-v-manga-curta-bicolor-roxo-251693"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_16-06_Vermelhoe_e_Roxo/trend-03-min.jpg"
+          alt="Blusa Maria.Valentina Decote V Manga Curta Bicolor Roxo"
+          title="Blusa Maria.Valentina Decote V Manga Curta Bicolor Roxo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#d4cec0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/bata-maria-valentina-decote-redondo-com-abertura-vermelho-252061/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_16-06_Vermelhoe_e_Roxo/trend-04-min.jpg"
+          alt="Bata Maria.Valentina Decote Redondo Com Abertura Vermelho"
+          title="Bata Maria.Valentina Decote Redondo Com Abertura Vermelho" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#d4cec0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_16-06_Vermelhoe_e_Roxo/trend-05-min.jpg"
+          alt=""
+          title="" />
+      </mj-column>
+    </mj-section>
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,54 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="0px 0px 30px 0px" background-color="#f5e9dd">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+            title="Progressivos com até 70% OFF"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_22-06_Progressiva_Junho/E-mail%20Mkt%20-%20Progressivos1-01-topo.jpg" />
+        </mj-column>
+        <mj-column padding="20px 32px 10px 32px" width="100%">
+          <mj-text font-family="Poppins, serif" color="#e64f44" font-size="12px" align="center" font-weight="400" line-height="22px" letter-spacing="1.5px" text-transform="uppercase">
+            <strong>qual cor favorece sua beleza?</strong><br> aproveite nossos desconteos e compre por cor:
+          </mj-text>
+        </mj-column>
+        <mj-column padding="30px 0px 20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171&pwaf_53=laranja"
+            alt="Laranja"
+            title="Laranja"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_22-06_Progressiva_Junho/E-mail%20Mkt%20-%20Progressivos1-01-laranja.jpg" />
+          <mj-image
+            padding="30px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171&pwaf_53=azul"
+            alt="Azul"
+            title="Azul"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_22-06_Progressiva_Junho/E-mail%20Mkt%20-%20Progressivos1-01-azul.jpg" />
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171&pwaf_53=preto"
+            alt="Preto"
+            title="Preto"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_22-06_Progressiva_Junho/E-mail%20Mkt%20-%20Progressivos1-01-preto.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

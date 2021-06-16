@@ -1,0 +1,86 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Dia%20das%20Mães&pwaf_productClusterIds=253"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_15-04_Dia-das-Maes/MV%20EMAISL%202-topo.jpg"
+          alt="Dia das Mães"
+          title="Dia das Mães" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/macacao-maria-valentina-reto-com-faixa-preto-246625"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_15-04_Dia-das-Maes/MV%20EMAISL%202-01.jpg"
+          alt="Macacão Maria.Valentina Reto Com Faixa Preto"
+          title="Macacão Maria.Valentina Reto Com Faixa Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/calca-maria-valentina-pantalona-cos-intermediario-detalhe-vivo-mostarda-preto-246533"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_15-04_Dia-das-Maes/MV%20EMAISL%202-02.jpg"
+          alt="Calça Maria.Valentina Pantalona Cós Intermediário Detalhe Vivo Mostarda/Preto"
+          title="Calça Maria.Valentina Pantalona Cós Intermediário Detalhe Vivo Mostarda/Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/vestido-maria-valentina-curto-decote-redondo-abertura-costas-amarelo-preto-247716"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_15-04_Dia-das-Maes/MV%20EMAISL%202-03.jpg"
+          alt="Vestido Maria.Valentina Curto Decote Redondo Abertura Costas Amarelo/Preto"
+          title="Vestido Maria.Valentina Curto Decote Redondo Abertura Costas Amarelo/Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/vestidos?pwaf_releaseDate=-&pwaf_productClusterIds=253&_t=Lan%C3%A7amento%20Cole%C3%A7%C3%A3o"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_15-04_Dia-das-Maes/MV%20EMAISL%202-rodape.jpg"
+          alt="Calor Invernal"
+          title="Calor Invernal" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#d4cec0"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#3d3936" font-size="13.2px" padding="30px 20px 25px 20px" align="center" font-weight="500" line-height="20px" letter-spacing="1.1px">
+          Ponto de luz da coleção, o amarelo vem para aquecer e trazer vivacidade aos dias frios. Estampas que conversam entre si e calças despojadas são essenciais no closet da mulher urbana que sabe como brilhar.
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+  
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

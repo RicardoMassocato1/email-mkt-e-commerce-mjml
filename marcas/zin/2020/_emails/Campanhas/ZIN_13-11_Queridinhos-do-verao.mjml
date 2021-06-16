@@ -1,0 +1,167 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/50off?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_10-11_Queridinhos-do-verao/Artboard%2012-topo.jpg"
+          alt="Queridinhos do Verão"
+          title="Queridinhos do Verão" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="14px" padding="20px 0px 0px 0px" align="center" font-weight="400" line-height="16px" letter-spacing="0px">
+          Cores para o verão! Aproveite nossa seleção:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-zinco-pantalona-com-faixa-bege-229543/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/208315/MACACAO-PANTALONA-COM-FAIXA---ES-AREIA---P.jpg?v=637250826800300000"
+            title="Macacão Zinco Pantalona Com Faixa Bege"
+            alt="Macacão Zinco Pantalona Com Faixa Bege" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacão Zinco Pantalona<br> Com Faixa Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 669,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 55,82
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 334,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/macacao-zinco-pantalona-com-faixa-bege-229543/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-zinco-curta-five-pockets-tinturada-coral-219813/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/201420/SAIA-CURTA-FIVE-POCKETS-TINTURADA---LI-CORAL---34.jpg?v=637111858174430000"
+            title="Saia Zinco Curta Five Pockets Tinturada Coral"
+            alt="Saia Zinco Curta Five Pockets Tinturada Coral" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Zinco Curta Five<br> Pockets Tinturada
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 97,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="7px 0px">
+            
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/saia-zinco-curta-five-pockets-tinturada-coral-219813/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-curta-amarracao-lateral-branco-226661/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/207612/BLUSA-DECOTE-REDONDO-MANGA-CURTA-AMARRACAO-LATERAL---ES-CRU---P.jpg?v=637250815176070000"
+            title="Blusa Zinco Decote Redondo Manga Curta Amarração Lateral Branco"
+            alt="Blusa Zinco Decote Redondo Manga Curta Amarração Lateral Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Zinco Decote<br> Redondo Manga Curta
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 249,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 124,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-curta-amarracao-lateral-branco-226661/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/colete-zinco-alongado-com-faixa-verde-226382/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/207238/COLETE-ALONGADO-COM-FAIXA---ES-VERDE---P.jpg?v=637250810211130000"
+            title="Colete Zinco Alongado Com Faixa Verde"
+            alt="Colete Zinco Alongado Com Faixa Verde" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Colete Zinco Alongado<br> Com Faixa Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 66,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 199,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/colete-zinco-alongado-com-faixa-verde-226382/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,160 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/semana-da-consumidora?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Mar%C3%A7o/LEB_08-03_Semana-da-Consumidora/Artboard%201%20copy.png"
+            alt="Semana da Consumidora"
+            title="Semana da Consumidora" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff"> 
+      <mj-column padding="15px 0px 50px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#000000" font-size="14.9px" padding="15px 0px 0px 40px" align= "left" font-weight="500" line-height="17px" letter-spacing="0.4px">
+          Você já deve saber que hoje<br>
+           comemoramos o Dia do Consumidor<br> 
+           não é? E por aqui somos mais<br> 
+           que gratos por te ajudar a expressar<br> 
+           seus sentimentos e personalidade<br> 
+           em looks irresistíveis! E para te<br> 
+           der sempre junto, preparamos<br> descontos imperdíveis. Olha só:
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-skinny-cos-alto-tradicional-jeans-233049/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189469/CALCA-SKINNY-COS-ALTO-TRADICIONAL---LI-JEANS-ESCURO---34.jpg?v=637332764384830000"
+            title="Calça Lebôh Skinny Cós Alto Tradicional Jeans"
+            alt="Calça Lebôh Skinny Cós Alto Tradicional Jeans" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Skinny Cós<br> Alto Tradicional Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            3x de R$ 59,96
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 179,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-leboh-skinny-cos-alto-tradicional-jeans-233049/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macacao-leboh-comfort-com-cinto-preto-233173/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188509/MACACAO-COMFORT-COM-CINTO---LI-PRETO---PP.jpg?v=637332745478630000"
+            title="Macacão Lebôh Comfort Com Cinto Preto"
+            alt="Macacão Lebôh Comfort Com Cinto Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacão Lebôh Comfort<br> Com Cinto Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/macacao-leboh-comfort-com-cinto-preto-233173/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-decote-redondo-cavada-basica-nude-234919/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189012/BLUSA-DECOTE-REDONDO-CAVADA-BASICA---CO-BEGE-PINK---PP.jpg?v=637332756014630000"
+            title="Blusa Lebôh Decote Redondo Cavada Básica Nude"
+            alt="Blusa Lebôh Decote Redondo Cavada Básica Nude" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Decote Redondo Cavada Básica Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            2x de R$ 59,95
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 119,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-decote-redondo-cavada-basica-nude-234919/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-v-amarracao-costas-rosa-234802/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188960/VESTIDO-MIDI-DECOTE-V-AMARRACAO-COSTAS---LI-PINK---PP.jpg?v=637332754940530000"
+            title="Vestido Lebôh Midi Decote V Amarração Costas Rosa"
+            alt="Vestido Lebôh Midi Decote V Amarração Costas Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Midi<br> Decote V Amarração<br> Costas Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 56,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 339,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-v-amarracao-costas-rosa-234802/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

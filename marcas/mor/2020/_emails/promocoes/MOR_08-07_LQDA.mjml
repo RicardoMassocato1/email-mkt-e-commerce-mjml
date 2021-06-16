@@ -1,0 +1,495 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px 40px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?p=7&_t=LQDA%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+            title="LQDA"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/LQDA-10-topo.jpg" />
+        </mj-column>
+    
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-assimetrico-decote-v-com-metal-rosa-222884"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/Vestido%20Assimetrico%20Decote%20V%20Com%20Metal%20Rosa.jpg"
+            title="Vestido Assimetrico Decote V Com Metal Rosa"
+            alt="Vestido Assimetrico Decote V Com Metal Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Assimetrico Decote
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 899,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 449,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 74,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;"
+              href="https://www.morenarosa.com.br/vestido-assimetrico-decote-v-com-metal-rosa-222884"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-renda-new-wishes-rosa-56439"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/Biquini%20Renda%20New%20Wishes%20Rosa.jpg"
+            title="Biquini Renda New Wishes Rosa"
+            alt="Biquini Renda New Wishes Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Biquini Renda New Wishes
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 79,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 39,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">1x de R$ 39,95</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;"
+              href="https://www.morenarosa.com.br/biquini-renda-new-wishes-rosa-56439"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-drapeado-new-wishes-rosa-56455"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/Biquini%20Drapeado%20New%20Wishes%20Rosa.jpg"
+            title="Biquini Drapeado New Wishes Rosa"
+            alt="Biquini Drapeado New Wishes Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Biquini Drapeado New Wishes
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 79,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 39,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">1x de R$ 39,95</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;"
+              href="https://www.morenarosa.com.br/biquini-drapeado-new-wishes-rosa-56455"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-mom-cos-alto-com-faixa---------------------------------rosa-218873"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/Calca%20Mom%20Cos%20Alto%20Com%20Faixa%20Rosa.jpg"
+            title="Calca Mom Cos Alto Com Faixa Rosa"
+            alt="Calca Mom Cos Alto Com Faixa Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Mom Cos Alto Com Faixa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 199,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 66,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;"
+              href="https://www.morenarosa.com.br/calca-mom-cos-alto-com-faixa---------------------------------rosa-218873"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0px 0px 40px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/fitness"
+            title="Beleza Total"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/Living-%2B-Ox---E-mail-mkt-banner-topo.jpg" />
+        </mj-column>
+    
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/jaqueta-esportiva-dupla-face-branco-vermelho-223970"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/Jaqueta%20Esportiva%20Dupla%20Face%20Branco-Vermelho.jpg"
+            title="Jaqueta Esportiva Dupla Face Branco/Vermelho"
+            alt="Jaqueta Esportiva Dupla Face Branco/Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Esportiva Dupla Face
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 529,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 317,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 52,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;"
+              href="https://www.morenarosa.com.br/jaqueta-esportiva-dupla-face-branco-vermelho-223970"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-decote-v-manga-longa-torcao-frente-preto-224397"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/Body%20Decote%20V%20Manga%20Longa%20Torcao%20Frente%20Preto.jpg"
+            title="Body Decote V Manga Longa Torcao Frente Preto"
+            alt="Body Decote V Manga Longa Torcao Frente Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Body Decote V Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 179,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;"
+              href="https://www.morenarosa.com.br/body-decote-v-manga-longa-torcao-frente-preto-224397"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/top-cropped-nadador-basico-marinho-206038"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/Top%20Cropped%20Nadador%20Basico%20Marinho.jpg"
+            title="Top Cropped Nadador Basico Marinho"
+            alt="Top Cropped Nadador Basico Marinho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Top Cropped Nadador Basico
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 159,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 127,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">2x de R$ 63,96</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;"
+              href="https://www.morenarosa.com.br/top-cropped-nadador-basico-marinho-206038"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-legging-cos-elastico-jateada-cinza-192591"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_08-07_LQDA/Calca%20Legging%20Cos%20Elastico%20Jateada%20Cinza.jpg"
+            title="Calca Legging Cos Elastico Jateada Cinza"
+            alt="Calca Legging Cos Elastico Jateada Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Legging Cos Elastico Jateada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 329,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 197,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 65,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;"
+              href="https://www.morenarosa.com.br/calca-legging-cos-elastico-jateada-cinza-192591"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

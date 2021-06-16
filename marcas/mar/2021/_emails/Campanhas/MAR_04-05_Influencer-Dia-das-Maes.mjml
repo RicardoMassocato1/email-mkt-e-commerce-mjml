@@ -1,0 +1,96 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Dia%20das%20M%C3%A3es&pwaf_productClusterIds=257"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_04-05_Influencer-Dia-das-Maes/M%C3%A3e_%20Ess%C3%AAncia%20que%20Inspira%20%26%20Influencers%20-topo-min.jpg"
+          alt="Maria Valentina + Acqua Aroma"
+          title="Maria Valentina + Acqua Aroma" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#3b3936" font-size="12.5px" padding="10px 25px 25px 25px" align="center" font-weight="400" line-height="20px" letter-spacing="1.1px">
+          Estamos apaixonadas com os looks escolhidos por nossas influencers preferidas! Veja as escolhas da Duda Portella, Mariah e Laura Braz!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=253&_t=She%20Looks%20Like%20Sun"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_04-05_Influencer-Dia-das-Maes/M%C3%A3e_%20Ess%C3%AAncia%20que%20Inspira%20%26%20Influencers-01-min.jpg"
+          alt="She Looks Like Sun"
+          title="She Looks Like Sun" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/saia-maria-valentina-midi-assimetrica-com-nervuras-marrom-252365/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_04-05_Influencer-Dia-das-Maes/M%C3%A3e_%20Ess%C3%AAncia%20que%20Inspira%20%26%20Influencers%20-01-min.jpg"
+          alt="Saia Maria.Valentina Midi Assimétrica Com Nervuras Marrom"
+          title="Saia Maria.Valentina Midi Assimétrica Com Nervuras Marrom" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/camisa-maria-valentina-manga-longa-abertura-lateral-mostarda-228114/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_04-05_Influencer-Dia-das-Maes/M%C3%A3e_%20Ess%C3%AAncia%20que%20Inspira%20%26%20Influencers%20-02-min.jpg"
+          alt="Camisa Maria.Valentina Manga Longa Abertura Lateral Mostarda"
+          title="Camisa Maria.Valentina Manga Longa Abertura Lateral Mostarda" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/macacao-maria-valentina-alfaiataria-com-pregas-vermelho-251845"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_04-05_Influencer-Dia-das-Maes/M%C3%A3e_%20Ess%C3%AAncia%20que%20Inspira%20%26%20Influencers%20-03-min.jpg"
+          alt="Macacão Maria.Valentina Alfaiataria Com Pregas Vermelho"
+          title="Macacão Maria.Valentina Alfaiataria Com Pregas Vermelho" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-redondo-com-abotoamento-xadrez-preto-252951"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_04-05_Influencer-Dia-das-Maes/M%C3%A3e_%20Ess%C3%AAncia%20que%20Inspira%20%26%20Influencers%20-04-min.jpg"
+          alt="Vestido Maria.Valentina Midi Decote Redondo Com Abotoamento Xadrez Preto"
+          title="Vestido Maria.Valentina Midi Decote Redondo Com Abotoamento Xadrez Preto" />
+      </mj-column>
+    </mj-section>
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

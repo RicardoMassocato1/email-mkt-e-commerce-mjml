@@ -1,0 +1,314 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/masculino/camisas?map=c,c"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_07-07_LQDA/Captura%20de%20Tela%202020-07-07%20%C3%A0s%2010.09.56-topo.png"
+            title="LQDA"
+            alt="LQDA" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text 
+            font-family= "Poppins, sans-serif" 
+            font-weight="500" 
+            padding="30px 0px 0px 0px" 
+            color="#000000" 
+            font-size="13px" 
+            align="center" 
+            line-height= "18px" 
+            letter-spacing= "0.2px">
+              Hora de renovar o guarda roupa<br> com peças novas!
+          </mj-text>
+          <mj-text align="center" padding="10px 0px 30px 0px" >
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/masculino/camisas?map=c,c"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/camisa-manga-curta-estampada-azul-escuro-224345/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_07-07_LQDA/Camisa%20Manga%20Curta%20Estampada%20Azul%20Escuro.jpg"
+            title="Camisa Manga Curta Estampada Azul Escuro"
+            alt="Camisa Manga Curta Estampada Azul Escuro" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Curta Estampada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 149,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">2x de R$ 74,97</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/camisa-manga-curta-estampada-azul-escuro-224345/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/camisa-manga-curta-estampada-amarelo-213054/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_07-07_LQDA/Camisa%20Manga%20Curta%20Estampada%20Amarelo.jpg"
+            title="Camisa Manga Curta Estampada Amarelo"
+            alt="Camisa Manga Curta Estampada Amarelo" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Curta Estampada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 139,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">2x de R$ 69,97</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/camisa-manga-curta-estampada-amarelo-213054/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/camisa-manga-curta-com-bolso-cinza-213057/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_07-07_LQDA/Camisa%20Manga%20Curta%20Com%20Bolso%20Cinza.jpg"
+            title="Camisa Manga Curta Com Bolso Cinza"
+            alt="Camisa Manga Curta Com Bolso Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Curta Com Bolso
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 149,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">2x de R$ 74,97</span>
+          </mj-text>
+          
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/camisa-manga-curta-com-bolso-cinza-213057/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/camisa-manga-longa-com-bolso-dourado-213040/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_07-07_LQDA/Camisa%20Manga%20Longa%20Com%20Bolso%20Dourado.jpg"
+            title="Camisa Manga Longa Com Bolso Dourado"
+            alt="Camisa Manga Longa Com Bolso Dourado" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa Com Bolso
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 419,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 209,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">4x de R$ 52,48</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/camisa-manga-longa-com-bolso-dourado-213040/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="20px 0px 0px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/masculino/calcas?map=c,c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_07-07_LQDA/Captura%20de%20Tela%202020-07-07%20%C3%A0s%2010.09.56-masculinos.png"
+            title="Calças"
+            alt="Calças" />
+          <mj-image
+            padding="20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/masculino/camisetas?map=c,c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_07-07_LQDA/Captura%20de%20Tela%202020-07-07%20%C3%A0s%2010.09.56masulinos-01.png"
+            title="Camisetas"
+            alt="Camisetas" />
+          <mj-image
+            padding="0px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/masculino/bermudas?map=c,c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_07-07_LQDA/Captura%20de%20Tela%202020-07-07%20%C3%A0s%2010.09.56-masculinos-02.png"
+            title="Bermudas"
+            alt="Bermudas" />
+        </mj-column>  
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

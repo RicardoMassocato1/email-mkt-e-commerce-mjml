@@ -1,0 +1,143 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 20px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Ano%20Novo&pwaf_productClusterIds=256"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_07-12_New-Wishes/IOD-newwhises-EmailMKT.jpg"
+          alt="New Wishes"
+          title="New Wishes" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-cenoura-cos-alto-detalhe-barra-off-white-240083"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178609/CALCA-CENOURA-COS-ALTO-DETALHE-BARRA---LI-OFF-WHITE---38.jpg?v=637378566296470000"
+            title="CALÇA IÓDICE CENOURA CÓS ALTO DETALHE BARRA OFF WHITE"
+            alt="CALÇA IÓDICE CENOURA CÓS ALTO DETALHE BARRA OFF WHITE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Cenoura Cós<br> Alto Detalhe Barra<br> Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            8x de R$ 112,48
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 899,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-cenoura-cos-alto-detalhe-barra-off-white-240083" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-midi-decote-v-com-faixa-off-white-235674"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175713/VESTIDO-MIDI-DECOTE-V-COM-FAIXA---LI-OFF-WHITE---P.jpg?v=637327711184130000"
+            title="VESTIDO IÓDICE MIDI DECOTE V COM FAIXA OFF WHITE"
+            alt="VESTIDO IÓDICE MIDI DECOTE V COM FAIXA OFF WHITE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Iódice Midi<br> Decote V Com Faixa<br>Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 102,21
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 919,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-midi-decote-v-com-faixa-off-white-235674" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-iodice-curta-linha-a-detalhe-ziper-branco-dourado-241978"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178283/SAIA-CURTA-LINHA-A-DETALHE-ZIPER---LI-DOURADO---40.jpg?v=637378477831000000"
+            title="SAIA IÓDICE CURTA LINHA A DETALHE ZÍPER BRANCO/DOURADO"
+            alt="SAIA IÓDICE CURTA LINHA A DETALHE ZÍPER BRANCO/DOURADO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Iódice Curta Linha<br> A Detalhe Zíper<br> Branco/Dourado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            12x de R$ 312,49
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 3.749,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/saia-iodice-curta-linha-a-detalhe-ziper-branco-dourado-241978" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/regata-iodice-decote-v-detalhe-cruzado-costa-off-white-238680"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178025/REGATA-DECOTE-V-DETALHE-CRUZADO-COSTA---LI-OFF-WHITE---P.jpg?v=637378470541170000"
+            title="REGATA IÓDICE DECOTE V DETALHE CRUZADO COSTA OFF WHITE"
+            alt="REGATA IÓDICE DECOTE V DETALHE CRUZADO COSTA OFF WHITE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Iódice Decote V<br> Detalhe Cruzado Costa<br> Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/regata-iodice-decote-v-detalhe-cruzado-costa-off-white-238680" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

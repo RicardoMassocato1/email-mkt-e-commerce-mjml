@@ -1,0 +1,292 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-section padding="0px 0px 15px 0px">
+      <mj-group>
+        <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\_shared\header\top-bar.mjml">
+      </mj-group>
+    </mj-section>
+        <mj-section padding="0" background-color="#aa6346">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            morenarosa.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://www.morenarosa.com.br"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_24-03_Out-Now/Topo-10%25%20off%20E-commerce.jpg"
+            title="Desconto CLUBEBR"
+            alt="Desconto CLUBEBR" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../header/_header-lancamento.mjml" />
+      <!--topo -->
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/lingerie?sort=OrderByReleaseDateDESC"
+            title="Sleep Time"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/Lan%C3%A7amentos-Vestu%C3%A1rio/MOR_09-04_Sleep-Time/topo.jpg" />
+        </mj-column>
+      </mj-section>
+      <!--topo -->
+
+      <mj-section padding="30px 0px">
+        <mj-group>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/kimono-curto-com-amarracao-branco-amarelo-212642"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/Lan%C3%A7amentos-Vestu%C3%A1rio/MOR_09-04_Sleep-Time/01.jpg"
+              title="Kimono Curto Com Amarracao Branco/Amarelo"
+              alt="Kimono Curto Com Amarracao Branco/Amarelo" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Kimono Curto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 349,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 174,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 3x R$ 58,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/kimono-curto-com-amarracao-branco-amarelo-212642"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/shorts-doll-manga-longa-funcional-dourado-212613"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/Lan%C3%A7amentos-Vestu%C3%A1rio/MOR_09-04_Sleep-Time/02.jpg"
+              title="Shorts Doll Manga Longa Funcional Dourado"
+              alt="Shorts Doll Manga Longa Funcional Dourado" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Doll Manga Longa
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 419,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 209,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 4x R$ 52,48</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/shorts-doll-manga-longa-funcional-dourado-212613"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/sutia-estruturado-com-renda-preto-209748"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/Lan%C3%A7amentos-Vestu%C3%A1rio/MOR_09-04_Sleep-Time/03.jpg"
+              title="Sutia Estruturado Com Renda Preto"
+              alt="Sutia Estruturado Com Renda Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Sutia Estruturado Renda
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 159,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 79,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 1x R$79,95</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="hhttps://www.morenarosa.com.br/sutia-estruturado-com-renda-preto-209748"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/calcinha-cavada-redutora-preto-196677"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/Lan%C3%A7amentos-Vestu%C3%A1rio/MOR_09-04_Sleep-Time/04.jpg"
+              title="Calcinha Cavada Redutora Preto"
+              alt="Calcinha Cavada Redutora Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calcinha Cavada Redutora
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 21px"></span>
+            </mj-text>
+      
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 139,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 2x R$ 69,95</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/calcinha-cavada-redutora-preto-196677"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,297 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="0px 0px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA&pwaf_productClusterIds=170"
+        title="LQDA"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_18-08_LQDA/emailmkt_LQDA-INTIMATES-topo.jpg" />
+    </mj-column>
+
+    <mj-section padding="25px 0px 22px 0px" background-color="#ce3a46">
+      <mj-column padding="0px 0px" width="100%">
+          <mj-text font-family="Roboto, sans-serif" color="#ffffff" font-size="20.5px" padding="0px 0px" align="center" font-weight="700" line-height="25px" letter-spacing="4px">
+            <a style="text-shadow:#ffffff 0.5px -0.5px, #ffffff -0.5px 0.5px, #ffffff 0.5px 0.5px, #ffffff -0.5px -0.5px; color: #ce3a46;">LINGERIES ATÉ 50% OFF</a>
+          </mj-text>
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 14px; border: 1px solid #ffffff; letter-spacing:1.5px"
+              href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA&pwaf_productClusterIds=170"
+              title="EU QUERO">
+              EU QUERO
+            </a>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px">
+      <mj-group>
+
+        <mj-column padding="0 5px 15px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calecon-fio-detalhe-renda-preto-209754"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/315845/CALECON-FIO-DETALHE-RENDA---ES-FLORAL-PRETO---P.jpg?v=637060877443200000"
+            title="Calecon Fio Detalhe Renda Preto"
+            alt="Calecon Fio Detalhe Renda Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calecon Fio Detalhe<br> Renda Preto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <text style="text-decoration: line-through;">R$ 89,90</text>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">Por: R$ 44,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;"></span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/calecon-fio-detalhe-renda-preto-209754"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 15px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/soutien-lace-if-branco-dourado-56548"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/232485/SOUTIEN-LACE-IF---LI-DOURADO---42.jpg?v=636604160872900000"
+            title="Soutien Lace If Branco/Dourado"
+            alt="Soutien Lace If Branco/Dourado" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Soutien Lace If<br> Branco/Dourado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <text style="text-decoration: line-through;">R$ 155,90</text>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">Por: R$ 77,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;"></span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/soutien-lace-if-branco-dourado-56548"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-tomara-que-caia-fio-vermelho-196671"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/315692/BODY-TOMARA-QUE-CAIA-FIO---LI-VERMELHO-GRANADA---48.jpg?v=637060874212370000"
+            title="Body Tomara Que Caia Fio Vermelho"
+            alt="Body Tomara Que Caia Fio Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Body Tomara Que Caia<br> Fio Vermelho
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <text style="text-decoration: line-through;">R$ 269,90</text>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">2x de R$ 67,47</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 134,95</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/body-tomara-que-caia-fio-vermelho-196671"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/camisola-curta--new-wishes-branco-56467"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/213081/CAMISOLA-CURTA--NEW-WISHES---LI-BRANCO---P.jpg?v=636552563029200000"
+            title="Camisola Curta New Wishes Branco"
+            alt="Camisola Curta New Wishes Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisola Curta New<br> Wishes Branco
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <text style="text-decoration: line-through;">R$ 309,90</text>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">3x de R$ 51,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 154,95</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/camisola-curta--new-wishes-branco-56467"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="40px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/vestidos/?_t=LQDA&pwaf_productClusterIds=171"
+            title="Vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_18-08_LQDA/emailmkt_LQDA-INTIMATES-vestidos.jpg" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/jeans/calcas/?_t=LQDA&pwaf_productClusterIds=171"
+            title="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_18-08_LQDA/emailmkt_LQDA-INTIMATES-calcas.jpg" />
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/vestuario/blusas/?_t=LQDA&pwaf_productClusterIds=171"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_18-08_LQDA/emailmkt_LQDA-INTIMATES-blusas.jpg" />
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

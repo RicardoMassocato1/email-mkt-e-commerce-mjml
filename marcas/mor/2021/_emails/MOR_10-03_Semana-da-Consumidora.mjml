@@ -1,0 +1,164 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=semana%20da%20consumidora&pwaf_productClusterIds=354"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Mar%C3%A7o/MOR_10-03_Semana-da-Consumidora/Semana%20da%20Consumidodra-06.jpg"
+          alt="Semana da Consumidora - MR Shoes"
+          title="Semana da Consumidora - MR Shoes" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#802425" font-size="14px" padding="30px 20px 20px 20px" align="center" font-weight="400" line-height="22px" letter-spacing="1px">
+          Calçados são a nossa paixão né? A estação das nossas Botas está chegando e as Sandálias nunca perdem espaço. E na Semana da Consumidora você tem os melhores desconto. Você vai perder?
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=semana%20da%20consumidora&pwaf_productClusterIds=354" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="400" font-size="14px" padding="0px 0px 10px 0px" background-color="#802425" color="#fff" border-radius="0px" border= "1.2px solid #802425" target="_blank"><span style="letter-spacing:1px">SHOP NOW</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bota-morena-rosa-cano-curto-salto-medio-enfeite-emborrachado-preto-225977"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/346319/BOTA-CANO-CURTO-SALTO-MEDIO-ENFEITE-EMBORRACHADO---LI-PRETO---34.jpg?v=637238803343430000"
+            title="Bota Morena Rosa Cano Curto Salto Médio Enfeite Emborrachado Preto"
+            alt="Bota Morena Rosa Cano Curto Salto Médio Enfeite Emborrachado Preto" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bota Morena Rosa Cano<br> Curto Salto Médio Enfeite<br> Emborrachado Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 66,65
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 399,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/bota-morena-rosa-cano-curto-salto-medio-enfeite-emborrachado-preto-225977" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bota-morena-rosa-cano-medio-salto-alto-com-recorte-marrom-226138"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/347087/BOTA-CANO-MEDIO-SALTO-ALTO-COM-RECORTE---LI-CAPUCCINO---34.jpg?v=637238815028870000"
+            title="Bota Morena Rosa Cano Médio Salto Alto Com Recorte Marrom"
+            alt="Bota Morena Rosa Cano Médio Salto Alto Com Recorte Marrom" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bota Morena Rosa Cano<br> Médio Salto Alto Com<br> Recorte Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 76,65
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/bota-morena-rosa-cano-medio-salto-alto-com-recorte-marrom-226138" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 10px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/scarpin-morena-rosa-salto-medio-liso-preto-225984"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/337211/SCARPIN-SALTO-MEDIO-LISO---LI-PRETO---34.jpg?v=637172552736030000"
+            title="Scarpin Morena Rosa Salto Médio Liso Preto"
+            alt="Scarpin Morena Rosa Salto Médio Liso Preto" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Scarpin Morena Rosa<br> Salto Médio Liso Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 319,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/scarpin-morena-rosa-salto-medio-liso-preto-225984" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-morena-rosa-salto-alto-ziper-traseiro-marrom-226155"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/337787/SANDALIA-SALTO-ALTO-ZIPER-TRASEIRO---LI-CAPUCCINO---34.jpg?v=637172561948670000"
+            title="Sandalia Morena Rosa Salto Alto Zíper Traseiro Marrom"
+            alt="Sandalia Morena Rosa Salto Alto Zíper Traseiro Marrom" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sandalia Morena Rosa<br> Salto Alto Zíper Trasei...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 54,98
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 329,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sandalia-morena-rosa-salto-alto-ziper-traseiro-marrom-226155" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Lan%C3%A7amento&pwaf_productClusterIds=347"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Fevereiro/MOR_22-02_Lancamento-Outono-Inverno-2021/Email%20MKT_1-topo.jpg"
+          alt="Lançamento Outono/Inverno 2021"
+          title="Lançamento Outono/Inverno 2021" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

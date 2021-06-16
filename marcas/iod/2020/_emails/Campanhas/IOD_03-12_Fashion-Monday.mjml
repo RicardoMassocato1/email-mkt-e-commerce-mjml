@@ -1,0 +1,177 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=251"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_03-12_Fashion-Monday/Artboard%201%20copy-topo.jpg"
+          alt="Fashion Monday"
+          title="Fashion Monday" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="'Poppins', sans-serif" text-transform="Uppercase" color="#000" font-size="14.5px" padding="15px 0px 0px 50px" align="left" font-weight="700" line-height="13px">
+          Não aproveitou a fashion friday?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Semana-da-Cliente/IOD_08-09_Semana-da-Cliente/Prancheta%201-01.jpg"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="'Poppins', sans-serif" text-transform="Uppercase" color="#000" font-size="14.5px" padding="15px 0px 30px 50px" align="left" font-weight="400" line-height="16px">
+          Compre agora e garanta seu<br> look para
+          As festas de fim<br> de ano com até <strong>70% off!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-longo-ombro-so-com-fenda-off-white-208671"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/161917/VESTIDO-LONGO-OMBRO-SO-COM-FENDA---LI-OFF-WHITE---P.jpg?v=637003574232700000"
+            title="VESTIDO IÓDICE LONGO OMBRO SÓ COM FENDA OFF WHITE"
+            alt="VESTIDO IÓDICE LONGO OMBRO SÓ COM FENDA OFF WHITE" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            VESTIDO IÓDICE LONGO<br> OMBRO SÓ COM FENDA<br> OFF WHITE
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="left" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 1.699,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="0">
+            Por: R$ 509,97<br><span style="font-size:10.2px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-longo-ombro-so-com-fenda-off-white-208671" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="right" color="#000" font-weight="400" font-size="14px" padding="120px 0 10px 0">
+            MACAQUINHO IÓDICE<br> GOLA LAPELA COM<br> BOTÕES OFF WHITE
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="right" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 699,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="right" padding="0">
+            Por: R$ 209,97<br><span style="font-size:10.2px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/macaquinho-iodice-gola-lapela-com-botoes-off-white-219866" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="right" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/macaquinho-iodice-gola-lapela-com-botoes-off-white-219866"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/165606/MACAQUINHO-GOLA-LAPELA-COM-BOTOES---LI-OFF-WHITE---P.jpg?v=637098618585100000"
+            title="MACAQUINHO IÓDICE GOLA LAPELA COM BOTÕES OFF WHITE"
+            alt="MACAQUINHO IÓDICE GOLA LAPELA COM BOTÕES OFF WHITE" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-clochard-cos-alto-com-faixa-off-white-219852"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/167744/CALCA-CLOCHARD-COS-ALTO-COM-FAIXA---LI-OFF-WHITE---36.jpg?v=637106926020470000"
+            title="CALÇA IÓDICE CLOCHARD CÓS ALTO COM FAIXA OFF WHITE"
+            alt="CALÇA IÓDICE CLOCHARD CÓS ALTO COM FAIXA OFF WHITE" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            CALÇA IÓDICE<br> CLOCHARD CÓS ALTO<br> COM FAIXA OFF WHITE
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="left" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 599,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="0">
+            Por: R$ 179,97<br><span style="font-size:10.2px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-clochard-cos-alto-com-faixa-off-white-219852" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=254"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=252"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 20px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=253"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

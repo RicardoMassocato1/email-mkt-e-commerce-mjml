@@ -1,0 +1,222 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-column padding="0" width="100%">
+      <mj-image
+        padding="0px 0px 0px 0px"
+        width="600px"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_21-08_Casa-de-Campo/E-mail%20mkt%202004-01-topo.jpg"
+        title="Coleção Casa de Campo"
+        alt="Coleção Casa de Campo" />
+    </mj-column>
+
+    <mj-section padding="10px 0px 20px 0px" background-url="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_21-08_Casa-de-Campo/E-mail%20mkt%202004-01-back02.jpg" background-size="150%" background-repeat="no-repeat">
+      <mj-group>
+        
+        <mj-column padding="0px 0px 0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#634731" font-size="11.5px" padding="0px 30px 0px 25px" align="left" font-weight="400" line-height="21px" letter-spacing="1.4px">
+            A união entre elementos rústicos e sofisticados<br> 
+            resulta em peças que revelam a beleza<br> 
+            delicada e forte das mulheres nacionais.<br>
+            <strong>Confira as novidades!</strong> 
+          </mj-text>
+          <mj-text align="left" padding="10px 0px 0px 25px">
+            <a
+              style="font-family:Roboto, serif; font-weight: 400; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #fef2e6; background-color: #634731; display: inline-block; margin: 0px; padding: 7px 13px; letter-spacing: 1.2px; "
+              href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+              title="SHOP NOW"
+              alt="SHOP NOW">
+              SHOP NOW >
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-section>
+      <mj-group>    
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-v-com-faixa-rosa-234257"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352126/VESTIDO-MIDI-DECOTE-V-COM-FAIXA---LI-PINK---P.jpg?v=637326622517430000"
+            title="Vestido Midi Decote V Com Faixa Rosa"
+            alt="Vestido Midi Decote V Com Faixa Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote V<br> Com Faixa Rosa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">8x de R$ 106,23</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 849,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/vestido-midi-decote-v-com-faixa-rosa-234257"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-longa-evase-com-babado-preto-236264"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352560/SAIA-LONGA-EVASE-COM-BABADO---ES-PRETO-OFF-WHITE---38.jpg?v=637326629768530000"
+            title="Saia Longa Evase Com Babado Preto"
+            alt="Saia Longa Evase Com Babado Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Longa Evase Com<br> Babado Preto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">8x de R$ 106,23</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 849,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/saia-longa-evase-com-babado-preto-236264"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-longa-evase-com-recorte-nude-234236"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355047/SAIA-LONGA-EVASE-COM-RECORTE---ES-CRU-PRETO---36.jpg?v=637326719481400000"
+            title="Saia Longa Evase Com Recorte Nude"
+            alt="Saia Longa Evase Com Recorte Nude" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Longa Evase Com<br> Recorte Nude
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$ 91,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 549,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/saia-longa-evase-com-recorte-nude-234236"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        
+
+        <mj-column padding="40px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_21-08_Casa-de-Campo/E-mail%20mkt%202004-01-blusas.jpg" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/jeans?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Jeans"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_21-08_Casa-de-Campo/E-mail%20mkt%202004-01-jeans.jpg" />
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/calcados?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Shoes"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_21-08_Casa-de-Campo/E-mail%20mkt%202004-01-shoes.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

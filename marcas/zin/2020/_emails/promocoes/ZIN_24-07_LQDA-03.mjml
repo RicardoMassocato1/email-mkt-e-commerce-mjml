@@ -1,0 +1,307 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_24-07_LQDA-03/Cabe%C3%A7alho.png"
+            title="LQDA"
+            alt="LQDA" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text 
+            font-family= "Poppins, sans-serif" 
+            font-weight="500" 
+            padding="20px 35px 0px 35px" 
+            color="#000000" 
+            font-size="13px" 
+            align="center" 
+            line-height= "18px" 
+            letter-spacing= "0.5px">
+            <strong>Os jeans da estação são perfeitos para viver a temporada.</strong><br> 
+            Práticos, eles vêm em modelagens confortáveis e recebem padronagens como o xadres e as listras.
+          </mj-text>
+          <mj-text align="center" padding="10px 0px 40px 0px">
+            <a
+              style="background-color:#000000; text-decoration: none; font-weight: 600; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/lqda"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/jaqueta-cropped-com-laser-jeans-223994/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_24-07_LQDA-03/Jaqueta%20Cropped%20Com%20Laser%20Jeans.jpg"
+            title="Jaqueta Cropped Com Laser Jeans"
+            alt="Jaqueta Cropped Com Laser Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Cropped Com Laser Jeans
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 367,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">7x de R$ 52,56</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/jaqueta-cropped-com-laser-jeans-223994/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/t-shirt-dress-detalhe-neon-jeans-218100/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_24-07_LQDA-03/T-Shirt%20Dress%20Detalhe%20Neon%20Jeans.jpg"
+            title="T-Shirt Dress Detalhe Neon Jeans"
+            alt="T-Shirt Dress Detalhe Neon Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Dress Detalhe Neon Jeans
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 184,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">3x de R$ 61,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/t-shirt-dress-detalhe-neon-jeans-218100/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/jaqueta-bomber-costura-marcada-azul-escuro-221886/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_24-07_LQDA-03/Jaqueta%20Bomber%20Costura%20Marcada%20Azul%20Escuro.jpg"
+            title="Jaqueta Bomber Costura Marcada Azul Escuro"
+            alt="Jaqueta Bomber Costura Marcada Azul Escuro" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Bomber Costura Marcada
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">5x de R$ 59,98</span>
+          </mj-text>
+          
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/jaqueta-bomber-costura-marcada-azul-escuro-221886/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/calca-comfort-cos-baixo-detalhe-galao-jeans-219815/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_24-07_LQDA-03/Calca%20Comfort%20Cos%20Baixo%20Detalhe%20Galao%20Jeans.jpg"
+            title="Calca Comfort Cos Baixo Detalhe Galao Jeans"
+            alt="Calca Comfort Cos Baixo Detalhe Galao Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos Baixo D/ Galao
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 199,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">3x de R$ 66,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+              href="https://www.zinco.com.br/calca-comfort-cos-baixo-detalhe-galao-jeans-219815/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="20px 0px 10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda/feminino?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_24-07_LQDA-03/Feminino_1.png"
+            title="Feminino"
+            alt="Feminino" />
+          <mj-image
+            padding="20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/LQDA/MASCULINO?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_24-07_LQDA-03/Masculino_1.png"
+            title="Masculino"
+            alt="Masculino" />
+        </mj-column>  
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

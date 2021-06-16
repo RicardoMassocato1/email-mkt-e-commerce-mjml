@@ -1,0 +1,199 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_08-01_LQDA/email%203-topo.jpg"
+          alt="LQDA com até 50% OFF"
+          title="LQDA com até 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#e5ddd2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-longo-ombro-so-com-amarracao-jeans-234999"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355728/VESTIDO-LONGO-OMBRO-SO-COM-AMARRACAO---LI-JEANS-ESCURO---P.jpg?v=637327749264900000"
+            title="Vestido Morena Rosa Longo Ombro Só Com Amarração Jeans"
+            alt="Vestido Morena Rosa Longo Ombro Só Com Amarração Jeans" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena Rosa<br> Longo Ombro Só Com<br> Amarração Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 739,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 369,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-longo-ombro-so-com-amarracao-jeans-234999" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-reta-cos-alto-com-recorte-pink-235375"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355422/CALCA-RETA-COS-ALTO-COM-RECORTE---CO-PINK-LARANJA-CAQUI---36.jpg?v=637327740604400000"
+            title="Calça Morena Rosa Reta Cós Alto Com Recorte Pink"
+            alt="Calça Morena Rosa Reta Cós Alto Com Recorte Pink" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa<br> Reta Cós Alto Com<br> Recorte Pink
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 599,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,99
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-reta-cos-alto-com-recorte-pink-235375" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#e5ddd2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-plissada-rosa-235322"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355363/SAIA-LONGA-EVASE-PLISSADA---LI-PINK---40.jpg?v=637327739718700000"
+            title="Saia Morena Rosa Longa Evasê Plissada Rosa"
+            alt="Saia Morena Rosa Longa Evasê Plissada Rosa" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Longa<br> Evasê Plissada Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 919,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 76,65
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-plissada-rosa-235322" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/top-morena-rosa-cropped-alca-com-botao-laranja-234334"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352173/TOP-CROPPED-ALCA-COM-BOTAO---ES-LARANJA-PRETO---M.jpg?v=637326623334730000"
+            title="Top Morena Rosa Cropped Alça Com Botão Laranja"
+            alt="Top Morena Rosa Cropped Alça Com Botão Laranja" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Morena Rosa Cropped<br> Alça Com Botão Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 66,65
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 199,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/top-morena-rosa-cropped-alca-com-botao-laranja-234334" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#e2442b">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#e5ddd2" font-size="14px" padding="30px 0px 30px 0px" align="center" font-weight="700" line-height="21px" letter-spacing="4px">
+          Compre também
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#e5ddd2">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Blusas&pwaf_productClusterIds=234"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_08-01_LQDA/email%203-blusas.jpg"
+            alt="Blusas"
+            title="Blusas" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=160"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_08-01_LQDA/email%203-calcas.jpg"
+            alt="Calças"
+            title="Calças" />
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestidos&pwaf_productClusterIds=244"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_08-01_LQDA/email%203-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

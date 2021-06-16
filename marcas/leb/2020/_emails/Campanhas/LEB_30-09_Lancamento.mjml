@@ -1,0 +1,160 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="50px 0px 0px 0px" background-color="#80a261">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/seek-the-sunlight?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Seek The Sunlight"
+            title="Seek The Sunlight"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_seek-The-Sunlight/LEB_30-09_Lancamento/E-mailMKT-2-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#80a261">
+      <mj-group> 
+        <mj-column width="40%" padding="15px 0px 15px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="25px"  align= "right" font-weight="500" padding="15px 0px 0px 25px" line-height="21px" letter-spacing="0.4px">
+            <span style="font-size:10px;">a partir de</span><br><strong>R$99,90</strong>
+          </mj-text>
+        </mj-column> 
+        <mj-column width="60%" padding="0px 40px 15px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="13px"  align= "right" font-weight="400" padding="15px 0px 0px 25px" line-height="15px" letter-spacing="0px">
+            <span style="font-size:22px;">-</span><br>na nova  coleção, o<br> desejo é a busca pelo<br> pedacinho de sol
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/seek-the-sunlight?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="6px 15px" align="right" font-weight="400" font-size="12px" padding="15px 0px" background-color="#80a261" color="#ffffff" border-radius="0px" border=" 1px solid #fff" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#80a261">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/body-decote-redondo-cavado-bicolor-preto-243341/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189873/BODY-DECOTE-REDONDO-CAVADO-BICOLOR---CO-PRETO-VERDE---PP.jpg?v=637366581461330000"
+            title="Body Decote Redondo Cavado Bicolor Preto"
+            alt="Body Decote Redondo Cavado Bicolor Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Decote Redondo<br> Cavado Bicolor Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 59,96
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 179,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/body-decote-redondo-cavado-bicolor-preto-243341/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#80a261" color="#ffffff" border-radius="0px" border=" 1px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-v-manga-curta-torcao-frente-laranja-243932/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189936/BLUSA-DECOTE-V-MANGA-CURTA-TORCAO-FRENTE---LI-LARANJA---PP.jpg?v=637366583375100000"
+            title="Blusa Decote V Manga Curta Torcao Frente Laranja"
+            alt="Blusa Decote V Manga Curta Torcao Frente Laranja" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Decote V Manga<br> Curta Torcao Frente
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 54,95
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 109,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-decote-v-manga-curta-torcao-frente-laranja-243932/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#80a261" color="#ffffff" border-radius="0px" border=" 1px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#80a261">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-clochard-com-faixa-preto-off-white-245208/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189980/SHORTS-CLOCHARD-COM-FAIXA---LT-OFF-WHITE-PRETO---36.jpg?v=637366584767600000"
+            title="Shorts Clochard Com Faixa Preto/Off White"
+            alt="Shorts Clochard Com Faixa Preto/Off White" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Clochard Com Faixa<br> Preto/Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 59,97
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 239,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/shorts-clochard-com-faixa-preto-off-white-245208/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#80a261" color="#ffffff" border-radius="0px" border=" 1px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-decote-v-abertura-costas-preto-244053/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189968/VESTIDO-MIDI-DECOTE-V-ABERTURA-COSTAS---LI-PRETO---PP.jpg?v=637366584462600000"
+            title="Vestido Midi Decote V Abertura Costas Preto"
+            alt="Vestido Midi Decote V Abertura Costas Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi Decote V<br> Abertura Costas
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 59,96
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 179,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-midi-decote-v-abertura-costas-preto-244053/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#80a261" color="#ffffff" border-radius="0px" border=" 1px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

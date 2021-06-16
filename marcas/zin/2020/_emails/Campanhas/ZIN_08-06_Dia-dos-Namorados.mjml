@@ -1,0 +1,216 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/dia-dos-namorados"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_08-06_Dia-dos-Namorados/EmailMkt_01.png"
+            title="Dia dos Namorados"
+            alt="Dia dos Namorados" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text 
+            font-family= "Poppins, sans-serif" 
+            font-weight="500" 
+            padding="30px 10px 30px 10px" 
+            color="#000000" 
+            font-size="17px" 
+            align="center" 
+            line-height= "23px" 
+            letter-spacing= "1.2px">
+              Manda aquela indireta pro mozão<br> com seu look desejo! 
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0px 5px 25px 5px" width="50%">
+            <mj-text align="right" padding="0">
+              <h1
+                style="font-family: Poppins, sans-serif; color: #999999; font-weight: 400; font-size: 14px; padding: 200px 0px 10px 0px; margin: 0px;">
+                Vestido Curto Decote V<br> Com Cordao Bege
+              </h1>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="600"
+              font-size="16px"
+              align="right"
+              padding="0">
+              <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 499,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">9x de R$ 55,54</span>
+            </mj-text>
+
+            <mj-text align="right">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 12px; background-color: #e7f784; color: #a1a1ed; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 10px; border: 1.2px solid #e7f784;"
+                href="https://www.zinco.com.br/vestido-curto-decote-v-com-cordao-bege-227330/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="left"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/vestido-curto-decote-v-com-cordao-bege-227330/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_08-06_Dia-dos-Namorados/Vestido%20Curto%20Decote%20V%20Com%20Cordao%20Bege.jpg"
+              title="Vestido Curto Decote V Com Cordao Bege"
+              alt="Vestido Curto Decote V Com Cordao Bege" />
+          </mj-column>
+
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="right"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/cropped-decote-redondo-detalhe-ziper-branco-228698/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_08-06_Dia-dos-Namorados/Cropped%20Decote%20Redondo%20Detalhe%20Ziper%20Branco.jpg"
+              title="Cropped Decote Redondo Detalhe Ziper Branco"
+              alt="Cropped Decote Redondo Detalhe Ziper Branco" />
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="left" padding="0">
+              <h1
+                style="font-family: Poppins, sans-serif; color: #999999; font-weight: 400; font-size: 14px; padding: 200px 0px 10px 0px; margin: 0px;">
+                Cropped Decote<br> Redondo Ziper
+              </h1>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="600"
+              font-size="16px"
+              align="left"
+              padding="0">
+              <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 319,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">6x de R$ 53,31</span>
+            </mj-text>
+
+            <mj-text align="left">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 12px; background-color: #e7f784; color: #a1a1ed; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 10px; border: 1.2px solid #e7f784;"
+                href="https://www.zinco.com.br/cropped-decote-redondo-detalhe-ziper-branco-228698/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="right" padding="0">
+              <h1
+                style="font-family: Poppins, sans-serif; color: #999999; font-weight: 400; font-size: 14px; padding: 200px 0px 10px 0px; margin: 0px;">
+                Camisa Manga<br> Longa Basica 
+              </h1>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="600"
+              font-size="16px"
+              align="right"
+              padding="0">
+              <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 349,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">6x de R$ 58,31</span>
+            </mj-text>
+
+            <mj-text align="right">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 12px; background-color: #e7f784; color: #a1a1ed; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 10px; border: 1.2px solid #e7f784;"
+                href="https://www.zinco.com.br/camisa-manga-longa-basica-azul-224609/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="left"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/camisa-manga-longa-basica-azul-224609/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_08-06_Dia-dos-Namorados/Camisa%20Manga%20Longa%20Basica%20Azul.jpg"
+              title="Camisa Manga Longa Basica Azul"
+              alt="Camisa Manga Longa Basica Azul" />
+          </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="25px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/feminino"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_08-06_Dia-dos-Namorados/EmailMkt_02.png"
+            title="Feminino"
+            alt="Feminino" />
+        </mj-column> 
+        <mj-column width="100%">
+          <mj-image
+                padding="0px 0px"
+                width="600px"
+                href="https://www.zinco.com.br/masculino"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_08-06_Dia-dos-Namorados/EmailMkt_03.png"
+                title="Masculino"
+                alt="Masculino" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-image
+            padding="50px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_08-06_Dia-dos-Namorados/EmailMkt_05.png"
+            title="Lançamento"
+            alt="Lançamento" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,363 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="0px 0px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=LQDA%2520Cal%25C3%25A7ados&pwaf_productClusterIds=172"
+        title="Sapatos LQDA"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_09-07_LQDA/LQDA-11-topo.jpg" />
+    </mj-column>
+
+    <mj-section padding="10px 0px" background-color="#ce3a46">
+      <mj-column padding="0px 0px" width="100%">>
+          <mj-text font-family="Roboto, serif" color="#ffffff" font-size="13px" padding="10px 0px" align="center" font-weight="300" line-height="21px" letter-spacing="2px">
+            Compre seu sapato favorito com<br> até <strong>50% OFF</strong>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+  
+    <mj-section padding="30px 0px 20px 0px">
+      <mj-group>
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapato-chanel-com-elastico-preto-226021"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_09-07_LQDA/Sapato%20Chanel%20Com%20Elastico%20Preto.jpg"
+            title="Sapato Chanel Com Elastico Preto"
+            alt="Sapato Chanel Com Elastico Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ce3a46; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Sapato Chanel Com<br> Elastico
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ce3a46" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 255,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 51,18</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #ce3a46;"
+              href="https://www.morenarosa.com.br/sapato-chanel-com-elastico-preto-226021"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/scarpin-salto-alto-tira-de-afivelar-marrom-226142"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_09-07_LQDA/Scarpin%20Salto%20Alto%20Tira%20De%20Afivelar%20Marrom.jpg"
+            title="Scarpin Salto Alto Tira De Afivelar Marrom"
+            alt="Scarpin Salto Alto Tira De Afivelar Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ce3a46; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Scarpin Salto Alto Tira<br> De Afivelar
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ce3a46" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 233,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 58,48</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #ce3a46;"
+              href="https://www.morenarosa.com.br/scarpin-salto-alto-tira-de-afivelar-marrom-226142"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tenis-classico-detalhe-laser-bege-225851"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_09-07_LQDA/Tenis%20Classico%20Detalhe%20Laser%20Bege.jpg"
+            title="Tenis Classico Detalhe Laser Bege"
+            alt="Tenis Classico Detalhe Laser Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ce3a46; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Tenis Classico Detalhe<br> Laser Bege
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ce3a46" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 203,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 50,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #ce3a46;"
+              href="https://www.morenarosa.com.br/tenis-classico-detalhe-laser-bege-225851"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-rasteira-rebite-personalizado-preto-215302"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_09-07_LQDA/Sandalia%20Rasteira%20Rebite%20Personalizado%20Preto.jpg"
+            title="Sandalia Rasteira Rebite Personalizado Preto"
+            alt="Sandalia Rasteira Rebite Personalizado Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ce3a46; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Sandalia Rasteira Rebite<br> Personalizado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ce3a46" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 159,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 127,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">2x de R$ 63,96</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #ce3a46;"
+              href="https://www.morenarosa.com.br/sandalia-rasteira-rebite-personalizado-preto-215302"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-section padding="0" background-color="#f5e9dd">
+      <mj-group>
+        <mj-column padding="0px 0px">
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; letter-spacing: 3px; font-size: 25px; color: #e64f44; display: inline-block; margin-top: 0px; padding: 12px 12px; font-weight: 700"
+                title="shop by size">
+                SHOP BY SIZE
+              </a>
+            </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 15px 30px 25px" background-color="#f5e9dd">
+      <mj-group>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=34"
+                title="Tam. 34">
+                34
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=35"
+                title="Tam. 35">
+                35
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=36"
+                title="Tam. 36">
+                36
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=37"
+                title="Tam. 37">
+                37
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=38"
+                title="Tam. 38">
+                38
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=39"
+                title="Tam. 39">
+                39
+              </a>
+            </mj-text>
+        </mj-column>>
+      </mj-group>
+    </mj-section>
+
+    <mj-column padding="40px 20px 10px 20px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=LQDA&pwaf_productClusterIds=169"
+        title="Praia"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_09-07_LQDA/beach_living-11-praia.jpg" />
+      <mj-image
+        padding="25px 0px"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?p=5&sort=OrderByReleaseDateDESC&_t=LQDA%2520Cal%25C3%25A7ados&pwaf_productClusterIds=230"
+        title="Fitness"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_09-07_LQDA/beach_living-11-fitness.jpg" />
+      <mj-image
+        padding="0px 0px 30px 0px"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=LQDA&pwaf_productClusterIds=198"
+        title="Jeans"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_09-07_LQDA/LQDA-11-jeans.jpg" />
+    </mj-column>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

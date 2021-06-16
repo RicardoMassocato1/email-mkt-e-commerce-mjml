@@ -1,0 +1,151 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=350"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Mar%C3%A7o/MOR_06-03_Semana-da-Consumidora/email1.jpg"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#802425" font-size="14px" padding="30px 20px 20px 20px" align="center" font-weight="400" line-height="22px" letter-spacing="1px">
+          Neste dia da Consumidora, somos gratos a você que está sempre com a gente! Aproveite os descontos incríveis que preparamos e comemore esta data!
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=350" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="400" font-size="14px" padding="0px 0px 10px 0px" background-color="#802425" color="#fff" border-radius="0px" border= "1.2px solid #802425" target="_blank"><span style="letter-spacing:1px">SHOP NOW</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/jaqueta-morena-rosa-bomber-com-termocolante-jeans-235022"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/353954/JAQUETA-BOMBER-COM-TERMOCOLANTE---LI-JEANS-CLARO---P.jpg?v=637326660865500000"
+            title="Jaqueta Morena Rosa Bomber Com Termocolante Jeans"
+            alt="Jaqueta Morena Rosa Bomber Com Termocolante Jeans" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Morena Rosa Bomber Com Termoco...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 99,98
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 599,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/jaqueta-morena-rosa-bomber-com-termocolante-jeans-235022" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-reta-cos-intermediario-botoes-perna-azul-235454"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355526/CALCA-RETA-COS-INTERMEDIARIO-BOTOES-PERNA---LI-TURQUESA---36.jpg?v=637327742917430000"
+            title="Calça Morena Rosa Reta Cós Intermediário Botões Perna Azul"
+            alt="Calça Morena Rosa Reta Cós Intermediário Botões Perna Azul" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa Reta Cós Intermediário Bot...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 96,65
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 579,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-reta-cos-intermediario-botoes-perna-azul-235454" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-midi-evase-tricot-nude-235559"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355224/SAIA-MIDI-EVASE-TRICOT---CO-NUDE-PINK---38.jpg?v=637326728525030000"
+            title="Saia Morena Rosa Midi Evasê Tricot Nude"
+            alt="Saia Morena Rosa Midi Evasê Tricot Nude" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Midi<br> Evasê Tricot Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            8x de R$ 106,23
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 849,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-midi-evase-tricot-nude-235559" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-v-manga-casulo-amarracao-frente-rosa-235397"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355466/BLUSA-DECOTE-V-MANGA-CASULO-AMARRACAO-FRENTE---CO-ROSA-LARANJA-CAQUI---PP.jpg?v=637327741972000000"
+            title="Blusa Morena Rosa Decote V Manga Casulo Amarração Frente Rosa"
+            alt="Blusa Morena Rosa Decote V Manga Casulo Amarração Frente Rosa" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Morena Rosa<br> Decote V Manga Casu...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-v-manga-casulo-amarracao-frente-rosa-235397" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,80 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/Prancheta%201-01-min.jpg"
+          alt="Lançamento"
+          title="Lançamento" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/Prancheta%201-02-min.jpg"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/shorts-zinco-linha-a-barra-refilada-branco-251895/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/Prancheta%201-03-min.jpg"
+          alt="Shorts Zinco Linha A Barra Refilada Branco"
+          title="Shorts Zinco Linha A Barra Refilada Branco" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/calca-zinco-mom-cos-alto-com-recorte-branco-251946/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/Prancheta%201-04-min.jpg"
+          alt="Calça Zinco Mom Cós Alto Com Recorte Branco"
+          title="Calça Zinco Mom Cós Alto Com Recorte Branco" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/jaqueta-zinco-bomber-com-botao-branco-251887/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/Prancheta%201-05-min.jpg"
+          alt="Jaqueta Zinco Bomber Com Botão Branco"
+          title="Jaqueta Zinco Bomber Com Botão Branco" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/Prancheta%201-06-min.jpg"/>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

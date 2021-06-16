@@ -1,0 +1,344 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px" background-color="#d0d5ac">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 5px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lancamento/preview?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Preview/preview_zinco%20%28medio%29%20home-02-topo.jpg"
+            title="Preview"
+            alt="Preview" />
+        </mj-column>
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Poppins, sans-serif" color="#ffffff" font-size="11px" padding="10px 0px" align="center" font-weight="300" line-height="20px" letter-spacing="1.2px">
+            Ele está chegando! E não, não é seu ex (ufa!). A<br> gente ta falando do
+            sol, do verão e da primavera.<br> A época mais quente e festiva do ano.
+          </mj-text>
+          <mj-text align="center" padding="0px 0px 20px 0px">
+            <a
+              style="font-family:Poppins, sans-serif; font-weight: 800; text-decoration: none; text-transform: uppercase; font-size: 14px; color: #df5a79; background-color: #ffffff; display: inline-block; margin: 0px; padding: 7px 16px; border: 1.1px solid #df5a79;"
+              href="https://www.zinco.com.br/lancamento/preview?O=OrderByReleaseDateDESC"
+              target="_blank"
+              title="eu quero"
+              alt="eu quero">
+              eu quero
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-section>
+      <mj-group>
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/colete-alongado-com-termocolante-jeans-231983/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213727/COLETE-ALONGADO-COM-TERMOCOLANTE---LI-JEANS-MEDIO---P.jpg?v=637327774099870000"
+            title="Colete Alongado Com Termocolante Jeans"
+            alt="Colete Alongado Com Termocolante Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Colete Alongado<br> C/ Termocolante
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$51,10</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #df5a79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 14px; border: 1px solid #df5a79;"
+              href="https://www.zinco.com.br/colete-alongado-com-termocolante-jeans-231983/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-curta-lapis-tricot-preto-234971/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213234/SAIA-CURTA-LAPIS-TRICOT---CO-PRETO-PRATA---36.jpg?v=637327766622400000"
+            title="Saia Curta Lapis Tricot Preto"
+            alt="Saia Curta Lapis Tricot Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Lapis<br> Tricot Preto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #df5a79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 14px; border: 1px solid #df5a79;"
+              href="https://www.zinco.com.br/saia-curta-lapis-tricot-preto-234971/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macaquinho-decote-v-alfaiataria-off-white-236413/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213332/MACAQUINHO-DECOTE-V-ALFAIATARIA---LI-OFF-WHITE---PP.jpg?v=637327768139200000"
+            title="Macaquinho Decote V Alfaiataria Off White"
+            alt="Macaquinho Decote V Alfaiataria Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macaquinho<br> Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$51,10</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #df5a79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 14px; border: 1px solid #df5a79;"
+              href="https://www.zinco.com.br/macaquinho-decote-v-alfaiataria-off-white-236413/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        
+        <mj-column padding="10px 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/camisa-manga-curta-com-top-preto-233307/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212789/CAMISA-MANGA-CURTA-COM-TOP---LI-PRETO---P.jpg?v=637327755778600000"
+            title="Camisa Manga Curta Com Top Preto"
+            alt="Camisa Manga Curta Com Top Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga<br> Curta Com Top
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$57,12</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #df5a79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 14px; border: 1px solid #df5a79;"
+              href="https://www.zinco.com.br/camisa-manga-curta-com-top-preto-233307/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-midi-decote-redondo-com-faixa-azul-232695/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212653/VESTIDO-MIDI-DECOTE-REDONDO-COM-FAIXA---ES-AZUL---P.jpg?v=637327753663070000"
+            title="Vestido Midi Decote Redondo Com Faixa Azul"
+            alt="Vestido Midi Decote Redondo Com Faixa Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi<br> Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$54,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #df5a79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 14px; border: 1px solid #df5a79;"
+              href="https://www.zinco.com.br/vestido-midi-decote-redondo-com-faixa-azul-232695/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-flare-com-botao-verde-232656/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212581/MACACAO-FLARE-COM-BOTAO---LT-VERDE---PP.jpg?v=637327752666000000"
+            title="Macacao Flare Com Botao Verde"
+            alt="Macacao Flare Com Botao Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Flare<br> Com Botao
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 579,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">11x de R$52,71</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #df5a79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 14px; border: 1px solid #df5a79;"
+              href="https://www.zinco.com.br/macacao-flare-com-botao-verde-232656/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

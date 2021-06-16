@@ -1,0 +1,51 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\mar\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_08-04_Bem-Vinda/maria-topo01.jpg"
+              alt="MARIA VALENTINA" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section>
+        <mj-column width="100%">
+          <mj-text font-family= "Roboto, sans-serif" font-weight="400" padding="0px 50px 20px 50px" color="#585858" font-size="15px" align="center" line-height= "1.5" letter-spacing= "1.2px" text-transform="uppercase">VOCÊ GANHOU <strong>10% OFF</strong> em sua primeira compra!</mj-text>
+          <mj-text font-family= "Roboto, sans-serif" font-weight="400" padding="0px 50px 0px 50px" color="#585858" font-size="15px" align="center" line-height= "1.5" letter-spacing= "1.2px" text-transform="uppercase">utilize o cupom:</mj-text>
+          <mj-text align="center">
+            <a
+              style="font-family:Roboto, sans-serif; font-weight:700; text-decoration: none; background-color:#f2eadc; letter-spacing: 1.6px; font-size: 20px; color: #585858; display: inline-block; padding: 12px 16px;"
+              href="https://www.mariavalentina.com.br/"
+              title="Código: PRIMEIRAMV">
+              PRIMEIRAMV
+            </a>
+          </mj-text>
+          <mj-text align="center">
+            <a
+              style="font-family:Roboto, sans-serif; font-weight:700; text-decoration: none; background-color:#ffffff; letter-spacing: 1px; font-size: 13px; color: #585858; display: inline-block; margin-top: 15px; padding: 12px 16px; border: 1.2px solid #f2eadc;"
+              href="https://www.mariavalentina.com.br/"
+              title="shop now">
+              SHOP NOW >
+            </a>
+          </mj-text>
+          <mj-text font-family= "Roboto, sans-serif" font-weight="400" padding="25px 50px 0px 50px" color="#585858" font-size="12.5px" align="center" line-height= "2" letter-spacing= "0.2px" text-transform="uppercase">sentiu dificuldade para finalizar sua compra?<br>caso precise, estamos disponíveis pelo chat, por email, ou <a href="https://api.whatsapp.com/send?phone=554433515000" style="color: #585858;" title="WhatsApp"><strong>clique aqui</strong></a> para falar pelo whatsapp!</mj-text>
+        </mj-column>
+      </mj-section>
+    <!--main-->
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\mar\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

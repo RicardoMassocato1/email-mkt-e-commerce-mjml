@@ -1,0 +1,199 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=251"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_04-12_Fashion-Monday/Artboard%201%20copy-topo.jpg"
+          alt="Fashion Monday"
+          title="Fashion Monday" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="'Poppins', sans-serif" text-transform="Uppercase" color="#000" font-size="17px" padding="15px 0px 0px 50px" align="left" font-weight="700" line-height="13px">
+          últimos dias
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Semana-da-Cliente/IOD_08-09_Semana-da-Cliente/Prancheta%201-01.jpg"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="'Poppins', sans-serif" text-transform="Uppercase" color="#000" font-size="14.5px" padding="15px 0px 30px 50px" align="left" font-weight="400" line-height="16px">
+          últimos dias para garantir seu<br> produto com desconto!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/macacao-iodice-flare-transpasse-costas-branco-dourado-222812"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/166005/MACACAO-FLARE-TRANSPASSE-COSTAS---LI-DOURADO---P.jpg?v=637098630241830000"
+            title="MACACÃO IÓDICE FLARE TRANSPASSE COSTAS BRANCO/DOURADO"
+            alt="MACACÃO IÓDICE FLARE TRANSPASSE COSTAS BRANCO/DOURADO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacão Iódice Flare<br> Transpasse Costas<br> Branco/Dourado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 1.629,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 488,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/macacao-iodice-flare-transpasse-costas-branco-dourado-222812" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-midi-decote-transpassado-barra-assimetrica-laranja-223070"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/169317/VESTIDO-MIDI-DECOTE-TRANSPASSADO-BARRA-ASSIMETRICA---ES-LARANJA---P.jpg?v=637193658425270000"
+            title="VESTIDO IÓDICE MIDI DECOTE TRANSPASSADO BARRA ASSIMÉTRICA LARANJA"
+            alt="VESTIDO IÓDICE MIDI DECOTE TRANSPASSADO BARRA ASSIMÉTRICA LARANJA" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Iódice Midi Decote<br> Transpassado Barra<br> Assimétrica Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 819,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 245,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-midi-decote-transpassado-barra-assimetrica-laranja-223070" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-pantacourt-cos-intermediario-detalhe-vivo-laranja-219372"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/168285/CALCA-PANTACOURT-COS-INTERMEDIARIO-DETALHE-VIVO---LI-HIBISCO---38.jpg?v=637118410692270000"
+            title="CALÇA IÓDICE PANTACOURT CÓS INTERMEDIÁRIO DETALHE VIVO LARANJA"
+            alt="CALÇA IÓDICE PANTACOURT CÓS INTERMEDIÁRIO DETALHE VIVO LARANJA" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Pantacourt<br> Cós Intermediário<br> Detalhe Vivo Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 649,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 194,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-pantacourt-cos-intermediario-detalhe-vivo-laranja-219372" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-iodice-curta-evase-com-botao-bege-208288"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/161837/SAIA-CURTA-EVASE-COM-BOTAO---LI-AREIA---36.jpg?v=637003572908070000"
+            title="SAIA IÓDICE CURTA EVASÊ COM BOTÃO BEGE"
+            alt="SAIA IÓDICE CURTA EVASÊ COM BOTÃO BEGE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Iódice Curta<br> Evase Com Botão<br> Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 579,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 173,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/saia-iodice-curta-evase-com-botao-bege-208288" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=254"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=252"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 20px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=253"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

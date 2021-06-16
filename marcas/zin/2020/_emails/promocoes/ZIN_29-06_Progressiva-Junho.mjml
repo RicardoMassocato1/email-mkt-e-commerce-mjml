@@ -1,0 +1,327 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="20px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 20px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/lqda/"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_29-06_Progressiva-Junho/Email%20mkt-04-topo.jpg"
+              title="Desconto Progressivo"
+              alt="Desconto Progressivo" />
+          </mj-column>  
+          <mj-column padding="0" width="100%">
+            <mj-text 
+              font-family= "Poppins, sans-serif" 
+              font-weight="700" 
+              padding="30px 10px 0px 30px" 
+              color="#000000" 
+              font-size="22px" 
+              align="left" 
+              line-height= "19px" 
+              letter-spacing= "3px"
+              text-transform="uppercase">
+                Last day!
+            </mj-text>
+            <mj-text 
+              font-family= "Poppins, sans-serif" 
+              font-weight="700" 
+              padding="15px 10px 0px 30px" 
+              color="#000000" 
+              font-size="14px" 
+              align="left" 
+              line-height= "19px" 
+              letter-spacing= "3px"
+              text-transform="uppercase">
+                Aproveite a progressiva<br> até 70% off e compre por<br> categoria!
+            </mj-text>
+            <mj-text align="left" padding="15px 0px 30px 30px">
+              <a
+                style="background-color:#52d845; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/lqda/?O=OrderByReleaseDateDESC"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/macacao-pantalona-fio-metalizado-preto-218210/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_29-06_Progressiva-Junho/Macacao%20Pantalona%20Fio%20Metalizado%20Preto.jpg"
+              title="Macacao Pantalona Fio Metalizado Preto"
+              alt="Macacao Pantalona Fio Metalizado Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Macacao Pantalona
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 499,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 349,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">6x de R$ 58,32</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #d800ee; background-color:#fcd0d1; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #fece00; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/macacao-pantalona-fio-metalizado-preto-218210/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/camisa-manga-curta-com-botoes-laranja-218007/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_29-06_Progressiva-Junho/Camisa%20Manga%20Curta%20Com%20Botoes%20Laranja.jpg"
+              title="Camisa Manga Curta Com Botoes Laranja"
+              alt="Camisa Manga Curta Com Botoes Laranja" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Camisa Manga Curta
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 369,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 258,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">5x de R$ 51,78</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #d800ee; background-color:#fcd0d1; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #fece00; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/camisa-manga-curta-com-botoes-laranja-218007/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/bata-decote-redondo-detalhe-lastex-laranja-218009/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_29-06_Progressiva-Junho/Bata%20Decote%20Redondo%20Detalhe%20Lastex%20Laranja.jpg"
+              title="Bata Decote Redondo Detalhe Lastex Laranja"
+              alt="Bata Decote Redondo Detalhe Lastex Laranja" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Bata Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 209,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">4x de R$ 52,48</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #d800ee; background-color:#fcd0d1; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #fece00; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/bata-decote-redondo-detalhe-lastex-laranja-218009/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/camisa-manga-curta-com-amarracao-marinho-218048/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_29-06_Progressiva-Junho/Camisa%20Manga%20Curta%20Com%20Amarracao%20Marinho.jpg"
+              title="Camisa Manga Curta Com Amarracao Marinho"
+              alt="Camisa Manga Curta Com Amarracao Marinho" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Camisa Manga Curta
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 349,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 244,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">4x de R$ 61,23</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #d800ee; background-color:#fcd0d1; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #fece00; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/camisa-manga-curta-com-amarracao-marinho-218048/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="25px 0 50px 0px" width="100%">
+            <mj-image
+              padding="0"
+              align="left"
+              href="https://www.zinco.com.br/lqda/feminino"
+              alt="Feminino"
+              title="Feminino"
+              width="400px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_29-06_Progressiva-Junho/zinco-Email%20mkt-01-masculin-01%20%282%29.jpg" />
+          </mj-column>
+          <mj-column padding="0px 0px" width="100%">
+            <mj-image
+              padding="0"
+              align="right"
+              href="https://www.zinco.com.br/lqda/masculino"
+              alt="Masculino"
+              title="Masculino"
+              width="400px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_29-06_Progressiva-Junho/zinco-Email%20mkt-01-masculin-01%20%281%29.jpg" />
+          </mj-column>
+          <mj-column padding="65px 0 0px 0px" width="100%">
+            <mj-image
+              padding="0"
+              href="https://www.zinco.com.br/lqda/"
+              alt="Desconto Progressivo"
+              title="Desconto Progressivo"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_29-06_Progressiva-Junho/Email%20mkt-04-rodape.jpg" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

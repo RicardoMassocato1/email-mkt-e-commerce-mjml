@@ -1,0 +1,186 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 55px 20px 30px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=331&_t=Lan%C3%A7amento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_Queridinhas-da-Semana-Lancamento/E-mails-mkt%202006-06-topo.jpg"
+          alt="Queridinhos da Semana"
+          title="Queridinhos da Semana" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 25px 30px 25px" background-color="#fff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#5e3016" font-size="13.5px" padding="0px 0px 0px 0px" align="center" font-weight="500" line-height="20px" letter-spacing="2px">
+          As peças mais vendidas da semana para você!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-pantalona-cos-alto-recorte-lateral-branco-243372"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/363104/CALCA-PANTALONA-COS-ALTO-RECORTE-LATERAL---CO-BRANCO-PRETO-ROSE---36.jpg?v=637388010550800000"
+            title="Calça Morena Rosa Pantalona Cós Alto Recorte Lateral Branco"
+            alt="Calça Morena Rosa Pantalona Cós Alto Recorte Lateral Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa<br> Pantalona Cós Alto<br> Recorte Lateral Branco
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-pantalona-cos-alto-recorte-lateral-branco-243372" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-curta-reta-detalhe-paete-marrom-241476"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/362807/SAIA-CURTA-RETA-DETALHE-PAETE---ES-MARROM---36.jpg?v=637387994987800000"
+            title="Saia Morena Rosa Curta Reta Detalhe Paetê Marrom"
+            alt="Saia Morena Rosa Curta Reta Detalhe Paetê Marrom" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Curta<br> Reta Detalhe Paetê<br> Marrom
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 59,96
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 179,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-curta-reta-detalhe-paete-marrom-241476" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-quadrado-manga-bufante-basica-rosa-244069"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/366406/BLUSA-DECOTE-QUADRADO-MANGA-BUFANTE-BASICA---LI-PINK---P.jpg?v=637425184827070000"
+            title="Blusa Morena Rosa Decote Quadrado Manga Bufante Básica Rosa"
+            alt="Blusa Morena Rosa Decote Quadrado Manga Bufante Básica Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Morena Rosa Decote<br> Quadrado Manga Bufante<br> Básica Rosa
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-quadrado-manga-bufante-basica-rosa-244069" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-mom-luisa-cos-alto-com-fivela-dourado-244030"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/366338/CALCA-MOM-LUISA-COS-ALTO-COM-FIVELA---LI-CAQUI---38.jpg?v=637425184141470000"
+            title="Calça Morena Rosa Mom Luisa Cós Alto Com Fivela Dourado"
+            alt="Calça Morena Rosa Mom Luisa Cós Alto Com Fivela Dourado" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa Mom<br> Luisa Cós Alto Com<br> Fivela Dourado
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="23.5px 0 10px 0">
+            6x de R$ 91,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-mom-luisa-cos-alto-com-fivela-dourado-244030" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_Queridinhas-da-Semana-Lancamento/E-mails-mkt%202006-06-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="15px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_Queridinhas-da-Semana-Lancamento/E-mails-mkt%202006-06-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/shorts?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_Queridinhas-da-Semana-Lancamento/E-mails-mkt%202006-06-shorts.jpg"
+          alt="Shorts"
+          title="Shorts" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

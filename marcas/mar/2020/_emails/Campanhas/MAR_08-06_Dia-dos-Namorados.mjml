@@ -1,0 +1,505 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 40px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/dia-dos-namorados"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/EmailMkt_01.png"
+            title="Dia dos Namorados"
+            alt="Dia dos Namorados" />
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Roboto, serif" color="#c51c19" font-size="15.5px" padding="0px 10px" align="center" font-weight="800" line-height="20px" letter-spacing="1.3px" text-transform="uppercase">
+            Monte o look perfeito para o jantar<br> na sexta, veja nossas sugestões:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="20px 0px 30px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/EmailMkt_02.png" 
+            alt="Blusas"
+            title="Blusas"/>
+        </mj-column>
+        
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/blusa-decote-v-manga-3-4-com-pregas-amarelo-225770/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/Blusa%20Decote%20V%20Manga%203-4%20Com%20Pregas%20Amarelo.jpg"
+            title="Blusa Decote V Manga 3/4 Com Pregas Amarelo"
+            alt="Blusa Decote V Manga 3/4 Com Pregas Amarelo" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #c51c19; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V Manga 3/4
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#c51c19"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#c51c19"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$53,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#dd9392; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #c51c19;"
+              href="https://www.mariavalentina.com.br/blusa-decote-v-manga-3-4-com-pregas-amarelo-225770/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-botao-azul-226590/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/T-Shirt%20Decote%20Redondo%20Com%20Botao%20Azul.jpg"
+            title="T-Shirt Decote Redondo Com Botao Azul"
+            alt="T-Shirt Decote Redondo Com Botao Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #c51c19; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#c51c19"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 249,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#c51c19"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$62,47</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#dd9392; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #c51c19;"
+              href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-botao-azul-226590/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-basica-vermelho-226324/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/T-Shirt%20Decote%20Redondo%20Basica%20Vermelho.jpg"
+            title="T-Shirt Decote Redondo Basica Vermelho"
+            alt="T-Shirt Decote Redondo Basica Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #c51c19; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#c51c19"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#c51c19"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#dd9392; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #c51c19;"
+              href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-basica-vermelho-226324/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="40px 0px 30px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/saias"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/EmailMkt_03.png" 
+            alt="Saias"
+            title="Saias"/>
+        </mj-column>
+        
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-curta-lapis-com-metal-pewter-226019/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/Saia%20Curta%20Lapis%20Com%20Metal%20Pewter.jpg"
+            title="Saia Curta Lapis Com Metal Pewter"
+            alt="Saia Curta Lapis Com Metal Pewter" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #c51c19; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Lapis Com Metal
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#c51c19"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#c51c19"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$56,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#dd9392; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #c51c19;"
+              href="https://www.mariavalentina.com.br/saia-curta-lapis-com-metal-pewter-226019/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-midi-fluida-com-botao-azul-229442/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/Saia%20Midi%20Fluida%20Com%20Botao%20Azul.jpg"
+            title="Saia Midi Fluida Com Botao Azul"
+            alt="Saia Midi Fluida Com Botao Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #c51c19; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Midi Fluida Com Botao
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#c51c19"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#c51c19"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$52,84</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#dd9392; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #c51c19;"
+              href="https://www.mariavalentina.com.br/saia-midi-fluida-com-botao-azul-229442/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-curta-lapis-com-fenda-azul-anil-221039/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/Saia%20Curta%20Lapis%20Com%20Fenda%20Azul%20Anil-01.jpg"
+            title="Saia Curta Lapis Com Fenda Azul Anil"
+            alt="Saia Curta Lapis Com Fenda Azul Anil" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #c51c19; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Lapis Com Fenda
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#c51c19"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#c51c19"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$58,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#dd9392; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #c51c19;"
+              href="https://www.mariavalentina.com.br/saia-curta-lapis-com-fenda-azul-anil-221039/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="40px 0px 30px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/EmailMkt_04.png" 
+            alt="Vestidos"
+            title="Vestidos"/>
+        </mj-column>
+        
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-midi-decote-v-com-faixa-azul-226841/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/Vestido%20Midi%20Decote%20V%20Com%20Faixa%20Azul.jpg"
+            title="Vestido Midi Decote V Com Faixa Azul"
+            alt="Vestido Midi Decote V Com Faixa Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #c51c19; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+             Vestido Midi Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#c51c19"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 579,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#c51c19"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$57,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#dd9392; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #c51c19;"
+              href="https://www.mariavalentina.com.br/vestido-midi-decote-v-com-faixa-azul-226841/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-assimetrico-decote-v-com-amarracao-azul-228104/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/Vestido%20Assimetrico%20Decote%20V%20Com%20Amarracao%20Azul.jpg"
+            title="Vestido Assimetrico Decote V Com Amarracao Azul"
+            alt="Vestido Assimetrico Decote V Com Amarracao Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #c51c19; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Assimet. Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#c51c19"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 759,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#c51c19"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$75,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#dd9392; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #c51c19;"
+              href="https://www.mariavalentina.com.br/vestido-assimetrico-decote-v-com-amarracao-azul-228104/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-midi-decote-redondo-abertura-decote-cinza-230159/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_08-06_Dia-dos-Namorados/Vestido%20Midi%20Decote%20Redondo%20Abertura%20Decote%20Cinza.jpg"
+            title="Vestido Midi Decote Redondo Abertura Decote Cinza"
+            alt="Vestido Midi Decote Redondo Abertura Decote Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #c51c19; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote R.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#c51c19"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#c51c19"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$59,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#dd9392; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #c51c19;"
+              href="https://www.mariavalentina.com.br/vestido-midi-decote-redondo-abertura-decote-cinza-230159/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,235 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0 0 20px 0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Dia%20Das%20M%C3%A3es&pwaf_productClusterIds=221"
+            width="600px"
+            title="Herança Afetiva"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_30-04_Dia-das-Maes/Email-MKT-Maes-topo.jpg" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding="0px 0px">
+        <mj-group>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/vestido-midi-gola-alta-basico-preto-222865"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_30-04_Dia-das-Maes/VESTIDO%20MIDI%20GOLA%20ALTA%20BASICO%20PRETO.jpg"
+              title="VESTIDO MIDI GOLA ALTA BASICO PRETO"
+              alt="VESTIDO MIDI GOLA ALTA BASICO PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                VESTIDO MIDI GOLA ALTA BASICO
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 649,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 108,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.iodice.com.br/vestido-midi-gola-alta-basico-preto-222865"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/saia-curta-regular-com-recorte-marrom-224473"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_30-04_Dia-das-Maes/SAIA%20CURTA%20REGULAR%20COM%20RECORTE%20MARROM.jpg"
+              title="SAIA CURTA REGULAR COM RECORTE MARROM"
+              alt="SAIA CURTA REGULAR COM RECORTE MARROM" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                SAIA CURTA REGULAR COM RECORTE
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 479,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 79,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.iodice.com.br/saia-curta-regular-com-recorte-marrom-224473"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/regata-decote-v-basica-verde-223204"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_30-04_Dia-das-Maes/REGATA%20DECOTE%20V%20BASICA%20VERDE.jpg"
+              title="REGATA DECOTE V BASICA VERDE"
+              alt="REGATA DECOTE V BASICA VERDE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                REGATA DECOTE V BASICA
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 329,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 54,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.iodice.com.br/regata-decote-v-basica-verde-223204"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-skinny-cos-alto-detalhe-ziper-preto-226518"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_30-04_Dia-das-Maes/CALCA%20SKINNY%20COS%20ALTO%20DETALHE%20ZIPER%20PRETO.jpg"
+              title="CALCA SKINNY COS ALTO DETALHE ZIPER PRETO"
+              alt="CALCA SKINNY COS ALTO DETALHE ZIPER PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                CALCA SKINNY COS ALTO
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 449,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 74,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.iodice.com.br/calca-skinny-cos-alto-detalhe-ziper-preto-226518"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br"
+            width="600px"
+            title="Semana Frete Grátis"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_30-04_Dia-das-Maes/Email-MKT-Maes-rodape.jpg" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

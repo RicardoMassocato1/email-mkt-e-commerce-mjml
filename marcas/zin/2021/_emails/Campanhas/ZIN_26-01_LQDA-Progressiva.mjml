@@ -1,0 +1,187 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Janeiro/ZIN_26-01_LQDA-Progressiva/ZC_EmailMkt_01-topo.jpg"
+          alt="LQDA Progressiva"
+          title="LQDA Progressiva" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="13px" padding="30px 0px 30px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="0.5px">
+          Lookinhos para aproveitar o verão com<br> descontos 
+          progressivos de até 50% OFF!<br> Aproveite!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/top-zinco-cropped-alca-com-amarracao-branco-232101/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214209/TOP-CROPPED-ALCA-COM-AMARRACAO---CO-BRANCO-AZUL---PP.jpg?v=637327781135200000"
+            title="Top Zinco Cropped Alça Com Amarração Branco"
+            alt="Top Zinco Cropped Alça Com Amarração Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Zinco Cropped<br> Alça Com Amarração<br> Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 139,95<br><span style="font-weight:300;font-size:10px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/top-zinco-cropped-alca-com-amarracao-branco-232101/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-lilly-cos-intermediario-tinturada-rosa-232002/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213837/CALCA-LILLY-COS-INTERMEDIARIO-TINTURADA---LI-PINK---34.jpg?v=637327775691470000"
+            title="Calça Zinco Lilly Cós Intermediário Tinturada Rosa"
+            alt="Calça Zinco Lilly Cós Intermediário Tinturada Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Zinco Lilly Cós<br> Intermediário Tinturada<br> Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 149,95<br><span style="font-weight:300;font-size:10px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/calca-zinco-lilly-cos-intermediario-tinturada-rosa-232002/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/colete-zinco-alongado-detalhe-botao-verde-232650/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212560/COLETE-ALONGADO-DETALHE-BOTAO---LT-VERDE---P.jpg?v=637327752200900000"
+            title="Colete Zinco Alongado Detalhe Botão Verde"
+            alt="Colete Zinco Alongado Detalhe Botão Verde" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Colete Zinco Alongado<br> Detalhe Botão Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 199,95<br><span style="font-weight:300;font-size:10px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/colete-zinco-alongado-detalhe-botao-verde-232650/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/body-zinco-ombro-so-cavado-tricot-preto-234979/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213323/BODY-OMBRO-SO-CAVADO-TRICOT---CO-PRETO-PRATA---P.jpg?v=637327767971230000"
+            title="Body Zinco Ombro Só Cavado Tricot Preto"
+            alt="Body Zinco Ombro Só Cavado Tricot Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Zinco Ombro Só<br> Cavado Tricot Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 199,95<br><span style="font-weight:300;font-size:10px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/body-zinco-ombro-so-cavado-tricot-preto-234979/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Janeiro/ZIN_26-01_LQDA-Progressiva/ZC_EmailMkt_01-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Janeiro/ZIN_26-01_LQDA-Progressiva/ZC_EmailMkt_01-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Janeiro/ZIN_26-01_LQDA-Progressiva/ZC_EmailMkt_01-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

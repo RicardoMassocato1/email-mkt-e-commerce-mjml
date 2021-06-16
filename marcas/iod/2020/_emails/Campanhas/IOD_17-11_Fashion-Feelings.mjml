@@ -1,0 +1,205 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Feelings&pwaf_productClusterIds=254"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_17-11_Fashion-Feelings/Artboard%201%20copy-topo.jpg"
+          alt="Fashion Feelings"
+          title="Fashion Feelings" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="uppercase" color="#000" font-size="18px" padding="30px 0px 0px 40px" align="left" font-weight="700" line-height="20px">
+          vestidos
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="3px 30px 5px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_17-11_Fashion-Feelings/Sem%20T%C3%ADtulo-1-01.jpg"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="uppercase" color="#000" font-size="15px" padding="5px 0px 20px 40px" align="left" font-weight="300" line-height="20px">
+          Pensando nas festas de fim de ano? veja<br>
+          nossa seleção até <strong>70% off!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-curto-decote-v-compose-de-tecidos-laranja-228656"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174371/03-12-2019--ECOM-IODICE-20028948.jpg?v=637249078938200000"
+            title="VESTIDO IÓDICE CURTO DECOTE V COMPOSÊ DE TECIDOS LARANJA"
+            alt="VESTIDO IÓDICE CURTO DECOTE V COMPOSÊ DE TECIDOS LARANJA" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Iódice Curto<br> Decote V
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 579,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 67,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 405,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-curto-decote-v-compose-de-tecidos-laranja-228656" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-curto-decote-redondo-bordado-off-white-219902"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/168177/VESTIDO-CURTO-DECOTE-REDONDO-BORDADO---LI-OFF-WHITE---P.jpg?v=637118357231000000"
+            title="VESTIDO IÓDICE CURTO DECOTE REDONDO BORDADO OFF WHITE"
+            alt="VESTIDO IÓDICE CURTO DECOTE REDONDO BORDADO OFF WHITE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Iódice Curto<br> Decote Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 729,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 85,15
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 510,93
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-curto-decote-redondo-bordado-off-white-219902" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-curto-decote-sobreposto-com-abotoamento-verde-216271"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/162834/VESTIDO-CURTO-DECOTE-SOBREPOSTO-COM-ABOTOAMENTO---LI-VERDE-LIMA---P.jpg?v=637054516332370000"
+            title="VESTIDO IÓDICE CURTO DECOTE SOBREPOSTO COM ABOTOAMENTO VERDE"
+            alt="VESTIDO IÓDICE CURTO DECOTE SOBREPOSTO COM ABOTOAMENTO VERDE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Vestido Iódice Curto<br> Decote Sobreposto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 699,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 81,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 489,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-curto-decote-sobreposto-com-abotoamento-verde-216271" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-altura-do-joelho-decote-v-detalhe-vivo-preto-230249"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174366/03-12-2019--ECOM-IODICE-20028902.jpg?v=637249039986430000"
+            title="VESTIDO IÓDICE ALTURA DO JOELHO DECOTE V DETALHE VIVO PRETO"
+            alt="VESTIDO IÓDICE ALTURA DO JOELHO DECOTE V DETALHE VIVO PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Vestido Iódice Altura do<br> Joelho Decote V
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 869,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 101,48
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 608,93
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-altura-do-joelho-decote-v-detalhe-vivo-preto-230249" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Feelings&pwaf_productClusterIds=252"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_17-11_Fashion-Feelings/Artboard%201%20copy-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Feelings&pwaf_productClusterIds=253"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_17-11_Fashion-Feelings/Artboard%201%20copy-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

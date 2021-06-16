@@ -1,0 +1,234 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 15px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_17-07_LQDA/EmailMKT-Header.jpg" 
+              alt="LQDA"
+              title="LQDA"/>
+              
+            <mj-divider padding="20px 20%" border-width="1.2px" border-style="solid" border-color="#b61622" />
+           
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#b61622"
+              font-size="17px"
+              padding="0px 0px 10px 0px"
+              align="center"
+              font-weight="400"
+              line-height="0px">
+              Vestidos perfeitos para o fim de semana!
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="50px 5px 25px 5px" width="50%">
+            <mj-text align="right" padding="0">
+              <h1
+                style="font-family: Poppins, sans-serif; color: #b52034; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                VESTIDO MIDI DECOTE<br> V COM FRANZIDO
+              </h1>
+            </mj-text>
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-top: 5px">R$ 649,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="700"
+              font-size="16px"
+              align="right"
+              padding="0">
+              <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 519,92</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 86,65</span>
+            </mj-text>
+
+            <mj-text align="right" padding="10px 0px">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+                href="https://www.iodice.com.br/vestido-midi-decote-v-com-franzido-preto-214555"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="50px 5px 25px 5px" width="50%">
+            <mj-image
+              align="left"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/vestido-midi-decote-v-com-franzido-preto-214555"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_17-07_LQDA/VESTIDO%20MIDI%20DECOTE%20V%20COM%20FRANZIDO%20PRETO.jpg"
+              title="VESTIDO MIDI DECOTE V COM FRANZIDO PRETO"
+              alt="VESTIDO MIDI DECOTE V COM FRANZIDO PRETO" />
+          </mj-column>
+
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="right"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/vestido-curto-decote-redondo-com-recorte-dourado-208121"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_17-07_LQDA/VESTIDO%20CURTO%20DECOTE%20REDONDO%20COM%20RECORTE%20DOURADO.jpg"
+              title="VESTIDO CURTO DECOTE REDONDO COM RECORTE DOURADO"
+              alt="VESTIDO CURTO DECOTE REDONDO COM RECORTE DOURADO" />
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="left" padding="0">
+              <h1
+                style="font-family: Poppins, sans-serif; color: #b52034; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                VESTIDO CURTO<br> DECOTE REDONDO
+              </h1>
+            </mj-text>
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-top: 5px">R$ 649,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="700"
+              font-size="16px"
+              align="left"
+              padding="0">
+              <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 519,92</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 86,65</span>
+            </mj-text>
+
+            <mj-text align="left" padding="10px 0px">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+                href="https://www.iodice.com.br/vestido-curto-decote-redondo-com-recorte-dourado-208121"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="right" padding="0">
+              <h1
+                style="font-family: Poppins, sans-serif; color: #b52034; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                VESTIDO MIDI GOLA<br> ALTA BASICO
+              </h1>
+            </mj-text>
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-top: 5px">R$ 649,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="700"
+              font-size="16px"
+              align="right"
+              padding="0">
+              <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 519,92</span>
+            </mj-text>
+
+            <mj-text
+              color="#b52034"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 86,65</span>
+            </mj-text>
+
+            <mj-text align="right" padding="10px 0px">
+              <a
+                style="font-family: Poppins, sans-serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+                href="https://www.iodice.com.br/vestido-midi-gola-alta-basico-preto-222865"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="left"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/vestido-midi-gola-alta-basico-preto-222865"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_17-07_LQDA/VESTIDO%20MIDI%20GOLA%20ALTA%20BASICO%20PRETO.jpg"
+              title="VESTIDO MIDI GOLA ALTA BASICO PRETO"
+              alt="VESTIDO MIDI GOLA ALTA BASICO PRETO" />
+          </mj-column>
+
+          <mj-column padding="0px 0px" width="100%">
+            <mj-image
+              padding="30px 0px 0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=211"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_06-07_LQDA/iod-001-vestidos.jpg" 
+              alt="Vestidos"
+              title="Vestidos"/>
+            <mj-image
+              padding="0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=195"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_06-07_LQDA/iod-001-blusas.jpg" 
+              alt="Blusas"
+              title="Blusas"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,247 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/"
+            width="600px"
+            padding="0px 0px"
+            alt="T-Shirts"
+            title="T-Shirts"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_09-04_Looks_t-shirts/tshirt-topo.jpg" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#000000"
+            font-size="12px"
+            padding="0px 150px 8px 25px"
+            align="left"
+            line-height="1.3"
+            font-weight="400">
+            aproveite a nossa seleção especial de t-shirts para compor seus looks!
+          </mj-text>
+          <mj-text align="left">
+              <a
+                style="letter-spacing:1px;text-decoration: none; font-weight:500; font-size: 10.5px; color: #000000; display: inline-block; padding: 7px 13px; border: 1px solid #000000;"
+                href="https://www.leboh.com.br/tshirt"
+                title="descubra">
+                descubra >
+              </a>
+            </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding="40px 0px">
+        <mj-group>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/t-shirt-decote-redondo-assimetrica-preto-225420/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_09-04_Looks_t-shirts/T-Shirt%20Decote%20Redondo%20Assimetrica%20Preto.jpg"
+              title="T-Shirt Decote Redondo Assimetrica Preto"
+              alt="T-Shirt Decote Redondo Assimetrica Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 209,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">4x de R$ 52,47</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/t-shirt-decote-redondo-assimetrica-preto-225420/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/t-shirt-decote-ribana-com-relevo-verde-225211/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_09-04_Looks_t-shirts/T-Shirt%20Decote%20Ribana%20Com%20Relevo%20Verde.jpg"
+              title="T-Shirt Decote Ribana Com Relevo Verde"
+              alt="T-Shirt Decote Ribana Com Relevo Verde" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote Ribana
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 209,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">4x de R$ 52,47</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/t-shirt-decote-ribana-com-relevo-verde-225211/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/t-shirt-decote-ribana-com-silk-off-white-220200/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_09-04_Looks_t-shirts/T-Shirt%20Decote%20Ribana%20Com%20Silk%20Off%20White.jpg"
+              title="T-Shirt Decote Ribana Com Silk Off White"
+              alt="T-Shirt Decote Ribana Com Silk Off White" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote Ribana
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 159,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 79,95</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/t-shirt-decote-ribana-com-silk-off-white-220200/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/t-shirt-decote-redondo-manga-raglan-verde-220204/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_09-04_Looks_t-shirts/T-Shirt%20Decote%20Redondo%20Manga%20Raglan%20Verde.jpg"
+              title="T-Shirt Decote Redondo Manga Raglan Verde"
+              alt="T-Shirt Decote Redondo Manga Raglan Verde" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 139,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 69,95</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/t-shirt-decote-redondo-manga-raglan-verde-220204/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

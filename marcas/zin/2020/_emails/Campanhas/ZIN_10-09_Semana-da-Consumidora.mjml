@@ -1,0 +1,176 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_10-09_Semana-da-Consumidora/ZC_EmailMkt_Semana01-topo.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="12.5px" padding="20px 0px 0px 0px" align="center" font-weight="400" line-height="16px" letter-spacing="0.5px">
+          Garanta seu lookinho com <strong>até 70% off</strong><br>
+          na semana da cliente!
+        </mj-text>
+        <mj-button href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12.5px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "2px solid #2fd18a" target="_blank">Shop Now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/body-gola-alta-cavado-com-retilinea-azul-221761/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/203899/BODY-GOLA-ALTA-CAVADO-COM-RETILINEA---LI-AZUL-MARINHO---PP.jpg?v=637172613372900000"
+            title="Body Gola Alta Cavado Com Retilinea Azul"
+            alt="Body Gola Alta Cavado Com Retilinea Azul" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#2fd18a" font-weight="400" font-size="15px" padding="160px 0 10px 0">
+            Body Gola Alta<br> Cavado
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/body-gola-alta-cavado-com-retilinea-azul-221761/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="left" font-weight="800" font-size="12px" padding="15px 0px" background-color="#2fd18a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#2fd18a" font-weight="400" font-size="15px" padding="160px 0 10px 0">
+            Calca Comfort Cos<br> Alto Detalhe Lateral
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 389,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="right" padding="7px 0">
+            5x de R$ 54,58
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 272,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/calca-comfort-cos-alto-detalhe-lateral-cinza-221796/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="right" font-weight="800" font-size="12px" padding="15px 0px" background-color="#2fd18a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-comfort-cos-alto-detalhe-lateral-cinza-221796/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/202718/CALCA-COMFORT-COS-ALTO-DETALHE-LATERAL---LT-CINZA-MESCLA---36.jpg?v=637172585753270000"
+            title="Calca Comfort Cos Alto Detalhe Lateral Cinza"
+            alt="Calca Comfort Cos Alto Detalhe Lateral Cinza" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-curta-evase-detalhe-galao-cinza-221799/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/202758/SAIA-CURTA-EVASE-DETALHE-GALAO---LT-CINZA-MESCLA---36.jpg?v=637172586336970000"
+            title="Saia Curta Evase Detalhe Galao Cinza"
+            alt="Saia Curta Evase Detalhe Galao Cinza" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#2fd18a" font-weight="400" font-size="15px" padding="160px 0 10px 0">
+            Saia Curta Evase<br> Detalhe Galao
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 369,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            5x de R$ 51,78
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 258,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/saia-curta-evase-detalhe-galao-cinza-221799/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="left" font-weight="800" font-size="12px" padding="15px 0px" background-color="#2fd18a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_10-09_Semana-da-Consumidora/ZC_EmailMkt_Semana01-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_10-09_Semana-da-Consumidora/ZC_EmailMkt_Semana01-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_10-09_Semana-da-Consumidora/ZC_EmailMkt_Semana01-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

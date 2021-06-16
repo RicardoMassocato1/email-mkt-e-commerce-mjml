@@ -1,0 +1,332 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0px 0px 15px 0px">
+      <mj-group>
+        <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\_shared\header\top-bar.mjml">
+      </mj-group>
+    </mj-section>
+        <mj-section padding="0" background-color="#D3C4B0">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            morenarosa.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="15px 0px 5px 0px"
+            href="https://www.morenarosa.com.br"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_24-03_Out-Now/Topo-10%25%20off%20E-commerce.jpg"
+            title="Desconto CLUBEBR"
+            alt="Desconto CLUBEBR" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../header/_header-lancamento.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Out%2520Now%2520&pwaf_productClusterIds=265"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/SemanaOutNow/MOR_27-03_Out-Now/email4_1.jpg"
+            title="We Love Botas"
+            alt="We Love Botas" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="50px 0px">
+        <mj-group>
+
+          <mj-column width="100%">
+            <mj-text
+              color="#999999"
+              font-size="18px"
+              padding="0 0 20px 0"
+              align="center"
+              font-weight="300"
+              text-transform="uppercase">
+              PRODUTOS:
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="hhttps://www.morenarosa.com.br/bota-cano-longo-rasteiro-enfeite-personalizado-marrom-195547"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/SemanaOutNow/MOR_27-03_Out-Now/Bota%20Cano%20Longo%20Rasteiro%20Enfeite%20Personalizado%20Marrom.jpg"
+              title="Bota Cano Longo Rasteiro Enfeite Personalizado Marrom"
+              alt="Bota Cano Longo Rasteiro Enfeite Personalizado Marrom" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Bota Cano Longo Rasteiro
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 569,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 20px 0">R$ 284,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 5x R$ 56,99</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/bota-cano-longo-rasteiro-enfeite-personalizado-marrom-195547"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/bota-cano-longo-salto-fachete-rebite-personalizado-preto-200758"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/SemanaOutNow/MOR_27-03_Out-Now/Bota%20Cano%20Longo%20Salto%20Fachete%20Rebite%20Personalizado%20Preto.jpg"
+              title="Bota Cano Longo Salto Fachete Rebite Personalizado Preto"
+              alt="Bota Cano Longo Salto Fachete Rebite Personalizado Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Bota Cano Longo Salto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 699,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 20px 0">R$ 349,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 6x R$ 58,32</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/bota-cano-longo-salto-fachete-rebite-personalizado-preto-200758"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/bota-western-salto-fachete-rebite-personalizado-marrom-195561"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/SemanaOutNow/MOR_27-03_Out-Now/Bota%20Western%20Salto%20Fachete%20Rebite%20Personalizado%20Marrom.jpg"
+              title="Bota Western Salto Fachete Rebite Personalizado Marrom"
+              alt="Bota Western Salto Fachete Rebite Personalizado Marrom" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Bota Western Salto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 549,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 20px 0">R$ 274,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 5x R$ 54,99</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/bota-western-salto-fachete-rebite-personalizado-marrom-195561"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/bota-cano-curto-salto-fachete-com-recorte-off-white-200841"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/SemanaOutNow/MOR_27-03_Out-Now/Bota%20Cano%20Curto%20Salto%20Fachete%20Com%20Recorte%20Off%20White.jpg"
+              title="Bota Cano Curto Salto Fachete Com Recorte Off White"
+              alt="Bota Cano Curto Salto Fachete Com Recorte Off White" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Bota Cano Curto Salto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 499,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 20px 0">R$ 249,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 4x R$ 62,48</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/bota-cano-curto-salto-fachete-com-recorte-off-white-200841"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="30px 0px 10px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Lqda%252520Fitness&pwaf_productClusterIds=230"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/SemanaOutNow/MOR_27-03_Out-Now/email4_3.jpg"
+            title="Living"
+            alt="Living" />
+          <mj-image
+            padding="0px 0px 10px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Out%2520Now%2520&pwaf_productClusterIds=263"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/SemanaOutNow/MOR_27-03_Out-Now/email4_2.jpg"
+            title="Blusas"
+            alt="Blusas" />
+          <mj-image
+            padding="0px 0px 10px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Out%2520Now%2520&pwaf_productClusterIds=264"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/SemanaOutNow/MOR_27-03_Out-Now/email4_4.jpg"
+            title="Calças"
+            alt="Calças" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

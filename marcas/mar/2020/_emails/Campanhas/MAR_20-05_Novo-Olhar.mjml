@@ -1,0 +1,221 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Novo-Olhar/EmailMkt_Mae_0201-topo.png"
+              title="Novo Olhar"
+              alt="Novo Olhar" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/camisa-manga-longa-detalhe-corrente-preto-221328/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Novo-Olhar/Camisa%20Manga%20Longa%20Detalhe%20Corrente%20Preto.jpg" 
+            title="Camisa Manga Longa Detalhe Corrente Preto" 
+            alt="Camisa Manga Longa Detalhe Corrente Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 51,10</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/camisa-manga-longa-detalhe-corrente-preto-221328/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px"
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-bordado-industrial-preto-229430/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Novo-Olhar/T-Shirt%20Decote%20Redondo%20Bordado%20Industrial%20Preto.jpg" 
+            title="T-Shirt Decote Redondo Bordado Industrial Preto" 
+            alt="T-Shirt Decote Redondo Bordado Industrial Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 55,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-bordado-industrial-preto-229430/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/blusa-decote-v-manga-3-4-com-pregas-amarelo-225770/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Novo-Olhar/Blusa%20Decote%20V%20Manga%203-4%20Com%20Pregas%20Amarelo.jpg" 
+            title="Blusa Decote V Manga 3/4 Com Pregas Amarelo" 
+            alt="Blusa Decote V Manga 3/4 Com Pregas Amarelo" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V Manga 3/4 Com Pregas
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 53,31</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-v-manga-3-4-com-pregas-amarelo-225770/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/calca-cropped-cos-amarracao-bolso-faca-mostarda-226249/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Novo-Olhar/Calca%20Cropped%20Cos%20Amarracao%20Bolso%20Faca%20Mostarda.jpg" 
+            title="Calca Cropped Cos Amarracao Bolso Faca Mostarda" 
+            alt="Calca Cropped Cos Amarracao Bolso Faca Mostarda" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Cropped Cos Amarracao Bolso
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 529,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 52,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/calca-cropped-cos-amarracao-bolso-faca-mostarda-226249/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="0px 0px 20px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento/blusas?O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Novo-Olhar/EmailMkt_Mae_0202-blusa.png"
+              title="Blusas"
+              alt="Blusas" />
+      </mj-column>  
+    
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="0 0px 0px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento/calcas?map=c&O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Novo-Olhar/EmailMkt_Mae_0203-calca.png"
+              title="Calças"
+              alt="Calças" />
+      </mj-column>  
+   
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="20px 0px 0 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento/vestidos?O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Novo-Olhar/EmailMkt_Mae_0204vestido.png"
+              title="Vestidos"
+              alt="Vestidos" />
+      </mj-column>  
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="20px 0 10px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Novo-Olhar/EmailMkt_Mae_0205-rodape.png"
+              title="Novo Olhar"
+              alt="Novo Olhar" />
+      </mj-column>    
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

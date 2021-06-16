@@ -1,0 +1,225 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 30px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Preview&pwaf_productClusterIds=229"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Preview/IOD_12-08_Preview/Email-mkt2004-topo.jpg" 
+              alt="A Força da Natura"
+              title="A Força da Natura"/>
+          </mj-column>
+          
+          <mj-column padding="0 5px 30px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/blusa-decote-redondo-manga-curta-detalhe-galao-off-white-234429#options"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Preview/IOD_12-08_Preview/BLUSA%20DECOTE%20REDONDO%20MANGA%20CURTA%20DETALHE%20GALAO%20OFF%20WHITE.jpg"
+              title="BLUSA DECOTE REDONDO MANGA CURTA DETALHE GALAO OFF WHITE"
+              alt="BLUSA DECOTE REDONDO MANGA CURTA DETALHE GALAO OFF WHITE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #8d3e1f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Decote Redondo<br> Manga Curta
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+            
+            <mj-text
+              color="#8d3e1f"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 249,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#8d3e1f"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 4x R$ 62,47</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color: #8d3e1f; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 17px;"
+                href="https://www.iodice.com.br/blusa-decote-redondo-manga-curta-detalhe-galao-off-white-234429#options"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 30px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/bata-decote-redondo-com-combinete-nude-234450"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Preview/IOD_12-08_Preview/BATA%20DECOTE%20REDONDO%20COM%20COMBINETE%20NUDE.jpg"
+              title="BATA DECOTE REDONDO COM COMBINETE NUDE"
+              alt="BATA DECOTE REDONDO COM COMBINETE NUDE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #8d3e1f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Bata Decote Redondo<br> Com Combinete
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#8d3e1f"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 829,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#8d3e1f"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 8x R$ 103,73</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color: #8d3e1f; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 17px;"
+                href="https://www.iodice.com.br/bata-decote-redondo-com-combinete-nude-234450"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/saia-midi-evase-bolso-faca-preto-235638"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Preview/IOD_12-08_Preview/SAIA%20MIDI%20EVASE%20BOLSO%20FACA%20PRETO.jpg"
+              title="SAIA MIDI EVASE BOLSO FACA PRETO"
+              alt="SAIA MIDI EVASE BOLSO FACA PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #8d3e1f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Saia Midi Evase Bolso<br> Faca Preto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#8d3e1f"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 599,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#8d3e1f"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 99,98</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color: #8d3e1f; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 17px;"
+                href="https://www.iodice.com.br/saia-midi-evase-bolso-faca-preto-235638"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-pijama-cos-elastico-com-nervuras-azul-235182"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Preview/IOD_12-08_Preview/CALCA%20PIJAMA%20COS%20ELASTICO%20COM%20NERVURAS%20AZUL.jpg"
+              title="CALCA PIJAMA COS ELASTICO COM NERVURAS AZUL"
+              alt="CALCA PIJAMA COS ELASTICO COM NERVURAS AZUL" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #8d3e1f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Pijama Cos Elastico<br> Com Nervuras
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#8d3e1f"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 349,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#8d3e1f"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 58,31</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color: #8d3e1f; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 17px;"
+                href="https://www.iodice.com.br/calca-pijama-cos-elastico-com-nervuras-azul-235182"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

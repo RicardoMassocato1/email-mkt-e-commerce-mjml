@@ -1,0 +1,73 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=273"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Maio/IOD_12-05_Preto-Branco/iodice%20new%20layout-01-min.jpeg"
+          alt="Preto e Branco"
+          title="Preto e Branco" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="13px" padding="20px 30px 10px 30px" align="left" font-weight="400" line-height="18px">
+          A nossa estampa botânica bicolor é uma das nossas queridinhas dessa coleção. Ela deixa os looks sofisticados e dão um toque de modernidade até mesmo à looks mais neutros!
+        </mj-text>
+        <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=273" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="13px" padding="5px 0px 30px 30px" background-color="#fff" color="#000" border="1px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0px">Shop now</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 10px 10px 10px"
+          width="600px"
+          href="https://www.iodice.com.br/regata-iodice-decote-v-basica-branco-253449"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Maio/IOD_12-05_Preto-Branco/iodice%20new%20layout-02-min.jpeg"
+          alt="REGATA IÓDICE DECOTE V BÁSICA BRANCO"
+          title="REGATA IÓDICE DECOTE V BÁSICA BRANCO" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 10px 10px 10px"
+          width="600px"
+          href="https://www.iodice.com.br/calca-iodice-reta-cos-alto-detalhe-sobreposicao-branco-254556"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Maio/IOD_12-05_Preto-Branco/iodice%20new%20layout-04-min.jpeg"
+          alt="CALÇA IÓDICE RETA CÓS ALTO DETALHE SOBREPOSIÇÃO BRANCO"
+          title="CALÇA IÓDICE RETA CÓS ALTO DETALHE SOBREPOSIÇÃO BRANCO" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 10px 20px 10px"
+          width="600px"
+          href="https://www.iodice.com.br/calca-iodice-jogging-cos-alto-bolso-faca-preto-254560"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Maio/IOD_12-05_Preto-Branco/iodice%20new%20layout-05-min.jpeg"
+          alt="CALÇA IÓDICE JOGGING CÓS ALTO BOLSO FACA PRETO"
+          title="CALÇA IÓDICE JOGGING CÓS ALTO BOLSO FACA PRETO" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

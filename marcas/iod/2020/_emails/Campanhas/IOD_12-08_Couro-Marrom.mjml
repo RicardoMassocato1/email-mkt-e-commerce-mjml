@@ -1,0 +1,179 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="30px 0px 10px 0px" background-color="#f1ede8">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 50px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Couro&pwaf_productClusterIds=228"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Couro/IOD_12-08_Couro-Marrom/Prancheta%201-topo-02.png" 
+              alt="Leather"
+              title="Leather"/>
+          </mj-column>
+          
+          <mj-column padding="0 5px 40px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #af3b1f"
+              href="https://www.iodice.com.br/macaquinho-decote-transpassado-premium-marrom-230353"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Couro/IOD_12-08_Couro-Marrom/MACAQUINHO%20DECOTE%20TRANSPASSADO%20PREMIUM%20MARROM.jpg"
+              title="MACAQUINHO DECOTE TRANSPASSADO PREMIUM MARROM"
+              alt="MACAQUINHO DECOTE TRANSPASSADO PREMIUM MARROM" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #af3b1f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Macaquinho<br> Decote Transp.
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#c06851" />
+            
+            <mj-text
+              color="#af3b1f"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 6.789,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#af3b1f"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 12x R$ 565,82</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color: #af3b1f; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 12px;"
+                href="https://www.iodice.com.br/macaquinho-decote-transpassado-premium-marrom-230353"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 40px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #af3b1f"
+              href="https://www.iodice.com.br/jaqueta-biker-premium-marrom-230351"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Couro/IOD_12-08_Couro-Marrom/JAQUETA%20BIKER%20PREMIUM%20MARROM.jpg"
+              title="JAQUETA BIKER PREMIUM MARROM"
+              alt="JAQUETA BIKER PREMIUM MARROM" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #af3b1f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Jaqueta Biker<br> Premium
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#c06851" />
+
+            <mj-text
+              color="#af3b1f"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 5.619,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#af3b1f"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 12x R$ 468,32</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color: #af3b1f; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 12px;"
+                href="https://www.iodice.com.br/jaqueta-biker-premium-marrom-230351"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 20px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #af3b1f"
+              href="https://www.iodice.com.br/calca-clochard-cos-alto-premium-marrom-230352"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Couro/IOD_12-08_Couro-Marrom/CALCA%20CLOCHARD%20COS%20ALTO%20PREMIUM%20MARROM.jpg"
+              title="CALCA CLOCHARD COS ALTO PREMIUM MARROM"
+              alt="CALCA CLOCHARD COS ALTO PREMIUM MARROM" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #af3b1f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Clochard<br> Cos Alto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#c06851" />
+
+            <mj-text
+              color="#af3b1f"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 5.199,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#af3b1f"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 12x R$ 433,32</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0">
+              <a
+                style="font-family: Poppins, sans-serif; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color: #af3b1f; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 12px;"
+                href="https://www.iodice.com.br/calca-clochard-cos-alto-premium-marrom-230352"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,167 @@
+'<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_16-12_P%26B-Minimalista/MV_EmailMkt_06-topo.jpg"
+          alt="P&B Minimalista"
+          title="P&B Minimalista" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="12.5px" padding="20px 10px 0px 10px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+           Falando no estilo náutico grego, a versão noturna da tendência 
+           aparece em p&b e com estampas de listras e gravataria que tem tudo 
+           para ser hit. Pode apostar! 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="right" color="#000" font-weight="400" font-size="15px" padding="125px 0 10px 0">
+            Calça Zinco<br> Pantalona Cós Alto<br> Composê Tecido<br> Preto
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="8px 0">
+            8x de R$ 54,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 439,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/calca-zinco-pantalona-cos-alto-compose-tecido-preto-244300/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="right" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-pantalona-cos-alto-compose-tecido-preto-244300/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/216045/CALCA-PANTALONA-COS-ALTO-COMPOSE-TECIDO---ES-PRETO-OFF-WHITE---36.jpg?v=637425195639300000"
+            title="Calça Zinco Pantalona Cós Alto Composê Tecido Preto"
+            alt="Calça Zinco Pantalona Cós Alto Composê Tecido Preto" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/kimono-zinco-alongado-compose-tecidos-preto-244311/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/216089/KIMONO-ALONGADO-COMPOSE-TECIDOS---ES-PRETO-OFF-WHITE---M.jpg?v=637425196293370000"
+            title="Kimono Zinco Alongado Composê Tecidos Preto - M"
+            alt="Kimono Zinco Alongado Composê Tecidos Preto - M" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="left" color="#000" font-weight="400" font-size="15px" padding="150px 0 10px 0">
+            Kimono Zinco<br> Alongado Composê<br> Tecidos Preto - M
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="left" padding="8px 0">
+            7x de R$ 55,70
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 389,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/kimono-zinco-alongado-compose-tecidos-preto-244311/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="left" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="right" color="#000" font-weight="400" font-size="15px" padding="140px 0 10px 0">
+            T-Shirt Zinco Decote<br> Redondo Com<br> Silk Preto
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="8px 0">
+            4x de R$ 57,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 229,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-com-silk-preto-239747/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="right" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-com-silk-preto-239747/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214822/T-SHIRT-DECOTE-REDONDO-COM-SILK---LI-PRETO---PP.jpg?v=637378578206000000"
+            title="T-Shirt Zinco Decote Redondo Com Silk Preto"
+            alt="T-Shirt Zinco Decote Redondo Com Silk Preto" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/camisas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_16-12_P%26B-Minimalista/MV_EmailMkt_06-camisas.jpg"
+          alt="Camisas"
+          title="Camisas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/calcas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_16-12_P%26B-Minimalista/MV_EmailMkt_06-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/blusas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_16-12_P%26B-Minimalista/MV_EmailMkt_06-camisetas.jpg"
+          alt="Camisetas"
+          title="Camisetas" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

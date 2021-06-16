@@ -1,0 +1,411 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 15px 0px" background-color="#efe7da">
+      <mj-group> 
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br"
+            width="600px"
+            padding="0"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/EMAILmkt-topo.png"
+            alt="Leboh"
+            title="Leboh" />
+        </mj-column>
+
+        <mj-column width="80%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="13px"
+            padding="20px 0px 3px 130px"
+            align="left"
+            line-height="15px"
+            font-weight="500">
+            dia do amigo<br><strong>-</strong>
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="37px"
+            padding="30px 0px 25px 60px"
+            align="center"
+            line-height="32px"
+            font-weight="300">
+            olhar para<br> o&nbsp; &nbsp; &nbsp; outro
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="13px"
+            padding="20px 10px 20px 40px"
+            align="left"
+            line-height="15px"
+            font-weight="500">
+            a cada peça vendida no nosso<br> e-commerce, uma peça nova<br> será doada para o projeto<br> Hamburgada do Bem.
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="13.5px"
+            padding="20px 10px 10px 80px"
+            align="center"
+            line-height="15px"
+            font-weight="500">
+            Aproveite o cupom<br> <strong>HAMBURGADA15</strong> e garanta <br>15% OFF em peças selecionadas
+          </mj-text>
+          <mj-text align="center">
+            <a
+              style="margin-left: 70px; text-decoration: none; font-weight:500; font-size: 11px; color: #ffffff; background-color: #5d60ca; display: inline-block; padding: 6px 15px; border: 1px solid #5d60ca; letter-spacing:1px"
+              href="https://www.leboh.com.br/lancamento/um-tempo-pra-mim"
+              title="shop now">
+              shop now
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image
+            align="right"
+            width="600px"
+            padding="0"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/EMAILmkt-icone2.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="15px 0px" background-color="#5d60ca">
+      <mj-group> 
+        <mj-column width="70%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#efe7da"
+            font-size="12px"
+            padding="20px 0px 20px 25px"
+            align="left"
+            line-height="16px"
+            font-weight="400">
+            Hamburgada do Bem
+            <br><br>
+            a Hamburgada do Bem é um projeto de<br> amigos que mensalmente distribui<br> hambúrgueres, muita recreação e<br> informação. para os voluntários,<br> arriscamos dizer que pode ser apenas<br> um hambúrguer e uma manhã gasta,<br> mas para as crianças talvez seja a única<br> coisa diferente que comeram nos<br> últimos meses. muitas vezes "o dia mais<br> feliz do mês" se transforma no melhor<br> dia da vida dos pequeninos. (como<br> costumam dizer nas cartinhas que são<br> entregues durante o dia da ação).
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%">
+          <mj-image
+            align="center"
+            width="100px"
+            padding="85px 20px 0px 0px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/EMAILmkt-icone.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 20px 0px">
+      <mj-group>
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/camisa-manga-longa-alongada-tijolo-verde-231189/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/Camisa%20Manga%20Longa%20Alongada%20Tijolo-Verde.jpg"
+            title="Camisa Manga Longa Alongada Tijolo/Verde"
+            alt="Camisa Manga Longa Alongada Tijolo/Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga<br> Longa Alongada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 689,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">12x de R$57,49</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.leboh.com.br/camisa-manga-longa-alongada-tijolo-verde-231189/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/parka-corta-vento-marrom-228969/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/Parka%20Corta%20Vento%20Marrom.jpg"
+            title="Parka Corta Vento Marrom"
+            alt="Parka Corta Vento Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Parka Corta<br> Vento Marrom
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$52,84</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.leboh.com.br/parka-corta-vento-marrom-228969/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-cenoura-cos-intermediario-com-recorte-verde-228939/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/Calca%20Cenoura%20Cos%20Intermediario%20Com%20Recorte%20Verde.jpg"
+            title="Calca Cenoura Cos Intermediario Com Recorte Verde"
+            alt="Calca Cenoura Cos Intermediario Com Recorte Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Cenoura<br> Cos Interm.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$56,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.leboh.com.br/calca-cenoura-cos-intermediario-com-recorte-verde-228939/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        
+        <mj-column padding="20px 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-alfaiataria-cos-intermediario-abertura-barra-camel-228931/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/Calca%20Alfaiataria%20Cos%20Intermediario%20Abertura%20Barra%20Camel.jpg"
+            title="Calca Alfaiataria Cos Intermediario Abertura Barra Camel"
+            alt="Calca Alfaiataria Cos Intermediario Abertura Barra Camel" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Alfaiataria<br> Cos Interm.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$56,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.leboh.com.br/calca-alfaiataria-cos-intermediario-abertura-barra-camel-228931/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macacao-alfaiataria-bicolor-verde-228909/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/Macacao%20Alfaiataria%20Bicolor%20Verde.jpg"
+            title="Macacao Alfaiataria Bicolor Verde"
+            alt="Macacao Alfaiataria Bicolor Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Alfaiat.<br> Bicolor
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 569,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">11x de R$51,80</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.leboh.com.br/macacao-alfaiataria-bicolor-verde-228909/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macaquinho-gola-esporte-detalhe-punho-preto-228919/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_20-07_Dia-do-Amigo/Macaquinho%20Gola%20Esporte%20Detalhe%20Punho%20Preto.jpg"
+            title="Macaquinho Gola Esporte Detalhe Punho Preto"
+            alt="Macaquinho Gola Esporte Detalhe Punho Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macaquinho Gola<br> Esporte
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$55,54</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.leboh.com.br/macaquinho-gola-esporte-detalhe-punho-preto-228919/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

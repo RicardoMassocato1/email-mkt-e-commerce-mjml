@@ -1,0 +1,219 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-column padding="0" width="100%">
+      <mj-image
+        padding="10px 0px 0px 0px"
+        width="600px"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Color-Blocking/E-mail%20mkt%202004-05-topo.jpg"
+        title="Color Blocking"
+        alt="Color Blocking" />
+    </mj-column>
+
+    <mj-section padding="10px 0px 20px 0px" background-url="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-02.jpg" background-size="110%" background-repeat="no-repeat">
+      <mj-group>
+        
+        <mj-column padding="0px 0px 0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#634731" font-size="11.5px" padding="0px 30px 0px 22px" align="left" font-weight="400" line-height="21px" letter-spacing="1.4px">
+            A família de peças com blocos de cores traz<br> uma mistura de lavanderias para o univeso<br> denim. Uma ótima pedida para atualizar os<br> looks e impactar no dia a dia.
+          </mj-text>
+          <mj-text align="left" padding="10px 0px 0px 25px">
+            <a
+              style="font-family:Roboto, serif; font-weight: 400; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #fef2e6; background-color: #634731; display: inline-block; margin: 0px; padding: 7px 13px; letter-spacing: 1.2px; "
+              href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+              title="SHOP NOW"
+              alt="SHOP NOW">
+              SHOP NOW >
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-section>
+      <mj-group> 
+        <mj-column padding="10px 5px 0px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-curta-five-pockets-bicolor-jeans-233662"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352878/SAIA-CURTA-FIVE-POCKETS-BICOLOR---LI-JEANS-MEDIO---38.jpg?v=637326636976070000"
+            title="Saia Curta Five Pockets Bicolor Jeans"
+            alt="Saia Curta Five Pockets Bicolor Jeans" />
+        </mj-column>
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #634432; font-weight: 400; font-size: 15px; padding: 130px 0px 10px 0px; margin: 0px;">
+              Saia Curta Five<br> Pockets Bicolor Jeans
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="300"
+            font-size="14px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 349,90</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11.8px; font-weight: 300; letter-spacing: 1.8px; background-color: #634432; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/saia-curta-five-pockets-bicolor-jeans-233662"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #634432; font-weight: 400; font-size: 15px; padding: 130px 0px 10px 0px; margin: 0px;">
+              Shorts Five Pockets<br> Bicolor Jeans
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="300"
+            font-size="14px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 349,90</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11.8px; font-weight: 300; letter-spacing: 1.8px; background-color: #634432; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/shorts-five-pockets-bicolor-jeans-233661"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-five-pockets-bicolor-jeans-233661"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352848/SHORTS-FIVE-POCKETS-BICOLOR---LI-JEANS-MEDIO---34.jpg?v=637326636427500000"
+            title="Shorts Five Pockets Bicolor Jeans"
+            alt="Shorts Five Pockets Bicolor Jeans" />
+        </mj-column>
+
+
+        <mj-column padding="10px 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-boxer-com-termocolante-jeans-234468"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/353420/SHORTS-BOXER-COM-TERMOCOLANTE---LI-JEANS-CLARO---36.jpg?v=637326645698070000"
+            title="Shorts Boxer Com Termocolante Jeans"
+            alt="Shorts Boxer Com Termocolante Jeans" />
+        </mj-column>
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #634432; font-weight: 400; font-size: 15px; padding: 130px 0px 10px 0px; margin: 0px;">
+              Shorts Boxer Com<br> Termocolante Jeans
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">6x de R$ 61,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#634432"
+            font-weight="300"
+            font-size="14px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 369,90</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11.8px; font-weight: 300; letter-spacing: 1.8px; background-color: #634432; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/shorts-boxer-com-termocolante-jeans-234468"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="50px 15px 10px 15px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/shorts?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Shorts"
+            alt="Shorts"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Color-Blocking/E-mail%20mkt%202004-05-shorts.jpg" />
+          <mj-image
+            padding="15px 0px"
+            href="https://www.morenarosa.com.br/vestuario/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Calças"
+            alt="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Color-Blocking/E-mail%20mkt%202004-05-calcas.jpg" />
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/jaqueta?pwaf_OrderByReleaseDateDESC=%2B&p=2"
+            title="Jaqueta"
+            alt="Jaqueta"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Color-Blocking/E-mail%20mkt%202004-05-jaqueta.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section> 
+      
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

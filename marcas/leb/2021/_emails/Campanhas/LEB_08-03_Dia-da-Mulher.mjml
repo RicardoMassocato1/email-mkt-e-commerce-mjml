@@ -1,0 +1,109 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 70px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Mar%C3%A7o/LEB_08-03_Dia-da-Mulher/Artboard%202.png"
+            alt="Dia da Mulher"
+            title="Dia da Mulher" />
+        </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#7c3c65" padding-bottom="0px" padding-top="0px">
+      <mj-column width="30%">
+        <mj-image src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Mar%C3%A7o/LEB_08-03_Dia-da-Mulher/louise.jpg" 
+          alt="Louise Abrahão" 
+          width="150px" 
+          padding-left="0px" 
+          padding-right="0px" 
+          padding-bottom="0px" 
+          padding-top="85px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-family="Work Sans, sans-serif" align="center" color="#fff" font-size="13.2px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="5px">
+          <p style="font-size: 19px;font-weight:500;">Louise Abrahão</p>
+          <p style="font-size: 15px;">Coordenadora de Estilo Lebôh</p>
+          <p style="font-weight:400; letter-spacing:0.4px; line-height:16px"><strong>Qual conselho você daria para as mulheres que estão começando na sua área?</strong><br>
+            O maior conselho que eu dou para as mulheres que querem trabalhar com estilismo é que vejam a moda como um negócio e que trabalhem com uma visão macro. Não adianta só ser criativo, você precisa entender de orçamentos, fornecedores, gestão, tecidos, mercado... É preciso ter em mente que as roupas são para as nossas clientes, não para nós mesmas. Além disso, outra coisa que não pode faltar na hora de trabalhar com moda é muito amor e dedicação. A consumidora sabe quando uma peça foi feita com carinho e isso é essencial para comandar uma marca de sucesso.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px" background-color="#ffffff"></mj-section>
+
+    <mj-section background-color="#e259aa" padding-bottom="10px" padding-top="10px">
+      <mj-column width="70%">
+        <mj-text font-family="Work Sans, sans-serif" align="center" color="#fff" font-size="13.2px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="0px">
+          <p style="font-size: 19px;font-weight:500;">Bruna Oliveira</p>
+          <p style="font-size: 15px;">Assistente de Estilo Lebôh</p>
+          <p style="font-weight:400; letter-spacing:0.4px; line-height:16px"><strong>Para mim, uma mulher feliz é aquela que…</strong><br>
+            Que se desafia, que conhece e respeita seus valores e limites, que não tem medo de mostrar sua verdadeira essência e nem de assumir o protagonismo da sua própria vida.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image 
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Mar%C3%A7o/LEB_08-03_Dia-da-Mulher/bruna%20oliveira.jpg" 
+          alt="Bruna Oliveira" 
+          width="150px" 
+          padding-left="0px" 
+          padding-right="0px" 
+          padding-bottom="0px" 
+          padding-top="10px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px" background-color="#ffffff"></mj-section>
+
+    <mj-section background-color="#753c7a" padding-bottom="10px" padding-top="10px">
+      <mj-column width="30%">
+        <mj-image src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Mar%C3%A7o/LEB_08-03_Dia-da-Mulher/flavia%20borges.jpg" 
+          alt="Flávia Borges" 
+          width="150px" 
+          padding-left="0px" 
+          padding-right="0px" 
+          padding-bottom="0px" 
+          padding-top="0">
+        </mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-family="Work Sans, sans-serif" align="center" color="#fff" font-size="13.2px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0px">
+          <p style="font-size: 19px;font-weight:500;">Flávia Borges</p>
+          <p style="font-size: 15px;">Analista de Mídias Sociais Leboh</p>
+          <p style="font-weight:400; letter-spacing:0.4px; line-height:16px"><strong>Qual filme, série ou música você considera indispensável para as mulheres da atualidade?</strong><br>
+            Uma música indispensável é a “Linda Demais” do João Klein. 
+            E mulheres, assistam “coisa mais linda” no Netflix! Ambos acalentam a alma. &lt3 </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="70px 0px 10px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Mar%C3%A7o/LEB_08-03_Dia-da-Mulher/Artboard%202-rodape.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

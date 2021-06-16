@@ -1,0 +1,35 @@
+<mjml padding-left="calc((100% - 1000px) / 2)" padding-right="calc((100% - 1000px) / 2)">
+  <mj-body background-color="#000">
+    
+    <mj-section background-color="#000" padding="10px 0px 40px 0px">
+      <mj-column>
+        <mj-image padding="0px 0px" width="200px" align="left" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/Landing-Page/logo.png" href="https://www.arturia.com" alt=""></mj-image>
+      </mj-column>
+   
+      <mj-column>
+        <mj-button href="https://www.morenarosa.com.br" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="500" font-size="12px" padding="0px 0px" background-color="#ff4a14" color="#fff" border-radius="0px"><span style="letter-spacing:1.2px">vá para o site</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+     <mj-section background-color="#000" padding="0">
+      <mj-column width="50%">
+      <mj-text align="left" color="#ff4a14" font-size="35px" font-weight="500" letter-spacing="1.2px" padding="0px 25px 10px 25px" text-transform= "uppercase">
+          <p style="text-decoration: line-through; font-weight:300; letter-spacing:5px;">BLACK</p>
+          <p style="font-weight:600; letter-spacing:5px;">FASHION </p>
+          <p style="font-weight:600; letter-spacing:5px;">FRIDAY</p>
+          <p style="font-size: 13px; color:#fff">A MAIOR BLACK FRIDAY<br> DE MODA DO BRASIL</p>
+          <p style="font-weight:300; color:#fff; line-height:15px; font-size: 10px">A MORENA ROSA ESTÁ PREPARANDO OS<br> PRINCIPAIS LOOKS DO ANO EM POUCAS<br> HORAS DE OFERTA E ESTOQUE LIMITADO.</p>
+          <p style="font-weight:500; color:#fff; line-height:15px; font-size: 10px">CADASTRE-SE E FIQUE SABENDO ANTES</p>
+        </mj-text>
+        <mj-button width="100%" background-color="#fff" color="#fa8739" font-size="16px" align="left" border-radius="3px" href="https://mjml.io">SHOP NOW</mj-button>
+        <mj-button width="100%" background-color="#fff" color="#fa8739" font-size="16px" align="left" border-radius="3px" href="https://mjml.io">SHOP NOW</mj-button>
+        <mj-button width="50%" background-color="#fff" color="#fa8739" font-size="16px" align="left" border-radius="3px" href="https://mjml.io">ENVIAR</mj-button>
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-image src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/Landing-Page/rafa.png" border="5px solid #fff" alt="Clothes set" align="center" border="none" width="400px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

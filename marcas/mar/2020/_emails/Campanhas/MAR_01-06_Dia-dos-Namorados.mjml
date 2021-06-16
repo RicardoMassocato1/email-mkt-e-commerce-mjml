@@ -1,0 +1,219 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 30px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/dia-dos-namorados"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_01-06_Dia-dos-Namorados/EmailMkt_01.png"
+            title="Encontro Marcado"
+            alt="Encontro Marcado" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/t-shirt-decote-v-com-retilinea-off-white-226308/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_01-06_Dia-dos-Namorados/T-Shirt%20Decote%20V%20Com%20Retilinea%20Off%20White.jpg" 
+            title="T-Shirt Decote V Com Retilinea Off White" 
+            alt="T-Shirt Decote V Com Retilinea Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote V Com Retilinea Off White
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/t-shirt-decote-v-com-retilinea-off-white-226308/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px"
+            href="https://www.mariavalentina.com.br/regata-decote-redondo-abertura-lateral-preto-226164/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_01-06_Dia-dos-Namorados/Regata%20Decote%20Redondo%20Abertura%20Lateral%20Preto.jpg" 
+            title="Regata Decote Redondo Abertura Lateral Preto" 
+            alt="Regata Decote Redondo Abertura Lateral Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Regata Decote Redondo Abertura Lateral Preto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 249,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 62,47</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/regata-decote-redondo-abertura-lateral-preto-226164/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/shorts-comfort-com-faixa-caramelo-230157/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_01-06_Dia-dos-Namorados/Shorts%20Comfort%20Com%20Faixa%20Caramelo.jpg" 
+            title="Shorts Comfort Com Faixa Caramelo" 
+            alt="Shorts Comfort Com Faixa Caramelo" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Comfort Com Faixa Caramelo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 52,84</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/shorts-comfort-com-faixa-caramelo-230157/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/calca-montaria-cos-intermediario-abertura-barra-preto-225778/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_01-06_Dia-dos-Namorados/Calca%20Montaria%20Cos%20Intermediario%20Abertura%20Barra%20Preto.jpg" 
+            title="Calca Montaria Cos Intermediario Abertura Barra Preto" 
+            alt="Calca Montaria Cos Intermediario Abertura Barra Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Montaria Cos Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 51,10</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/calca-montaria-cos-intermediario-abertura-barra-preto-225778/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/blusas?map=c"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_01-06_Dia-dos-Namorados/EmailMkt_02.png"
+          title="Blusas"
+          alt="Blusas" />
+      </mj-column>  
+    
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="20px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_01-06_Dia-dos-Namorados/EmailMkt_03.png"
+          title="Calças"
+          alt="Calças" />
+      </mj-column>  
+   
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestidos?map=c"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_01-06_Dia-dos-Namorados/EmailMkt_04.png"
+          title="Vestidos"
+          alt="Vestidos" />
+      </mj-column>  
+
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="50px 0px 20px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lancamento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_01-06_Dia-dos-Namorados/EmailMkt_05.png"
+          title="Lançamento"
+          alt="Lançamento" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

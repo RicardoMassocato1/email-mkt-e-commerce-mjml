@@ -1,0 +1,246 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 20px 0px"
+              width="600px"
+              href="http://zinco.com.br/dia-das-maes"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_30-04_Dia-das-maes/EmailMkt_Frete03-2.jpg"
+              title="Dia das #Mães Parceiras"
+              alt="Dia das #Mães Parceiras" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 0px">
+        <mj-group>
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #000000"
+              href="https://www.zinco.com.br/calca-skinny-regular-cos-alto-bolso-faca-preto-223980/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_30-04_Dia-das-maes/Calca%20Skinny%20Regular%20Cos%20Alto%20Bolso%20Faca%20Preto.jpg"
+              title="Calca Skinny Regular Cos Alto Bolso Faca Preto"
+              alt="Calca Skinny Regular Cos Alto Bolso Faca Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Skinny Regular Cos Alto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 369,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 7x R$ 52,84</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/calca-skinny-regular-cos-alto-bolso-faca-preto-223980/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #000000"
+              href="https://www.zinco.com.br/jaqueta-over-bicolor-jeans-221767/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_30-04_Dia-das-maes/Jaqueta%20Over%20Bicolor%20Jeans.jpg"
+              title="Jaqueta Over Bicolor Jeans"
+              alt="Jaqueta Over Bicolor Jeans" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Jaqueta Over Bicolor Jeans
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 459,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 9x R$ 51,10</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/jaqueta-over-bicolor-jeans-221767/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #000000"
+              href="https://www.zinco.com.br/calca-pantacourt-cos-alto-detalhe-fio-metalizado-preto-221755/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_30-04_Dia-das-maes/Calca%20Pantacourt%20Cos%20Alto%20Detalhe%20Fio%20Metalizado%20Preto.jpg"
+              title="Calca Pantacourt Cos Alto Detalhe Fio Metalizado Preto"
+              alt="Calca Pantacourt Cos Alto Detalhe Fio Metalizado Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Pantacourt
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 399,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 7x R$ 57,12</span>
+            </mj-text>
+            
+            <mj-text align="center">
+              <a
+                style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/calca-pantacourt-cos-alto-detalhe-fio-metalizado-preto-221755/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #000000"
+              href="https://www.zinco.com.br/blazer-com-ziper-azul-221748/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_30-04_Dia-das-maes/Blazer%20Com%20Ziper%20Azul.jpg"
+              title="Blazer Com Ziper Azul"
+              alt="Blazer Com Ziper Azul" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blazer Com Ziper
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 439,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 8x R$ 54,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/blazer-com-ziper-azul-221748/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.zinco.com.br"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Campanha-Frete-Gratis/ZIN_27-04_Frete-Gratis/EmailMkt_Frete02-rodape.jpg"
+              title="Frete Grátis"
+              alt="Frete Grátis" />
+      </mj-column>  
+    </mj-section>
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

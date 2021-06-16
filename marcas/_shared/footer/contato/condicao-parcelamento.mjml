@@ -1,0 +1,21 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <mj-group>
+      <mj-column vertical-align="middle" width="25%">
+        <mj-image
+          padding="5px"
+          width="70px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/footer/contato/parcelamento.png" />
+      </mj-column>
+      <mj-column vertical-align="middle" width="70%">
+        <mj-text padding="0px" color="#999999" font-size="12px" line-height="18px">
+          <strong>Condições de Parcelamento:</strong>
+          </br>
+          As compras efetuadas na loja online podem ser pagas por meio de cartão de crédito e boleto bancário. Podem ser parceladas em até 12x sem juros nos cartões de crédito, sendo que a parcela mínima é de R$ 50,00.
+        </mj-text>
+      </mj-column>
+    </mj-group>
+
+  </mj-body>
+</mjml>

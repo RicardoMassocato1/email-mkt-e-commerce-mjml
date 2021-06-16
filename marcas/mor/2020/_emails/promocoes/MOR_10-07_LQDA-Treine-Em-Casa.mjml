@@ -1,0 +1,263 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="0px 0px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?p=3&sort=OrderByReleaseDateDESC&_t=LQDA&pwaf_productClusterIds=230"
+        title="LQDA"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_10-07_LQDA-Treine-Em-Casa/emailmkt_LQDA-TREINE%20EM%20CASA-topo.jpg" />
+    </mj-column>
+
+    <mj-section padding="25px 0px" background-color="#ce3a46">
+      <mj-column padding="0px 0px" width="100%">
+          <mj-text font-family="Roboto, sans-serif" color="#ffffff" font-size="20px" padding="0px 0px" align="center" font-weight="700" line-height="25px" letter-spacing="4px">
+            <a style="text-shadow:#ffffff 1px -1px, #ffffff -1px 1px, #ffffff 1px 1px, #ffffff -1px -1px; color: #ce3a46;">TREINE EM CASA!</a>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 0px 20px 0px">
+      <mj-group>
+        <mj-column width="100%"  padding="0px 0px 0px 0px">
+          <mj-text font-family="Roboto, sans-serif" color="#ce3a46" font-size="15px" padding="10px 10px" align="center" font-weight="300" line-height="22px" letter-spacing="1.5px">
+            Hora de renovar os <strong>looks do treino</strong><br> com <strong>até 50% OFF</strong> na <strong>LQDA!</strong>
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%"  padding="0px 0px 0px 0px">
+          <mj-text font-family="Roboto, sans-serif" color="#ce3a46" font-size="18px" padding="10px 10px 0px 10px" align="center" font-weight="600" line-height="30px" letter-spacing="1.5px">
+            20% - 1 PEÇA &nbsp;<br>
+            30% - 2 PEÇAS<br>
+            40% - 3 PEÇAS
+          </mj-text>
+          <mj-text font-family="Roboto, sans-serif" color="#ce3a46" font-size="18px" padding="3px 10px 10px 10px" align="center" font-weight="600" line-height="22px" letter-spacing="1.5px">
+            50% - 4 PEÇAS<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OU MAIS
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-boxer-com-calcinha-hot-pants-branco-206172"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_10-07_LQDA-Treine-Em-Casa/Shorts%20Boxer%20Com%20Calcinha%20Hot%20Pants%20Branco.jpg"
+            title="Shorts Boxer Com Calcinha Hot Pants Branco"
+            alt="Shorts Boxer Com Calcinha Hot Pants Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Boxer Com<br> Calcinha Hot
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 239,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/shorts-boxer-com-calcinha-hot-pants-branco-206172"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/t-shirt-decote-redondo-detalhe-chaveiro-cinza-192635"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_10-07_LQDA-Treine-Em-Casa/T-Shirt%20Decote%20Redondo%20Detalhe%20Chaveiro%20Cinza.jpg"
+            title="T-Shirt Decote Redondo Detalhe Chaveiro Cinza"
+            alt="T-Shirt Decote Redondo Detalhe Chaveiro Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote<br> Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 269,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 215,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$53,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/t-shirt-decote-redondo-detalhe-chaveiro-cinza-192635"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-decote-v-alca-detalhe-elastico-cinza-206091"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_10-07_LQDA-Treine-Em-Casa/Body%20Decote%20V%20Alca%20Detalhe%20Elastico%20Cinza.jpg"
+            title="Body Decote V Alca Detalhe Elastico Cinza"
+            alt="Body Decote V Alca Detalhe Elastico Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Body Decote V<br> Alca
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+         <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 219,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 175,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$58,64</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/body-decote-v-alca-detalhe-elastico-cinza-206091"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="40px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=LQDA&pwaf_productClusterIds=244"
+            title="Vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_10-07_LQDA-Treine-Em-Casa/emailmkt_LQDA-TREINE%20EM%20CASA-vestidos.jpg" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=LQDA&pwaf_productClusterIds=160"
+            title="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_10-07_LQDA-Treine-Em-Casa/emailmkt_LQDA-TREINE%20EM%20CASA-calcas.jpg" />
+          <mj-image
+            padding="0px 0px 30px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=LQDA&pwaf_productClusterIds=234"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_10-07_LQDA-Treine-Em-Casa/emailmkt_LQDA-TREINE%20EM%20CASA-blusas.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="100%">  
+          <mj-image
+            padding="10px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=LQDA&pwaf_productClusterIds=171"
+            title="LQDA"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_10-07_LQDA-Treine-Em-Casa/emailmkt_LQDA-TREINE%20EM%20CASA-rodape.jpg" />
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,193 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_01-02_LQDA-Progressiva/Artboard%203%20copy%202-topo.jpg"
+            alt="lqda progressiva"
+            title="lqda progressiva" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#D00613"> 
+        <mj-column padding="40px 0px 30px 0px">
+          <mj-text font-family= "Work Sans, sans-serif" color="#EDD9CB" font-size="23px" padding="0px 0px 0px 70px" align="left" line-height="31px" letter-spacing="0px" font-weight="600">
+            esportivo que amamos
+          </mj-text>
+          <mj-text font-family= "Work Sans, sans-serif" color="#EDD9CB" font-size="16px" padding="0px 0px 15px 70px" align="left" line-height="20px" letter-spacing="0px" font-weight="300">
+            Se joga na trend esportiva com<br> até 50% OFF
+            pra começar<br> o ano com tudo!
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 18px" align="left" font-weight="400" font-size="14px" padding="10px 0px 15px 70px" background-color="#EDD9CB" color="#D00613" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#D00613">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/jaqueta-leboh-esportiva-bolso-frente-azul-234807/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188992/JAQUETA-ESPORTIVA-BOLSO-FRENTE---LI-AZUL---PP.jpg?v=637332755818370000"
+            title="Jaqueta Lebôh Esportiva Bolso Frente Azul"
+            alt="Jaqueta Lebôh Esportiva Bolso Frente Azul" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Lebôh Esportiva<br> Bolso Frente Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 359,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 179,95<br><span style="font-weight:300; font-size:11px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/jaqueta-leboh-esportiva-bolso-frente-azul-234807/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/parka-leboh-corta-vento-marrom-228969/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187291/PARKA-CORTA-VENTO---ES-MARROM---P.jpg?v=637250791137500000"
+            title="Parka Lebôh Corta Vento Marrom"
+            alt="Parka Lebôh Corta Vento Marrom" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Parka Lebôh Corta<br> Vento Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 369,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 184,95<br><span style="font-weight:300; font-size:11px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/parka-leboh-corta-vento-marrom-228969/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 50px 0px" background-color="#D00613">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/jaqueta-leboh-esportiva-detalhe-tela-amarelo-228978/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187315/JAQUETA-ESPORTIVA-DETALHE-TELA---LI-AMARELO---P.jpg?v=637250791481900000"
+            title="Jaqueta Lebôh Esportiva Detalhe Tela Amarelo"
+            alt="Jaqueta Lebôh Esportiva Detalhe Tela Amarelo" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Lebôh Esportiva<br> Detalhe Tela Amarelo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 229,95<br><span style="font-weight:300; font-size:11px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/jaqueta-leboh-esportiva-detalhe-tela-amarelo-228978/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-leboh-boxer-bolso-faca-verde-220305/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/184061/SHORTS-BOXER-BOLSO-FACA---LI-VERDE---36.jpg?v=637111571801600000"
+            title="Shorts Lebôh Boxer Bolso Faca Verde"
+            alt="Shorts Lebôh Boxer Bolso Faca Verde" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Lebôh Boxer<br> Bolso Faca Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 209,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 104,95<br><span style="font-weight:300; font-size:11px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/shorts-leboh-boxer-bolso-faca-verde-220305/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="blusas"
+            title="blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_13-01_Vestidos-LQDA/Artboard%203%20copy%203-blusas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="calças"
+            title="calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_13-01_Vestidos-LQDA/Artboard%203%20copy%203-calcas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="vestidos"
+            title="vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_13-01_Vestidos-LQDA/Artboard%203%20copy%203-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

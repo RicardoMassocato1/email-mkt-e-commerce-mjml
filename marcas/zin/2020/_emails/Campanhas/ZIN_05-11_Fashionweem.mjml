@@ -1,0 +1,248 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/halloween?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_05-11_Fashionweem/Fashionween-05-topo.jpg"
+          alt="Fashionween"
+          title="Fashionween" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="40px 0px 10px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/halloween?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_05-11_Fashionweem/Fashionween-05-01.jpg"
+          alt="Fashionween"
+          title="Fashionween" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-curta-evase-com-foil-preto-227269/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/207946/SAIA-CURTA-EVASE-COM-FOIL---LI-PRETO---36.jpg?v=637250820520800000"
+            title="Saia Curta Evase Com Foil Preto"
+            alt="Saia Curta Evase Com Foil Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Curta Evase<br> Com Foil
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 66,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 199,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/saia-curta-evase-com-foil-preto-227269/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="hhttps://www.zinco.com.br/blusa-decote-redondo-manga-longa-trico-preto-222341/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/203012/BLUSA-DECOTE-REDONDO-MANGA-LONGA-TRICO---CO-PRETO-OFF-WHITE---P.jpg?v=637172590684670000"
+            title="Blusa Decote Redondo Manga Longa Trico Preto"
+            alt="Blusa Decote Redondo Manga Longa Trico Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Decote<br> Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+
+          <mj-button href="hhttps://www.zinco.com.br/blusa-decote-redondo-manga-longa-trico-preto-222341/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-curto-decote-redondo-com-argola-preto-226940/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/207804/VESTIDO-CURTO-DECOTE-REDONDO-COM-ARGOLA---LI-PRETO---PP.jpg?v=637250817671830000"
+            title="Vestido Curto Decote Redondo Com Argola Preto"
+            alt="Vestido Curto Decote Redondo Com Argola Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Curto<br> Decote Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 529,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 52,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 264,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/vestido-curto-decote-redondo-com-argola-preto-226940/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 10px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/halloween?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_05-11_Fashionweem/Fashionween-05-02.jpg"
+          alt="Fashionween"
+          title="Fashionween" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/bata-gola-padre-com-botao-amarelo-226659/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/207597/BATA-GOLA-PADRE-COM-BOTAO---LI-AMARELO---P.jpg?v=637250815011800000"
+            title="Bata Gola Padre Com Botao Amarelo"
+            alt="Bata Gola Padre Com Botao Amarelo" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bata Gola Padre<br> Com Botao
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/bata-gola-padre-com-botao-amarelo-226659/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-pantalona-com-faixa-bege-229543/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/208315/MACACAO-PANTALONA-COM-FAIXA---ES-AREIA---P.jpg?v=637250826800300000"
+            title="Macacao Pantalona Com Faixa Bege"
+            alt="Macacao Pantalona Com Faixa Bege" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacao<br> Pantalona
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 669,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 55,82
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 334,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/macacao-pantalona-com-faixa-bege-229543/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-dress-torcao-frente-marrom-227911/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/208065/T-SHIRT-DRESS-TORCAO-FRENTE---ES-MARROM---P.jpg?v=637250822094100000"
+            title="T-Shirt Dress Torcao Frente Marrom"
+            alt="T-Shirt Dress Torcao Frente Marrom" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Dress<br> Torcao Frente
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/t-shirt-dress-torcao-frente-marrom-227911/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

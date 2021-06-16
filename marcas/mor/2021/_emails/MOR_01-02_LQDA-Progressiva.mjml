@@ -1,0 +1,152 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Fevereiro/email-4.gif"
+          alt="LQDA Progressiva Living"
+          title="LQDA Progressiva Living" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#e1d9ce">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#aa145b" font-size="14px" padding="30px 20px 0px 20px" align="center" font-weight="600" line-height="20px" letter-spacing="1.5px">
+          #TBT os looks mais acessados<br>
+          da tempodara para você!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#e1d9ce">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-saia-detalhe-vivo-off-white-234196"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355927/10000109246000133-0-.jpg?v=637341485133670000"
+            title="Shorts Morena Rosa Saia Detalhe Vivo Off White"
+            alt="Shorts Morena Rosa Saia Detalhe Vivo Off White" />
+
+          <mj-text align="center" color="#aa145b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena Rosa Saia<br> Detalhe Vivo Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#aa145b" />
+
+          <mj-text color="#aa145b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#aa145b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 174,95<br><span style="font-size:11px; line-height: 10px; font-weight:300;">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-saia-detalhe-vivo-off-white-234196" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#aa145b" color="#e1d9ce" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-mom-cos-alto-com-faixa-jeans-234707"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355631/CALCA-MOM-COS-ALTO-COM-FAIXA---LI-JEANS-ESCURO---34.jpg?v=637327744898570000"
+            title="Calça Morena Rosa Mom Cós Alto Com Faixa Jeans"
+            alt="Calça Morena Rosa Mom Cós Alto Com Faixa Jeans" />
+
+          <mj-text align="center" color="#aa145b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa Mom<br> Cós Alto Com Faixa Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#aa145b" />
+
+          <mj-text color="#aa145b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#aa145b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 199,95<br><span style="font-size:11px; line-height: 10px; font-weight:300;">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-mom-cos-alto-com-faixa-jeans-234707" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#aa145b" color="#e1d9ce" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 30px 0px" background-color="#e1d9ce">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-slim-isabelli-cos-alto-barra-virada-jeans-234706"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355607/CALCA-SLIM-ISABELLI-COS-ALTO-BARRA-VIRADA---LI-JEANS-MEDIO---34.jpg?v=637327744533030000"
+            title="Calça Morena Rosa Slim Isabelli Cós Alto Barra Virada Jeans"
+            alt="Calça Morena Rosa Slim Isabelli Cós Alto Barra Virada Jeans" />
+
+          <mj-text align="center" color="#aa145b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa Slim<br> Isabelli Cós Alto Barra<br> Virada Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#aa145b" />
+
+          <mj-text color="#aa145b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#aa145b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 219,95<br><span style="font-size:11px; line-height: 10px; font-weight:300;">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-slim-isabelli-cos-alto-barra-virada-jeans-234706" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#aa145b" color="#e1d9ce" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/jaqueta-morena-rosa-cropped-com-recorte-jeans-234713"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/362550/JAQUETA-CROPPED-COM-RECORTE---LI-JEANS-ESCURO---P.jpg?v=637387328712230000"
+            title="Jaqueta Morena Rosa Cropped Com Recorte Jeans"
+            alt="Jaqueta Morena Rosa Cropped Com Recorte Jeans" />
+
+          <mj-text align="center" color="#aa145b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Morena Rosa<br> Cropped Com Recorte<br> Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#aa145b" />
+
+          <mj-text color="#aa145b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 649,90</text>
+          </mj-text>
+
+          <mj-text color="#aa145b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 324,95<br><span style="font-size:11px; line-height: 10px; font-weight:300;">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/jaqueta-morena-rosa-cropped-com-recorte-jeans-234713" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#aa145b" color="#e1d9ce" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

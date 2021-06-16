@@ -1,0 +1,69 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#792d2d">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 15px 4px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calcados/botas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_04-06_Botas/BOTAS-01-min.jpg"
+          alt="Clique aqui"
+          title="Clique aqui" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#000">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="13px" padding="20px 25px 30px 25px" text-transform="none" align="center" font-weight="400" line-height="18px" letter-spacing="1.5px">
+          As botas são as peças-chave para montar looks lindos no inverno. Aposte nelas nos dias mais frios e deixe seus looks estilosos e modernos!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#792d2d">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/bota-morena-rosa-cano-curto-salto-medio-basica-cabernet-226078"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_04-06_Botas/BOTAS-02-min.jpg"
+          alt="Bota Morena Rosa Cano Curto Salto Médio Básica Cabernet"
+          title="Bota Morena Rosa Cano Curto Salto Médio Básica Cabernet" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#792d2d">
+      <mj-column>
+        <mj-image
+          padding="15px 0px 15px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/bota-morena-rosa-cano-curto-salto-medio-metal-personalizado-marrom-225986"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_04-06_Botas/BOTAS-03-min.jpg"
+          alt="Bota Morena Rosa Cano Curto Salto Médio Metal Personalizado Marrom"
+          title="Bota Morena Rosa Cano Curto Salto Médio Metal Personalizado Marrom" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#792d2d">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/bota-morena-rosa-cano-medio-rasteiro-com-recorte-preto-252860/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_04-06_Botas/BOTAS-04-min.jpg"
+          alt="Bota Morena Rosa Cano Médio Rasteiro Com Recorte Preto"
+          title="Bota Morena Rosa Cano Médio Rasteiro Com Recorte Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

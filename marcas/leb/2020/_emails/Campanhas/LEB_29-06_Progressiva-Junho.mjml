@@ -1,0 +1,241 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/"
+            width="600px"
+            padding="0"
+            alt="descontos progressivos"
+            title="descontos progressivos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_22-06_Progressiva-Junho/03-Email-MKT-topo.jpg" />
+        </mj-column>
+
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #8900ee; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Shorts Comfort<br> Compose De Tecidos
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 5px 0">R$ 160,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 53,64</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 13px; color: #8900ee; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #8900ee;"
+              href="https://www.leboh.com.br/shorts-comfort-compose-de-tecidos-jeans-219735/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-comfort-compose-de-tecidos-jeans-219735/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_29-06_Progressiva-Junho/Shorts%20Comfort%20Compose%20De%20Tecidos%20Jeans.jpg"
+            title="Shorts Comfort Compose De Tecidos Jeans"
+            alt="Shorts Comfort Compose De Tecidos Jeans" />
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-redondo-alca-com-babado-vermelho-216748/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_29-06_Progressiva-Junho/Blusa%20Decote%20Redondo%20Alca%20Com%20Babado%20Vermelho.jpg"
+            title="Blusa Decote Redondo Alca Com Babado Vermelho"
+            alt="Blusa Decote Redondo Alca Com Babado Vermelho" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #8900ee; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Blusa Decote Redondo<br> Alca Com Babado
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 5px 0">R$ 258,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 51,78</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 13px; color: #8900ee; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #8900ee;"
+              href="https://www.leboh.com.br/blusa-decote-redondo-alca-com-babado-vermelho-216748/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #8900ee; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Calca Wide Cos Alto<br> Abertura Barra
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 5px 0">R$ 195,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 65,31</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #8900ee; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #8900ee;"
+              href="https://www.leboh.com.br/calca-wide-cos-alto-abertura-barra-jeans-210722/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-wide-cos-alto-abertura-barra-jeans-210722/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_29-06_Progressiva-Junho/Calca%20Wide%20Cos%20Alto%20Abertura%20Barra%20Jeans.jpg"
+            title="Calca Wide Cos Alto Abertura Barra Jeans"
+            alt="Calca Wide Cos Alto Abertura Barra Jeans" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 10px 30px 10px">
+      <mj-group>
+      <mj-column width="42%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda"
+            width="600px"
+            padding="0"
+            alt="Último dia"
+            title="Último dia"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_29-06_Progressiva-Junho/04-Email-MKT-ultimodia.jpg" />
+        </mj-column>
+        <mj-column width="58%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_29-06_Progressiva-Junho/04-Email-MKT-blusas_1.jpg" />
+          <mj-image
+            href="http://leboh.com.br/lqda/jeans"
+            width="600px"
+            padding="0"
+            alt="Jeans"
+            title="Jeans"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_29-06_Progressiva-Junho/04-Email-MKT-jeans_1.jpg" />
+          <mj-image
+             href="https://www.leboh.com.br/lqda/vestidos"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_29-06_Progressiva-Junho/04-Email-MKT-vestidos_1.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

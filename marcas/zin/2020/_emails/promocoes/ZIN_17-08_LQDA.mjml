@@ -1,0 +1,303 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-08_LQDA/Cabe%C3%A7alho.png"
+            title="LQDA"
+            alt="LQDA" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text 
+            font-family= "Poppins, sans-serif" 
+            font-weight="500" 
+            padding="30px 0px 0px 0px" 
+            color="#000000" 
+            font-size="16px" 
+            align="center" 
+            line-height= "18px" 
+            letter-spacing= "0.2px">
+              Últimos dias para você garantir aquele<br> lookinho com até <strong>50% OFF</strong>!
+          </mj-text>
+          <mj-text align="center" padding="10px 0px 40px 0px">
+            <a
+              style="background-color:#000000; text-decoration: none; font-weight: 600; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px;"
+              href="https://www.zinco.com.br/lqda"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/calca-comfort-cos-alto-detalhe-retilinea-azul-221668/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/202666/CALCA-COMFORT-COS-ALTO-DETALHE-RETILINEA---LI-ROXO---36.jpg?v=637172584813500000"
+            title="Calca Comfort Cos Alto Detalhe Retilinea Azul"
+            alt="Calca Comfort Cos Alto Detalhe Retilinea Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos Alto<br> Detalhe Retilinea
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <span style="text-decoration: line-through;">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">5x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 299,94</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px;"
+              href="https://www.zinco.com.br/calca-comfort-cos-alto-detalhe-retilinea-azul-221668/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/shorts-boxer-detalhe-ponto-de-luz-verde-221774/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/204010/SHORTS-BOXER-DETALHE-PONTO-DE-LUZ---LI-VERDE-MILITAR---34.jpg?v=637172615795270000"
+            title="Shorts Boxer Detalhe Ponto De Luz Verde"
+            alt="Shorts Boxer Detalhe Ponto De Luz Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Boxer Detalhe<br> Ponto De Luz
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <span style="text-decoration: line-through;">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">3x de R$ 63,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 191,94</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px;"
+              href="https://www.zinco.com.br/shorts-boxer-detalhe-ponto-de-luz-verde-221774/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 15px 25px 25px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-trico-branco-222347/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/203045/BLUSA-DECOTE-REDONDO-MANGA-LONGA-TRICO---CO-BRANCO-PRETO---P.jpg?v=637172591330800000"
+            title="Blusa Decote Redondo Manga Longa Trico Branco"
+            alt="Blusa Decote Redondo Manga Longa Trico Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <span style="text-decoration: line-through;">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">4x de R$ 55,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 223,93</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px;"
+              href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-trico-branco-222347/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 25px 25px 15px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #000000"
+            href="https://www.zinco.com.br/blusa-ombro-a-ombro-manga-longa-torcao-decote-preto-221475/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/202477/BLUSA-OMBRO-A-OMBRO-MANGA-LONGA-TORCAO-DECOTE---LT-PRETO---P.jpg?v=637172580441400000"
+            title="Blusa Ombro A Ombro Manga Longa Torcao Decote Preto"
+            alt="Blusa Ombro A Ombro Manga Longa Torcao Decote Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Ombro A Ombro<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <span style="text-decoration: line-through;">R$ 249,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">2x de R$ 74,97</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 149,94</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px;"
+              href="https://www.zinco.com.br/blusa-ombro-a-ombro-manga-longa-torcao-decote-preto-221475/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="20px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda/feminino"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-08_LQDA/Feminino.png"
+            title="Feminino"
+            alt="Feminino" />
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lqda/masculino"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_LQDA/ZIN_17-08_LQDA/Masculino.png"
+            title="Masculino"
+            alt="Masculino" />
+        </mj-column>  
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,169 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image
+            href="https://open.spotify.com/playlist/69r1ZRgzoLtZfH5hradhkL?si=8wTgpHBwSbWADFQ9E5PgoQ"
+            width="600px"
+            padding="0px 0px"
+            alt="Dia dos namorados"
+            title="Dia dos namorados"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_12-06_Playlist-Dia-dos-Namorados/00-EmailMKT-topo.jpg" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#d93533"
+            font-size="15px"
+            padding="30px 70px 30px 70px"
+            align="justify"
+            line-height="20px"
+            font-weight="500">
+            -<br>libere espaço no quarto, coloque seu melhor look e dê play na playlist "date yourself" para curtir esse dia com você mesma!
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 100px" width="100%">
+          <mj-image
+            padding="0"
+            title="Álbum"
+            width="250px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_12-06_Playlist-Dia-dos-Namorados/00-EmailMKT-album.jpg" />
+        </mj-column>
+        
+        <mj-column padding="0px 0px 10px 0px" width="100%">
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 13px; font-weight:500; color: #ffffff; background-color: #4dae4f; display: inline-block; margin: 0px; margin-top: 0px; padding: 13px 25px; border-radius: 300px;"
+              href="https://open.spotify.com/playlist/69r1ZRgzoLtZfH5hradhkL?si=8wTgpHBwSbWADFQ9E5PgoQ"
+              target="_blank"
+              title="Ouça no Spotify"
+              alt="Ouça no Spotify">
+              Ouça no Spotify
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 0px">
+        <mj-group>
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#d93533"
+            font-size="23px"
+            padding="20px 0px 25px 30px"
+            align="justify"
+            line-height="20px"
+            font-weight="600">
+            -<br>Para curtir
+          </mj-text>
+        </mj-column>
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/macacao-utilitario-bicolor-verde-225246/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_12-06_Playlist-Dia-dos-Namorados/Macacao%20Utilitario%20Bicolor%20Verde.jpg"
+              title="Macacao Utilitario Bicolor Verde"
+              alt="Macacao Utilitario Bicolor Verde" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #db3634; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Macacao Utilitario Bicolor
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#db3634" />
+
+            <mj-text
+              color="#db3634"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 499,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#db3634"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">9x de R$ 55,54</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-weight:500; font-size: 12px; color: #db3634; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #db3634;"
+                href="https://www.leboh.com.br/macacao-utilitario-bicolor-verde-225246/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/shorts-boxer-compose-de-tecidos-vermelho-229360/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_12-06_Playlist-Dia-dos-Namorados/Shorts%20Boxer%20Compose%20De%20Tecidos%20Vermelho.jpg"
+              title="Shorts Boxer Compose De Tecidos Vermelho"
+              alt="Shorts Boxer Compose De Tecidos Vermelho" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #db3634; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Boxer Compose
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#db3634" />
+
+            <mj-text
+              color="#db3634"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#db3634"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">5x de R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-weight:500; font-size: 12px; color: #db3634; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #db3634;"
+                href="https://www.leboh.com.br/shorts-boxer-compose-de-tecidos-vermelho-229360/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

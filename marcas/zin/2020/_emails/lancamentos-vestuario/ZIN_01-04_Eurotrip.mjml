@@ -1,0 +1,135 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/lancamento/masculino?O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_01-04_Eurotrip/email%20mkt%20lancamento%20zinco%202001-03.jpg"
+              title="EUROTRIP"
+              alt="EUROTRIP" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 0px">
+        <mj-group>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #e48360"
+              href="https://www.zinco.com.br/camiseta-regular-decote-redondo-compose-tecidos-cinza-224104/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_01-04_Eurotrip/Camiseta%20Regular%20Decote%20Redondo%20Compose%20Tecidos%20Cinza.jpg"
+              title="Camiseta Regular Decote Redondo Compose Tecidos Cinza"
+              alt="Camiseta Regular Decote Redondo Compose Tecidos Cinza" />
+
+            <mj-text align="center">
+              <a
+                style="background-color:#e48360; text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 15px;"
+                href="https://www.zinco.com.br/camiseta-regular-decote-redondo-compose-tecidos-cinza-224104/p"
+                title="Shop now">
+                EU QUERO!
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #e48360"
+              href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-com-recorte-cinza-224049/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_01-04_Eurotrip/Blusa%20Decote%20Redondo%20Manga%20Longa%20Com%20Recorte%20Cinza.jpg"
+              title="Blusa Decote Redondo Manga Longa Com Recorte Cinza"
+              alt="Blusa Decote Redondo Manga Longa Com Recorte Cinza" />
+
+            <mj-text align="center">
+              <a
+                style="background-color:#e48360; text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 15px;"
+                href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-com-recorte-cinza-224049/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #e48360"
+              href="https://www.zinco.com.br/bermuda-banho-dupla-face-verde-224478/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_01-04_Eurotrip/Bermuda%20Banho%20Dupla%20Face%20Verde.jpg"
+              title="Bermuda Banho Dupla Face Verde"
+              alt="Bermuda Banho Dupla Face Verde" />
+
+            <mj-text align="center">
+              <a
+                style="background-color:#e48360; text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 30px;"
+                href="https://www.zinco.com.br/bermuda-banho-dupla-face-verde-224478/p"
+                title="Shop now">
+                VER!
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #e48360"
+              href="https://www.zinco.com.br/jaqueta-classica-dupla-face-verde-225012/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_01-04_Eurotrip/Jaqueta%20Classica%20Dupla%20Face%20Verde.jpg"
+              title="Jaqueta Classica Dupla Face Verde"
+              alt="Jaqueta Classica Dupla Face Verde" />
+
+            <mj-text align="center">
+              <a
+                style="background-color:#e48360; text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 28px;"
+                href="https://www.zinco.com.br/jaqueta-classica-dupla-face-verde-225012/p"
+                title="Shop now">
+                AMEI!
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+                padding="0px 0px 0px 0px"
+                width="600px"
+                href="https://www.zinco.com.br"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_01-04_Eurotrip/email%20mkt%20lancamento%20zinco%202001-01.jpg"
+                title="ZINCO"
+                alt="ZINCO"/>
+        </mj-column>  
+      </mj-section>
+    <!--main-->
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

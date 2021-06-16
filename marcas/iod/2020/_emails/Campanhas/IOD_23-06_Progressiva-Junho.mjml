@@ -1,0 +1,255 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_23-06_Progressiva-Junho/Email-MKT-ID_23-06%20email5-topo.jpg" 
+              alt="Descontos Progressivos"
+              title="Descontos Progressivos"/>
+            <mj-image
+              padding="0"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=211"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_23-06_Progressiva-Junho/Email-MKT-ID_23-06%20email5-img.jpg" 
+              alt="Vestidos"
+              title="Vestidos"/>
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#006c79"
+              font-size="23px"
+              padding="15px 0px 5px 0px"
+              align="center"
+              font-weight="100"
+              line-height="20px">
+              VESTIDOS
+            </mj-text>
+            <mj-text align="center" padding="7px 0px 5px 0px">
+              <h1 style="font-family:Poppins, sans-serif; color: #006c79; font-weight: 300; font-size: 14px; margin: 0px;">
+                Intensos e para todos<br> os momentos 
+              </h1>
+            </mj-text>
+            <mj-text align="center" padding="0px 0px 0px 0px">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color:#006c79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+                href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=211"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="30px 0px 0 0px">
+          <mj-group>
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-image
+                align="right"
+                padding="0"
+                width="200px"
+                href="https://www.iodice.com.br/vestido-io-caroline-fluity-est-autumn-rain-vermelho-203598"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_23-06_Progressiva-Junho/VESTIDO%20IO%20CAROLINE%20FLUITY%20EST%20AUTUMN%20RAIN%20VERMELHO.jpg"
+                title="VESTIDO IO CAROLINE FLUITY EST AUTUMN RAIN VERMELHO"
+                alt="VESTIDO IO CAROLINE FLUITY EST AUTUMN RAIN VERMELHO" />
+            </mj-column>
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-text align="left" padding="0">
+                <h1
+                  style="font-family: Poppins, sans-serif; color: #006c79; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                  VESTIDO IO CAROLINE<br> FLUITY EST AUTUMN
+                </h1>
+              </mj-text>
+
+              <mj-text
+                text-decoration="line-through"
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="left"
+                padding="0">
+                <span style="display: block; padding-top: 0px">R$ 688,00</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="700"
+                font-size="16px"
+                align="left"
+                padding="0">
+                <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 481,60</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="left"
+                padding="0">
+                <span style="display: block; padding-bottom: 0px">ou 6x R$ 80,26</span>
+              </mj-text>
+
+              <mj-text align="left" padding="10px 0px">
+                <a
+                  style="font-family: Poppins, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #006c79; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #006c79;"
+                  href="https://www.iodice.com.br/vestido-io-caroline-fluity-est-autumn-rain-vermelho-203598"
+                  target="_blank"
+                  title="Shop now">
+                  Shop now
+                </a>
+              </mj-text>
+            </mj-column>
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-text align="right" padding="0">
+                <h1
+                  style="font-family: Poppins, sans-serif; color: #006c79; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                  VESTIDO CURTO DECOTE<br> SOBREPOSTO
+                </h1>
+              </mj-text>
+
+              <mj-text
+                text-decoration="line-through"
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="right"
+                padding="0">
+                <span style="display: block; padding-top: 0px">R$ 699,90</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="700"
+                font-size="16px"
+                align="right"
+                padding="0">
+                <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 489,93</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="right"
+                padding="0">
+                <span style="display: block; padding-bottom: 0px">ou 6x R$ 81,65</span>
+              </mj-text>
+
+              <mj-text align="right" padding="10px 0px">
+                <a
+                  style="font-family: Poppins, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #006c79; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #006c79;"
+                  href="https://www.iodice.com.br/vestido-curto-decote-sobreposto-com-abotoamento-verde-216271"
+                  target="_blank"
+                  title="Shop now">
+                  Shop now
+                </a>
+              </mj-text>
+            </mj-column>
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-image
+                align="left"
+                padding="0"
+                width="200px"
+                href="https://www.iodice.com.br/vestido-curto-decote-sobreposto-com-abotoamento-verde-216271"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_23-06_Progressiva-Junho/VESTIDO%20CURTO%20DECOTE%20SOBREPOSTO%20COM%20ABOTOAMENTO%20VERDE.jpg"
+                title="VESTIDO CURTO DECOTE SOBREPOSTO COM ABOTOAMENTO VERDE"
+                alt="VESTIDO CURTO DECOTE SOBREPOSTO COM ABOTOAMENTO VERDE" />
+            </mj-column>
+
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-image
+                align="right"
+                padding="0"
+                width="200px"
+                href="https://www.iodice.com.br/vestido-io-mariana-fluity-est-new-chevron-branco-preto-203939"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_23-06_Progressiva-Junho/VESTIDO%20IO%20MARIANA%20FLUITY%20EST%20NEW%20CHEVRON%20BRANCO-PRETO.jpg"
+                title="VESTIDO IO MARIANA FLUITY EST NEW CHEVRON BRANCO/PRETO"
+                alt="VESTIDO IO MARIANA FLUITY EST NEW CHEVRON BRANCO/PRETO" />
+            </mj-column>
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-text align="left" padding="0">
+                <h1
+                  style="font-family: Poppins, sans-serif; color: #006c79; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                  VESTIDO IO MARIANA<br> FLUITY EST NEW
+                </h1>
+              </mj-text>
+
+              <mj-text
+                text-decoration="line-through"
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="left"
+                padding="0">
+                <span style="display: block; padding-top: 0px">R$ 688,00</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="700"
+                font-size="16px"
+                align="left"
+                padding="0">
+                <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 481,60</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="left"
+                padding="0">
+                <span style="display: block; padding-bottom: 0px">ou 6x R$ 80,26</span>
+              </mj-text>
+
+              <mj-text align="left" padding="10px 0px">
+                <a
+                  style="font-family: Poppins, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #006c79; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #006c79;"
+                  href="https://www.iodice.com.br/vestido-io-mariana-fluity-est-new-chevron-branco-preto-203939"
+                  target="_blank"
+                  title="Shop now">
+                  Shop now
+                </a>
+              </mj-text>
+            </mj-column>
+
+            <mj-column padding="0px 0px" width="100%">
+              <mj-image
+                padding="20px 0px"
+                href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=195"
+                width="600px"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_23-06_Progressiva-Junho/Email-MKT-ID_19-06%20email3-blusas.jpg" 
+                alt="Blusas"
+                title="Blusas"/>
+              <mj-image
+                padding="0"
+                href="https://www.iodice.com.br/catalogsearch/result/_todos?p=7&_t=Progressivos&pwaf_productClusterIds=213"
+                width="600px"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_23-06_Progressiva-Junho/Email-MKT-ID_19-06%20email3-jeans.jpg" 
+                alt="Jeans"
+                title="Jeans"/>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,315 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Semana%2520da%2520consumidora&pwaf_productClusterIds=171"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/mor-12-03-semana-da-consumidora/animacao.gif"
+            alt="Começou - Semana da consumidora" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="50px 0px">
+        <mj-group>
+
+          <mj-column width="100%">
+            <mj-text
+              color="#999999"
+              font-size="16px"
+              padding="0 0 30px 0"
+              align="center"
+              text-transform="uppercase">
+              Sugestões para você
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-minha-morena-nude-219659"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/mor-12-03-semana-da-consumidora/BLUSA-DECOTE-REDONDO-MANGA-CURTA-MINHA-MORENA%20-%20-ES-AREIA-ROSA%20-%20-P.jpg"
+              title="Blusa Decote Redondo Manga Curta Minha Morena Nude"
+              alt="Blusa Decote Redondo Manga Curta Minha Morena Nude" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Decote Redondo Manga Curta Minha Morena Nude
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 20px 0">R$ 209,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 4x R$ 52,48</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-minha-morena-nude-219659"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/bolsa-mine-tote-bolso-frontal-marrom-193656"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/mor-12-03-semana-da-consumidora/BOLSA-MINE-TOTE-BOLSO-FRONTAL%20-%20-CO-CAFE-VERMELHO%20-%20-TU.jpg"
+              title="Bolsa Mine Tote Bolso Frontal Marrom"
+              alt="Bolsa Mine Tote Bolso Frontal Marrom" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Bolsa Mine Tote Bolso Frontal Marrom
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 559,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 20px 0">R$ 391,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 6x R$ 65,32</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/bolsa-mine-tote-bolso-frontal-marrom-193656"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-longa-bicolor-marrom-219197"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/mor-12-03-semana-da-consumidora/BLUSA-OMBRO-A-OMBRO-MANGA-LONGA-BICOLOR%20-%20-CO-CARAMELO-CAQUI%20-%20-P.jpg"
+              title="Blusa Ombro A Ombro Manga Longa Bicolor Marrom"
+              alt="Blusa Ombro A Ombro Manga Longa Bicolor Marrom" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Ombro A Ombro Manga Longa Bicolor Marrom
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 369,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 20px 0">R$ 258,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 5x R$ 51,78</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-longa-bicolor-marrom-219197"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-flare-bordada-off-white-218897"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/mor-12-03-semana-da-consumidora/10000108456000188-0-.jpg"
+              title="Blusa Ombro A Ombro Manga Flare Bordada Off White"
+              alt="Blusa Ombro A Ombro Manga Flare Bordada Off White" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Ombro A Ombro Manga Flare Bordada Off White
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 399,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 20px 0">R$ 279,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 5x R$ 55,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-flare-bordada-off-white-218897"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0 0 50px 0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?_t=Semana%2520da%2520consumidora&pwaf_productClusterIds=171"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/mor-12-03-semana-da-consumidora/rodape_02.jpg"
+            alt="Blusas" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0 0 50px 0"
+            href="https://www.morenarosa.com.br/vestuario/calcas?_t=Semana%2520da%2520consumidora&pwaf_productClusterIds=171"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/mor-12-03-semana-da-consumidora/rodape_03.jpg"
+            alt="Calças" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0 0 50px 0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Semana%2520da%2520Consumidora&pwaf_productClusterIds=1721"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/mor-12-03-semana-da-consumidora/rodape_04.jpg"
+            alt="Calçados" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0 0 0 0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Semana%2520da%2520Consumidora&pwaf_productClusterIds=173"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/mor-12-03-semana-da-consumidora/rodape_05.jpg"
+            alt="Semana da consumidora - Descontos progressivos de até 70%" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

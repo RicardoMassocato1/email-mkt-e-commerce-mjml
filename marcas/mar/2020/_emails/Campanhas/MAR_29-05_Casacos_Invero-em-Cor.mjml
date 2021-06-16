@@ -1,0 +1,182 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+      
+    <mj-section padding="20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0 0px 0" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.mariavalentina.com.br/lancamento"
+            alt="Lançamento Inverno em Cor"
+            title="Lançamento Inverno em Cor"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_29-05_Casacos_Invero-em-Cor/EmailMkt_05.jpg" />
+        </mj-column>
+        <mj-column padding="35px 15px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.mariavalentina.com.br/casacos?map=c"
+            alt="Casacos"
+            title="Casacos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_29-05_Casacos_Invero-em-Cor/EmailMkt_02.jpg" />
+        </mj-column>
+
+         <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="right"
+              padding="0"
+              width="200px"
+              href="https://www.mariavalentina.com.br/blazer-alfaiataria-off-white-226251/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_29-05_Casacos_Invero-em-Cor/Blazer%20Alfaiataria%20Off%20White.jpg"
+              title="Blazer Alfaiataria Off White"
+              alt="Blazer Alfaiataria Off White" />
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="left" padding="0">
+              <h1
+                style="font-family: Brandon Text, sans-serif; color: #999999; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+                Blazer Alfaiataria<br> Off White
+              </h1>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="left"
+              padding="0">
+              <span style="font-family: Brandon Text, sans-serif; display: block; padding: 5px 0">R$ 669,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">10x de R$ 66,99</span>
+            </mj-text>
+
+            <mj-text align="left">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;"
+                href="https://www.mariavalentina.com.br/blazer-alfaiataria-off-white-226251/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="right" padding="0">
+              <h1
+                style="font-family: Brandon Text, sans-serif; color: #999999; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+                Blazer Com <br>Recorte Preto
+              </h1>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="right"
+              padding="0">
+              <span style="font-family: Brandon Text, sans-serif; display: block; padding: 5px 0">R$ 599,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">10x de R$ 59,99</span>
+            </mj-text>
+
+            <mj-text align="right">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;"
+                href="https://www.mariavalentina.com.br/blazer-com-recorte-preto-225924/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="left"
+              padding="0"
+              width="200px"
+              href="https://www.mariavalentina.com.br/blazer-com-recorte-preto-225924/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_29-05_Casacos_Invero-em-Cor/Blazer%20Com%20Recorte%20Preto.jpg"
+              title="Blazer Com Recorte Preto"
+              alt="Blazer Com Recorte Preto" />
+          </mj-column>
+
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="right"
+              padding="0"
+              width="200px"
+              href="https://www.mariavalentina.com.br/parka-compose-de-tecidos-off-white-marinho-226585/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_29-05_Casacos_Invero-em-Cor/Parka%20Compose%20De%20Tecidos%20Off-White-Marinho.jpg"
+              title="Parka Compose De Tecidos Off-White/Marinho"
+              alt="Parka Compose De Tecidos Off-White/Marinho" />
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="left" padding="0">
+              <h1
+                style="font-family: Brandon Text, sans-serif; color: #999999; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+                Parka Compose De Tecidos<br> Off-White/Marinho
+              </h1>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="left"
+              padding="0">
+              <span style="font-family: Brandon Text, sans-serif; display: block; padding: 5px 0">R$ 549,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">10x de R$ 54,99</span>
+            </mj-text>
+
+            <mj-text align="left">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;"
+                href="https://www.mariavalentina.com.br/parka-compose-de-tecidos-off-white-marinho-226585/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

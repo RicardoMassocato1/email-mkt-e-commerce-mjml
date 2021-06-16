@@ -1,0 +1,591 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px 20px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="LQDA"
+            title="LQDA"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/lbh-03-topo.jpg" />
+        </mj-column>
+
+
+        <mj-column padding="30px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/lbh-03-blusas.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/camisa-manga-longa-alongada-roxo-225585/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/Camisa%20Manga%20Longa%20Alongada%20Roxo.jpg"
+            title="Camisa Manga Longa Alongada Roxo"
+            alt="Camisa Manga Longa Alongada Roxo" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 459,90</span>
+          </mj-text>
+          
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 275,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 55,18</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/camisa-manga-longa-alongada-roxo-225585/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-redondo-manga-longa-abertura-lateral-off-white-224824/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/Blusa%20Decote%20Redondo%20Manga%20Longa%20Abertura%20Lateral%20Off%20White.jpg"
+            title="Blusa Decote Redondo Manga Longa Abertura Lateral Off White"
+            alt="Blusa Decote Redondo Manga Longa Abertura Lateral Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 203,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 50,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/blusa-decote-redondo-manga-longa-abertura-lateral-off-white-224824/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-gola-alta-manga-japonesa-acinturada-bege-225416/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/Blusa%20Gola%20Alta%20Manga%20Japonesa%20Acinturada%20Bege.jpg"
+            title="Blusa Gola Alta Manga Japonesa Acinturada Bege"
+            alt="Blusa Gola Alta Manga Japonesa Acinturada Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Gola Alta Manga
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 159,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 95,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">1x de R$ 95,94</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/blusa-gola-alta-manga-japonesa-acinturada-bege-225416/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="30px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/lbh-03-vestidos.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-decote-transpassado-bicolor-marrom-225243/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/Vestido%20Midi%20Decote%20Transpassado%20Bicolor%20Marrom.jpg"
+            title="Vestido Midi Decote Transpassado Bicolor Marrom"
+            alt="Vestido Midi Decote Transpassado Bicolor Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote T.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 263,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 52,78</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/vestido-midi-decote-transpassado-bicolor-marrom-225243/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-curto-decote-transpassado-com-amarracao-dourado-223714/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/Vestido%20Curto%20Decote%20Transpassado%20Com%20Amarracao%20Dourado.jpg"
+            title="Vestido Curto Decote Transpassado Com Amarracao Dourado"
+            alt="Vestido Curto Decote Transpassado Com Amarracao Dourado" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Decote T.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 203,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 50,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/vestido-curto-decote-transpassado-com-amarracao-dourado-223714/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-decote-redondo-torcao-frente-branco-dourado-216781/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/Vestido%20Midi%20Decote%20Redondo%20Torcao%20Frente%20Branco-Dourado.jpg"
+            title="Vestido Midi Decote Redondo Torcao Frente Branco/Dourado"
+            alt="Vestido Midi Decote Redondo Torcao Frente Branco/Dourado" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote R.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 184,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 61,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/vestido-midi-decote-redondo-torcao-frente-branco-dourado-216781/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="30px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas"
+            width="600px"
+            padding="0"
+            alt="Calças"
+            title="Calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/lbh-03-calcas.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-montaria-cos-alto-abertura-barra-preto-223775/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/Calca%20Montaria%20Cos%20Alto%20Abertura%20Barra%20Preto.jpg"
+            title="Calca Montaria Cos Alto Abertura Barra Preto"
+            alt="Calca Montaria Cos Alto Abertura Barra Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Montaria Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 409,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 245,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 61,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/calca-montaria-cos-alto-abertura-barra-preto-223775/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-pantalona-cos-intermediario-bolso-faca-azul-214439/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/Calca%20Pantalona%20Cos%20Intermediario%20Bolso%20Faca%20Azul.jpg"
+            title="Calca Pantalona Cos Intermediario Bolso Faca Azul"
+            alt="Calca Pantalona Cos Intermediario Bolso Faca Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantalona Cos Interm.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 249,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 62,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/calca-pantalona-cos-intermediario-bolso-faca-azul-214439/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-wide-cos-alto-abertura-barra-jeans-210722/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_08-07_LQDA/Calca%20Wide%20Cos%20Alto%20Abertura%20Barra%20Jeans.jpg"
+            title="Calca Wide Cos Alto Abertura Barra Jeans"
+            alt="BCalca Wide Cos Alto Abertura Barra Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Wide Cos Alto Abert.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 139,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">2x de R$ 69,97</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/calca-wide-cos-alto-abertura-barra-jeans-210722/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

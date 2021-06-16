@@ -1,0 +1,220 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+ 
+    <mj-section>
+      <mj-column padding="0 0 10px 0px" width="100%">
+        <mj-image
+          padding="0"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?p=2&sort=OrderByReleaseDateDESC&_t=Lan%C3%A7amento%2520Inverno%2520&pwaf_productClusterIds=282"
+          alt="Terra Viva"
+          title="Terra Viva"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_22-05_Terra-Viva/E-mail-mkt.jpg" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-redondo-cava-francesa-com-amarracao-marrom-230059"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_22-05_Terra-Viva/Blusa%20Decote%20Redondo%20Cava%20Francesa%20Com%20Amarracao%20Marrom.jpg"
+            title="Blusa Decote Redondo Cava Francesa Com Amarracao Marrom"
+            alt="Blusa Decote Redondo Cava Francesa Com Amarracao Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #835e4c; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo Cava Francesa Com Amarracao
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#835e4c" />
+
+          <mj-text
+            color="#835e4c"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#835e4c"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 64,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #835e4c; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #835e4c;"
+              href="https://www.morenarosa.com.br/blusa-decote-redondo-cava-francesa-com-amarracao-marrom-230059"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-longa-com-franzido-laranja-227778"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_22-05_Terra-Viva/Blusa%20Ombro%20A%20Ombro%20Manga%20Longa%20Com%20Franzido%20Laranja.jpg"
+            title="Blusa Ombro A Ombro Manga Longa Com Franzido Laranja"
+            alt="Blusa Ombro A Ombro Manga Longa Com Franzido Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #835e4c; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Ombro A Ombro Manga Longa Com Franzido
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#835e4c" />
+
+          <mj-text
+            color="#835e4c"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#835e4c"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 61,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #835e4c; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #835e4c;"
+              href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-longa-com-franzido-laranja-227778"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-decote-v-compose-de-tecidos-azul-227564"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_22-05_Terra-Viva/Vestido%20Curto%20Decote%20V%20Compose%20De%20Tecidos%20Azul.jpg"
+            title="Vestido Curto Decote V Compose De Tecidos Azul"
+            alt="Vestido Curto Decote V Compose De Tecidos Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #835e4c; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Decote V Compose De Tecidos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#835e4c" />
+
+          <mj-text
+            color="#835e4c"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 619,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#835e4c"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 103,31</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #835e4c; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #835e4c;"
+              href="https://www.morenarosa.com.br/vestido-curto-decote-v-compose-de-tecidos-azul-227564"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-boot-cut-cos-intermediario-com-metal-preto-228095"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_22-05_Terra-Viva/Calca%20Boot%20Cut%20Cos%20Intermediario%20Com%20Metal%20Preto.jpg"
+            title="Calca Boot Cut Cos Intermediario Com Metal Preto"
+            alt="Calca Boot Cut Cos Intermediario Com Metal Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #835e4c; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Boot Cut Cos Intermediario Com Metal
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#835e4c" />
+
+          <mj-text
+            color="#835e4c"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 649,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#835e4c"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 108,31</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #835e4c; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #835e4c;"
+              href="https://www.morenarosa.com.br/calca-boot-cut-cos-intermediario-com-metal-preto-228095"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

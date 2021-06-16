@@ -1,0 +1,415 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="10px 0px 0px 0px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=282&_t=Lan%C3%A7amentos"
+        title="Dia dos Amigos"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-07_Dia-do-Amigo/MR-EmailMKT-topo.jpg" />
+    </mj-column>
+
+    <mj-section padding="20px 0px" background-color="#e8d2bd">
+      <mj-column padding="0px 0px 10px 0px" width="100%">
+        <mj-text font-family="Roboto, serif" color="#9b5030" font-size="14px" align="center" font-weight="400" line-height="23px" letter-spacing="1.5px">
+          Para comemorar o <strong>dia do amigo</strong><br> temos um cupom de <strong>10% OFF*</strong> para<br> você compartilhar com as amigas!
+          <br><br>
+          Use o cupom abaixo,<br> e aproveite!
+        </mj-text>
+        <mj-text align="center" padding="10px 0px 40px 0px">
+          <a
+            style="text-decoration: none; text-transform: uppercase; font-weight: 500; font-size: 14px; color: #9b5030; display: inline-block; margin: 0px; padding: 7px 23px; border: 1.5px solid #9b5030; letter-spacing:2px;"
+            title="AMIGA10">
+            AMIGA10
+          </a>
+        </mj-text>
+        <mj-text align="center" padding="0px 0px 40px 0px">
+          <a
+            style="background-color:#9b5030; text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; padding: 7px 13px; letter-spacing:2px;"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=282&_t=Lan%C3%A7amentos"
+            target="_blank"
+            title="Shop now">
+            Shop now
+          </a>
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#9b5030" font-size="8.5px" align="center" font-weight="400" padding="0" letter-spacing="1.5px">
+          *Cupom válido apenas para peças selecionadas
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-group>
+
+        <mj-column padding="20px 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-longa-com-franzido-laranja-227778"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-07_Dia-do-Amigo/Blusa%20Ombro%20A%20Ombro%20Manga%20Longa%20Com%20Franzido%20Laranja.jpg"
+            title="Blusa Ombro A Ombro Manga Longa Com Franzido Laranja"
+            alt="Blusa Ombro A Ombro Manga Longa Com Franzido Laranja" />
+        </mj-column>
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #9b5030; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Blusa Ombro A Ombro<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 61,65</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Poppins, sans-serif; letter-spacing:1px; font-weight: 400; text-decoration: none; text-transform: uppercase; font-size: 13px; color: #ffffff; background-color: #9b5030; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #9b5030;"
+              href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-longa-com-franzido-laranja-227778"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #9b5030; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Vestido Midi Decote<br> Redondo Abertura
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 76,65</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Poppins, sans-serif; letter-spacing:1px; font-weight: 400; text-decoration: none; text-transform: uppercase; font-size: 13px; color: #ffffff; background-color: #9b5030; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #9b5030;"
+              href="https://www.morenarosa.com.br/vestido-midi-decote-redondo-abertura-decote-azul-227519"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-redondo-abertura-decote-azul-227519"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-07_Dia-do-Amigo/Vestido%20Midi%20Decote%20Redondo%20Abertura%20Decote%20Azul.jpg"
+            title="Vestido Midi Decote Redondo Abertura Decote Azul"
+            alt="Vestido Midi Decote Redondo Abertura Decote Azul" />
+        </mj-column>
+
+
+        <mj-column padding="20px 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-longa-evase-com-babado-azul-230112"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-07_Dia-do-Amigo/Saia%20Longa%20Evase%20Com%20Babado%20Azul.jpg"
+            title="Saia Longa Evase Com Babado Azul"
+            alt="Saia Longa Evase Com Babado Azul" />
+        </mj-column>
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #9b5030; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Saia Longa Evase<br> Com Babado
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 919,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 102,21</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Poppins, sans-serif; letter-spacing:1px; font-weight: 400; text-decoration: none; text-transform: uppercase; font-size: 13px; color: #ffffff; background-color: #9b5030; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #9b5030;"
+              href="https://www.morenarosa.com.br/saia-longa-evase-com-babado-azul-230112"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-column padding="0px 0px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA&pwaf_productClusterIds=171"
+        title="LQDA"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-07_Dia-do-Amigo/MR-EmailMKT-topo2.jpg" />
+    </mj-column>
+
+    <mj-section padding="10px 0px" background-color="#ce3a46">
+      <mj-column padding="0px 0px" width="100%">>
+          <mj-text font-family="Roboto, serif" color="#ffffff" font-size="12.5px" padding="5px 0px" align="center" font-weight="300" line-height="21px" letter-spacing="2px">
+            <strong>Descontos progressivos</strong>, produtos<br> selecionados com <strong>até 50% OFF</strong>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="15px 0px 0px 0px">
+      <mj-group>
+        <mj-column width="100%"  padding="0px 0px 0px 0px">
+          <mj-text font-family="Roboto, sans-serif" color="#ce3a46" font-size="18px" padding="10px 10px 0px 10px" align="center" font-weight="600" line-height="30px" letter-spacing="1.5px">
+            20% - 1 PEÇA &nbsp;<br>
+            30% - 2 PEÇAS<br>
+            40% - 3 PEÇAS
+          </mj-text>
+          <mj-text font-family="Roboto, sans-serif" color="#ce3a46" font-size="18px" padding="3px 10px 10px 10px" align="center" font-weight="600" line-height="22px" letter-spacing="1.5px">
+            50% - 4 PEÇAS<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OU MAIS
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  
+    <mj-section padding="25px 0px 20px 0px">
+      <mj-group>
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-skinny-cos-intermediario-recorte-lateral-cobre-224909"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-07_Dia-do-Amigo/Calca%20Skinny%20Cos%20Intermediario%20Recorte%20Lateral%20Cobre.jpg"
+            title="Calca Skinny Cos Intermediario Recorte Lateral Cobre"
+            alt="Calca Skinny Cos Intermediario Recorte Lateral Cobre" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Skinny Cos<br> Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 367,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$61,32</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/calca-skinny-cos-intermediario-recorte-lateral-cobre-224909"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-v-minha-morena-terracota-vermelho-222738"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-07_Dia-do-Amigo/Vestido%20Midi%20Decote%20V%20Minha%20Morena%20Terracota-Vermelho.jpg"
+            title="Vestido Midi Decote V Minha Morena Terracota/Vermelho"
+            alt="Vestido Midi Decote V Minha Morena Terracota/Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi<br> Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 439,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$73,32</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/vestido-midi-decote-v-minha-morena-terracota-vermelho-222738"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-curta-assimetrica-com-drapeado-azul-222621"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_20-07_Dia-do-Amigo/Saia%20Curta%20Assimetrica%20Com%20Drapeado%20Azul.jpg"
+            title="Saia Curta Assimetrica Com Drapeado Azul"
+            alt="Saia Curta Assimetrica Com Drapeado Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta<br> Assimetrica
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+         <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 367,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$61,32</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/saia-curta-assimetrica-com-drapeado-azul-222621"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

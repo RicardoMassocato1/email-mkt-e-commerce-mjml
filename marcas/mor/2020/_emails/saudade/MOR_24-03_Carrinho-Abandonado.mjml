@@ -1,0 +1,72 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-column padding="0" width="100%">
+      <mj-image
+        padding="20px 0px 40px 0px"
+        width="600px"
+        href="https://www.morenarosa.com.br"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_24-03_Carrinho_Abandonado/E-mail%20mkt%202004-08_1-topo.jpg"
+        title="Aproveite antes que o estoque acabe!"
+        alt="Aproveite antes que o estoque acabe!" />
+    </mj-column>
+
+    <mj-section>
+      <mj-column>
+        <mj-text
+          color="#999999"
+          font-family="Roboto, serif"
+          font-size="17px"
+          padding="0px 40px 0px 40px"
+          line-height="22px"
+          align="center"
+          font-weight="300">
+          <strong>*|FIRST_NAME|*</strong>, suas escolhas te esperam em nossa loja online.
+          <br/>
+          <br/>
+          que tal finalizar seu pedido?
+          <br/>
+          <br/>
+          Utilize o cupom <strong>VOLTEIMR</strong> e ganhe <strong>10% de desconto</strong> em sua compra!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding="30px 0px 0px 0px" align="center">
+          <a
+            style="font-weight: 400; font-family: Roboto, serif; letter-spacing:1px; background-color: #9e9d96; color: #ffffff; text-decoration: none; text-transform: uppercase; font-size: 16px; display: inline-block; margin: 10px 0 0 0;padding: 10px 17px;"
+            href="https://www.morenarosa.com.br/"
+            title="Finalize sua compra aqui">
+            Finalize sua compra aqui
+          </a>
+        </mj-text>
+      </mj-column>
+    
+      <mj-column width="100%">
+        <mj-text
+          color="#999999"
+          font-family="Roboto, serif"
+          font-size="14px"
+          padding="70px 10px 10px 10px"
+          line-height="22px"
+          align="center"
+          font-weight="300">
+          Você sentiu alguma dificuldade em finalizar sua compra?
+          <br/>
+          Se precisar de ajuda, é só falar com a gente pelo chat, por email ou <a href="https://api.whatsapp.com/send?phone=554433515000%20&text=Ol%C3%A1,%20Morena%20Rosa!" style="color: #9e9d96;" title="WhatsApp"><strong>clique aqui</strong></a> para falar pelo whatsApp.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

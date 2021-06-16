@@ -1,0 +1,97 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="0px 0px 30px 0px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Lan%C3%A7amento&pwaf_productClusterIds=222"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_05-06_Dia-dos-Namorados/EmailMkt-03-topo.jpg" 
+            alt="Urban Essence"
+            title="Urban Essence"/>
+        </mj-column>
+        
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#000000"
+            font-size="28px"
+            padding="15px 5px 0px 5px"
+            align="left"
+            font-weight="300"
+            line-height="25px"
+            letter-spacing="1.3px">
+            BELEZA SEM<br>ESFORÇOS
+          </mj-text>
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#000000"
+            font-size="10.4px"
+            padding="15px 5px 8px 5px"
+            align="justify"
+            font-weight="400"
+            line-height="12px"
+            letter-spacing="1px">
+            <strong>Conjuntos e macacões com shapes mais soltos</strong> e despojados definem uma imagem feminina elegante sem esforço. A cara da mulher brasileira. Para completar, a <strong>estampa traz tons terrosos com um ponto de luz inusitado</strong>, em um resultado moderno e fresco.
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="300px"
+            href="https://www.iodice.com.br/calca-reta-cos-alto-bolso-faca-nude-228996"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_05-06_Dia-dos-Namorados/IOD_Dez_Casual6481.jpg"
+            title="CALCA RETA COS ALTO BOLSO FACA NUDE"
+            alt="CALCA RETA COS ALTO BOLSO FACA NUDE" />
+        </mj-column>
+
+        <mj-column padding="0 5px 0px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="300px"
+            href="https://www.iodice.com.br/blusa-decote-assimetrico-manga-unica-abertura-lateral-nude-228997"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_05-06_Dia-dos-Namorados/IOD_Dez_Casual6449.jpg"
+            title="BLUSA DECOTE ASSIMETRICO MANGA UNICA ABERTURA LATERAL NUDE"
+            alt="BLUSA DECOTE ASSIMETRICO MANGA UNICA ABERTURA LATERAL NUDE" />
+        </mj-column>
+
+        <mj-column padding="0 5px 0px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="300px"
+            href="https://www.iodice.com.br/macacao-cenoura-bolso-faca-nude-228995"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_05-06_Dia-dos-Namorados/IOD_Dez_Casual6554.jpg"
+            title="MACACAO CENOURA BOLSO FACA NUDE"
+            alt="MACACAO CENOURA BOLSO FACA NUDE" />
+        </mj-column>
+
+        
+        <mj-column width="100%">
+          <mj-image
+            padding="30px 0px 0px 0px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Dois%20em%20um&pwaf_productClusterIds=223"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_03-06_Dia-dos-Namorados/EmailMkt-02-rodape.jpg" 
+            alt="50% de Desconto"
+            title="50% de Desconto"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

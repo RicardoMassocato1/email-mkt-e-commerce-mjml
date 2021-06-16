@@ -1,0 +1,43 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../header/_header.mjml" />
+
+      <!--main-->
+      <mj-section background-url= "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_24-03_Carrinho-abandonado/maria.jpg" background-size="cover" background-repeat="no-repeat">
+        <mj-column width="600px">
+        
+        <mj-text padding="60px 45px 0px 240px" color="#606158" font-size="21px" align="left" text-transform= "uppercase"><strong>Olá, *|FIRST_NAME|*</strong></mj-text>
+        <mj-text padding="10px 45px 90px 240px" color="#606158" font-size="18px" align="left" text-transform="uppercase" line-height="1.3" letter-spacing="1px">seus itens estão te
+esperando!</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text padding-bottom="2px" color="#606158" font-size="14px" align="center">APROVEITE O CUPOM</mj-text>
+          <mj-text padding="20px 0px 20px 0px" color="#606158" font-size="23px" align="center"><strong>ESTOUDEVOLTA</strong></mj-text>
+          <mj-text padding-bottom="2px" color="#606158" font-size="14px" align="center">E GANHE <strong>10% DE D ESCONTO</strong> PARA FINALIZAR SUA COMPRA.</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 10px 15px; border: 1px solid #606158;"
+              href="https://www.mariavalentina.com.br/lancamento/preview?O=OrderByReleaseDateDESC"
+              title="Descubra">
+              FINALIZAR COMPRA >
+            </a>
+          </mj-text>
+          <mj-text padding="40px 0px 0px 0px" color="#606158" font-size="13px" align="center" text-transform= "uppercase" line-height= "1.5">Sentiu dificuldade para finalizar sua compra? <br><br>caso precise, estamos disponíveis pelo chat, por email <br>ou <a href="https://api.whatsapp.com/send?phone=554433515000" style="color: #606158;" title="WhatsApp"><strong>clique aqui</strong></a> para falar pelo whatsapp!</mj-text>
+        </mj-column>
+      </mj-section>
+      <!--main-->
+      <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

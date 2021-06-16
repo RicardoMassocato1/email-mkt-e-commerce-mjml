@@ -1,0 +1,237 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda"
+            width="600px"
+            padding="0"
+            alt="LQDA"
+            title="LQDA"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-07_LQDA/EmailMKT-Header.jpg" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#b52034"
+            font-size="19px"
+            padding="20px 0px 0px 25px"
+            align="left"
+            line-height="22px"
+            font-weight="500">
+            separamos uns lookinhos da<br> progressiva pra você:
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #b52034; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Vestido Curto Gola Polo<br> Com Bolso Preto
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 569,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 5px 0">R$ 455,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 50,65</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/vestido-curto-gola-polo-com-bolso-preto-224011/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-curto-gola-polo-com-bolso-preto-224011/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-07_LQDA/Vestido%20Curto%20Gola%20Polo%20Com%20Bolso%20Preto.jpg"
+            title="Vestido Curto Gola Polo Com Bolso Preto"
+            alt="Vestido Curto Gola Polo Com Bolso Preto" />
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/camisa-manga-3-4-abertura-lateral-verde-220257/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-07_LQDA/Camisa%20Manga%203-4%20Abertura%20Lateral%20Verde.jpg"
+            title="Camisa Manga 3/4 Abertura Lateral Verde"
+            alt="Camisa Manga 3/4 Abertura Lateral Verde" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #b52034; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Camisa Manga 3/4<br> Abertura Lateral Verde
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 5px 0">R$ 271,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 54,38</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/camisa-manga-3-4-abertura-lateral-verde-220257/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #b52034; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Vestido Midi Decote<br> Transpassado 
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 529,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 5px 0">R$ 423,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">8x de R$ 52,99</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/vestido-midi-decote-transpassado-detalhe-tela-bege-220284/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-decote-transpassado-detalhe-tela-bege-220284/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-07_LQDA/Vestido%20Midi%20Decote%20Transpassado%20Detalhe%20Tela%20Bege.jpg"
+            title="Vestido Midi Decote Transpassado Detalhe Tela Bege"
+            alt="Vestido Midi Decote Transpassado Detalhe Tela Bege" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px 30px 0px">
+      <mj-group>
+      <mj-column width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos"
+            width="600px"
+            padding="15px 0px"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-07_LQDA/lbh-01-vestidos.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-07_LQDA/lbh-01-blusas.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

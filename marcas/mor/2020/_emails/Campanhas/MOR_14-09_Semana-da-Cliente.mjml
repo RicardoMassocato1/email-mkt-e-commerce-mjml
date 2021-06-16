@@ -1,0 +1,202 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Praia&pwaf_productClusterIds=169"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_14-09_Semana-da-Cliente/Banner%20home-05-topo.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#734627" font-size="14px" padding="20px 0px 0px 0px" align="center" font-weight="400" line-height="22px" letter-spacing="1.5px">
+          Curta o verão com MR Beach até 70% OFF!
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Praia&pwaf_productClusterIds=169" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="400" font-size="12.5px" padding="15px 0px" background-color="#ffffff" color="#734627" border-radius="0px" border= "1.1px solid #694330" target="_blank">Eu Quero</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/top-cropped-manga-removivel-bordado-branco-214588"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/326743/TOP-CROPPED-MANGA-REMOVIVEL-BORDADO---LI-BRANCO---P.jpg?v=637109401978330000"
+            title="Top Cropped Manga Removivel Bordado Branco"
+            alt="Top Cropped Manga Removivel Bordado Branco" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Cropped Manga<br> Removivel Bordado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 61,23
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 244,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/top-cropped-manga-removivel-bordado-branco-214588" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/conjunto-top-e-shorts-detalhe-paete-branco-216256"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/329661/CONJUNTO-TOP-E-SHORTS-DETALHE-PAETE---LI-BRANCO---P.jpg?v=637123606319470000"
+            title="Conjunto Top E Shorts Detalhe Paete Branco"
+            alt="Conjunto Top E Shorts Detalhe Paete Branco" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Conjunto Top E Shorts<br> Detalhe Paete
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 699,90</text>
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 81,65
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 489,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/conjunto-top-e-shorts-detalhe-paete-branco-216256" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/maio-assimetrico-com-cinto-preto-branco-214722"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/319677/MAIO-ASSIMETRICO-COM-CINTO---CO-PRETO-BRANCO---P.jpg?v=637078946314030000"
+            title="Maio Assimetrico Com Cinto Preto/Branco"
+            alt="Maio Assimetrico Com Cinto Preto/Branco" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Maio Assimetrico Com<br> Cinto Preto/Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 379,90</text>
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 53,18
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 265,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/maio-assimetrico-com-cinto-preto-branco-214722" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-cortininha-com-ponteiras-branco-dourado-216169"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/327318/BIQUINI-CORTININHA-COM-PONTEIRAS---LI-DOURADO---P.jpg?v=637114931267930000"
+            title="Biquini Cortininha Com Ponteiras Branco/Dourado"
+            alt="Biquini Cortininha Com Ponteiras Branco/Dourado" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquini Cortininha<br> Com Ponteiras
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 223,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/biquini-cortininha-com-ponteiras-branco-dourado-216169" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 20px 0px 20px"
+          width="600px"
+          href="https://www.morenarosa.com.br/praia/biquinis/?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Praia&pwaf_productClusterIds=169"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_14-09_Semana-da-Cliente/Banner%20home-05-biquini.jpg"
+          alt="Biquinis"
+          title="Biquinis" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 20px"
+          width="600px"
+          href="https://www.morenarosa.com.br/praia/maios/?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Praia&pwaf_productClusterIds=169"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_14-09_Semana-da-Cliente/Banner%20home-05-maios.jpg"
+          alt="Maios"
+          title="Maios" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 20px 30px 20px"
+          width="600px"
+          href="https://www.morenarosa.com.br/praia/vestidos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=169&_t=LQDA%20Praia&p=2"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_14-09_Semana-da-Cliente/Banner%20home-05-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

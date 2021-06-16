@@ -1,0 +1,193 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Suti%C3%A3s%20&pwaf_productClusterIds=320"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_09-11_Sutias/Prancheta%2034%20c%C3%B3pia%203-topo.jpg"
+          alt="Sutiãs a partir de R$54,90"
+          title="Sutiãs a partir de R$54,90" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#a0af71" font-size="13.5px" padding="30px 0px 10px 0px" align="center" font-weight="300" line-height="21px" letter-spacing="1.5px">
+          <strong>Relaxe com conforto e beleza!</strong><br>
+          Sutiãs a partir de R$54,90, aproveite!
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Suti%C3%A3s%20&pwaf_productClusterIds=320" text-decoration="none" text-transform="uppercase" inner-padding="9px 25px" align="center" font-weight="300" font-size="14px" padding="15px 0px 40px 0px" background-color="#a0af71" color="#fff" border-radius="0px" border= "0px solid #ffffff" target="_blank"><span style="letter-spacing:3px">CONFIRA</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#a0af71">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sutia-top-multiformas-preto-225206"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/344445/SUTIA-TOP-MULTIFORMAS---LI-PRETO---P.jpg?v=637238771811970000"
+            title="Sutia Top Multiformas Preto"
+            alt="Sutia Top Multiformas Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sutia Top Multiformas<br> Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 119,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 59,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/sutia-top-multiformas-preto-225206" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#fff" color="#a0af71" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sutia-tomara-que-caia-com-drapeado-vermelho-preto-225339"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/344668/SUTIA-TOMARA-QUE-CAIA-COM-DRAPEADO---ES-TERRACOTA-PRETO---42.jpg?v=637238775136930000"
+            title="Sutia Tomara Que Caia Com Drapeado Vermelho/Preto"
+            alt="Sutia Tomara Que Caia Com Drapeado Vermelho/Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sutia Tomara Que Caia<BR> Com Drapeado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 199,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 99,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sutia-tomara-que-caia-com-drapeado-vermelho-preto-225339" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#fff" color="#a0af71" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#a0af71">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sutia-top-bojo-removivel-verde-225306"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/344547/SUTIA-TOP-BOJO-REMOVIVEL---LI-VERDE-MILITAR---42.jpg?v=637238773306730000"
+            title="Sutia Top Bojo Removivel Verde"
+            alt="Sutia Top Bojo Removivel Verde" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sutia Top Bojo<BR> Removivel Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 199,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 99,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/sutia-top-bojo-removivel-verde-225306" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#fff" color="#a0af71" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sutia-estruturado-com-renda-vinho-225343"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/344678/SUTIA-ESTRUTURADO-COM-RENDA---LT-TERRACOTA-PRETO---42.jpg?v=637238775266770000"
+            title="Sutia Estruturado Com Renda Vinho"
+            alt="Sutia Estruturado Com Renda Vinho" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sutia Estruturado Com<br> Renda Vinho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 179,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 89,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sutia-estruturado-com-renda-vinho-225343" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#fff" color="#a0af71" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="40px 0px 10px 0px" background-color="#fff">
+      <mj-column>
+        <mj-button text-decoration="none" inner-padding="8px 60px" align="center" font-weight="300" font-size="15px" padding="15px 0px" background-color="#a0af71" color="#fff" border-radius="0px" target="_blank"><span style="letter-spacing:3px">compre também:</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="20px 30px 0px 30px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_09-11_Sutias/Prancheta%2034%20c%C3%B3pia%203-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="15px 30px"
+          width="600px"
+          href="https://www.morenarosa.com.br/jeans?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_09-11_Sutias/Prancheta%2034%20c%C3%B3pia%203-jeans.jpg"
+          alt="Jeans"
+          title="Jeans" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 30px 30px 30px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calcados?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_09-11_Sutias/Prancheta%2034%20c%C3%B3pia%203-shoes.jpg"
+          alt="Shoes"
+          title="Shoes" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

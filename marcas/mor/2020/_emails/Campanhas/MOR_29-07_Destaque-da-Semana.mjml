@@ -1,0 +1,245 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="10px 0px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA&pwaf_productClusterIds=171"
+        title="Destaques da Semana"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Destaque-da-Semana/E-mails%20LQDA-07-topo.jpg" />
+    </mj-column>
+
+    <mj-section padding="20px 0px">
+      <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-ombro-a-ombro-com-faixa-verde-227897"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Destaque-da-Semana/Vestido%20Curto%20Ombro%20A%20Ombro%20Com%20Faixa%20Verde.jpg"
+            title="Vestido Curto Ombro A Ombro Com Faixa Verde"
+            alt="Vestido Curto Ombro A Ombro Com Faixa Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #78492d; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Ombro A<br> Ombro Com Faixa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#78492d"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#78492d"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$91,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #78492d; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/vestido-curto-ombro-a-ombro-com-faixa-verde-227897"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-transpassado-manga-longa-com-amarracao-verde-227805"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Destaque-da-Semana/Blusa%20Decote%20Transpassado%20Manga%20Longa%20Com%20Amarracao%20Verde.jpg"
+            title="Blusa Decote Transpassado Manga Longa Com Amarracao Verde"
+            alt="Blusa Decote Transpassado Manga Longa Com Amarracao Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #78492d; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Transpassado<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#78492d"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#78492d"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$73,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #78492d; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/blusa-decote-transpassado-manga-longa-com-amarracao-verde-227805"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/casaco-alongado-com-bolso-verde-227928"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Destaque-da-Semana/Casaco%20Alongado%20Com%20Bolso%20Verde.jpg"
+            title="Casaco Alongado Com Bolso Verde"
+            alt="Casaco Alongado Com Bolso Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #78492d; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Casaco Alongado Com<br> Bolso Verde
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#78492d"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 919,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#78492d"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$102,21</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #78492d; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/casaco-alongado-com-bolso-verde-227928"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-redondo-abertura-decote-azul-227519"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Destaque-da-Semana/Vestido%20Midi%20Decote%20Redondo%20Abertura%20Decote%20Azul.jpg"
+            title="Vestido Midi Decote Redondo Abertura Decote Azul"
+            alt="Vestido Midi Decote Redondo Abertura Decote Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #78492d; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote<br> Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#78492d"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#78492d"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$76,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #78492d; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/vestido-midi-decote-redondo-abertura-decote-azul-227519"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="40px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=234&_t=LQDA&p=2"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Destaque-da-Semana/E-mails%20LQDA-07-blusas.jpg" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=160&_t=LQDA&p=2"
+            title="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Destaque-da-Semana/E-mails%20LQDA-07-calcas.jpg" />
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=244&_t=LQDA&p=2"
+            title="Vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Destaque-da-Semana/E-mails%20LQDA-07-vestidos.jpg" />
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

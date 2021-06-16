@@ -1,0 +1,115 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="30px 0px 0px 0px" background-color="#efe7df">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#604f42" font-size="26px" padding="20px 0px 0px 0px" align="center" font-weight="900" line-height="37px" letter-spacing="5px">
+          comunicado<br> importante
+        </mj-text>
+
+        <mj-text font-family="Roboto, serif" color="#604f42" font-size="14.5px" padding="30px 0px 30px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="2px">
+          Estão utilizando o nome<br> 
+          Morena Rosa para criar<br> 
+          <span style="background-color:#604f42; color:#efe7df; font-weight:600; letter-spacing:3px">&nbsp;PERFIS FALSOS&nbsp;</span> e obter<br> 
+          dados pessoais por meio de<br> 
+          ofertas de cupom de<br> 
+          desconto via mensagens<br> 
+          privadas no Instagram.<br> 
+          Estamos tomando todas as<br> 
+          medidas legais cabíveis.
+        </mj-text>
+
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#604f42" font-size="14.5px" padding="0px 0px 30px 0px" align="center" font-weight="700" line-height="20px" letter-spacing="2.2px">
+          ESTA NÃO É UMA PRÁTICA<br> REALIZADA POR NÓS.
+        </mj-text>
+
+        <mj-text font-family="Roboto, serif" color="#604f42" font-size="14.5px" padding="30px 0px 40px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="2px">
+          Por isso, antes de responder<br> 
+          qualquer informação pessoal<br> 
+          verifique se a conta<br> 
+          vinculada é a <strong>OFICIAL</strong> e caso<br> 
+          alguma conta falsa entre em<br> 
+          contato com você, nos ajude<br> 
+          e <strong>DENUNCIE</strong>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#e8dbcf">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#604f42" font-size="35px" padding="40px 0px 0px 0px" align="center" font-weight="900" line-height="37px" letter-spacing="5px">
+          dicas
+        </mj-text>
+
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#604f42" font-size="15px" padding="30px 0px 30px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="3px">
+          PARA IDENTIFICAR<br>
+          UM PERFIL FALSO
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#e8dbcf">
+      <mj-column width="100%">
+        <mj-image
+          padding="0px 40px 10px 40px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_16-10_Comunicado/Artboard%201-01.jpg"
+          alt="Conferir se o nome do usuário é o mesmo que o indicado pela marca no site oficial;" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-image
+          padding="0px 40px 10px 40px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_16-10_Comunicado/Artboard%201-02.jpg"
+          alt="Estar atento ao número de publicações e seguidores;" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-image
+          padding="0px 40px 30px 40px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_16-10_Comunicado/Artboard%201-03.jpg"
+          alt="Checar se a conta possui selo de verificação ao lado do nome." />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#e8dbcf">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#604f42" font-size="15.5px" padding="30px 0px 0px 0px" align="center" font-weight="400" line-height="25px" letter-spacing="2px">
+          Reforçamos que nossos<br>
+          perfis oficiais são:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#e8dbcf">
+        <mj-column padding="10px 0px 10px 0px" width="100%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="220px"
+            href="https://www.instagram.com/morenarosaoficial/?hl=pt-br"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_16-10_Comunicado/Artboard%201-instagram.jpg"
+            title="Clique aqui"
+            alt="@morenarosaoficial" />
+        </mj-column>
+        <mj-column padding="0px 0px 50px 0px" width="100%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="220px"
+            href="https://pt-br.facebook.com/morenarosaoficial/"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_16-10_Comunicado/Artboard%201-facebook.jpg"
+            title="Clique aqui"
+            alt="@morenarosaoficial" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

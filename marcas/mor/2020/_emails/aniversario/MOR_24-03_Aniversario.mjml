@@ -1,0 +1,103 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column padding="0px" width="100%" background-color="#F2ECE4">
+          <mj-text
+            color="#B1A69B"
+            font-size="18px"
+            padding="40px 30px"
+            line-height="22px"
+            align="center"
+            font-weight="300">
+            <strong>*|FIRST_NAME|*</strong>, este mês celebramos a vida que recomeça.
+            <br/>
+            As boas histórias e os bons encontros.
+            <br/>
+            Celebramos você!
+          </mj-text>
+          <mj-image
+            padding="0"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/aniversario/aniver-03.png"
+            alt="Feliz aniversário!" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column padding="0px" width="100%">
+          <mj-text
+            color="#999999"
+            font-family="Roboto, serif"
+            font-size="16px"
+            padding="20px 0 5px 0"
+            align="center"
+            font-weight="300"
+            text-transform="uppercase">
+            E para comemorar:
+          </mj-text>
+
+          <mj-text align="center" padding="20px 0px 0px 0px">
+            <a style="font-family:Roboto, serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 40px; color: #ffffff; background-color: #D3C4B0; display: inline-block; margin: 0px; padding: 7px 13px; letter-spacing: 5px;">
+              10% OFF
+            </a>
+          </mj-text>
+
+          <mj-text align="center" padding="0px 0px 0px 0px">
+            <a style="font-weight: 300; text-decoration: none; font-size: 18px; color: #D3C4B0; background-color: #F2ECE4; display: inline-block; margin: 0px; padding: 10px 28px;">
+              em nossa loja virtual
+            </a>
+          </mj-text>
+
+          <mj-text
+            color="#A1A1A1"
+            font-size="13px"
+            padding="20px"
+            font-weight="300"
+            align="center">
+            Válido exclusivamente para você durante todo este mês. <br/> Use o cupom abaixo e aproveite!
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0px 0px" width="100%">
+          <mj-text
+            color="#A1A1A1"
+            font-size="15px"
+            padding="20px 0px 5px 0px"
+            font-weight="300"
+            align="center">
+            cupom:
+          </mj-text>
+
+          <mj-text
+            color="#D3C4B0"
+            font-size="34px"
+            padding="0"
+            font-weight="700"
+            align="center"
+            text-transform="uppercase">
+            parabens
+          </mj-text>
+          
+          <mj-text padding="20px 0px" align="center">
+            <a
+              style="font-weight: 100; border: 1px solid #D3C4B0; color: #D3C4B0; text-decoration: none; text-transform: uppercase; font-size: 18px; display: inline-block; margin: 10px 0 0 0;padding: 5px 10px;"
+              href="https://www.morenarosa.com.br/"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

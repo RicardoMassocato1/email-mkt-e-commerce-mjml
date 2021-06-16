@@ -1,0 +1,187 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 55px 20px 30px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=331&_t=Lan%C3%A7amento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_07-12_Lancamento/E-mails-mkt%202006-01-topo.jpg"
+          alt="Lançamento - Verão 2021"
+          title="Lançamento - Verão 2021" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 25px 0px" background-color="#fff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#5e3016" font-size="13.5px" padding="0px 0px 0px 0px" align="center" font-weight="500" line-height="23px" letter-spacing="2px">
+          Aproveite o melhor do verão<br>
+          com a nossa coleção nova!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/t-shirt-morena-rosa-dress-fio-metalizado-prata-241509"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/362250/T-SHIRT-DRESS-FIO-METALIZADO---LI-PRATA---P.jpg?v=637382860628830000"
+            title="T-Shirt Morena Rosa Dress Fio Metalizado Prata"
+            alt="T-Shirt Morena Rosa Dress Fio Metalizado Prata" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Morena Rosa Dress<br> Fio Metalizado Prata
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 59,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 239,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/t-shirt-morena-rosa-dress-fio-metalizado-prata-241509" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-evase-detalhe-paete-azul-243971"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/364558/SHORTS-EVASE-DETALHE-PAETE---CO-CRU-AZUL-MARINHO---36.jpg?v=637425159418600000"
+            title="Shorts Morena Rosa Evasê Detalhe Paetê Azul"
+            alt="Shorts Morena Rosa Evasê Detalhe Paetê Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena Rosa Evasê<br> Detalhe Paetê Azul
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 73,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 439,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-evase-detalhe-paete-azul-243971" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-v-com-camadas-menta-243901"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/364467/VESTIDO-CURTO-DECOTE-V-COM-CAMADAS---LI-VERDE-MENTA---M.jpg?v=637425158275100000"
+            title="Vestido Morena Rosa Curto Decote V Com Camadas Menta"
+            alt="Vestido Morena Rosa Curto Decote V Com Camadas Menta" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena Rosa<br> Curto Decote V Com<br> Camadas Menta
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 114,27
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 799,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-v-com-camadas-menta-243901" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-morena-rosa-pantalona-com-transpasse-azul-243897"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/364438/MACACAO-PANTALONA-COM-TRANSPASSE---LI-AZUL-MARINHO---P.jpg?v=637425157874530000"
+            title="Macacão Morena Rosa Pantalona Com Transpasse Azul"
+            alt="Macacão Morena Rosa Pantalona Com Transpasse Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacão Morena Rosa<br> Pantalona Com<br> Transpasse Azul
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 83,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/macacao-morena-rosa-pantalona-com-transpasse-azul-243897" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas/?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=331&_t=Lan%C3%A7amento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_07-12_Lancamento/E-mails-mkt%202006-01-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="15px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=331&_t=Lan%C3%A7amento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_07-12_Lancamento/E-mails-mkt%202006-01-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calcados?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_07-12_Lancamento/E-mails-mkt%202006-01-shoes.jpg"
+          alt="Shoes"
+          title="Shoes" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

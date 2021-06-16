@@ -1,0 +1,172 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Escolhas%20da%20Rafa&pwaf_productClusterIds=305"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_24-09_Vem-Florir/Prancheta%201-topo.jpg"
+          alt="Vem Florir 2020 - Celebre a beleza e os encantos da mulher brasileira."
+          title="Vem Florir 2020" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Escolhas%20da%20Rafa&pwaf_productClusterIds=305"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_24-09_Vem-Florir/Prancheta%201-texto.jpg"
+          alt="Ganhe um brinde exclusivo na compra da terceira peça."
+          title="Vem Florir 2020" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#f7eee9">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#2f3453" font-size="11px" padding="20px 0px 30px 0px" align="center" font-weight="500" line-height="23px" letter-spacing="1.8px">
+          A Rafa Kalimann já está celebrando com a<br> gente a chegada da primavera! Confira as<br> escolhas dela para a nova estação:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blazer-alfaiataria-off-white-233356"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355931/10000109167000133-0-.jpg?v=637341487484270000"
+            title="Blazer Alfaiataria Off White"
+            alt="Blazer Alfaiataria Off White" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#d9453b" font-weight="400" font-size="15px" padding="180px 0 10px 0">
+            Blazer Alfaiataria<br> Off White
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            7x de R$ 114,27
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 799,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/blazer-alfaiataria-off-white-233356" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9453b" color="#f7eee9" border-radius="0px" border= "1.2px solid #d9453b" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#d9453b" font-weight="400" font-size="15px" padding="180px 0 10px 0">
+            Shorts Saia Off<br> White
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 349,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-saia-detalhe-vivo-off-white-234196" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9453b" color="#f7eee9" border-radius="0px" border= "1.2px solid #d9453b" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-saia-detalhe-vivo-off-white-234196"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355927/10000109246000133-0-.jpg?v=637341485133670000"
+            title="Shorts Saia Off White"
+            alt="Shorts Saia Off White" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-v-com-faixa-rosa-234257"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352130/VESTIDO-MIDI-DECOTE-V-COM-FAIXA---LI-PINK---M.jpg?v=637326622590500000"
+            title="Vestido Midi Decote V Com Faixa Rosa"
+            alt="Vestido Midi Decote V Com Faixa Rosa" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#d9453b" font-weight="400" font-size="15px" padding="180px 0 10px 0">
+            Vestido Midi Decote V<br> Com Faixa Rosa
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            8x de R$ 106,23
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 849,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-midi-decote-v-com-faixa-rosa-234257" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9453b" color="#f7eee9" border-radius="0px" border= "1.2px solid #d9453b" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_24-09_Vem-Florir/Prancheta%201-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-column>
+        <mj-image
+          padding="15px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_24-09_Vem-Florir/Prancheta%201-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_24-09_Vem-Florir/Prancheta%201-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

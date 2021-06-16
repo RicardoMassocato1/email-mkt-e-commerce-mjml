@@ -1,0 +1,208 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_13-01_Vestidos-LQDA/Artboard%203%20copy%203-topo.jpg"
+            alt="lqda até 50% off"
+            title="lqda até 50% off" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#D00613"> 
+        <mj-column padding="40px 0px 30px 0px">
+          <mj-text font-family= "Work Sans, sans-serif" color="#EDD9CB" font-size="25px" padding="0px 0px 0px 70px" align="left" line-height="31px" letter-spacing="0px" font-weight="600">
+            vestidos para todas<br> as ocasiões
+          </mj-text>
+          <mj-text font-family= "Work Sans, sans-serif" color="#EDD9CB" font-size="17px" padding="8px 0px 15px 70px" align="left" line-height="20px" letter-spacing="0px" font-weight="300">
+            aproveite e garanta seu look<br> com até 50% off!
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda/vestidos?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 18px" align="left" font-weight="400" font-size="14px" padding="10px 0px 15px 70px" background-color="#EDD9CB" color="#D00613" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#D00613">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-redondo-com-amarracao-dourado-233292/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188814/VESTIDO-MIDI-DECOTE-REDONDO-COM-AMARRACAO---LT-DOURADO---PP.jpg?v=637332752439230000"
+            title="Vestido Lebôh Midi Decote Redondo Com Amarração Dourado"
+            alt="Vestido Lebôh Midi Decote Redondo Com Amarração Dourado" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Midi Decote<br> Redondo Com Amarração<br> Dourado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 259,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 64,97
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 129,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-redondo-com-amarracao-dourado-233292/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-quadrado-abertura-frente-preto-233168/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188485/VESTIDO-MIDI-DECOTE-QUADRADO-ABERTURA-FRENTE---LI-PRETO---PP.jpg?v=637332745089870000"
+            title="Vestido Lebôh Midi Decote Quadrado Abertura Frente Preto"
+            alt="Vestido Lebôh Midi Decote Quadrado Abertura Frente Preto" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Midi Decote<br> Quadrado Abertura Frente<br> Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 259,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 64,97
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 129,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-quadrado-abertura-frente-preto-233168/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 50px 0px" background-color="#D00613">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-longo-decote-redondo-com-fenda-vermelho-233106/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188468/VESTIDO-LONGO-DECOTE-REDONDO-COM-FENDA---LI-VERMELHO---PP.jpg?v=637332744770370000"
+            title="Vestido Lebôh Longo Decote Redondo Com Fenda Vermelho"
+            alt="Vestido Lebôh Longo Decote Redondo Com Fenda Vermelho" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Longo Decote<br> Redondo Com Fenda Vermelho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-longo-decote-redondo-com-fenda-vermelho-233106/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-quadrado-com-botao-preto-228884/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187047/VESTIDO-MIDI-DECOTE-QUADRADO-COM-BOTAO---LT-PRETO---PP.jpg?v=637250787090900000"
+            title="Vestido Lebôh Midi Decote Quadrado Com Botão Preto"
+            alt="Vestido Lebôh Midi Decote Quadrado Com Botão Preto" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Midi Decote<br> Quadrado Com Botão Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 409,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 51,23
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 204,95
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-quadrado-com-botao-preto-228884/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="vestidos"
+            title="vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_13-01_Vestidos-LQDA/Artboard%203%20copy%203-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="calças"
+            title="calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_13-01_Vestidos-LQDA/Artboard%203%20copy%203-calcas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="blusas"
+            title="blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_13-01_Vestidos-LQDA/Artboard%203%20copy%203-blusas.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

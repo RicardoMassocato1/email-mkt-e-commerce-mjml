@@ -1,0 +1,267 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Fevereiro/email-4.gif"
+          alt="LQDA 50%OFF"
+          title="LQDA 50%OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_25-09_As-Cores-da-Casa/E-mail%20mkt%202004-04_1-topo.jpg"
+          alt="As Cores da Casa"
+          title="As Cores da Casa" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px 30px 45px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#734627" font-size="13px" padding="0px 0px" align="left" font-weight="400" line-height="22px" letter-spacing="1.5px">
+          Alegres e dinâmicas, as cores da estação<br>
+          trazem leveza para a moda da primavera<br> verão.
+          <strong>Adicione cor aos looks e prepare-se<br>
+          para brilhar na temporada!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="40px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_25-09_As-Cores-da-Casa/E-mail%20mkt%202004-04_1-verde.jpg"
+          alt="Verde Folha"
+          title="Verde Folha" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-detalhe-cintura-verde-227453"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/341056/SAIA-LONGA-EVASE-DETALHE-CINTURA---LI-VERDE-MILITAR---36.jpg?v=637237831044800000"
+            title="Saia Morena Rosa Longa Evasê Detalhe Cintura Verde"
+            alt="Saia Morena Rosa Longa Evasê Detalhe Cintura Verde" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa<br> Longa Evasê<br> Detalhe Cintura...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 699,90</text>
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 88,65
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 489,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-detalhe-cintura-verde-227453" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-abaixo-do-joelho-regular-tricot-preto-235276"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352322/SAIA-ABAIXO-DO-JOELHO-REGULAR-TRICOT---LT-PRETO-VERDE---38.jpg?v=637326625602030000"
+            title="Saia Morena Rosa Abaixo Do Joelho Regular Tricot Preto"
+            alt="Saia Morena Rosa Abaixo Do Joelho Regular Tricot Preto" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa<br> Abaixo Do Joelho<br> Regular Tricot...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 58,32
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-abaixo-do-joelho-regular-tricot-preto-235276" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-v-com-cinto-preto-233476"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/351518/VESTIDO-MIDI-DECOTE-V-COM-CINTO---ES-PRETO-VERDE-LIMA---P.jpg?v=637326608973800000"
+            title="Vestido Morena Rosa Midi Decote V Com Cinto Preto"
+            alt="Vestido Morena Rosa Midi Decote V Com Cinto Preto" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena<br> Rosa Midi Decote<br> V Com Cinto...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 759,90</text>
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 88,65
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 531,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-v-com-cinto-preto-233476" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="40px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_25-09_As-Cores-da-Casa/E-mail%20mkt%202004-04_1-magenta.jpg"
+          alt="Magenta"
+          title="Magenta" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/cropped-morena-rosa-ombro-a-ombro-tricot-nude-235457"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355220/CROPPED-OMBRO-A-OMBRO-TRICOT---CO-NUDE-PINK---G.jpg?v=637326728447730000"
+            title="Cropped Morena Rosa Ombro A Ombro Tricot Nude"
+            alt="Cropped Morena Rosa Ombro A Ombro Tricot Nude" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Cropped Morena<br> Rosa Ombro A<br> Ombro Tricot...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x R$ 55,98
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/cropped-morena-rosa-ombro-a-ombro-tricot-nude-235457" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-midi-evase-tricot-rosa-235399"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352358/SAIA-MIDI-EVASE-TRICOT---LI-PINK---42.jpg?v=637326626181400000"
+            title="Saia Morena Rosa Midi Evasê Tricot Rosa"
+            alt="Saia Morena Rosa Midi Evasê Tricot Rosa" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            VSaia Morena<br> Rosa Midi Evasê<br> Tricot Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 669,90</text>
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 78,15
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 468,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-midi-evase-tricot-rosa-235399" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-plissada-rosa-235322"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355359/SAIA-LONGA-EVASE-PLISSADA---LI-PINK---38.jpg?v=637327739666430000"
+            title="Saia Morena Rosa Longa Evasê Plissada Rosa"
+            alt="Saia Morena Rosa Longa Evasê Plissada Rosa" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa<br> Longa Evasê<br> Plissada Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 919,90</text>
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 107,32
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 643,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-plissada-rosa-235322" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

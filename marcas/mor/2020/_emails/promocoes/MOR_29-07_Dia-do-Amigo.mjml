@@ -1,0 +1,217 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="10px 0px 0px 0px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=282&_t=Lan%C3%A7amentos&p=4"
+        title="Dia da Amizade"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Dia-do-Amigo/E-mails%20LQDA-08-topo.jpg" />
+    </mj-column>
+  
+    <mj-section padding="30px 0px 20px 0px">
+      <mj-group>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-longo-decote-v-com-metal-camel-227945"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Dia-do-Amigo/Vestido%20Longo%20Decote%20V%20Com%20Metal%20Camel.jpg"
+            title="Vestido Longo Decote V Com Metal Camel"
+            alt="Vestido Longo Decote V Com Metal Camel" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #764a2f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Longo Decote<br> V Com Metal
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#764a2f"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 959,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#764a2f"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 106,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #e39958; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e39958;"
+              href="https://www.morenarosa.com.br/vestido-longo-decote-v-com-metal-camel-227945"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-ombro-so-manga-longa-com-termocolante-preto-229836"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Dia-do-Amigo/Blusa%20Ombro%20So%20Manga%20Longa%20Com%20Termocolante%20Preto.jpg"
+            title="Blusa Ombro So Manga Longa Com Termocolante Preto"
+            alt="Blusa Ombro So Manga Longa Com Termocolante Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #764a2f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Ombro So<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#764a2f"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#764a2f"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 99,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #e39958; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e39958;"
+              href="https://www.morenarosa.com.br/blusa-ombro-so-manga-longa-com-termocolante-preto-229836"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-pantacourt-com-faixa-azul-228033"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Dia-do-Amigo/Macacao%20Pantacourt%20Com%20Faixa%20Azul.jpg"
+            title="Macacao Pantacourt Com Faixa Azul"
+            alt="Macacao Pantacourt Com Faixa Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #764a2f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Pantacourt<br> Com Faixa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#764a2f"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 789,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#764a2f"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 112,84</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #e39958; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e39958;"
+              href="https://www.morenarosa.com.br/macacao-pantacourt-com-faixa-azul-228033"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/jaqueta-bomber-detalhe-tela-preto-227627"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-07_Dia-do-Amigo/Jaqueta%20Bomber%20Detalhe%20Tela%20Preto.jpg"
+            title="Jaqueta Bomber Detalhe Tela Preto"
+            alt="Jaqueta Bomber Detalhe Tela Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #764a2f; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Bomber<br> Detalhe Tela
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#764a2f"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 849,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#764a2f"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">8x de R$ 106,23</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #e39958; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e39958;"
+              href="https://www.morenarosa.com.br/jaqueta-bomber-detalhe-tela-preto-227627"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

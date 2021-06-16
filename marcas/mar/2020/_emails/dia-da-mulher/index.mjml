@@ -1,0 +1,56 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <!--main-->
+      <mj-section>
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/dia-da-mulher-2020/01/topo-1.png"
+            alt="SER MULHER É ESCREVER A PRÓPRIA  HISTÓRIA COM FORÇA E DELICADEZA. TODOS OS DIAS. GANHE UMA CANETA EXCLUSIVA NAS COMPRAS ACIMA DE R$699,00*" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            title="Descubra"
+            padding="50px 0 20px 0"
+            href="https://www.mariavalentina.com.br/lancamento/preview?O=OrderByReleaseDateDESC"
+            width="485px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/dia-da-mulher-2020/01/topo-2.png" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text padding-bottom="2px" color="#606158" font-size="14px" align="center">PREVIEW</mj-text>
+          <mj-text padding-bottom="2px" color="#606158" font-size="20px" align="center">OUTONO INVERNO</mj-text>
+          <mj-text padding-bottom="2px" color="#606158" font-size="12px" align="center">Uma amostra do encontro entre as artes plásticas, <br/> o utilitarismo e o requinte da mulher urbana.</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+              href="https://www.mariavalentina.com.br/lancamento/preview?O=OrderByReleaseDateDESC"
+              title="Descubra">
+              Descubra
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!--main-->
+
+      <mj-include path="../../../../_shared/prod/_2x2.mjml" />
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

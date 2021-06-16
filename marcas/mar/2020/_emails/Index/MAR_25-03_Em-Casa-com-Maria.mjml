@@ -1,0 +1,173 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0px 0px 30px 0px"
+            href="http://instagram.com/mariavalentinaoficial"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_25-03_Em-Casa-com-Maria/EmCasaComMaria_Context.jpg"
+            title="Em casa com Maria"
+            alt="Em casa com Maria" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.mariavalentina.com.br/lancamento?O=OrderByReleaseDateDESC"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_25-03_Em-Casa-com-Maria/email-banner.jpg"
+            title="Lançamento Outono Inverno"
+            alt="Lançamento Outono Inverno" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="50px 0px">
+        <mj-group>
+
+          <mj-column width="100%">
+            <mj-text
+              color="#999999"
+              font-size="18px"
+              padding="0 0 20px 0"
+              align="center"
+              font-weight="300"
+              text-transform="uppercase">
+              sugestões para você:
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-detalhe-paete-preto-221332/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_25-03_Em-Casa-com-Maria/T-Shirt%20Decote%20Redondo%20Detalhe%20Paete%20Preto.jpg"
+              title="T-Shirt Decote Redondo Detalhe Paete Preto"
+              alt="T-Shirt Decote Redondo Detalhe Paete Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-detalhe-paete-preto-221332/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.mariavalentina.com.br/calca-comfort-cos-elastico-com-recorte-caramelo-220941/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_25-03_Em-Casa-com-Maria/Calca%20Comfort%20Cos%20Elastico%20Com%20Recorte%20Caramelo.jpg"
+              title="Calca Comfort Cos Elastico Com Recorte Caramelo"
+              alt="Calca Comfort Cos Elastico Com Recorte Caramelo" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Comfort Cos Elastico
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.mariavalentina.com.br/calca-comfort-cos-elastico-com-recorte-caramelo-220941/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.mariavalentina.com.br/jardineira-longa-bolso-faca-preto-220905/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_25-03_Em-Casa-com-Maria/Jardineira%20Longa%20Bolso%20Faca%20Preto.jpg"
+              title="Jardineira Longa Bolso Faca Preto"
+              alt="Jardineira Longa Bolso Faca Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Jardineira Longa Bolso
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.mariavalentina.com.br/jardineira-longa-bolso-faca-preto-220905/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.mariavalentina.com.br/camisa-manga-longa-detalhe-costas-off-white-220903/p"
+              src="http://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_25-03_Em-Casa-com-Maria/Camisa%20Manga%20Longa%20Detalhe%20Costas%20Off%20White.jpg"
+              title="Camisa Manga Longa Detalhe Costas Off White"
+              alt="Camisa Manga Longa Detalhe Costas Off White" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Camisa Manga Longa
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.mariavalentina.com.br/camisa-manga-longa-detalhe-costas-off-white-220903/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

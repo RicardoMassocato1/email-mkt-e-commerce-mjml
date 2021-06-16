@@ -1,0 +1,232 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/dia-das-maes"
+            width="600px"
+            padding="0px 10px"
+            alt="Dia das Mães"
+            title="Dia das Mães"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/LEB_29-04_Dia-das-Maes/LBH-Maes-EmailMKT.jpg" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#000000"
+            font-size="18px"
+            padding="20px 0px 10px 35px"
+            align="left"
+            line-height="1.2"
+            font-weight="600">
+            -<br>Sugestões de<br>presentes
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 0px">
+        <mj-group>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/shorts-clochard-com-faixa-jeans-189313/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/LEB_29-04_Dia-das-Maes/Shorts%20Clochard%20Com%20Faixa%20Jeans.jpg"
+              title="Shorts Clochard Com Faixa Jeans"
+              alt="Shorts Clochard Com Faixa Jeans" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Clochard Com Faixa
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 137,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">2x de R$ 68,97</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/shorts-clochard-com-faixa-jeans-189313/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-comfort-cos-elastico-com-amarracao-jeans-225548/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/LEB_29-04_Dia-das-Maes/Calca%20Comfort%20Cos%20Elastico%20Com%20Amarracao%20Jeans.jpg"
+              title="Calca Comfort Cos Elastico Com Amarracao Jeans"
+              alt="Calca Comfort Cos Elastico Com Amarracao Jeans" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Comfort Cos Elastico
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">5x de R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/calca-comfort-cos-elastico-com-amarracao-jeans-225548/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-cenoura-cos-alto-bolso-faca-preto-224036/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/LEB_29-04_Dia-das-Maes/Calca%20Cenoura%20Cos%20Alto%20Bolso%20Faca%20Preto.jpg"
+              title="Calca Cenoura Cos Alto Bolso Faca Preto"
+              alt="Calca Cenoura Cos Alto Bolso Faca Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Cenoura Cos Alto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 229,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">4x de R$ 57,47</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/calca-cenoura-cos-alto-bolso-faca-preto-224036/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="49.8%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/vestido-midi-gola-alta-detalhe-elastico-marrom-223720/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/LEB_29-04_Dia-das-Maes/Vestido%20Midi%20Gola%20Alta%20Detalhe%20Elastico%20Marrom.jpg"
+              title="Vestido Midi Gola Alta Detalhe Elastico Marrom"
+              alt="Vestido Midi Gola Alta Detalhe Elastico Marrom" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Midi Gola Alta
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 559,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">11x de R$ 50,90</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/vestido-midi-gola-alta-detalhe-elastico-marrom-223720/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

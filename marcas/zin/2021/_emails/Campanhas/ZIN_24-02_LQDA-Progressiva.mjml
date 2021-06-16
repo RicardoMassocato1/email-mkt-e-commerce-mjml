@@ -1,0 +1,204 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Fevereiro/ZIN_24-02_LQDA-Progressiva/ZC_EmailMkt_03_01.jpg"
+          alt="LQDA até 50% OFF"
+          title="LQDA até 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="13px" padding="30px 20px 0px 20px" align="center" font-weight="400" line-height="20px" letter-spacing="0.5px">
+          Trend Alert
+        </mj-text>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="20px" padding="5px 20px 0px 20px" align="center" font-weight="800" line-height="20px" letter-spacing="1px">
+          NAVY + JEANS!
+        </mj-text>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="13px" padding="5px 20px 30px 20px" align="center" font-weight="400" line-height="20px" letter-spacing="0.5px">
+          A tendência da estação nas peças mais queridas da LQDA!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-detalhe-galao-azul-232064/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214033/T-SHIRT-DECOTE-REDONDO-DETALHE-GALAO---LI-AZUL---PP.jpg?v=637327778583800000"
+            title="T-Shirt Zinco Decote Redondo Detalhe Galão Azul"
+            alt="T-Shirt Zinco Decote Redondo Detalhe Galão Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Zinco Decote<br> Redondo Detalhe Galão<br> Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-detalhe-galao-azul-232064/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-zinco-boxer-detalhe-vivo-branco-232135/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214252/SHORTS-BOXER-DETALHE-VIVO---LI-TRANSPARENTE---34.jpg?v=637327781928770000"
+            title="Shorts Zinco Boxer Detalhe Vivo Branco"
+            alt="Shorts Zinco Boxer Detalhe Vivo Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Zinco Boxer<br> Detalhe Vivo<br> Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 389,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 54,58
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0px">
+            Por: R$ 272,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/shorts-zinco-boxer-detalhe-vivo-branco-232135/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-zinco-linha-a-com-cordao-bege-227318/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/209276/SHORTS-LINHA-A-COM-CORDAO---LI-CRU---34.jpg?v=637250840290730000"
+            title="Shorts Zinco Linha A Com Cordão Bege"
+            alt="Shorts Zinco Linha A Com Cordão Bege" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Zinco Linha A<br> Com Cordão Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="33px 0 10px 0">
+            6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/shorts-zinco-linha-a-com-cordao-bege-227318/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-zinco-reto-compose-de-tecidos-azul-228983/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/208240/MACACAO-RETO-COMPOSE-DE-TECIDOS---CO-AZUL-PRETO---P.jpg?v=637250824722170000"
+            title="Macacão Zinco Pantalona Com Cinto Preto"
+            alt="Macacão Zinco Pantalona Com Cinto Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacão Zinco Pantalona<br> Com Cinto Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 549,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 54,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 384,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/macacao-zinco-reto-compose-de-tecidos-azul-228983/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Fevereiro/ZIN_24-02_LQDA-Progressiva/ZC_EmailMkt_03_03.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Fevereiro/ZIN_24-02_LQDA-Progressiva/ZC_EmailMkt_03_05.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Fevereiro/ZIN_24-02_LQDA-Progressiva/ZC_EmailMkt_03_07.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

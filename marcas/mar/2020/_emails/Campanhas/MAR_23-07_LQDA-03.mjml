@@ -1,0 +1,221 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 20px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/bermuda?map=ft&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-03/EmailMkt_Lqda03-topo.jpg"
+            title="LQDA"
+            alt="LQDA" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/bermuda-ciclista-detalhe-elastico-jeans-221817/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-03/Bermuda%20Ciclista%20Detalhe%20Elastico%20Jeans.jpg" 
+            title="Bermuda Ciclista Detalhe Elastico Jeans" 
+            alt="Bermuda Ciclista Detalhe Elastico Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bermuda Ciclista Detalhe Elastico Jeans
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 191,94</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 63,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/bermuda-ciclista-detalhe-elastico-jeans-221817/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/bermuda-ciclista-com-lenco-caramelo-223570/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-03/Bermuda%20Ciclista%20Com%20Lenco%20Caramelo.jpg" 
+            title="Bermuda Ciclista Com Lenco Caramelo" 
+            alt="Bermuda Ciclista Com Lenco Caramelo" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bermuda Ciclista Com Lenco Caramelo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 191,94</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 63,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/bermuda-ciclista-com-lenco-caramelo-223570/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/bermuda-ciclista-detalhe-lateral-preto-221825/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-03/Bermuda%20Ciclista%20Detalhe%20Lateral%20Preto.jpg" 
+            title="Bermuda Ciclista Detalhe Lateral Preto" 
+            alt="Bermuda Ciclista Detalhe Lateral Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bermuda Ciclista Detalhe Lateral Preto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 221,94</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 55,48</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/bermuda-ciclista-detalhe-lateral-preto-221825/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/bermuda-comfort-com-faixa-verde-224135/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-03/Bermuda%20Comfort%20Com%20Faixa%20Verde.jpg" 
+            title="Bermuda Comfort Com Faixa Verde" 
+            alt="Bermuda Comfort Com Faixa Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bermuda Comfort Com Faixa Verde
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 191,94</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 63,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/bermuda-comfort-com-faixa-verde-224135/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/LQDA/BLUSAS?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-03/EmailMkt_Lqda03-blusas.jpg"
+          title="Blusas"
+          alt="Blusas" />
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/casacos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-03/EmailMkt_Lqda03-casacos.jpg"
+          title="Casacos"
+          alt="Casacos" />
+      </mj-column>    
+
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="20px 0px 10px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-03/EmailMkt_Lqda03-rodape.jpg"
+          title="LQDA com até 50% OFF"
+          alt="LQDA com até 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

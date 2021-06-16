@@ -1,0 +1,207 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=207"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_06-01_LQDA/Artboard%201-topo.jpg"
+          alt="LQDA até 50% off"
+          title="LQDA até 50% off" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+      <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#AB1622" font-size="23px" padding="30px 0px 10px 0px" align="center" font-weight="700" line-height="20px" letter-spacing="0.2px">
+          A LQDA começou!
+        </mj-text>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="14px" padding="0px 0px 40px 0px" align="center" font-weight="400" line-height="18px">
+          Aproveite para garantir<br> 
+          seu look novo!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-midi-decote-quadrado-bordado-dourado-236374"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176707/VESTIDO-MIDI-DECOTE-QUADRADO-BORDADO---LI-CAQUI---P.jpg?v=637327731212170000"
+            title="VESTIDO IÓDICE MIDI DECOTE QUADRADO BORDADO DOURADO"
+            alt="VESTIDO IÓDICE MIDI DECOTE QUADRADO BORDADO DOURADO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Iódice Midi Decote<br> Quadrado Bordado<br> Dourado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 1.599,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 114,27
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 799,95
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-midi-decote-quadrado-bordado-dourado-236374" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blusa-iodice-ombro-a-ombro-manga-curta-com-franzido-off-white-236168"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175797/BLUSA-OMBRO-A-OMBRO-MANGA-CURTA-COM-FRANZIDO---LI-OFF-WHITE---P.jpg?v=637327712489930000"
+            title="BLUSA IÓDICE OMBRO A OMBRO MANGA CURTA COM FRANZIDO OFF WHITE"
+            alt="BLUSA IÓDICE OMBRO A OMBRO MANGA CURTA COM FRANZIDO OFF WHITE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Iódice Ombro A<br> Ombro Manga Curta com<br> Franzido Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 3.219,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            12x de R$ 134,16
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 1.609,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/blusa-iodice-ombro-a-ombro-manga-curta-com-franzido-off-white-236168" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-cenoura-cos-clochard-com-faixa-verde-230284"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/172513/CALCA-CENOURA-COS-CLOCHARD-COM-FAIXA---LI-VERDE---36.jpg?v=637237628667770000"
+            title="CALÇA IÓDICE CENOURA CÓS CLOCHARD COM FAIXA VERDE"
+            alt="CALÇA IÓDICE CENOURA CÓS CLOCHARD COM FAIXA VERDE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Cenoura<br> Cós Clochard Com<br> Faixa Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 1.119,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 93,32
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 559,95
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-cenoura-cos-clochard-com-faixa-verde-230284" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-iodice-midi-assimetrica-plissada-preto-234163"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174644/SAIA-MIDI-ASSIMETRICA-PLISSADA---LI-PRETO---38.jpg?v=637327682722830000"
+            title="SAIA IÓDICE MIDI ASSIMÉTRICA PLISSADA PRETO"
+            alt="SAIA IÓDICE MIDI ASSIMÉTRICA PLISSADA PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Iódice Midi<br> Assimétrica Plissada<br> Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 1.059,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 88,32
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 529,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/saia-iodice-midi-assimetrica-plissada-preto-234163" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Vestidos&pwaf_productClusterIds=211"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_06-01_LQDA/Artboard%201-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Blusas&pwaf_productClusterIds=195"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_06-01_LQDA/Artboard%201-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=260"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_06-01_LQDA/Artboard%201-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

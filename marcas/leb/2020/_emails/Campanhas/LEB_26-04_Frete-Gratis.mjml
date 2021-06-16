@@ -1,0 +1,208 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 10px">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br"
+            width="600px"
+            padding="0"
+            alt="Semana do Frete Grátis"
+            title="Semana do Frete Grátis"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_26-04_Frete-Gratis/Email-MKT-01-leboh-topo.jpg" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 5px">
+        <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-redondo-manga-longa-com-silk-branco-225422/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_26-04_Frete-Gratis/Blusa%20Decote%20Redondo%20Manga%20Longa%20Com%20Silk%20Branco.jpg"
+            title="Blusa Decote Redondo Manga Longa Com Silk Branco"
+            alt="Blusa Decote Redondo Manga Longa Com Silk Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 57,47</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/blusa-decote-redondo-manga-longa-com-silk-branco-225422/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-gola-alta-manga-longa-bicolor-marrom-225531/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_26-04_Frete-Gratis/Blusa%20Gola%20Alta%20Manga%20Longa%20Bicolor%20Marrom.jpg"
+            title="Blusa Gola Alta Manga Longa Bicolor Marrom"
+            alt="Blusa Gola Alta Manga Longa Bicolor Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Gola Alta Manga L.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 53,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/blusa-gola-alta-manga-longa-bicolor-marrom-225531/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-redondo-manga-curta-bicolor-verde-225419/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_26-04_Frete-Gratis/Blusa%20Decote%20Redondo%20Manga%20Curta%20Bicolor%20Verde.jpg"
+            title="Blusa Decote Redondo Manga Curta Bicolor Verde"
+            alt="Blusa Decote Redondo Manga Curta Bicolor Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 209,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 52,47</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.leboh.com.br/blusa-decote-redondo-manga-curta-bicolor-verde-225419/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="10px 10px 30px 10px">
+      <mj-group>
+        <mj-column width="58%">
+           <mj-image
+            href="https://www.leboh.com.br/blusas?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_26-04_Frete-Gratis/Email-MKT-01-leboh-blusas.jpg" />
+           <mj-image
+            href="https://www.leboh.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_26-04_Frete-Gratis/Email-MKT-01-leboh-vestidos.jpg" />
+        </mj-column>
+        <mj-column width="42%">
+          <mj-image
+            href="https://www.leboh.com.br/jeans?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Jeans"
+            title="Jeans"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Campanha-Frete-Gratis%20%28Abril-20%29/LEB_26-04_Frete-Gratis/Email-MKT-01-leboh-jeans.jpg" />
+        </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

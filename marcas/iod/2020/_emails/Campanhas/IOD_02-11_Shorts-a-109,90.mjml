@@ -1,0 +1,157 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Shorts%20a%20partir%20de%20109,90&pwaf_productClusterIds=233"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_02-11_Shorts-a-109%2C90/Artboard%201%20copy-topo.jpg"
+          alt="Shorts a R$109,90"
+          title="Shorts a R$109,90" />
+      </mj-column>
+    </mj-section> 
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Semana-da-Cliente/IOD_08-09_Semana-da-Cliente/Prancheta%201-01.jpg"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="uppercase" color="#000" font-size="15px" padding="5px 0px 20px 50px" align="left" font-weight="300" line-height="20px">
+          Jeans, estampado ou de alfaiataria, há<br> 
+          sempre um short perfeito para você!<br>
+          Escolha seu favorito para o verão!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-linha-a-barra-italiana-bege-230532"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174430/04-12-2019--ECOM-IODICE-200210558.jpg?v=637254958262870000"
+            title="SHORTS LINHA A BARRA ITALIANA BEGE"
+            alt="SHORTS LINHA A BARRA ITALIANA BEGE" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#2d2d2d" font-weight="400" font-size="14px" padding="145px 0 10px 0">
+            SHORTS LINHA A BARRA<br> ITALIANA BEGE
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-linha-a-barra-italiana-bege-230532" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#2d2d2d" font-weight="400" font-size="14px" padding="170px 0 10px 0">
+            SHORTS BOXER<br> COM AMARRACAO
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            4x de R$ 57,47
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 229,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-boxer-com-amarracao-off-white-marinho-234178" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="right" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-boxer-com-amarracao-off-white-marinho-234178"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174731/SHORTS-BOXER-COM-AMARRACAO---LT-AZUL-MARINHO-OFF-WHITE---36.jpg?v=637327684208030000"
+            title="SHORTS BOXER COM AMARRACAO OFF-WHITE/MARINHO"
+            alt="SHORTS BOXER COM AMARRACAO OFF-WHITE/MARINHO" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-saia-basico-verde-219843"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/165576/SHORTS-SAIA-BASICO---LI-VERDE-LIMA---36.jpg?v=637098617365300000"
+            title="SHORTS SAIA BASICO VERDE"
+            alt="SHORTS SAIA BASICO VERDE" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#2d2d2d" font-weight="400" font-size="14px" padding="145px 0 10px 0">
+            SHORTS SAIA BASICO<br> VERDE
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 449,90</text>
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            2x de R$ 62,98
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 125,97
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-saia-basico-verde-219843" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Jeans&pwaf_productClusterIds=183"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_02-11_Shorts-a-109%2C90/Artboard%201%20copy-rodape.jpg"
+          alt="Lançamento"
+          title="Lançamento" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

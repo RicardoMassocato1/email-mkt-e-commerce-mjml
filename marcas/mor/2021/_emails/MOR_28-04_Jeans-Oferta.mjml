@@ -1,0 +1,99 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#5f3401">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=367&_t=Oferta%20Especial"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Casacos-Oferta/casacos-topo-min.jpg"
+          alt="Casacos 50% OFF"
+          title="Casacos 50% OFF" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#5f3401">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="12px" padding="20px 20px 20px 20px" text-transform="none" align="center" font-weight="400" line-height="18px" letter-spacing="2.5px">
+          Esfriou né? Por isso preparamos essa seleção de casacos para esquentar você com muito estilo. Aproveita e usem o cupom <strong>INVERNO</strong> e garanta 50% OFF. Mas corre, que é por tempo limitado!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px" background-color="#000">
+    </mj-section>
+
+   <mj-section padding="20px 0px 0px 0px" background-color="#502b01">
+      <mj-group>
+        <mj-column padding="0px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/jaqueta-morena-rosa-classica-detalhe-tachas-jeans-235804"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Casacos-Oferta/casacos-01-min.jpg"
+            title="Jaqueta Morena Rosa Classica Detalhe Tachas Jeans"
+            alt="Jaqueta Morena Rosa Classica Detalhe Tachas Jeans" />
+        </mj-column>
+
+        <mj-column padding="50px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/jaqueta-morena-rosa-bomber-com-termocolante-jeans-226117"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Casacos-Oferta/casacos-02-min.jpg"
+            title="Jaqueta Morena Rosa Bomber Com Termocolante Jeans"
+            alt="Jaqueta Morena Rosa Bomber Com Termocolante Jeans" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="40px 0px 30px 0px" background-color="#502b01">
+      <mj-group>
+        <mj-column padding="0px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blazer-morena-rosa-alongado-rosa-marinho-214544"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Casacos-Oferta/casacos-03-min.jpg"
+            title="Blazer Morena Rosa Alongado Rosa/Marinho"
+            alt="Blazer Morena Rosa Alongado Rosa/Marinho" />
+        </mj-column>
+
+        <mj-column padding="50px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blazer-morena-rosa-alfaiataria-rosa-239847"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Casacos-Oferta/casacos-04-min.jpg"
+            title="Blazer Morena Rosa Alfaiataria Rosa"
+            alt="Blazer Morena Rosa Alfaiataria Rosa" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-column>
+        <mj-image
+          padding="40px 50px 50px 50px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=367&_t=Oferta%20Especial"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_28-04_Casacos-Oferta/casacos-r.jpg"
+          alt="Use cupom: INVERNO"
+          title="Use cupom: INVERNO" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

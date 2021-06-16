@@ -1,0 +1,102 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_27_10_Isabeli/Prancheta%201-topo.jpg"
+          alt="MR + ISABELI FONTANA + Juntas em campanha do #OutubroRosa"
+          title="MR + ISABELI FONTANA" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#d15975" font-size="13px" padding="60px 0px 30px 0px" align="center" font-weight="400" line-height="18px" letter-spacing="1px">
+          A Morena Rosa se uniu à top Isabeli Fontana<br> 
+          em campanha especial do #OutubroRosa.<br><br>
+          O conjunto usado na foto foi doado à <strong>Associação<br> Amigas da Mama</strong> e será <strong>leiloado para<br> arrecadação de verba.</strong>
+        </mj-text>
+        <mj-button href="http://www.amigasdamama.org.br" text-decoration="none" text-transform="uppercase" inner-padding="6px 8px" align="center" font-weight="400" font-size="12px" padding="0px 0px 60px 0px" background-color="#ED87A2" color="#fff" border-radius="0px" border= "1.2px solid #ED87A2" target="_blank"><span style="letter-spacing:2px">COMPRE AQUI</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 20px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_27_10_Isabeli/Prancheta%201-foto02.jpg"
+            title="Isabeli"
+            alt="Isabeli" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="50%">
+          <mj-text font-family="Roboto, serif" color="#D15975" font-size="12.5px" padding="60px 0px 5px 0px" align="left" font-weight="400" line-height="18px" letter-spacing="1px">
+            A Associação foi fundada por mulheres que vivenciaram o câncer de mama. 
+            Hoje, por meio de voluntariado, elas oferecem àquelas que lutam contra 
+            a doença serviços como assistência social e bancos de lenços, 
+            perucas e sutiãs.
+          </mj-text>
+          
+          <mj-button href="http://www.amigasdamama.org.br" text-decoration="none" inner-padding="5px 5px" align="left" font-weight="400" font-size="11.7px" padding="15px 0px" background-color="#ed87a2" color="#fff" border-radius="0px" border= "1.2px solid #ed87a2" target="_blank"><span style="letter-spacing:0.3px">www.amigasdamama.org.br</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="20px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="230px"
+            href="https://www.morenarosa.com.br/saia-longa-evase-com-babado-off-white-239831"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/363270/10000109581004583-0-.jpg?v=637394887700000000"
+            title="Saia Longa Evase Com Babado Off White"
+            alt="Saia Longa Evase Com Babado Off White" />
+        </mj-column>
+
+        <mj-column padding="20px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="230px"
+            href="https://www.morenarosa.com.br/top-cropped-manga-curta-detalhe-alca-off-white-241687"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/363274/10000109700004583-0-.jpg?v=637394889176500000"
+            title="Top Cropped Manga Curta Detalhe Alca Off White"
+            alt="Top Cropped Manga Curta Detalhe Alca Off White" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+  
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="40px 0px 20px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_27_10_Isabeli/Prancheta%201-rodape.jpg"
+          alt="Outubro Rosa - Morena Rosa"
+          title="Outubro Rosa - Morena Rosa" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

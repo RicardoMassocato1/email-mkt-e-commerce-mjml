@@ -1,0 +1,150 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/semana-da-consumidora?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_08-03_Semana-da-Consumidora/ZC_EmailMkt_01.jpg"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#000000" font-size="14px" padding="30px 20px 30px 20px" align="center" font-weight="400" line-height="20px" letter-spacing="1.5px">
+          PARA TUDO! Hoje comemoramos o seu dia, e por aqui o sentimento é GRATIDÃO por ter você sempre com a gente! O que mais amamos é ver vc toda de Zinco ( inclusive já usou a #ZincoLovers ?) E para mantermos essa tradição,  o que acha de aproveitar nossos descontos especiais? 🥰
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-mom-cos-alto-detalhe-tela-jeans-231981/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213679/CALCA-MOM-COS-ALTO-DETALHE-TELA---LI-JEANS-CLARO---34.jpg?v=637327773479730000"
+            title="Calça Zinco Mom Cós Alto Detalhe Tela Jeans"
+            alt="Calça Zinco Mom Cós Alto Detalhe Tela Jeans" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Zinco Mom Cós Alto<br> Detalhe Tela Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0px">
+            6x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 319,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/calca-zinco-mom-cos-alto-detalhe-tela-jeans-231981/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macaquinho-zinco-decote-v-com-cordao-branco-232106/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214225/MACAQUINHO-DECOTE-V-COM-CORDAO---CO-BRANCO-AZUL---PP.jpg?v=637327781462970000"
+            title="Macaquinho Zinco Decote V Com Cordão Branco"
+            alt="Macaquinho Zinco Decote V Com Cordão Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macaquinho Zinco Decote<br> V Com Cordão Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0px">
+              6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 349,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/macaquinho-zinco-decote-v-com-cordao-branco-232106/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/jaqueta-zinco-over-com-silk-jeans-236354/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_15-03_Semana-da-Consumidora/Sem%20T%C3%ADtulo-1.jpg"
+            title="Jaqueta Zinco Over Com Silk Jeans"
+            alt="Jaqueta Zinco Over Com Silk Jeans" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Zinco Over<br> Com Silk Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0px">
+              9x de R$ 51,10
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 459,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/jaqueta-zinco-over-com-silk-jeans-236354/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-compose-tecidos-azul-227610/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/209694/T-SHIRT-DECOTE-REDONDO-COMPOSE-TECIDOS---ES-AZUL-BRANCO---PP.jpg?v=637250845940900000"
+            title="T-Shirt Zinco Decote Redondo Composê Tecidos Azul"
+            alt="T-Shirt Zinco Decote Redondo Composê Tecidos Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Zinco Decote Redondo Composê ...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0px">
+              5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-compose-tecidos-azul-227610/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

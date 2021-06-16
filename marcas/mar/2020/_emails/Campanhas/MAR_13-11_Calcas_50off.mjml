@@ -1,0 +1,180 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            width="600px"
+            padding="0"
+            href="https://www.mariavalentina.com.br/calcas?map=c&O=OrderByPriceASC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Novembro/MAR_13-11_Calcas/MV_EmailMkt_Fashion%20November_03-topo.jpg"
+            alt="Calças 50% off"
+            title="Calças 50% off" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="0">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="14px" padding="30px 0px 20px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="0.5px">
+            Mood Alfaiataria! Calças para o trabalho<br>
+            com até 50% OFF!
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-boot-cut-cos-alfaiataria-com-botao-vermelho-219130/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/213661/CALCA-BOOT-CUT-COS-ALFAIATARIA-COM-BOTAO---LI-VERMELHO---36.jpg?v=637099010179430000"
+            title="Calça Maria.Valentina Boot Cut Cós Alfaiataria Com Botão Vermelho"
+            alt="Calça Maria.Valentina Boot Cut Cós Alfaiataria Com Botão Vermelho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Maria.Valentina Boot<br> Cut Cós Alfaiataria
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 57,48
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 229,95
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-boot-cut-cos-alfaiataria-com-botao-vermelho-219130/p" text-decoration="underline" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-alfaiataria-cos-amarracao-com-metal-off-white-226256/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/228049/CALCA-ALFAIATARIA-COS-AMARRACAO-COM-METAL---LI-OFF-WHITE---36.jpg?v=637237948725130000"
+            title="Calça Maria.Valentina Alfaiataria Cós Amarração Com Metal Off White"
+            alt="Calça Maria.Valentina Alfaiataria Cós Amarração Com Metal Off White" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="26px 0 10px 0">
+            Calça Maria.Valentina<br> Alfaiataria Cós Amarração
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 619,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 51,65
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 309,95
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-alfaiataria-cos-amarracao-com-metal-off-white-226256/p" text-decoration="underline" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-boyfriend-cos-alfaiataria-bolso-lateral-dourado-225938/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/227634/CALCA-BOYFRIEND-COS-ALFAIATARIA-BOLSO-LATERAL---LI-CAQUI---34.jpg?v=637237942837630000"
+            title="Calça Maria.Valentina Boyfriend Cós Alfaiataria Bolsó Lateral Dourado"
+            alt="Calça Maria.Valentina Boyfriend Cós Alfaiataria Bolsó Lateral Dourado" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Maria.Valentina<br> Boyfriend Cós Alfaiataria
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 619,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 51,65
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 309,95
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-boyfriend-cos-alfaiataria-bolso-lateral-dourado-225938/p" text-decoration="underline" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-comfort-cos-alfaiataria-com-pregas-verde-221078/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/225361/CALCA-COMFORT-COS-ALFAIATARIA-COM-PREGAS---ES-VERDE---36.jpg?v=637172353342970000"
+            title="Calça Maria.Valentina Comfort Cós Alfaiataria Com Pregas Verde"
+            alt="Calça Maria.Valentina Comfort Cós Alfaiataria Com Pregas Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Calça Maria.Valentina<br> Comfort Cós Alfaiataria
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 389,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 64,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 194,95
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-comfort-cos-alfaiataria-com-pregas-verde-221078/p" text-decoration="underline" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/lancamento?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Alma Botânica"
+            title="Alma Botânica"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Novembro/MAR_13-11_Calcas/MV_EmailMkt_Fashion%20November_03-rodape.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

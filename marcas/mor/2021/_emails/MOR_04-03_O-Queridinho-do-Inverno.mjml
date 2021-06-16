@@ -1,0 +1,187 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Lan%C3%A7amento&pwaf_productClusterIds=347"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Mar%C3%A7o/MOR_04-03_O-Queridinho-do-Inverno/Email%20MKT_3-topo.jpg"
+          alt="Lançamento Outono/Inverno 2021"
+          title="Lançamento Outono/Inverno 2021" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#802425">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="11px" padding="50px 0px 50px 0px" text-transform="uppercase" align="center" font-weight="300" line-height="26px" letter-spacing="2.2px">
+          O couro fake já se tornou nosso<br> queridinho do inverno há muito tempo.<br> Repaginado, ele ganha recortes em peças<br> super femininas com shapes ousados.
+          <br><strong>Aposta forte da estação!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-redondo-cavada-tricot-vermelho-249272"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/369892/BLUSA-DECOTE-REDONDO-CAVADA-TRICOT---CO-CAPUCCINO-VERMELHO-PRETO---P.jpg?v=637492774941600000"
+            title="Blusa Morena Rosa Decote Redondo Cavada Tricot Vermelho"
+            alt="Blusa Morena Rosa Decote Redondo Cavada Tricot Vermelho" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Morena Rosa Decote<br> Redondo Cavada Tricot<br> Vermelho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-redondo-cavada-tricot-vermelho-249272" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-midi-lapis-compose-tecido-preto-247993"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/369809/SAIA-MIDI-LAPIS-COMPOSE-TECIDO---CO-PRETO-VERMELHO-AREIA---36.jpg?v=637492773474700000"
+            title="Saia Morena Rosa Midi Lápis Composê Tecido Preto"
+            alt="Saia Morena Rosa Midi Lápis Composê Tecido Preto" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Midi<br> Lápis Composê Tecido<br> Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 76,65
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-midi-lapis-compose-tecido-preto-247993" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 10px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-curta-evase-basica-preto-247694"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/370309/SAIA-CURTA-EVASE-BASICA---LI-PRETO---36.jpg?v=637496410133170000"
+            title="Saia Morena Rosa Curta Evasê Básica Preto"
+            alt="Saia Morena Rosa Curta Evasê Básica Preto" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Curta Evasê Básica Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-curta-evase-basica-preto-247694" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-skinny-cos-intermediario-compose-de-tecidos-preto-247990"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/369793/CALCA-SKINNY-COS-INTERMEDIARIO-COMPOSE-DE-TECIDOS---CO-PRETO-VERMELHO-AREIA---36.jpg?v=637492773216030000"
+            title="Calça Morena Rosa Skinny Cós Intermediário Composê De Tecidos Preto"
+            alt="Calça Morena Rosa Skinny Cós Intermediário Composê De Tecidos Preto" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa Skinny<br> Cós Intermediário Co...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 99,98
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 599,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-skinny-cos-intermediario-compose-de-tecidos-preto-247990" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Mar%C3%A7o/MOR_04-03_O-Queridinho-do-Inverno/Email%20MKT_3-blusas.jpg"
+            alt="Blusas"
+            title="Blusas" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/vestuario/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Mar%C3%A7o/MOR_04-03_O-Queridinho-do-Inverno/Email%20MKT_3-calcas.jpg"
+            alt="Calças"
+            title="Calças" />
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Mar%C3%A7o/MOR_04-03_O-Queridinho-do-Inverno/Email%20MKT_3-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="25px 0px 0px 0px" background-color="#802425">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

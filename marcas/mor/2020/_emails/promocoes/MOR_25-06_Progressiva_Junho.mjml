@@ -1,0 +1,248 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="0px 0px 20px 0px" background-color="#f5e9dd">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos&pwaf_productClusterIds=171"
+            title="Progressiva com até 70% OFF"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_25-06_Progressiva_Junho/E-mail%20Mkt%20-%20Progressivos-03-topo.jpg" />
+        </mj-column>
+        <mj-column padding="20px 20px 10px 20px" width="100%">
+          <mj-text font-family="Poppins, serif" color="#e64f44" font-size="13px" align="center" font-weight="400" line-height="25px" letter-spacing="1.5px">
+            <strong>#TBT</strong> o melhor da semana!<br> Confira as peças mais acessadas<br> da semana e garanta seu look<br> com até <strong>70% OFF!</strong>
+          </mj-text>
+          <mj-text align="center" padding="0px 0px 40px 00px">
+            <a
+              style="background-color:#e64f44; text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByTopSaleDESC&_t=Progressivos&pwaf_productClusterIds=171"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-v-alca-com-termocolante-preto-220781"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_25-06_Progressiva_Junho/Blusa%20Decote%20V%20Alca%20Com%20Termocolante%20Preto.jpg"
+            title="Blusa Decote V Alca Com Termocolante Preto"
+            alt="Blusa Decote V Alca Com Termocolante Preto" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #e64f44; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Blusa Decote V Alca<br> Com Termocolante
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 244,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 61,23</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Poppins, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #e64f44;"
+              href="https://www.morenarosa.com.br/blusa-decote-v-alca-com-termocolante-preto-220781"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #e64f44; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Calca Pantacourt<br> Cos Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 489,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 342,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 57,15</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Poppins, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #e64f44;"
+              href="https://www.morenarosa.com.br/calca-pantacourt-cos-intermediario-com-faixa-bege-197134"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantacourt-cos-intermediario-com-faixa-bege-197134"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_25-06_Progressiva_Junho/Calca%20Pantacourt%20Cos%20Intermediario%20Com%20Faixa%20Bege.jpg"
+            title="Calca Pantacourt Cos Intermediario Com Faixa Bege"
+            alt="Calca Pantacourt Cos Intermediario Com Faixa Bege" />
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-pantalona-detalhe-renda-off-white-219366"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_25-06_Progressiva_Junho/Macacao%20Pantalona%20Detalhe%20Renda%20Off%20White.jpg"
+            title="Macacao Pantalona Detalhe Renda Off White"
+            alt="Macacao Pantalona Detalhe Renda Off White" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #e64f44; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Macacao Pantalona<br> Detalhe Renda
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 759,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 531,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 88,65</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Poppins, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #e64f44;"
+              href="https://www.morenarosa.com.br/macacao-pantalona-detalhe-renda-off-white-219366"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0 0 30px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px" width="33.33339%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?_t=Lqda%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+            alt="Blusas"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_25-06_Progressiva_Junho/mr-E-mail%20Mkt%20-%20Progressivos-05-blusas-01.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="33.33339%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%252520Jeans&pwaf_productClusterIds=198"
+            alt="Jeans"
+            title="Jeans"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_25-06_Progressiva_Junho/mr-E-mail%20Mkt%20-%20Progressivos-05-jeans.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="33.33339%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%252520Cal%25C3%25A7ados&pwaf_productClusterIds=172"
+            alt="Shoes"
+            title="Shoes"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_25-06_Progressiva_Junho/mr-E-mail%20Mkt%20-%20Progressivos-05-shoes-01.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

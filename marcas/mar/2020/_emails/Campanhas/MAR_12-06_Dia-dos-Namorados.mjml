@@ -1,0 +1,187 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 30px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/dia-dos-namorados"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_12-06_Dia-dos-Namorados/EmailMkt_01.png"
+            title="Dia dos Namorados"
+            alt="Dia dos Namorados" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/parka-compose-de-tecidos-off-white-marinho-226585/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_12-06_Dia-dos-Namorados/arka%20Compose%20De%20Tecidos%20Off-White-Marinho.jpg" 
+            title="Parka Compose De Tecidos Off-White/Marinho" 
+            alt="Parka Compose De Tecidos Off-White/Marinho" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Parka Compose De Tecidos Off-White/Marinho
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 54,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/parka-compose-de-tecidos-off-white-marinho-226585/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-pantacourt-cos-intermediario-detalhe-ilhos-off-white-marinho-226587/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_12-06_Dia-dos-Namorados/Calca%20Pantacourt%20Cos%20Intermediario%20Detalhe%20Ilhos%20Off-White-Marinho.jpg" 
+            title="Calca Pantacourt Cos Intermediario Detalhe Ilhos Off-White/Marinho" 
+            alt="Calca Pantacourt Cos Intermediario Detalhe Ilhos Off-White/Marinho" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantacourt Cos Intermediario Ilhos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 52,84</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/calca-pantacourt-cos-intermediario-detalhe-ilhos-off-white-marinho-226587/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/vestido-midi-decote-transpassado-com-drapeado-off-white-226296/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_12-06_Dia-dos-Namorados/Vestido%20Midi%20Decote%20Transpassado%20Com%20Drapeado%20Off%20White.jpg" 
+            title="Vestido Midi Decote Transpassado Com Drapeado Off White" 
+            alt="Vestido Midi Decote Transpassado Com Drapeado Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 59,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/vestido-midi-decote-transpassado-com-drapeado-off-white-226296/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/vestido-longo-decote-v-com-cordao-preto-225914/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_12-06_Dia-dos-Namorados/Bolsa%20Hobo%20Bicolor%20Marrom%20-%20TU.jpg" 
+            title="Bolsa Hobo Bicolor Marrom - TU" 
+            alt="Bolsa Hobo Bicolor Marrom - TU" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bolsa Hobo Bicolor
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 284,95</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 56,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/vestido-longo-decote-v-com-cordao-preto-225914/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="20px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dia-dos-Namorados/MAR_12-06_Dia-dos-Namorados/EmailMkt_02.png"
+            title="Lançamento"
+            alt="Lançamento" />
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

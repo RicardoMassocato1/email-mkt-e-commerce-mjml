@@ -1,0 +1,206 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Semana da Cliente"
+            title="Semana da Cliente"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_08-09_Semana-da-Consumidora/Artboard%2011-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="30px 0px 25px 25px">
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="21px"  align= "left" font-weight="800"padding="0px 0px 0px 25px" line-height="0px" letter-spacing="0.4px">
+            _
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="17px"  align= "left" font-weight="400" padding="10px 0px 10px 25px" line-height="21px" letter-spacing="0.4px">
+            aproveite para garantir seu<br>
+            lookinho preferido com<br>
+            até <span style="font-weight: 500;">70%off</span>
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 22px" align="left" font-weight="400" font-size="12px" padding="10px 25px 0px 25px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-gola-alta-manga-japonesa-acinturada-bege-225416/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/185737/BLUSA-GOLA-ALTA-MANGA-JAPONESA-ACINTURADA---ES-AREIA---PP.jpg?v=637172326428170000"
+            title="Blusa Gola Alta Manga Japonesa Acinturada Bege"
+            alt="Blusa Gola Alta Manga Japonesa Acinturada Bege" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Gola Alta Manga<br> Japonesa Acinturada
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 159,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 55,96
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 111,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/blusa-gola-alta-manga-japonesa-acinturada-bege-225416/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-decote-v-torcao-frente-vermelho-225431/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/185845/VESTIDO-MIDI-DECOTE-V-TORCAO-FRENTE---LI-VINHO---PP.jpg?v=637172328058430000"
+            title="Vestido Midi Decote V Torcao Frente Vermelho"
+            alt="Vestido Midi Decote V Torcao Frente Vermelho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi Decote V<br> Torcao Frente 
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 223,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-midi-decote-v-torcao-frente-vermelho-225431/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-wide-cos-intermediario-bolso-faca-vinho-224267/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186228/CALCA-WIDE-COS-INTERMEDIARIO-BOLSO-FACA---LI-UVA---34.jpg?v=637172338290300000"
+            title="Calca Wide Cos Intermediario Bolso Faca Vinho"
+            alt="Calca Wide Cos Intermediario Bolso Faca Vinho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Wide Cos<br> Intermediario
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 65,31
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 195,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-wide-cos-intermediario-bolso-faca-vinho-224267/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-cargo-bolso-removivel-marrom-224026/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186340/22000102026000081-0-.jpg?v=637175451600470000"
+            title="Shorts Cargo Bolso Removivel Marrom"
+            alt="Shorts Cargo Bolso Removivel Marrom" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Cargo Bolso<br> Removivel
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 339,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 59,48
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 237,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/shorts-cargo-bolso-removivel-marrom-224026/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/vestidos?map=c"
+            width="600px"
+            padding="0"
+            alt="vestidos"
+            title="vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_08-09_Semana-da-Consumidora/Artboard%2011-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="calças"
+            title="calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_08-09_Semana-da-Consumidora/Artboard%2011-calcas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/blusas?map=c"
+            width="600px"
+            padding="0"
+            alt="blusas"
+            title="blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_08-09_Semana-da-Consumidora/Artboard%2011-blusas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

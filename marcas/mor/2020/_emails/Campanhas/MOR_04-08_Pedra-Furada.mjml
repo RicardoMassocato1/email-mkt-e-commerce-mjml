@@ -1,0 +1,190 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="10px 0px 15px 40px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Lan%C3%A7amentos&pwaf_productClusterIds=282"
+        title="Lançamento"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Pedra-Furada_e_Terra-Viva/E-mail%20mkt-07-01-topo.jpg" />
+    </mj-column>
+
+    <mj-section padding="20px 0px">
+      <mj-group>
+
+        <mj-column padding="20px 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-curta-detalhe-retilinea-azul-227506"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Pedra-Furada_e_Terra-Viva/Blusa%20Ombro%20A%20Ombro%20Manga%20Curta%20Detalhe%20Retilinea%20Azul.jpg"
+            title="Blusa Ombro A Ombro Manga Curta Detalhe Retilinea Azul"
+            alt="Blusa Ombro A Ombro Manga Curta Detalhe Retilinea Azul" />
+        </mj-column>
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #9b5030; font-weight: 400; font-size: 15px; padding: 180px 0px 10px 0px; margin: 0px;">
+              Blusa Ombro A<br> Ombro Manga Curta
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Poppins, sans-serif; letter-spacing:1px; font-weight: 400; text-decoration: none; text-transform: uppercase; font-size: 13px; color: #ffffff; background-color: #9b5030; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #9b5030;"
+              href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-manga-curta-detalhe-retilinea-azul-227506"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #9b5030; font-weight: 400; font-size: 15px; padding: 180px 0px 10px 0px; margin: 0px;">
+              Vestido Midi Decote<br> Redondo Abertura
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 76,65</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Poppins, sans-serif; letter-spacing:1px; font-weight: 400; text-decoration: none; text-transform: uppercase; font-size: 13px; color: #ffffff; background-color: #9b5030; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #9b5030;"
+              href="https://www.morenarosa.com.br/vestido-midi-decote-redondo-abertura-decote-azul-227519"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-redondo-abertura-decote-azul-227519"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Pedra-Furada_e_Terra-Viva/Vestido%20Midi%20Decote%20Redondo%20Abertura%20Decote%20Azul.jpg"
+            title="Vestido Midi Decote Redondo Abertura Decote Azul"
+            alt="Vestido Midi Decote Redondo Abertura Decote Azul" />
+        </mj-column>
+
+
+        <mj-column padding="20px 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-midi-gode-basica-azul-227581"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Pedra-Furada_e_Terra-Viva/Saia%20Midi%20Gode%20Basica%20Azul.jpg"
+            title="Saia Midi Gode Basica Azul"
+            alt="Saia Midi Gode Basica Azul" />
+        </mj-column>
+
+        <mj-column padding="35px 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #9b5030; font-weight: 400; font-size: 15px; padding: 180px 0px 10px 0px; margin: 0px;">
+              Saia Midi Gode<br> Basica Azul
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9b5030"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 76,65</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Poppins, sans-serif; letter-spacing:1px; font-weight: 400; text-decoration: none; text-transform: uppercase; font-size: 13px; color: #ffffff; background-color: #9b5030; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #9b5030;"
+              href="https://www.morenarosa.com.br/saia-midi-gode-basica-azul-227581"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="40px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Pedra-Furada_e_Terra-Viva/E-mail-categorias-blusas.jpg" />
+          <mj-image
+            padding="25px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/jeans?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Jeans"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Pedra-Furada_e_Terra-Viva/E-mail-categorias-jeans.jpg" />
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

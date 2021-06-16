@@ -1,0 +1,25 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <mj-column width="80%">
+      <mj-text color="#999999" font-size="12px" padding="5px 0 0 0" line-height="20px">
+        Aproveite a Semana da Consumidora com até 70% OFF!
+      </mj-text>
+    </mj-column>
+
+    <mj-column width="20%">
+      <mj-navbar align="right">
+        <mj-navbar-link
+          href="#"
+          padding="3.5px 0 0 0"
+          font-size="9px"
+          color="#999999"
+          text-transform="none"
+          text-decoration="underline">
+          Ver na web
+        </mj-navbar-link>
+      </mj-navbar>
+    </mj-column>
+
+  </mj-body>
+</mjml>

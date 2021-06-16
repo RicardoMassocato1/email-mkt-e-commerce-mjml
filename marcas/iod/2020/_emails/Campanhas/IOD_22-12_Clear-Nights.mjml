@@ -1,0 +1,179 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 30px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_22-12_Clear-Nights/Artboard%201%20copy%209-topo.jpg"
+          alt="Lançamento Clear Nights"
+          title="Lançamento Clear Nights" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 20px 30px 20px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_22-12_Clear-Nights/Artboard%201%20copy%209img01.jpg"
+          alt="Lançamento Clear Nights"
+          title="Lançamento Clear Nights" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="'Poppins', sans-serif" color="#000" font-size="13px" padding="0px 0px 20px 0px" align="center" font-weight="500" line-height="19px">
+          Para viver bons momentos, texturas<br>
+          naturais, prints abstratos e superfícies<br> 
+          brilhantes aparecem em looks fáceis de<br>
+          vestir, revelando um novo olhar sobre a<br>
+          moda noturna.
+        </mj-text>
+         <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="0px 0px 20px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 20px 30px 20px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_22-12_Clear-Nights/Artboard%201%20copy%209-img02.jpg"
+          alt="Lançamento Clear Nights"
+          title="Lançamento Clear Nights" />
+        <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="0px 0px 30px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-cenoura-cos-alto-detalhe-barra-off-white-240083"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178609/CALCA-CENOURA-COS-ALTO-DETALHE-BARRA---LI-OFF-WHITE---38.jpg?v=637378566296470000"
+            title="CALÇA IÓDICE CENOURA CÓS ALTO DETALHE BARRA OFF WHITE"
+            alt="CALÇA IÓDICE CENOURA CÓS ALTO DETALHE BARRA OFF WHITE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Cenoura Cós<br> Alto Detalhe Barra<br> Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            8x de R$ 112,48
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 899,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-cenoura-cos-alto-detalhe-barra-off-white-240083" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-iodice-manga-longa-over-branco-238660"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/177971/CAMISA-MANGA-LONGA-OVER---LI-BRANCO---P.jpg?v=637378469829170000"
+            title="CAMISA IÓDICE MANGA LONGA OVER BRANCO"
+            alt="CAMISA IÓDICE MANGA LONGA OVER BRANCO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Iódice Manga<br> Longa Over Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="23.5px 0 10px 0">
+            6x de R$ 96,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 579,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/camisa-iodice-manga-longa-over-branco-238660" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/top-iodice-cropped-manga-removivel-com-tule-bege-241176"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178236/TOP-CROPPED-MANGA-REMOVIVEL-COM-TULE---LI-CREME---M.jpg?v=637378477301000000"
+            title="TOP IÓDICE CROPPED MANGA REMOVÍVEL COM TULE BEGE"
+            alt="TOP IÓDICE CROPPED MANGA REMOVÍVEL COM TULE BEGE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Iódice Cropped Manga<br> Removível Com Tule Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 99,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 599,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/top-iodice-cropped-manga-removivel-com-tule-bege-241176" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-iodice-midi-reta-com-recorte-cinza-237443"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/177323/SAIA-MIDI-RETA-COM-RECORTE---LI-CINZA-GELO---38.jpg?v=637378456462800000"
+            title="SAIA IÓDICE MIDI RETA COM RECORTE CINZA"
+            alt="SAIA IÓDICE MIDI RETA COM RECORTE CINZA" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Iódice Midi Reta Com<br> Recorte Cinza
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 64,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 389,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/saia-iodice-midi-reta-com-recorte-cinza-237443" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

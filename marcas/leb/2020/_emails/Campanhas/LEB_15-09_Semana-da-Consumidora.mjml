@@ -1,0 +1,267 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Semana da Cliente"
+            title="Semana da Cliente"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_08-09_Semana-da-Consumidora/Artboard%2011-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="30px 0px 25px 25px">
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="21px"  align= "left" font-weight="800"padding="0px 0px 0px 25px" line-height="0px" letter-spacing="0.4px">
+            _
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="17px"  align= "left" font-weight="400" padding="10px 0px 10px 25px" line-height="21px" letter-spacing="0.4px">
+            dia da cliente com descontos<br>
+            de até <span style="font-weight: 500;">70%off</span>
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 22px" align="left" font-weight="400" font-size="12px" padding="10px 25px 0px 25px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-alfaiataria-com-cinto-preto-224021/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/185976/SHORTS-ALFAIATARIA-COM-CINTO---LI-PRETO---34.jpg?v=637172330831970000"
+            title="Shorts Alfaiataria Com Cinto Preto"
+            alt="Shorts Alfaiataria Com Cinto Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Alfaiataria<br> Com Cinto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/shorts-alfaiataria-com-cinto-preto-224021/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-redondo-manga-raglan-longa-abertura-costas-marrom-225424/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186471/22000102013000871-0-.jpg?v=637191020269570000"
+            title="Blusa Decote Redondo Manga Raglan Longa Abertura Costas Marrom"
+            alt="Blusa Decote Redondo Manga Raglan Longa Abertura Costas Marrom" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Decote<br> Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 223,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/blusa-decote-redondo-manga-raglan-longa-abertura-costas-marrom-225424/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-gola-alta-torcao-frente-laranja-223729/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186412/22000101999000081-0-.jpg?v=637176237034770000"
+            title="Vestido Midi Gola Alta Torcao Frente Laranja"
+            alt="Vestido Midi Gola Alta Torcao Frente Laranja" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi<br> Gola Alta
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 223,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-midi-gola-alta-torcao-frente-laranja-223729/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-pantacourt-cos-alto-com-pregas-marrom-225406/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/185681/CALCA-PANTACOURT-COS-ALTO-COM-PREGAS---LI-MARROM---36.jpg?v=637172325647270000"
+            title="Calca Pantacourt Cos Alto Com Pregas Marrom"
+            alt="Calca Pantacourt Cos Alto Com Pregas Marrom" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Pantacourt<br> Cos Alto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-pantacourt-cos-alto-com-pregas-marrom-225406/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-montaria-cos-alto-detalhe-ziper-preto-223773/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186364/22000200744000010-0-.jpg?v=637175477599370000"
+            title="Calca Montaria Cos Alto Detalhe Ziper Preto"
+            alt="Calca Montaria Cos Alto Detalhe Ziper Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Montaria<br> Cos Alto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/calca-montaria-cos-alto-detalhe-ziper-preto-223773/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/body-ombro-so-manga-longa-basico-preto-223522/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186408/22000101992000010-0-.jpg?v=637176235625700000"
+            title="Body Ombro So Manga Longa Basico Preto"
+            alt="Body Ombro So Manga Longa Basico Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Ombro So<br> Manga Longa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 159,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 55,96
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 111,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/body-ombro-so-manga-longa-basico-preto-223522/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#d23c3c" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="vestidos"
+            title="vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_08-09_Semana-da-Consumidora/Artboard%2011-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="calças"
+            title="calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_08-09_Semana-da-Consumidora/Artboard%2011-calcas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="blusas"
+            title="blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_08-09_Semana-da-Consumidora/Artboard%2011-blusas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

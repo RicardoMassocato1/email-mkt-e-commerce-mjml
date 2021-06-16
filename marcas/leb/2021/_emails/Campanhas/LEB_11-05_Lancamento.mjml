@@ -1,0 +1,153 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#70776e">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lancamento?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_11-05_Lancamento/Artboard%203-topo-min.jpg"
+            alt="Lançamento Nova Coleção"
+            title="Lançamento Nova Coleção" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#70776e">
+      <mj-group> 
+        <mj-column padding="0px 0px 15px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="40px" align= "left" font-weight="700" padding="0px 0px 0px 50px" line-height="39px" letter-spacing="0.1px">
+            <span style="font-weight:300; font-size:16px;">nova <a style="margin-left:60px; color:#fff;">coleção</a><br></span>hi-lo<br>love club
+          </mj-text>
+          <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="15px" align= "justify" font-weight="300" padding="30px 0px 0px 50px" line-height="16px" letter-spacing="0.2px">
+            neste inverno nunca foi tão<br> 
+            incrível apostar em combinações<br> 
+            nada óbvias.
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lancamento?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 17px" align="left" font-weight="400" font-size="12px" padding="20px 0px 20px 50px" background-color="#fff" color="#70776e" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-section padding="30px 0px 10px 0px" background-color="#70776e">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-pantalona-cropped-cos-alto-bolso-lateral-verde-260256/p"
+            src="http://leboh.vteximg.com.br/arquivos/ids/191431/CALCA-PANTALONA-CROPPED-COS-ALTO-BOLSO-LATERAL---ES-VERDE-LIMA---36.jpg?v=637548187591200000"
+            title="Calça Lebôh Pantalona Cropped Cós Alto Bolso Lateral Verde"
+            alt="Calça Lebôh Pantalona Cropped Cós Alto Bolso Lateral Verde" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Pantalona<br> Cropped Cós Alto Bol...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              7x de R$ 57,12
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 399,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-leboh-pantalona-cropped-cos-alto-bolso-lateral-verde-260256/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="none" inner-padding="8px 18px" align="center" font-weight="300" font-size="13px" padding="15px 0px" background-color="#70776e" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Comprar</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/regata-leboh-decote-redondo-com-ombreira-verde-260248/p"
+            src="http://leboh.vteximg.com.br/arquivos/ids/191419/REGATA-DECOTE-REDONDO-COM-OMBREIRA---LI-VERDE-LIMA---P.jpg?v=637548187419300000"
+            title="Regata Lebôh Decote Redondo Com Ombreira Verde"
+            alt="Regata Lebôh Decote Redondo Com Ombreira Verde" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Lebôh Decote<br> Redondo Com Ombre...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 249,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/regata-leboh-decote-redondo-com-ombreira-verde-260248/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="none" inner-padding="8px 18px" align="center" font-weight="300" font-size="13px" padding="15px 0px" background-color="#70776e" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Comprar</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 40px 0px" background-color="#70776e">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-gola-alta-manga-longa-com-babado-verde-260240/p"
+            src="http://leboh.vteximg.com.br/arquivos/ids/191407/BLUSA-GOLA-ALTA-MANGA-LONGA-COM-BABADO---LI-VERDE-LIMA---P.jpg?v=637548187064770000"
+            title="Blusa Lebôh Gola Alta Manga Longa Com Babado Verde"
+            alt="Blusa Lebôh Gola Alta Manga Longa Com Babado Verde" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Gola Alta<br> Manga Longa Com Baba...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 349,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-gola-alta-manga-longa-com-babado-verde-260240/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="none" inner-padding="8px 18px" align="center" font-weight="300" font-size="13px" padding="15px 0px" background-color="#70776e" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Comprar</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/saia-leboh-curta-reta-detalhe-ziper-preto-261773/p"
+            src="http://leboh.vteximg.com.br/arquivos/ids/191075/SAIA-CURTA-RETA-DETALHE-ZIPER---ES-PRETO---36.jpg?v=637544489273700000"
+            title="Saia Lebôh Curta Reta Detalhe Zíper Preto"
+            alt="Saia Lebôh Curta Reta Detalhe Zíper Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Lebôh Curta Reta<br> Detalhe Zíper Preto
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 249,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/saia-leboh-curta-reta-detalhe-ziper-preto-261773/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="none" inner-padding="8px 18px" align="center" font-weight="300" font-size="13px" padding="15px 0px" background-color="#70776e" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Comprar</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

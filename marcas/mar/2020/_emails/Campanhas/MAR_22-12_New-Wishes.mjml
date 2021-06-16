@@ -1,0 +1,173 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_15-12_New-Wishes/MV_EmailMkt_06-topo.jpg"
+          alt="New Wishes"
+          title="New Wishes" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#000000" font-size="13px" padding="30px 20px 0px 20px" align="center" font-weight="500" line-height="20px" letter-spacing="1.1px">
+          Confira a nossa seleção de looks para começar o 
+          ano com as melhores energias!
+        </mj-text>
+
+        <mj-button href="https://www.mariavalentina.com.br/lancamento?O=OrderByReleaseDateDESC" text-decoration="underline" font-family="'Roboto', sans-serif" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="500" font-size="14px" padding="15px 0px" background-color="#ffffff" color="#000000" border="0px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">ver coleção</span></mj-button>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-tecido-rebordado-verde-242941/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/234932/REGATA-DECOTE-V-TECIDO-REBORDADO---ES-VERDE---PP.jpg?v=637425140422670000"
+            title="Regata Maria.Valentina Decote V Tecido Rebordado Verde"
+            alt="Regata Maria.Valentina Decote V Tecido Rebordado Verde" />
+        </mj-column>
+
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 140px 0px 10px 0px; margin: 0px;">
+              Regata Maria.Valentina<br> Decote V Tecido<br> Rebordado Verde
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            10x de R$ 54,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-tecido-rebordado-verde-242941/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="left" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 140px 0px 10px 0px; margin: 0px;">
+              Vestido Maria.Valentina<br> Midi Decote V Com<br> Bolso Laranja
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            10x de R$ 54,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-v-com-bolso-laranja-242751/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="right" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-v-com-bolso-laranja-242751/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/235583/VESTIDO-MIDI-DECOTE-V-COM-BOLSO---LT-CRU-MARROM---PP.jpg?v=637425242919000000"
+            title="Vestido Maria.Valentina Midi Decote V Com Bolso Laranja"
+            alt="Vestido Maria.Valentina Midi Decote V Com Bolso Laranja" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-reta-cos-retilinea-detalhe-fio-metalizado-prata-239027/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/233335/CALCA-RETA-COS-RETILINEA-DETALHE-FIO-METALIZADO---LI-PRATA---36.jpg?v=637377923737070000"
+            title="Calça Maria.Valentina Reta Cós Retilínea Detalhe Fio Metalizado Prata"
+            alt="Calça Maria.Valentina Reta Cós Retilínea Detalhe Fio Metalizado Prata" />
+        </mj-column>
+
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 120px 0px 10px 0px; margin: 0px;">
+              Calça Maria.Valentina<br> Reta Cós Retilínea<br> Detalhe Fio Metalizado<br> Prata
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            7x de R$ 57,12
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 399,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-reta-cos-retilinea-detalhe-fio-metalizado-prata-239027/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="left" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_15-12_New-Wishes/MV_EmailMkt_06-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/blusas?map=c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_15-12_New-Wishes/MV_EmailMkt_06-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_15-12_New-Wishes/MV_EmailMkt_06-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

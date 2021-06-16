@@ -1,0 +1,51 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_08-04_Bem-Vindo/zinco-topo.jpg"
+              alt="ZINCO" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section>
+        <mj-column width="100%">
+          <mj-text font-family= "Poppins, sans-serif" font-weight="500" padding="0px 50px 10px 50px" color="#000000" font-size="18px" align="center" line-height= "1.5" letter-spacing= "1.2px" text-transform="uppercase">agradecemos o seu cadastro!</mj-text>
+          <mj-text font-family= "Poppins, sans-serif" font-weight="400" padding="0px 50px 0px 50px" color="#000000" font-size="14px" align="center" line-height= "2.3" letter-spacing= "1.2px" text-transform="uppercase">VOCÊ GANHOU <strong>10% OFF</strong> em sua primeira compra!<br>use o cupom:</mj-text>
+          <mj-text align="center">
+            <a
+              style="font-family:Poppins, sans-serif; font-weight:700; text-decoration: none; background-color:#000000; letter-spacing: 1.6px; font-size: 20px; color: #FFFFFF; display: inline-block; padding: 15px 28px;"
+              href="https://www.zinco.com.br/"
+              title="Código: SOUZINCOOL">
+              SOUZINCOOL
+            </a>
+          </mj-text>
+          <mj-text align="center">
+            <a
+              style="font-family:Poppins, sans-serif; font-weight:400; text-decoration: none; background-color:#ffffff; letter-spacing: 1px; font-size: 13px; color: #000000; display: inline-block; margin-top: 14px; padding: 9px 9px; border: 1.2px solid #000000;"
+              href="https://www.zinco.com.br/"
+              title="shop now">
+              SHOP NOW >
+            </a>
+          </mj-text>
+          <mj-text font-family= "Poppins, sans-serif" font-weight="400" padding="25px 50px 0px 50px" color="#000000" font-size="12px" align="center" line-height= "2" letter-spacing= "0.2px" text-transform="uppercase">sentiu dificuldade para finalizar sua compra?<br>se precisar de ajuda, fala com a gente pelo chat, por email, ou <a href="https://api.whatsapp.com/send?phone=554433515000" style="color: #000000;" title="WhatsApp"><strong>clique aqui</strong></a> para falar pelo whatsapp!</mj-text>
+        </mj-column>
+      </mj-section>
+    <!--main-->
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

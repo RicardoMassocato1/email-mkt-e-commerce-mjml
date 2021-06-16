@@ -1,0 +1,194 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Feelings&pwaf_productClusterIds=253"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_18-11_Fashion-Feelings/Artboard%201%20copy%202-topo.jpg"
+          alt="Fashion Feelings"
+          title="Fashion Feelings" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="uppercase" color="#000" font-size="18px" padding="30px 0px 0px 40px" align="left" font-weight="700" line-height="20px">
+          calças
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="3px 30px 5px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_17-11_Fashion-Feelings/Sem%20T%C3%ADtulo-1-01.jpg"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="uppercase" color="#000" font-size="15px" padding="5px 0px 20px 40px" align="left" font-weight="300" line-height="20px">
+          Jeans ou alfaiataria? várias ocasiões<br> de
+          uso até <strong>70% off!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-cigarrete-cos-intermediario-barra-diferenciada-jeans-228852"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/173213/CALCA-CIGARRETE-COS-INTERMEDIARIO-BARRA-DIFERENCIADA---LI-JEANS-CLARO---36.jpg?v=637237639929530000"
+            title="CALÇA IÓDICE CIGARRETE CÓS INTERMEDIÁRIO BARRA DIFERENCIADA JEANS"
+            alt="CALÇA IÓDICE CIGARRETE CÓS INTERMEDIÁRIO BARRA DIFERENCIADA JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Iódice Cigarrete<br> Cós Intermediário
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 369,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 51,78
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 258,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-cigarrete-cos-intermediario-barra-diferenciada-jeans-228852" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-boot-cut-cos-intermediario-com-faixa-caramelo-228917"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/173503/CALCA-BOOT-CUT-COS-INTERMEDIARIO-COM-FAIXA---LI-CAMEL---36.jpg?v=637237644094300000"
+            title="CALÇA IÓDICE BOOT CUT CÓS INTERMEDIÁRIO COM FAIXA CARAMELO"
+            alt="CALÇA IÓDICE BOOT CUT CÓS INTERMEDIÁRIO COM FAIXA CARAMELO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Boot Cut<br> Cós Intermediário
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,93
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-boot-cut-cos-intermediario-com-faixa-caramelo-228917" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-cenoura-cos-clochard-com-faixa-verde-230284"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/172513/CALCA-CENOURA-COS-CLOCHARD-COM-FAIXA---LI-VERDE---36.jpg?v=637237628667770000"
+            title="CALÇA IÓDICE CENOURA CÓS CLOCHARD COM FAIXA VERDE"
+            alt="CALÇA IÓDICE CENOURA CÓS CLOCHARD COM FAIXA VERDE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Calça Iódice Cenoura<br> Cós Clochard
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 1.119,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 111,99
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 783,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-cenoura-cos-clochard-com-faixa-verde-230284" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-reta-cos-alto-bolso-faca-laranja-228653"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174372/03-12-2019--ECOM-IODICE-20028980.jpg?v=637249080988070000"
+            title="CALÇA IÓDICE RETA CÓS ALTO BOLSO FACA LARANJA"
+            alt="CALÇA IÓDICE RETA CÓS ALTO BOLSO FACA LARANJA" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Calça Iódice Reta Cós<br> Alto Bolso Faca
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,93
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-reta-cos-alto-bolso-faca-laranja-228653" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=239"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_16-11_Fashion-Feelings/Artboard%201-rodape.jpg"
+          alt="Lançamento"
+          title="Lançamento" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

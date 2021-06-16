@@ -1,0 +1,260 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 30px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_25-06_Progressiva-Junho/iod-Email-MKT-ID_17-06%20email1-topo.jpg" 
+              alt="Descontos Progressivos"
+              title="Descontos Progressivos"/>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/blusa-io-raissa-crepe-09-preto-204259"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_25-06_Progressiva-Junho/BLUSA%20IO%20RAISSA%20CREPE%2009%20PRETO.jpg"
+              title="BLUSA IO RAISSA CREPE 09 PRETO"
+              alt="BLUSA IO RAISSA CREPE 09 PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa IO Raissa Crepe
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 458,00</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 320,60</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 53,43</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/blusa-io-raissa-crepe-09-preto-204259"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/blazer-alfaiataria-verde-216448"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_25-06_Progressiva-Junho/BLAZER%20ALFAIATARIA%20VERDE.jpg"
+              title="BLAZER ALFAIATARIA VERDE"
+              alt="BLAZER ALFAIATARIA VERDE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blazer Alfaiataria
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 869,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 608,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 101,48</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/blazer-alfaiataria-verde-216448"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-io-stela-bengaline-c--galco-preto-203515"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_25-06_Progressiva-Junho/CALCA%20IO%20STELA%20BENGALINE%20C%20GALCO%20PRETO.jpg"
+              title="CALCA IO STELA BENGALINE C/ GALCO PRETO"
+              alt="CALCA IO STELA BENGALINE C/ GALCO PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca IO Stela Bengaline
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 498,00</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 348,60</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 58,10</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/calca-io-stela-bengaline-c--galco-preto-203515"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/bermuda-comfort-barra-refilada-jeans-208767"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_25-06_Progressiva-Junho/BERMUDA%20COMFORT%20BARRA%20REFILADA%20JEANS.jpg"
+              title="BERMUDA COMFORT BARRA REFILADA JEANS"
+              alt="BERMUDA COMFORT BARRA REFILADA JEANS" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #006c79; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Bermuda Comfort
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 209,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#006c79"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 4x R$ 52,48</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#006c79; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #006c79;"
+                href="https://www.iodice.com.br/bermuda-comfort-barra-refilada-jeans-208767"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

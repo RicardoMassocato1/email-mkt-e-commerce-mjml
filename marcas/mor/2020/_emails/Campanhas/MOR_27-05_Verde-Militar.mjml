@@ -1,0 +1,195 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+      
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0 40px 0" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Lan%25C3%25A7amento%252520Inverno%2520&pwaf_productClusterIds=282&pwaf_53=verde"
+            alt="Lançamento"
+            title="Lançamento"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_27-05_Verde-Militar/E-mail%20mkt-03-topo.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 10px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-longa-evase-detalhe-cintura-verde-227453"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_27-05_Verde-Militar/Malha1_9702.jpg"
+            title="Saia Longa Evase Detalhe Cintura Verde"
+            alt="Saia Longa Evase Detalhe Cintura Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6f4537; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Longa Evase Detalhe Cintura
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6f4537"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 699,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6f4537"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$116,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-weight: 500; font-size: 12px; color: #6f4537; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #6f4537;"
+              href="https://www.morenarosa.com.br/saia-longa-evase-detalhe-cintura-verde-227453"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 7.5px 10px 7.5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-altura-do-joelho-decote-redondo-abertura-frente-verde-227394"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_27-05_Verde-Militar/Malha1_9881.jpg"
+            title="Vestido Altura Do Joelho Decote Redondo Abertura Frente Verde"
+            alt="Vestido Altura Do Joelho Decote Redondo Abertura Frente Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6f4537; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Altura Do Joelho Decote R.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6f4537"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6f4537"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$83,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-weight: 500; font-size: 12px; color: #6f4537; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #6f4537;"
+              href="https://www.morenarosa.com.br/vestido-altura-do-joelho-decote-redondo-abertura-frente-verde-227394"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 10px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantacourt-cos-intermediario-bolso-faca-verde-227379"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_27-05_Verde-Militar/Malha1_10038.jpg"
+            title="Calca Pantacourt Cos Intermediario Bolso Faca Verde"
+            alt="Calca Pantacourt Cos Intermediario Bolso Faca Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6f4537; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantacourt Cos Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6f4537"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6f4537"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$76,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-weight: 500; font-size: 12px; color: #6f4537; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #6f4537;"
+              href="https://www.morenarosa.com.br/calca-pantacourt-cos-intermediario-bolso-faca-verde-227379"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0 0 40px 0px">
+        <mj-column padding="25px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?sort=OrderByReleaseDateDESC"
+            alt="Blusas"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_27-05_Verde-Militar/E-mail-categorias-blusas.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Jeans%2520&pwaf_productClusterIds=286"
+            alt="Jeans"
+            title="Jeans"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_27-05_Verde-Militar/E-mail-categorias-jeans.jpg" />
+        </mj-column>
+      </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

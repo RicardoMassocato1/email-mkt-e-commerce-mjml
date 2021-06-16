@@ -1,0 +1,307 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calcados/sapatilhas/?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Cal%C3%A7ados&pwaf_productClusterIds=172"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_12-09_Semana-da-Cliente/Banner%20home-04-topo.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapatilha-bico-fino-enfeite-personalizado-azul-215208"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/314959/SAPATILHA-BICO-FINO-ENFEITE-PERSONALIZADO---LI-AZUL-MARINHO---34.jpg?v=637057977686130000"
+            title="Sapatilha Bico Fino Enfeite Personalizado Azul"
+            alt="Sapatilha Bico Fino Enfeite Personalizado Azul" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sapatilha Bico<br> Fino Enfeite
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 229,90</text>
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,64
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 160,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/sapatilha-bico-fino-enfeite-personalizado-azul-215208" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapatilha-bico-redondo-enfeite-bicolor-dourado-215362"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/311894/SAPATILHA-BICO-REDONDO-ENFEITE-BICOLOR---LI-OURO---34.jpg?v=637044966772930000"
+            title="Sapatilha Bico Redondo Enfeite Bicolor Dourado"
+            alt="Sapatilha Bico Redondo Enfeite Bicolor Dourado" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sapatilha Bico<br> Redondo Enfeite
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 199,90</text>
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,96
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sapatilha-bico-redondo-enfeite-bicolor-dourado-215362" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapatilha-bico-amendoado-enfeite-pintado-laranja-208929"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/305304/SAPATILHA-BICO-AMENDOADO-ENFEITE-PINTADO---LI-ORANGE---34.jpg?v=637003759925800000"
+            title="Sapatilha Bico Amendoado Enfeite Pintado Laranja"
+            alt="Sapatilha Bico Amendoado Enfeite Pintado Laranja" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sapatilha Bico<br> Amendoado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 179,90</text>
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 62,96
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 125,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sapatilha-bico-amendoado-enfeite-pintado-laranja-208929" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapatilha-bico-fino-traseiro-aberto-marrom-220374"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/328551/SAPATILHA-BICO-FINO-TRASEIRO-ABERTO---LI-CAPUCCINO---35.jpg?v=637118370686970000"
+            title="Sapatilha Bico Fino Traseiro Aberto Marrom"
+            alt="Sapatilha Bico Fino Traseiro Aberto Marrom" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sapatilha Bico<br> Fino Traseiro
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 199,90</text>
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,96
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/sapatilha-bico-fino-traseiro-aberto-marrom-220374" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapatilha-bico-redondo-detalhe-corrente-amarelo-209116"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/301504/SAPATILHA-BICO-REDONDO-DETALHE-CORRENTE---LI-AMARELO---34.jpg?v=636990617481000000"
+            title="Sapatilha Bico Redondo Detalhe Corrente Amarelo"
+            alt="Sapatilha Bico Redondo Detalhe Corrente Amarelo" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sapatilha Bico<br> Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 199,90</text>
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,96
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sapatilha-bico-redondo-detalhe-corrente-amarelo-209116" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapatilha-bico-fino-com-rebite-laranja-200662"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/297451/19002100647-3.jpg?v=636949193891130000"
+            title="Sapatilha Bico Fino Com Rebite Laranja"
+            alt="Sapatilha Bico Fino Com Rebite Laranja" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Sapatilha Bico<br> Fino Com Rebite
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 149,90</text>
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 52,46
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 104,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sapatilha-bico-fino-com-rebite-laranja-200662" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#764525" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 20px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#764525" font-size="14px" padding="0px 0px 0px 0px" align="center" font-weight="400" line-height="22px" letter-spacing="2px" text-transform="uppercase">
+          Compre por tamanho!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 20px 10px 20px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="170px"
+            href="https://www.morenarosa.com.br/calcados?sort=OrderByReleaseDateDESC&pwaf_57=34"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_12-09_Semana-da-Cliente/Banner%20home-04-34.jpg"
+            title="Tamanho 34"
+            alt="Tamanho 34" />
+        </mj-column>
+
+        <mj-column padding="10px 20px 10px 20px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="170px"
+            href="https://www.morenarosa.com.br/calcados?sort=OrderByReleaseDateDESC&pwaf_57=35"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_12-09_Semana-da-Cliente/Banner%20home-04-35.jpg"
+            title="Tamanho 35"
+            alt="Tamanho 35" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="30px 20px 10px 20px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="170px"
+            href="https://www.morenarosa.com.br/calcados?sort=OrderByReleaseDateDESC&pwaf_57=36"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_12-09_Semana-da-Cliente/Banner%20home-04-36.jpg"
+            title="Tamanho 36"
+            alt="Tamanho 36" />
+        </mj-column>
+
+        <mj-column padding="30px 20px 10px 20px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="170px"
+            href="https://www.morenarosa.com.br/calcados?sort=OrderByReleaseDateDESC&pwaf_57=37"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_12-09_Semana-da-Cliente/Banner%20home-04-37.jpg"
+            title="Tamanho 37"
+            alt="Tamanho 37" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="30px 20px 30px 20px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="170px"
+            href="https://www.morenarosa.com.br/calcados?sort=OrderByReleaseDateDESC&pwaf_57=38"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_12-09_Semana-da-Cliente/Banner%20home-04-38.jpg"
+            title="Tamanho 38"
+            alt="Tamanho 38" />
+        </mj-column>
+
+        <mj-column padding="30px 20px 30px 20px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="170px"
+            href="https://www.morenarosa.com.br/calcados?sort=OrderByReleaseDateDESC&pwaf_57=39"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_12-09_Semana-da-Cliente/Banner%20home-04-39.jpg"
+            title="Tamanho 39"
+            alt="Tamanho 39" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

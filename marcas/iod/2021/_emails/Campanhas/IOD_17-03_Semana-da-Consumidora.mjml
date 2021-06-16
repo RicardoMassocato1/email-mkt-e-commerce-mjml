@@ -1,0 +1,182 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=269"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_17-03_Semana-da-Consumidora/Artboard%201%20copy%203-01.png"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="14px" padding="30px 20px 20px 20px" align="center" font-weight="400" line-height="18px">
+          O tecido indispensável que é sinônimo de durabilidade e elegância e é indispensável no inverno, se apresenta na nossa Semana da Consumidora com 60% Off! Imperdível!
+        </mj-text>
+        <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=269" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="5px 0px 40px 0px" background-color="#fff" color="#000" border="2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0px">Shop now</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/jaqueta-iodice-biker-premium-marrom-230351"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174350/03-12-2019--ECOM-IODICE-20028404.jpg?v=637248018650100000"
+            title="JAQUETA IÓDICE BIKER PREMIUM MARROM"
+            alt="JAQUETA IÓDICE BIKER PREMIUM MARROM" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Iódice Biker<br> Premium Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 5.619,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            12x de R$ 187,33
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 2.247,96
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/jaqueta-iodice-biker-premium-marrom-230351" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-clochard-cos-alto-premium-marrom-230352"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174349/03-12-2019--ECOM-IODICE-20028395.jpg?v=637247994469700000"
+            title="CALÇA IÓDICE CLOCHARD CÓS ALTO PREMIUM MARROM"
+            alt="CALÇA IÓDICE CLOCHARD CÓS ALTO PREMIUM MARROM" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Clochard Cós<br> Alto Premium Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 5.199,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            12x de R$ 173,33
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 2.079,96
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-clochard-cos-alto-premium-marrom-230352" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/macaquinho-iodice-decote-transpassado-premium-marrom-230353"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174351/03-12-2019--ECOM-IODICE-20028435.jpg?v=637248022430100000"
+            title="MACAQUINHO IÓDICE DECOTE TRANSPASSADO PREMIUM MARROM"
+            alt="MACAQUINHO IÓDICE DECOTE TRANSPASSADO PREMIUM MARROM" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macaquinho Iódice Decote<br> Transpassado Premium ...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 6.789,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            12x de R$ 226,33
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 2.715,96
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/macaquinho-iodice-decote-transpassado-premium-marrom-230353" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/jaqueta-iodice-classica-premium-preto-230349"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174427/03-12-2019--ECOM-IODICE-200210446.jpg?v=637254941701170000"
+            title="JAQUETA IÓDICE CLASSICA PREMIUM PRETO"
+            alt="JAQUETA IÓDICE CLASSICA PREMIUM PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Iódice Classica<br> Premium Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 5.459,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            12x de R$ 181,99
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 2.183,96
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/jaqueta-iodice-classica-premium-preto-230349" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="60px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=263"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_04-03_Lancamento-Big-Cities/Artboard%201%20copy%204-topo.jpg"
+          alt="Lançamento Big Cities"
+          title="Lançamento Big Cities" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

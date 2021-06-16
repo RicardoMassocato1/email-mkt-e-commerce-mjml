@@ -1,0 +1,246 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700&display=swap"/>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="20px 0px" background-color="#f9c3d0">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="0px 0px"
+            href="https://www.leboh.com.br/date-yourself?O=OrderByReleaseDateDESC"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_05-06_Dia-dos-Namorados/EmailMkt-03-topo.jpg" 
+            alt="date yourself"
+            title="date yourself"/>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Open Sans, sans-serif"
+            color="#c51c19"
+            font-size="23px"
+            padding="40px 0px 20px 40px"
+            align="left"
+            font-weight="600"
+            line-height="23px"
+            letter-spacing="0.1px">
+            -<br>5 passos para começar<br> uma nova rotina<br> de skincare!
+          </mj-text>
+          <mj-text
+            font-family= "Open Sans, sans-serif"
+            color="#ffffff"
+            font-size="13px"
+            padding="0px 0px 35px 60px"
+            align="left"
+            font-weight="500"
+            line-height="29px"
+            letter-spacing="1.2px">
+            1. &nbsp;Higienize a pele logo ao acordar<br>
+            2. &nbsp;Hidrate o rosto duas vezes ao dia<br>
+            3. &nbsp;Revitalize a derme com um sérum<br>
+            4. &nbsp;Sempre limpe o rosto antes de dormir<br>
+            5. &nbsp;Aplique um gel relaxante para dormir
+          </mj-text>
+          <mj-text font-family= "Open Sans, sans-serif" padding="0px 40px 35px 0px" color="#c51c19" font-size="16px" align="right" line-height= "20px" letter-spacing= "1.2px">confira os looks que separamos<br> especialmente para você, com o<br> cupom <strong>DATEYOURSELF</strong> você<br> ganha 10% OFF em todo o site:</mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/camisa-manga-curta-listrada-preto-228844/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_05-06_Dia-dos-Namorados/Camisa%20Manga%20Curta%20Listrada%20Preto.jpg"
+              title="Camisa Manga Curta Listrada Preto"
+              alt="Camisa Manga Curta Listrada Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Camisa Manga Curta
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+            <mj-text
+              color="#ffffff"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 249,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#ffffff"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">4x de R$ 62,47</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #f9c3d0; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+                href="https://www.leboh.com.br/camisa-manga-curta-listrada-preto-228844/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/blusa-gola-alta-cavada-detalhe-ziper-vermelho-230382/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_05-06_Dia-dos-Namorados/Blusa%20Gola%20Alta%20Cavada%20Detalhe%20Ziper%20Vermelho.jpg"
+              title="Blusa Gola Alta Cavada Detalhe Ziper Vermelho"
+              alt="Blusa Gola Alta Cavada Detalhe Ziper Vermelho" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Gola Alta Cavada
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+            <mj-text
+              color="#ffffff"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 409,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#ffffff"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">8x de R$ 51,23</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #f9c3d0; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+                href="https://www.leboh.com.br/blusa-gola-alta-cavada-detalhe-ziper-vermelho-230382/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/jaqueta-alfaiataria-com-vivos-caqui-228567/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_05-06_Dia-dos-Namorados/Jaqueta%20Alfaiataria%20Com%20Vivos%20Caqui.jpg"
+              title="Jaqueta Alfaiataria Com Vivos Caqui"
+              alt="Jaqueta Alfaiataria Com Vivos Caqui" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Jaqueta Alfaiataria
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+            <mj-text
+              color="#ffffff"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 389,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#ffffff"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">7x de R$ 55,70</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #f9c3d0; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+                href="https://www.leboh.com.br/jaqueta-alfaiataria-com-vivos-caqui-228567/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="49.8%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-cenoura-cos-alto-listrada-preto-230319/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_05-06_Dia-dos-Namorados/Calca%20Cenoura%20Cos%20Alto%20Listrada%20Preto.jpg"
+              title="Calca Cenoura Cos Alto Listrada Preto"
+              alt="Calca Cenoura Cos Alto Listrada Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Cenoura Cos Alto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+            <mj-text
+              color="#ffffff"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 319,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#ffffff"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">6x de R$ 53,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #f9c3d0; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+                href="https://www.leboh.com.br/calca-cenoura-cos-alto-listrada-preto-230319/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

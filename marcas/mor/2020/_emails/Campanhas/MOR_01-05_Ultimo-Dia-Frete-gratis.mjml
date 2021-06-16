@@ -1,0 +1,263 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+      <!--topo -->
+      <mj-section>
+        <mj-column padding="0 0 20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br"
+            title="Frete Grátis"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_26-04_Frete-Gratis/frete_gratis_.gif" />
+        </mj-column>
+        <mj-column padding="0px 0px 0 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Outono%2520Inverno%2520&pwaf_productClusterIds=225"
+            title="Último Dia do Frete Grátis"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_01-05_Ultimo-Dia-Frete-gratis/ultimo_dia_1-topo.jpg" />
+        </mj-column>
+        <mj-column padding="15px 20px 15px 20px" width="100%">
+          <mj-text font-family="Poppins, serif" color="#763d2f" font-size="14px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+            Aproveite hoje para garantir o seu pedido com frete grátis!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!--topo -->
+
+      <mj-section padding="0px 0px">
+        <mj-group>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/calca-skinny-cos-intermediario-recorte-lateral-cobre-224909"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_01-05_Ultimo-Dia-Frete-gratis/Calca%20Skinny%20Cos%20Intermediario%20Recorte%20Lateral%20Cobre.jpg"
+              title="Calca Skinny Cos Intermediario Recorte Lateral Cobre"
+              alt="Calca Skinny Cos Intermediario Recorte Lateral Cobre" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Skinny Cos Intermediario Recorte Lateral
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 459,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 76,65</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/calca-skinny-cos-intermediario-recorte-lateral-cobre-224909"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/cropped-decote-redondo-bordado-preto-223935"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_01-05_Ultimo-Dia-Frete-gratis/Cropped%20Decote%20Redondo%20Bordado%20Preto.jpg"
+              title="Cropped Decote Redondo Bordado Preto"
+              alt="Cropped Decote Redondo Bordado Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Cropped Decote Redondo Bordado Preto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 1219,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 12x R$ 101,65</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/cropped-decote-redondo-bordado-preto-223935"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/vestido-curto-decote-v-com-metal-vermelho-222434"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_01-05_Ultimo-Dia-Frete-gratis/Vestido%20Curto%20Decote%20V%20Com%20Metal%20Vermelho.jpg"
+              title="Vestido Curto Decote V Com Metal Vermelho"
+              alt="Vestido Curto Decote V Com Metal Vermelho" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Curto Decote V Com Metal Vermelho
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 689,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 114,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/vestido-curto-decote-v-com-metal-vermelho-222434"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/blusa-decote-assimetrico-manga-longa-com-amarracao-pink-222466"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_01-05_Ultimo-Dia-Frete-gratis/Blusa%20Decote%20Assimetrico%20Manga%20Longa%20Com%20Amarracao%20Pink.jpg"
+              title="Blusa Decote Assimetrico Manga Longa Com Amarracao Pink"
+              alt="Blusa Decote Assimetrico Manga Longa Com Amarracao Pink" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Decote Assimetrico Manga Longa
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 499,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 83,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/blusa-decote-assimetrico-manga-longa-com-amarracao-pink-222466"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+      
+      <mj-section padding="0px 0px">
+        <mj-column padding="25px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/vestidos?sort=OrderByReleaseDateDESC"
+            alt="Vestidos"
+            title="Vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_01-05_Ultimo-Dia-Frete-gratis/ultimo_dia_2.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/calcas?sort=OrderByReleaseDateDESC"
+            alt="Calças"
+            title="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_01-05_Ultimo-Dia-Frete-gratis/ultimo_dia_3.jpg" />
+        </mj-column>
+        <mj-column padding="25px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?sort=OrderByReleaseDateDESC"
+            alt="Blusas"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_01-05_Ultimo-Dia-Frete-gratis/ultimo_dia_4.jpg" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

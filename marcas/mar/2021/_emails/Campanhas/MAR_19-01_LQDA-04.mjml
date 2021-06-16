@@ -1,0 +1,210 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/saias?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_19-01_LQDA/MV_EmailMkt_01-topo.jpg"
+          alt="LQDA até 50% OFF"
+          title="LQDA até 50% OFF" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="Roboto, sans-serif" color="#000000" font-size="14px" padding="30px 0px 30px 0px" align="center" font-weight="400" line-height="21px" letter-spacing="1.5px">
+          Seleção de saias até 50% OFF para renovar<br> o look para a proxima estação!
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-maria-valentina-midi-evase-bicolor-nude-229698/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/229778/SAIA-MIDI-EVASE-BICOLOR---CO-CREME-MOSTARDA---PP.jpg?v=637242063701500000"
+            title="Saia Maria.Valentina Midi Evasê Bicolor Nude"
+            alt="Saia Maria.Valentina Midi Evasê Bicolor Nude" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Maria.Valentina Midi<br> Evasê Bicolor Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 57,48
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 229,95
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/saia-maria-valentina-midi-evase-bicolor-nude-229698/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-maria-valentina-curta-lapis-com-recorte-verde-231928/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230530/SAIA-CURTA-LAPIS-COM-RECORTE---LI-VERDE-LIMA---PP.jpg?v=637327829864330000"
+            title="Saia Maria.Valentina Curta Lápis Com Recorte Verde"
+            alt="Saia Maria.Valentina Curta Lápis Com Recorte Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Maria.Valentina Curta<br> Lápis Com Recorte Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 64,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 194,95
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/saia-maria-valentina-curta-lapis-com-recorte-verde-231928/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-maria-valentina-curta-lapis-com-fenda-azul-anil-221039/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/225235/SAIA-CURTA-LAPIS-COM-FENDA---LI-AZUL-ANIL---PP.jpg?v=637172351632630000"
+            title="Saia Maria.Valentina Curta Lápis Com Fenda Azul Anil"
+            alt="Saia Maria.Valentina Curta Lápis Com Fenda Azul Anil" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Maria.Valentina Curta<br> Lápis Com Fenda Azul<br> Anil
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 61,23
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 122,47
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/saia-maria-valentina-curta-lapis-com-fenda-azul-anil-221039/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-maria-valentina-midi-lapis-com-amarracao-verde-224236/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/226845/SAIA-MIDI-LAPIS-COM-AMARRACAO---LI-VERDE-MILITAR---PP.jpg?v=637172384241000000"
+            title="Saia Maria.Valentina Midi Lápis Com Amarração Verde"
+            alt="Saia Maria.Valentina Midi Lápis Com Amarração Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="26px 0 10px 0">
+            Saia Maria.Valentina Midi<br> Lápis Com Amarração<br> Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 529,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 61,82
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 185,47
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/saia-maria-valentina-midi-lapis-com-amarracao-verde-224236/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="Roboto, sans-serif" color="#000000" text-transform="uppercase" font-size="13px" padding="40px 0px 40px 0px" align="center" font-weight="500" line-height="0px" letter-spacing="3px">
+          Compre por categoria:
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_19-01_LQDA/MV_EmailMkt_01-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_19-01_LQDA/MV_EmailMkt_01-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_19-01_LQDA/MV_EmailMkt_01-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

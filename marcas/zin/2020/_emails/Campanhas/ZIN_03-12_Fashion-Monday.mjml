@@ -1,0 +1,188 @@
+'<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-Friday/ofertas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_03-12_Fashion-Monday/MV_EmailMkt_03-topo.jpg"
+          alt="Fashion Monday"
+          title="Fashion Monday" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="13.5px" padding="20px 30px 0px 30px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+           Compre agora e garanta seu look para as festas de fim de ano
+        </mj-text>
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="13.5px" padding="0px 0px 0px 0px" align="center" font-weight="700" line-height="20px" letter-spacing="1px">
+          com até 70% OFF!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-zinco-pantacourt-detalhe-renda-branco-218213/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/200083/MACACAO-PANTACOURT-DETALHE-RENDA---LI-BRANCO---P.jpg?v=637111705812930000"
+            title="Macacão Zinco Pantacourt Detalhe Renda Branco"
+            alt="Macacão Zinco Pantacourt Detalhe Renda Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacão Zinco Pantacourt<br> Detalhe Renda<br> Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 479,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 143,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/macacao-zinco-pantacourt-detalhe-renda-branco-218213/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-comfort-cos-baixo-detalhe-barbicacho-off-white-202308/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/190296/CALCA-COMFORT-COS-BAIXO-DETALHE-BARBICACHO---LI-OFF-WHITE---36.jpg?v=637003784280200000"
+            title="Calça Zinco Comfort Cós Baixo Detalhe Barbicacho Off White"
+            alt="Calça Zinco Comfort Cós Baixo Detalhe Barbicacho Off White" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Calça Zinco Comfort Cós<br> Baixo Detalhe Barbicacho<br> Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0px 0px">
+            Por: R$ 95,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/calca-zinco-comfort-cos-baixo-detalhe-barbicacho-off-white-202308/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/cropped-zinco-decote-v-detalhe-elastico-branco-217968/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/199670/CROPPED-DECOTE-V-DETALHE-ELASTICO---ES-PRETO-BRANCO---PP.jpg?v=637111668931270000"
+            title="Cropped Zinco Decote V Detalhe Elástico Branco"
+            alt="Cropped Zinco Decote V Detalhe Elástico Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Cropped Zinco Decote<br> V Detalhe Elástico<br> Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 95,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/cropped-zinco-decote-v-detalhe-elastico-branco-217968/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-curto-decote-v-com-cordao-bege-227330/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/209362/VESTIDO-CURTO-DECOTE-V-COM-CORDAO---LI-CRU---PP.jpg?v=637250841530630000"
+            title="Vestido Zinco Curto Decote V Com Cordão Bege"
+            alt="Vestido Zinco Curto Decote V Com Cordão Bege" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Curto<br> Decote V Com Cordão<br> Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 149,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-curto-decote-v-com-cordao-bege-227330/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/feminino/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_03-12_Fashion-Monday/MV_EmailMkt_03-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/feminino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_03-12_Fashion-Monday/MV_EmailMkt_03-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/feminino/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_03-12_Fashion-Monday/MV_EmailMkt_03-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

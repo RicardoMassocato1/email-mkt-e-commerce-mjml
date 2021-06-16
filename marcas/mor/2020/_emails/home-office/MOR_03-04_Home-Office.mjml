@@ -1,0 +1,260 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-section padding="0px 0px 15px 0px">
+      <mj-group>
+        <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\_shared\header\top-bar.mjml">
+      </mj-group>
+    </mj-section>
+        <mj-section padding="0" background-color="#b1547a">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            morenarosa.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://www.morenarosa.com.br"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_24-03_Out-Now/Topo-10%25%20off%20E-commerce.jpg"
+            title="Desconto CLUBEMR"
+            alt="Desconto CLUBEMR" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../header/_header-lancamento.mjml" />
+      <!--topo -->
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.youtube.com/watch?v=jNltzY0YV2I"
+            title="Yoga em Casa"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Home-Office_02-04_at%C3%A9_04-04/MOR_04-04_Yoga-em-Casa/E-mail%20mkt-topo.jpg" />
+            <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 13px;font-weight:500; color: #b1547a; display: inline-block; margin-top: 25px; letter-spacing:2px; padding: 5px 15px; border: 1px solid #b1547a;"
+              href="https://www.youtube.com/watch?v=jNltzY0YV2I"
+              title="Veja Mais">
+             Veja Mais
+            </a>
+            </mj-text>
+        </mj-column>
+      </mj-section>
+      <!--topo -->
+
+      <mj-section padding="30px 0px">
+        <mj-group>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/top-cropped-nadador-detalhe-laser-off-white-rosa-223113"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Home-Office_02-04_at%C3%A9_04-04/MOR_04-04_Yoga-em-Casa/Top%20Cropped%20Nadador%20Detalhe%20Laser%20Off%20White-Rosa.jpg"
+              title="Top Cropped Nadador Detalhe Laser Off White/Rosa"
+              alt="Top Cropped Nadador Detalhe Laser Off White/Rosa" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Top Cropped Nadador
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 229,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 4x R$ 57,47</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/top-cropped-nadador-detalhe-laser-off-white-rosa-223113"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/shorts-boxer-com-shorts-interno-cinza-rosa-223124"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Home-Office_02-04_at%C3%A9_04-04/MOR_04-04_Yoga-em-Casa/Shorts%20Boxer%20Com%20Shorts%20Interno%20Cinza-Rosa.jpg"
+              title="Shorts Boxer Com Shorts Interno Cinza/Rosa"
+              alt="Shorts Boxer Com Shorts Interno Cinza/Rosa" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Boxer
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 5x R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/shorts-boxer-com-shorts-interno-cinza-rosa-223124"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/calca-comfort-cos-elastico-bolso-lateral-cinza-rosa-223335"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Home-Office_02-04_at%C3%A9_04-04/MOR_04-04_Yoga-em-Casa/Calca%20Comfort%20Cos%20Elastico%20Bolso%20Lateral%20Cinza-Rosa.jpg"
+              title="Calca Comfort Cos Elastico Bolso Lateral Cinza/Rosa"
+              alt="Calca Comfort Cos Elastico Bolso Lateral Cinza/Rosa" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Comfort Cos Elastico
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 459,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 76,65</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/calca-comfort-cos-elastico-bolso-lateral-cinza-rosa-223335"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/calca-corsario-cos-dobravel-basica-cinza-rosa-223146"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Home-Office_02-04_at%C3%A9_04-04/MOR_04-04_Yoga-em-Casa/Calca%20Corsario%20Cos%20Dobravel%20Basica%20Cinza-Rosa.jpg"
+              title="Calca Corsario Cos Dobravel Basica Cinza/Rosa"
+              alt="Calca Corsario Cos Dobravel Basica Cinza/Rosa" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Corsario Cos Dobravel
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 279,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 5x R$ 55,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/calca-corsario-cos-dobravel-basica-cinza-rosa-223146"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

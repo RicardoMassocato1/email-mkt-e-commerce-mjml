@@ -1,0 +1,250 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column background-color="#F2ECE4">
+          <mj-text
+            color="#D3C4B0"
+            font-size="28px"
+            padding="40px 30px"
+            align="center"
+            font-weight="300"
+            text-transform="uppercase">
+            Obrigada por se cadastrar!
+          </mj-text>
+          <mj-image
+            padding="0"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/boas-vindas/topo-boas-vindas.png"
+            alt="Obrigada por se cadastrar!" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column padding-top="50px">
+          <mj-text
+            color="#999999"
+            font-size="16px"
+            padding="0 0 10px 0"
+            align="center"
+            font-weight="300"
+            text-transform="uppercase">
+            Você ganhou:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column background-color="#F8BFB3" width="230px">
+          <mj-text
+            color="#ffffff"
+            font-size="40px"
+            padding="10px"
+            align="center"
+            font-weight="700"
+            letter-spacing="5px"
+            text-transform="uppercase">
+            10% OFF
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column background-color="#F2ECE4" width="230px">
+          <mj-text
+            color="#D3C4B0"
+            font-size="18px"
+            padding="10px"
+            font-weight="300"
+            align="center">
+            em sua primeira compra
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text
+            color="#A1A1A1"
+            font-size="12px"
+            padding="20px 0 0 0"
+            font-weight="300"
+            align="center">
+            Válido exclusivamente para você durante todo este mês. <br/> Use o cupom abaixo e aproveite!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text
+            color="#A1A1A1"
+            font-size="12px"
+            padding="50px 0 5px 0"
+            font-weight="300"
+            align="center">
+            cupom:
+          </mj-text>
+          <mj-text
+            color="#F8BFB3"
+            font-size="28px"
+            padding="0"
+            font-weight="700"
+            align="center"
+            text-transform="uppercase">
+            primeiramr
+          </mj-text>
+          <mj-text padding="20px 0 0 0" align="center">
+            <a
+              style="font-weight: 300; border: 1px solid #D3C4B0; color: #D3C4B0; text-decoration: none; text-transform: uppercase; font-size: 18px; display: inline-block; margin: 10px 0 0 0;padding: 5px 10px;"
+              href="#"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column padding-top="50px">
+          <mj-text
+            color="#999999"
+            font-size="16px"
+            padding="0 0 10px 0"
+            align="center"
+            font-weight="300"
+            text-transform="uppercase">
+            Em nosso e-shop você encontra:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-group>
+          <!-- vestuario -->
+          <mj-column width="50%">
+            <mj-image
+              padding="0"
+              href="https://www.morenarosa.com.br/vestuario"
+              width="300px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/boas-vindas/vestuario.jpg"
+              alt="Vestuário" />
+              <mj-text padding="10px 0 0 0" align="center">
+                <a
+                  style="background-color: #ffffff; font-weight: 300; border: 1px solid #D3C4B0; color: #D3C4B0; text-decoration: none; text-transform: uppercase; font-size: 100%; display: inline-block; margin: 0; padding: 5px 10px;"
+                  href="https://www.morenarosa.com.br/vestuario"
+                  title="Vestuário">
+                  Vestuário
+                </a>
+              </mj-text>
+          </mj-column>
+          <!-- acessorios -->
+          <mj-column width="50%">
+            <mj-image
+              padding="0"
+              href="https://www.morenarosa.com.br/acessorios"
+              width="300px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/boas-vindas/acessorios.jpg"
+              alt="Acessórios" />
+              <mj-text padding="10px 0 0 0" align="center">
+                <a
+                  style="background-color: #ffffff; font-weight: 300; border: 1px solid #D3C4B0; color: #D3C4B0; text-decoration: none; text-transform: uppercase; font-size: 100%; display: inline-block; margin: 0; padding: 5px 10px;"
+                  href="https://www.morenarosa.com.br/acessorios"
+                  title="Acessórios">
+                  Acessórios
+                </a>
+              </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="30px 0">
+        <mj-group>
+          <!-- praia -->
+          <mj-column width="50%">
+            <mj-image
+              padding="0"
+              href="https://www.morenarosa.com.br/praia"
+              width="300px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/boas-vindas/praia.jpg"
+              alt="Praia" />
+              <mj-text padding="10px 0 0 0" align="center">
+                <a
+                  style="background-color: #ffffff; font-weight: 300; border: 1px solid #D3C4B0; color: #D3C4B0; text-decoration: none; text-transform: uppercase; font-size: 100%; display: inline-block; margin: 0; padding: 5px 10px;"
+                  href="https://www.morenarosa.com.br/praia"
+                  title="Praia">
+                  Praia
+                </a>
+              </mj-text>
+          </mj-column>
+          <!-- legerie -->
+          <mj-column width="50%">
+            <mj-image
+              padding="0"
+              href="https://www.morenarosa.com.br/lingerie"
+              width="300px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/boas-vindas/lingerie.jpg"
+              alt="Lingerie" />
+              <mj-text padding="10px 0 0 0" align="center">
+                <a
+                  style="background-color: #ffffff; font-weight: 300; border: 1px solid #D3C4B0; color: #D3C4B0; text-decoration: none; text-transform: uppercase; font-size: 100%; display: inline-block; margin: 0; padding: 5px 10px;"
+                  href="https://www.morenarosa.com.br/lingerie"
+                  title="Lingerie">
+                  Lingerie
+                </a>
+              </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section>
+        <mj-group>
+          <!-- calcados -->
+          <mj-column width="50%">
+            <mj-image
+              padding="0"
+              href="https://www.morenarosa.com.br/calcados"
+              width="300px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/boas-vindas/calcados.jpg"
+              alt="Calçados" />
+              <mj-text padding="10px 0 0 0" align="center">
+                <a
+                  style="background-color: #ffffff; font-weight: 300; border: 1px solid #D3C4B0; color: #D3C4B0; text-decoration: none; text-transform: uppercase; font-size: 100%; display: inline-block; margin: 0; padding: 5px 10px;"
+                  href="https://www.morenarosa.com.br/calcados"
+                  title="Calçados">
+                  Calçados
+                </a>
+              </mj-text>
+          </mj-column>
+          <!-- fitness -->
+          <mj-column width="50%">
+            <mj-image
+              padding="0"
+              href="https://www.morenarosa.com.br/fitness"
+              width="300px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/boas-vindas/fitness.jpg"
+              alt="Fitness" />
+              <mj-text padding="10px 0 0 0" align="center">
+                <a
+                  style="background-color: #ffffff; font-weight: 300; border: 1px solid #D3C4B0; color: #D3C4B0; text-decoration: none; text-transform: uppercase; font-size: 100%; display: inline-block; margin: 0; padding: 5px 10px;"
+                  href="https://www.morenarosa.com.br/fitness"
+                  title="Fitness">
+                  Fitness
+                </a>
+              </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

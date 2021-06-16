@@ -1,0 +1,252 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 20px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Lan%C3%A7amento&pwaf_productClusterIds=308"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-topo.jpg"
+          alt="Casa Urbana - O abóbora em contraste com os tons de verde - com destaque para o acqua - são cores que se destacam na temporada."
+          title="Casa Urbana" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 10px 15px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-abobora.jpg"
+          alt="Abóbora"
+          title="Abóbora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/t-shirt-decote-v-com-babado-roxo-239942"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/358652/T-SHIRT-DECOTE-V-COM-BABADO---LI-ROXO-AMETISTA---P.jpg?v=637378039876600000"
+            title="T-Shirt Decote V Com Babado Roxo"
+            alt="T-Shirt Decote V Com Babado Roxo" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            TT-Shirt Decote V Com<br> Babado Roxo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 65,30
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 195,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/t-shirt-decote-v-com-babado-roxo-239942" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-alfaiataria-bolso-faca-azul-242685"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/359246/SHORTS-ALFAIATARIA-BOLSO-FACA---ES-AZUL---38.jpg?v=637378051547000000"
+            title="Shorts Alfaiataria Bolso Faca Azul"
+            alt="Shorts Alfaiataria Bolso Faca Azul" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Alfaiataria Bolso<br> Faca Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 51,98
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 259,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-alfaiataria-bolso-faca-azul-242685" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-alfaiataria-bolso-faca-azul-242685"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/359246/SHORTS-ALFAIATARIA-BOLSO-FACA---ES-AZUL---38.jpg?v=637378051547000000"
+            title="Shorts Alfaiataria Bolso Faca Azul"
+            alt="Shorts Alfaiataria Bolso Faca Azul" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Alfaiataria Bolso<br> Faca Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 51,98
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 259,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-alfaiataria-bolso-faca-azul-242685" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 10px 15px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-acqua.jpg"
+          alt="Acqua"
+          title="Acqua" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/t-shirt-dress-detalhe-decote-rosa-242675"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/359199/T-SHIRT-DRESS-DETALHE-DECOTE---ES-PINK-LARANJA---P.jpg?v=637378050751200000"
+            title="T-Shirt Dress Detalhe Decote Rosa"
+            alt="T-Shirt Dress Detalhe Decote Rosa" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Dress Detalhe<br> Decote Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 59,97
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 239,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/t-shirt-dress-detalhe-decote-rosa-242675" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-alfaiataria-bolso-faca-azul-242685"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/359246/SHORTS-ALFAIATARIA-BOLSO-FACA---ES-AZUL---38.jpg?v=637378051547000000"
+            title="Shorts Alfaiataria Bolso Faca Azul"
+            alt="Shorts Alfaiataria Bolso Faca Azul" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Alfaiataria Bolso<br> Faca Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 51,98
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 259,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-alfaiataria-bolso-faca-azul-242685" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-canoa-manga-morcego-abertura-manga-rosa-239944"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/358668/BLUSA-DECOTE-CANOA-MANGA-MORCEGO-ABERTURA-MANGA---ES-PINK-PRETO---P.jpg?v=637378040142600000"
+            title="Blusa Decote Canoa Manga Morcego Abertura Manga Rosa"
+            alt="Blusa Decote Canoa Manga Morcego Abertura Manga Rosa" />
+
+          <mj-text align="center" color="#734627" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Decote Canoa<br> Manga Morcego
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#734627" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#734627" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/blusa-decote-canoa-manga-morcego-abertura-manga-rosa-239944" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#734627" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_14-10_Casa-Urbana/E-mails-mkt-2005-02-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

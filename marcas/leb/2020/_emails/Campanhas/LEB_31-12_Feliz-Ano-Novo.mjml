@@ -1,0 +1,121 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br"
+            width="600px"
+            padding="0"
+            alt="Feliz Ano Novo!"
+            title="Feliz Ano Novo!"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dezembro/LEB_31-12_Feliz-Ano-Novo/Artboard%201%20copy%203-topo.jpg" />
+        </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/t-shirt-leboh-dress-compose-de-tecidos-off-white-235358/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189119/T-SHIRT-DRESS-COMPOSE-DE-TECIDOS---CO-OFF-WHITE-AMARELO-VERMELHO---PP.jpg?v=637332758348330000"
+            title="T-Shirt Lebôh Dress Composê De Tecidos Off White"
+            alt="T-Shirt Lebôh Dress Composê De Tecidos Off White" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="left" color="#000" font-weight="400" font-size="15px" padding="140px 0 10px 0">
+            T-Shirt Lebôh Dress<br> Composê De Tecidos<br> Off White
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            7x de R$ 51,41
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 359,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/t-shirt-leboh-dress-compose-de-tecidos-off-white-235358/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="right" color="#000" font-weight="400" font-size="15px" padding="140px 0 10px 0">
+            Camisa Lebôh Manga<br> Longa Alongada<br> Dourado
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/camisa-leboh-manga-longa-alongada-dourado-233290/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/camisa-leboh-manga-longa-alongada-dourado-233290/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188802/CAMISA-MANGA-LONGA-ALONGADA---LT-DOURADO---PP.jpg?v=637332751617800000"
+            title="Camisa Lebôh Manga Longa Alongada Dourado"
+            alt="Camisa Lebôh Manga Longa Alongada Dourado" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-leboh-comfort-bolso-faca-bege-232987/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189181/SHORTS-COMFORT-BOLSO-FACA---LI-CRU---34.jpg?v=637332759630770000"
+            title="Shorts Lebôh Comfort Bolso Faca Bege"
+            alt="Shorts Lebôh Comfort Bolso Faca Bege" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="left" color="#000" font-weight="400" font-size="15px" padding="150px 0 10px 0">
+            Shorts Lebôh Comfort<br> Bolso Faca Bege
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            3x de R$ 59,96
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 179,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/shorts-leboh-comfort-bolso-faca-bege-232987/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>    
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

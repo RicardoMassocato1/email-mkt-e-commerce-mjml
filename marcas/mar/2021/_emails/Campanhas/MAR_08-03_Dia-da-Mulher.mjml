@@ -1,0 +1,102 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 70px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_08-03_Dia-da-Mulher/MV_EmailMkt_01-topo.jpg"
+          alt="Dia da Mulher"
+          title="Dia da Mulher" />
+      </mj-column>
+    </mj-section>
+  
+
+    <mj-section background-color="#eb7e69" padding-bottom="0px" padding-top="0px">
+      <mj-column width="30%">
+        <mj-image src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_08-03_Dia-da-Mulher/louise.jpg" 
+          alt="Louise Abrahão" 
+          width="150px" 
+          padding-left="0px" 
+          padding-right="0px" 
+          padding-bottom="0px" 
+          padding-top="120px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-family="Roboto, sans-serif" align="center" color="#fff1ed" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="5px" padding-top="5px">
+          <p style="font-size: 19px;font-weight:500;">Louise Abrahão</p>
+          <p style="font-size: 15px;">Coordenadora de Estilo Maria.Valentina</p>
+          <p style="font-weight:400; letter-spacing:0.6px; line-height:16px"><strong>Na sua profissão, qual seu maior desafio?</strong><br>
+            Na minha profissão o meu maior desafio é sempre precisar me reinventar e empoderar, isso reflete muito nas coleções da Maria.Valentina. Só assim consigo entregar algo novo e diferente a cada coleção, trazendo o frescor, a alegria de viver e de fazer sempre o melhor. Quando trabalhamos com amor e prazer, TUDO SEMPRE DÁ CERTO!
+            <br><br><strong>E seu maior orgulho?</strong><br>
+            O meu maior orgulho é ser a mulher que me tornei e a profissional que sou hoje. Lembro de toda a minha trajetória para chegar até aqui, todo o estudo e esforço que hoje fazem de mim uma mulher independe e feliz.
+            Além disso, também tenho muito orgulho do meu time, do ambiente leve e descontraído que criamos ali dentro. Cada um deles é essencial e especial. Temos nossos corres, nossos problemas, mas temos transparência, amamos o que fazemos e, com certeza, somos felizes dentro do nosso núcleo MV. Cada dia é uma história nova e juntos damos muitas risadas.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px" background-color="#ffffff"></mj-section>
+
+    <mj-section background-color="#fff1ed" padding-bottom="0px" padding-top="0px">
+      <mj-column width="70%">
+        <mj-text font-family="Roboto, sans-serif" align="center" color="#eb7e69" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="20px">
+          <p style="font-size: 19px;font-weight:500;">Camila Padilha</p>
+          <p style="font-size: 15px;">Estilista Jeans Maria.Valentina</p>
+          <p style="font-weight:400; letter-spacing:0.6px; line-height:16px"><strong>Qual a melhor parte de criar roupas para mulheres de todo o Brasil?</strong><br>
+            A melhor parte do meu trabalho é poder me conectar, de alguma forma, com mulheres de todo o Brasil. Quando desenvolvo uma peça, eu penso em quem vai usar e como ela vai se sentir ao vestir. Não é só sobre fazer roupas, tem também muita energia, carinho e amor envolvido em cada detalhe. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image 
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_08-03_Dia-da-Mulher/camila%20padilha.jpg" 
+          alt="Camila Padilha" 
+          width="150px" 
+          padding-left="0px" 
+          padding-right="0px" 
+          padding-bottom="0px" 
+          padding-top="40px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px" background-color="#ffffff"></mj-section>
+
+    <mj-section background-color="#eb7e69" padding-bottom="0px" padding-top="0px">
+      <mj-column width="30%">
+        <mj-image src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_08-03_Dia-da-Mulher/loana%20dos%20santos.jpg" 
+          alt="Loana dos Santos" 
+          width="150px" 
+          padding-left="0px" 
+          padding-right="0px" 
+          padding-bottom="0px" 
+          padding-top="40px">
+        </mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text font-family="Roboto, sans-serif" align="center" color="#fff1ed" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="2px">
+          <p style="font-size: 19px;font-weight:500;">Loana dos Santos</p>
+          <p style="font-size: 15px;">Modelista Maria.Valentina</p>
+          <p style="font-weight:400; letter-spacing:0.6px; line-height:16px"><strong>Como é seu dia a dia na empresa?</strong><br>
+            A palavra que define meu dia a dia é rapidez. Ser modelista não é fácil, é preciso paciência e muita concentração, mas o sentimento é muito bom quando vejo a coleção finalmente pronta. O fluxo de trabalho é intenso e é preciso agilidade para conseguir administrar as tarefas, mas me sinto muito realizada no fim do dia por tudo que consigo fazer e todas as pessoas que consigo ajudar. Minha rotina é frenética, mas eu amo!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

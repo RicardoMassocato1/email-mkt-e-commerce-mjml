@@ -1,0 +1,383 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="10px 0px 10px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_productClusterIds=236&pwaf_releaseDate=-&_t=tshirt%20139,90"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_01-09_T-Shirts/Prancheta%201-topo.jpg" 
+              alt="T-Shirts a R$139,90"
+              title="T-Shirts a R$139,90"/>
+          </mj-column>      
+          <mj-column padding="20px 0px" width="100%">
+            <mj-divider padding="10px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#1d1d1b"
+              font-size="18px"
+              padding="0px 0px 15px 0px"
+              align="center"
+              line-height="22px"
+              font-weight="300">
+              GARANTA A SUA T-SHIRT CORINGA<br> PARA O SEU CLOSET! 
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 35px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/t-shirt-gola-alta-detalhe-ziper-azul-223073"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/169106/T-SHIRT-GOLA-ALTA-DETALHE-ZIPER---LI-AZUL-MARINHO---P.jpg?v=637187617716900000"
+              title="T-SHIRT GOLA ALTA DETALHE ZIPER AZUL"
+              alt="T-SHIRT GOLA ALTA DETALHE ZIPER AZUL" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #1d1d1b; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Gola Alta<br> Detalhe Ziper
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="13px"
+              align="center"
+              padding="0">
+              De: <span style="text-decoration:line-through">R$ 249,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">2x R$ 69,65</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 139,90</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0px">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#1d1d1b; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 14px; border: 1px solid #1d1d1b;"
+                href="https://www.iodice.com.br/t-shirt-gola-alta-detalhe-ziper-azul-223073"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 35px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/t-shirt-decote-redondo-basica-preto-223236"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/168725/T-SHIRT-DECOTE-REDONDO-BASICA---ES-PRETO-OFF-WHITE---P.jpg?v=637172152673630000"
+              title="T-SHIRT DECOTE REDONDO BASICA PRETO"
+              alt="T-SHIRT DECOTE REDONDO BASICA PRETO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #1d1d1b; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote<br> Redondo Basica
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="13px"
+              align="center"
+              padding="0">
+              De: <span style="text-decoration:line-through">R$ 349,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">2x R$ 69,65</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 139,90</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0px">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#1d1d1b; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 14px; border: 1px solid #1d1d1b;"
+                href="https://www.iodice.com.br/t-shirt-decote-redondo-basica-preto-223236"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 35px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/t-shirt-decote-redondo-com-drapeado-off-white-213945"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/162595/T-SHIRT-DECOTE-REDONDO-COM-DRAPEADO---LI-OFF-WHITE---GG.jpg?v=637054512077800000"
+              title="T-SHIRT DECOTE REDONDO COM DRAPEADO OFF WHITE"
+              alt="T-SHIRT DECOTE REDONDO COM DRAPEADO OFF WHITE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #1d1d1b; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote<br> Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="13px"
+              align="center"
+              padding="0">
+              De: <span style="text-decoration:line-through">R$ 249,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">2x R$ 69,65</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 139,90</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0px">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#1d1d1b; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 14px; border: 1px solid #1d1d1b;"
+                href="https://www.iodice.com.br/t-shirt-decote-redondo-com-drapeado-off-white-213945"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/t-shirt-decote-redondo-basica-mostarda-223693"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/168854/T-SHIRT-DECOTE-REDONDO-BASICA---LI-MOSTARDA---M.jpg?v=637172154374070000"
+              title="T-SHIRT DECOTE REDONDO BASICA MOSTARDA"
+              alt="T-SHIRT DECOTE REDONDO BASICA MOSTARDA" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #1d1d1b; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote<br> Redondo Basica
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="13px"
+              align="center"
+              padding="0">
+              De: <span style="text-decoration:line-through">R$ 249,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">2x R$ 69,65</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 139,90</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0px">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#1d1d1b; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 14px; border: 1px solid #1d1d1b;"
+                href="https://www.iodice.com.br/t-shirt-decote-redondo-basica-mostarda-223693"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/t-shirt-decote-ribana-detalhe-tela-preto-branco-216437"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/162885/T-SHIRT-DECOTE-RIBANA-DETALHE-TELA---CO-PRETO-BRANCO---P.jpg?v=637054517381530000"
+              title="T-SHIRT DECOTE RIBANA DETALHE TELA PRETO/BRANCO"
+              alt="T-SHIRT DECOTE RIBANA DETALHE TELA PRETO/BRANCO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #1d1d1b; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote<br> Ribana
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="13px"
+              align="center"
+              padding="0">
+              De: <span style="text-decoration:line-through">R$ 349,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">2x R$ 69,65</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 139,90</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0px">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#1d1d1b; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 14px; border: 1px solid #1d1d1b;"
+                href="https://www.iodice.com.br/t-shirt-decote-ribana-detalhe-tela-preto-branco-216437"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="33.333%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/t-shirt-decote-redondo-detalhe-retilinea-cinza-210732"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/159845/T-SHIRT-DECOTE-REDONDO-DETALHE-RETILINEA---LI-GRAFITE---M.jpg?v=636996870717130000"
+              title="T-SHIRT DECOTE REDONDO DETALHE RETILINEA CINZA"
+              alt="T-SHIRT DECOTE REDONDO DETALHE RETILINEA CINZA" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #1d1d1b; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote<br> Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="13px"
+              align="center"
+              padding="0">
+              De: <span style="text-decoration:line-through">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">2x R$ 69,65</span>
+            </mj-text>
+
+            <mj-text
+              color="#1d1d1b"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 139,90</span>
+            </mj-text>
+
+            <mj-text align="center" padding="0px">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#1d1d1b; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 14px; border: 1px solid #1d1d1b;"
+                href="https://www.iodice.com.br/t-shirt-decote-redondo-detalhe-retilinea-cinza-210732"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

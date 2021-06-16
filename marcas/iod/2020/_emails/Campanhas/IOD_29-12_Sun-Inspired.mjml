@@ -1,0 +1,178 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 30px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_29-12_Sun-Inspired/Artboard%201%20copy%207-topo.jpg"
+          alt="Lançamento Sun Inspired"
+          title="Lançamento Sun Inspired" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 20px 30px 20px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_29-12_Sun-Inspired/Artboard%201%20copy%207-img01.jpg"
+          alt="Lançamento Sun Inspired"
+          title="Lançamento Sun Inspired" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="'Poppins', sans-serif" color="#000" font-size="13px" padding="0px 0px 20px 0px" align="center" font-weight="500" line-height="19px">
+          Um clima resort e solar dá o tom de peças<br>
+          que vestem bem em qualquer ocasião de<br> 
+          uso. Conjuntos se tornam itens-desejo do<br>
+          closet, resolvendo no ato as produções.
+        </mj-text>
+         <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="0px 0px 20px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 20px 30px 20px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_29-12_Sun-Inspired/Artboard%201%20copy%207-img02.jpg"
+          alt="Lançamento Sun Inspired"
+          title="Lançamento Sun Inspired" />
+        <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=239&_t=Lan%C3%A7amento&p=7" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="0px 0px 30px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-iodice-curta-linha-a-bordado-industrial-branco-237600"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178460/SAIA-CURTA-LINHA-A-BORDADO-INDUSTRIAL---LI-BRANCO---38.jpg?v=637378479858670000"
+            title="SAIA IÓDICE CURTA LINHA A BORDADO INDUSTRIAL BRANCO"
+            alt="SAIA IÓDICE CURTA LINHA A BORDADO INDUSTRIAL BRANCO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Iódice Curta Linha A<br> Bordado Insdustrial Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 83,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/saia-iodice-curta-linha-a-bordado-industrial-branco-237600" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-clochard-cos-alto-com-cinto-verde-237598"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178432/CALCA-CLOCHARD-COS-ALTO-COM-CINTO---LI-VERDE---38.jpg?v=637378479610930000"
+            title="CALÇA IÓDICE CLOCHARD CÓS ALTO COM CINTO VERDE"
+            alt="CALÇA IÓDICE CLOCHARD CÓS ALTO COM CINTO VERDE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Clochard Cós<br> Alto Com Cinto Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 73,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 439,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-clochard-cos-alto-com-cinto-verde-237598" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blusa-iodice-ombro-so-manga-curta-tricot-bege-240175"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178084/BLUSA-OMBRO-SO-MANGA-CURTA-TRICOT---LI-AREIA---P.jpg?v=637378474516770000"
+            title="BLUSA IÓDICE OMBRO SÓ MANGA CURTA TRICOT BEGE"
+            alt="BLUSA IÓDICE OMBRO SÓ MANGA CURTA TRICOT BEGE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Iódice Ombro Só<br> Manga Curta Tricot Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 76,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/blusa-iodice-ombro-so-manga-curta-tricot-bege-240175" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/top-iodice-cropped-alca-com-amarracao-off-white-237825"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/177670/TOP-CROPPED-ALCA-COM-AMARRACAO---LI-OFF-WHITE---P.jpg?v=637378464717630000"
+            title="TOP IÓDICE CROPPED ALÇA COM AMARRAÇÃO OFF WHITE"
+            alt="TOP IÓDICE CROPPED ALÇA COM AMARRAÇÃO OFF WHITE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Iódice Cropped Alça<br> Com Amarração Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 83,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/top-iodice-cropped-alca-com-amarracao-off-white-237825" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

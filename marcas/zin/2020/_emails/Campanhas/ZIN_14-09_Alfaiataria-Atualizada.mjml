@@ -1,0 +1,135 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 20px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_14-09_Alfaiataria-Atualizada/emailmkt_04-01.jpg"
+          alt="Alfaiataria Atualizada"
+          title="Alfaiataria Atualizada" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="right" color="#2fd18a" font-weight="400" font-size="15px" padding="170px 0 10px 0">
+            Macacao Flare Com<br> Botao Verde
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="right" padding="8px 0">
+            11x de R$ 52,71
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 579,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/macacao-flare-com-botao-verde-232656/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="right" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-flare-com-botao-verde-232656/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212581/MACACAO-FLARE-COM-BOTAO---LT-VERDE---PP.jpg?v=637327752666000000"
+            title="Macacao Flare Com Botao Verde"
+            alt="Macacao Flare Com Botao Verde" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/colete-alongado-detalhe-botao-verde-232650/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212560/COLETE-ALONGADO-DETALHE-BOTAO---LT-VERDE---P.jpg?v=637327752200900000"
+            title="Colete Alongado Detalhe Botao Verde"
+            alt="Colete Alongado Detalhe Botao Verde" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="left" color="#2fd18a" font-weight="400" font-size="15px" padding="170px 0 10px 0">
+            Colete Alongado<br> Detalhe Botao Verde
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="left" padding="8px 0">
+            7x de R$ 57,12
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 399,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/colete-alongado-detalhe-botao-verde-232650/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="left" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="right" color="#2fd18a" font-weight="400" font-size="15px" padding="170px 0 10px 0">
+            Camisa Manga Longa<br> Com Entremeio Bege
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="right" padding="8px 0">
+            8x de R$ 54,98
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 439,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/camisa-manga-longa-com-entremeio-bege-232624/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="right" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/camisa-manga-longa-com-entremeio-bege-232624/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212511/CAMISA-MANGA-LONGA-COM-ENTREMEIO---LI-CRU---P.jpg?v=637327751356370000"
+            title="Camisa Manga Longa Com Entremeio Bege"
+            alt="Camisa Manga Longa Com Entremeio Bege" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_14-09_Alfaiataria-Atualizada/ZC_EmailMkt_Semana02-topo.jpg"
+          alt="Progressiva lqda"
+          title="Progressiva lqda" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

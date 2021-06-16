@@ -1,0 +1,200 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_21-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%202-topo.jpg"
+          alt="Verão 50% OFF"
+          title="Verão 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-detalhe-cintura-verde-227453"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/341056/SAIA-LONGA-EVASE-DETALHE-CINTURA---LI-VERDE-MILITAR---36.jpg?v=637237831044800000"
+            title="Saia Morena Rosa Longa Evasê Detalhe Cintura Verde"
+            alt="Saia Morena Rosa Longa Evasê Detalhe Cintura Verde" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Longa<br> Evasê Detalhe Cintura<br> Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 699,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-detalhe-cintura-verde-227453" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-midi-gode-basica-azul-227581"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/347954/SAIA-MIDI-GODE-BASICA---ES-AZUL-VERDE---36.jpg?v=637242067751430000"
+            title="Saia Morena Rosa Midi Godê Básica Azul"
+            alt="Saia Morena Rosa Midi Godê Básica Azul" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Midi<br> Godê Básica<br> Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 57,48
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 229,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-midi-gode-basica-azul-227581" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-alfaiataria-bolso-faca-verde-233509"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/351590/SHORTS-ALFAIATARIA-BOLSO-FACA---LI-VERDE-LIMA---36.jpg?v=637326610317830000"
+            title="Shorts Morena Rosa Alfaiataria Bolso Faca Verde"
+            alt="Shorts Morena Rosa Alfaiataria Bolso Faca Verde" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena Rosa<br> Alfaiataria Bolso Faca<br> Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-alfaiataria-bolso-faca-verde-233509" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-evase-barra-italiana-laranja-234340"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352183/SHORTS-EVASE-BARRA-ITALIANA---ES-LARANJA-PRETO---36.jpg?v=637326623450200000"
+            title="Shorts Morena Rosa Evasê Barra Italiana Laranja"
+            alt="Shorts Morena Rosa Evasê Barra Italiana Laranja" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena Rosa<br> Evasê Barra Italiana<br> Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 529,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 52,99
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 264,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-evase-barra-italiana-laranja-234340" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <!--<mj-section padding="0px 0px 0px 0px" background-color="linear-gradient(to right, #d97923 , #d54060)"> -->
+    <mj-section padding="0px 0px 0px 0px" background-color="#d54060">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#fff" font-size="13.5px" padding="50px 0px 50px 0px" align="center" font-weight="600" line-height="21px" letter-spacing="3.5px">
+          Compre também
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/lingerie/calcinhas?pwaf_OrderByBestDiscountDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_21-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%202-calcinhas.jpg"
+            alt="Calcinhas"
+            title="Calcinhas" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/praia/biquinis?pwaf_OrderByBestDiscountDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_21-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%202-biquinis.jpg"
+            alt="Biquínis"
+            title="Biquínis" />
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestidos&pwaf_productClusterIds=244"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_21-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%202-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

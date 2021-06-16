@@ -1,0 +1,81 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#121212">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/lingerie?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_26-04_Intimates/Prancheta%201-01-min.jpg"
+          alt="Morena Rosa Intimates"
+          title="Morena Rosa Intimates" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#121212">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="13px" padding="15px 20px 40px 20px" text-transform="none" align="center" font-weight="300" line-height="18px" letter-spacing="1.5px">
+          Para apreciar o conforto da sua casa com pijamas lindos e confortáveis. Aproveite que estão com 30% OFF em nosso site.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#621819">
+      <mj-column>
+        <mj-image
+          padding="50px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/chemise-morena-rosa-curto-fenda-lateral-vermelho-241237"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_26-04_Intimates/Prancheta%201-02-min.jpg"
+          alt="Chemise Morena Rosa Curto Fenda Lateral Vermelho"
+          title="Chemise Morena Rosa Curto Fenda Lateral Vermelho" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#621819">
+      <mj-column>
+        <mj-image
+          padding="15px 0px 15px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/sutia-morena-rosa-estruturado-com-suporte-preto-238085"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_26-04_Intimates/Prancheta%201-03-min.jpg"
+          alt="Sutiã Morena Rosa Estruturado Com Suporte Preto"
+          title="Sutiã Morena Rosa Estruturado Com Suporte Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#621819">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/body-morena-rosa-decote-redondo-cavado-abertura-costa-preto-237901"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_26-04_Intimates/Prancheta%201-04-min.jpg"
+          alt="Body Morena Rosa Decote Redondo Cavado Abertura Costa Preto"
+          title="Body Morena Rosa Decote Redondo Cavado Abertura Costa Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#621819">
+      <mj-column>
+        <mj-image
+          padding="25px 0px 50px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Dia%20das%20M%C3%A3es&pwaf_productClusterIds=347"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_26-04_Intimates/Prancheta%201-05-min.jpg"
+          alt="Dia das Mães"
+          title="Dia das Mães" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

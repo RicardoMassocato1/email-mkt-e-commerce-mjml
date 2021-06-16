@@ -1,0 +1,72 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/jeans?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_21-05_Semana-Jeans/Topo-Email-2.gif"
+          alt="Semana Denim"
+          title="Semana Denim" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_21-05_Semana-Jeans/SEGUNDO-01.jpg"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/calca-zinco-mom-cos-alto-com-laser-jeans-252460/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_21-05_Semana-Jeans/SEGUNDO-02-min.jpg"
+          alt="Calça Zinco Mom Cós Alto Com Laser Jeans"
+          title="Calça Zinco Mom Cós Alto Com Laser Jeans" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/shorts-zinco-linha-a-com-cadarco-jeans-252443/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_21-05_Semana-Jeans/SEGUNDO-03-min.jpg"
+          alt="Shorts Zinco Linha A Com Cadarço Jeans"
+          title="Shorts Zinco Linha A Com Cadarço Jeans" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/calca-zinco-mom-cos-alto-com-cinto-jeans-254309/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_21-05_Semana-Jeans/SEGUNDO-04-min.jpg"
+          alt="Calça Zinco Mom Cós Alto Com Cinto Jeans"
+          title="Calça Zinco Mom Cós Alto Com Cinto Jeans" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

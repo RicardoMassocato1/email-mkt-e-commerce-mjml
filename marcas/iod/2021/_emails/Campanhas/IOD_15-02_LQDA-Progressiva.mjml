@@ -1,0 +1,167 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Progressiva&pwaf_productClusterIds=207"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_26-01_LQDA-Progressiva/Artboard%201-topo.jpg"
+          alt="LQDA progressiva"
+          title="LQDA progressiva" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+      <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#AB1622" font-size="23px" padding="30px 0px 10px 0px" align="center" font-weight="700" line-height="20px" letter-spacing="0.2px">
+          WE LOVE TEES!
+        </mj-text>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="15px" padding="0px 0px 40px 0px" align="center" font-weight="400" line-height="18px">
+          Tshirts para compor seus looks
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/t-shirt-iodice-gola-redonda-basica-preto-228988"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174383/03-12-2019--ECOM-IODICE-20029270.jpg?v=637250566072430000"
+            title="T-SHIRT IÓDICE GOLA REDONDA BÁSICA PRETO"
+            alt="T-SHIRT IÓDICE GOLA REDONDA BÁSICA PRETO" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            T-SHIRT IÓDICE GOLA<br> REDONDA BÁSICA<br> PRETO
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 749,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0 0px 0">
+            Por: R$ 374,95<br><span style="font-size:10.2px; line-height:20px; font-weight:400">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/t-shirt-iodice-gola-redonda-basica-preto-228988" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="right" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            T-SHIRT IÓDICE DECOTE<br> REDONDO DETALHE<br> TERMOCOLANTE PRETO
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 189,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0 0px 0">
+            Por: R$ 94,95<br><span style="font-size:10.2px; line-height:20px; font-weight:400">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/t-shirt-iodice-decote-redondo-detalhe-termocolante-preto-235610" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="right" font-weight="400" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/t-shirt-iodice-decote-redondo-detalhe-termocolante-preto-235610"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175640/T-SHIRT-DECOTE-REDONDO-DETALHE-TERMOCOLANTE---LI-PRETO---G.jpg?v=637327709703770000"
+            title="T-SHIRT IÓDICE DECOTE REDONDO DETALHE TERMOCOLANTE PRETO"
+            alt="T-SHIRT IÓDICE DECOTE REDONDO DETALHE TERMOCOLANTE PRETO" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/t-shirt-iodice-decote-ribana-basica-off-white-235187"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175481/T-SHIRT-DECOTE-RIBANA-BASICA---LI-OFF-WHITE---P.jpg?v=637327707050230000"
+            title="T-SHIRT IÓDICE DECOTE RIBANA BÁSICA OFF WHITE"
+            alt="T-SHIRT IÓDICE DECOTE RIBANA BÁSICA OFF WHITE" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            T-SHIRT IÓDICE DECOTE<br> RIBANA BÁSICA OFF<br> WHITE
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 159,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0 0px 0">
+            Por: R$ 79,95<br><span style="font-size:10.2px; line-height:20px; font-weight:400">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/t-shirt-iodice-decote-ribana-basica-off-white-235187" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Vestidos&pwaf_productClusterIds=211"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_26-01_LQDA-Progressiva/Artboard%201-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Blusas&pwaf_productClusterIds=195"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_26-01_LQDA-Progressiva/Artboard%201-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=260"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_26-01_LQDA-Progressiva/Artboard%201-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

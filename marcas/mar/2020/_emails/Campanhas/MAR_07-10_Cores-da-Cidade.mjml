@@ -1,0 +1,166 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 10px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/lancamento?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Cores da Cidade"
+            title="Cores da Cidade"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Outubro/MAR_02-10_Cores-da-Cidade/MV_EmailMkt_01-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px 10px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/lancamento/vestidos?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Outubro/MAR_02-10_Cores-da-Cidade/MV_EmailMkt_01-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/chemise-midi-com-faixa-off-white-marinho-234492/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232335/CHEMISE-MIDI-COM-FAIXA---LT-OFF-WHITE-AZUL-MARINHO---EPP.jpg?v=637327867171170000"
+            title="Chemise Midi Com Faixa Off-White/Marinho"
+            alt="Chemise Midi Com Faixa Off-White/Marinho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Chemise Midi Com Faixa<br> Off-White/Marinho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 55,54
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/chemise-midi-com-faixa-off-white-marinho-234492/p" text-decoration="underline" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/regata-gola-alta-basica-azul-218063/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/213384/REGATA-GOLA-ALTA-BASICA---LI-AZUL-MARINHO---PP.jpg?v=637098998955700000"
+            title="Chemise Longo Com Cinto Bege"
+            alt="Chemise Longo Com Cinto Bege" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Chemise Longo Com<br> Cinto Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            10x de R$ 91,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 919,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/regata-gola-alta-basica-azul-218063/p" text-decoration="underline" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-midi-decote-v-com-faixa-verde-234860/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/231279/VESTIDO-MIDI-DECOTE-V-COM-FAIXA---ES-VERDE-CRU---PP.jpg?v=637327844238800000"
+            title="Vestido Midi Decote V Com Faixa Verde"
+            alt="Vestido Midi Decote V Com Faixa Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            Vestido Midi Decote V<br> Com Faixa Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            10x de R$ 78,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 789,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/vestido-midi-decote-v-com-faixa-verde-234860/p" text-decoration="underline" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/t-shirt-dress-com-botao-azul-226589/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/228925/T-SHIRT-DRESS-COM-BOTAO---LI-AZUL-MARINHO---PP.jpg?v=637238009277070000"
+            title="Regata Decote V Detalhe Ombro Jeans"
+            alt="Regata Decote V Detalhe Ombro Jeans" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="15px 0 10px 0">
+            T-Shirt Dress Com<br> Botao Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 55,70
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 389,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/t-shirt-dress-com-botao-azul-226589/p" text-decoration="underline" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="20px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/regatas-14990?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Regatas a 149,90"
+            title="Regatas a 149,90"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Outubro/MAR_02-10_Regatas-149/MV_EmailMkt_Saias-topo.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

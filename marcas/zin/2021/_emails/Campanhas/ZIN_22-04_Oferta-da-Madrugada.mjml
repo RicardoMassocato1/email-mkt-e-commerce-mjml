@@ -1,0 +1,234 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/oferta-da-madrugada?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Abril/ZIN_22-04_Oferta-da-Madrugada/ZC_EmailMkt_01-topo.jpg"
+          alt="Oferta do Dia"
+          title="Oferta do Dia" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="none" color="#000000" font-size="12px" padding="30px 20px 30px 80px" align="right" font-weight="500" line-height="17px" letter-spacing="1.5px">
+          Os vestidos são as peças mais easy chic que existem! Vão bem com tudo e em qualquer ocasião. A Zinco traz desde vestidos casuais e glam a modernos e clássicos, mas sempre sem perder o estilo. Para aproveitar mais seus dias e deixar seus #LookZIN ainda mais lindos, aposte no dress e arrase!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-curto-decote-redondo-detalhe-tela-branco-245543/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/217245/VESTIDO-CURTO-DECOTE-REDONDO-DETALHE-TELA---LI-BRANCO---PP.jpg?v=637425212539170000"
+            title="Vestido Zinco Curto Decote Redondo Detalhe Tela Branco"
+            alt="Vestido Zinco Curto Decote Redondo Detalhe Tela Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="26px 0 10px 0">
+            Vestido Zinco Curto<br> Decote Redondo Det...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              4x de R$ 54,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 219,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-curto-decote-redondo-detalhe-tela-branco-245543/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-curto-decote-v-com-franzido-azul-238459/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214602/VESTIDO-CURTO-DECOTE-V-COM-FRANZIDO---ES-AZUL---PP.jpg?v=637378575328570000"
+            title="Vestido Zinco Curto Decote V Com Franzido Azul"
+            alt="Vestido Zinco Curto Decote V Com Franzido Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Curto<br> Decote V Com Fran...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              3x de R$ 66,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 199,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-curto-decote-v-com-franzido-azul-238459/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-midi-decote-v-com-faixa-azul-245121/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/217195/VESTIDO-MIDI-DECOTE-V-COM-FAIXA---LT-AZUL-BRANCO---PP.jpg?v=637425211883270000"
+            title="Chemise Zinco Curto Com Abotoamento Marinho"
+            alt="Chemise Zinco Curto Com Abotoamento Marinho" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Midi Decote<br> V Com Faixa Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 159,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-midi-decote-v-com-faixa-azul-245121/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-midi-decote-v-com-recorte-azul-238416/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214530/VESTIDO-MIDI-DECOTE-V-COM-RECORTE---ES-AZUL---P.jpg?v=637378574315830000"
+            title="Vestido Zinco Curto Decote Redondo Com Recorte Marinho"
+            alt="Vestido Zinco Curto Decote Redondo Com Recorte Marinho" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Midi Decote<br> V Com Recorte Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 689,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              9x de R$ 53,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 482,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-midi-decote-v-com-recorte-azul-238416/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/chemise-zinco-curto-com-abotoamento-marinho-218052/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/200706/CHEMISE-CURTO-COM-ABOTOAMENTO---LT-AZUL-MARINHO-BRANCO---PP.jpg?v=637111820789700000"
+            title="Chemise Zinco Curto Com Abotoamento Marinho"
+            alt="Chemise Zinco Curto Com Abotoamento Marinho" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Chemise Zinco Curto Com<br> Abotoamento Marinho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 599,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              5x de R$ 59,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 299,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/chemise-zinco-curto-com-abotoamento-marinho-218052/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-curto-decote-redondo-com-recorte-marinho-224771/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/203421/VESTIDO-CURTO-DECOTE-REDONDO-COM-RECORTE---CO-AZUL-MARINHO-VERDE-CRU---P.jpg?v=637172598873230000"
+            title="Vestido Zinco Curto Decote Redondo Com Recorte Marinho"
+            alt="Vestido Zinco Curto Decote Redondo Com Recorte Marinho" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Curto<br> Decote Redondo Co...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 579,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              5x de R$ 57,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 289,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-curto-decote-redondo-com-recorte-marinho-224771/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

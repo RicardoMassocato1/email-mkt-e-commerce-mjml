@@ -1,0 +1,23 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <!--main-->
+    <mj-section background-url="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_23-03_%23ROLE.ZINCO/RoleZincoEmCasa_Context.jpg" background-size="100%" background-repeat="no-repeat">
+      <mj-column width="600px">
+        <mj-button background-color="#755dcd" padding="600px 0px 60px 0px" href="http://instagram.com.br/zincooficial" color="#ffffff" border="2px solid #ffffff" font-size="18px" font-family="Poppins" font-weight="600" line-height="1.0">CONFIRA</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--main-->
+
+    
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

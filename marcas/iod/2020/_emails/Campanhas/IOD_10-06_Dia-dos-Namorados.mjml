@@ -1,0 +1,219 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="0px 0px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Dois%20em%20um&pwaf_productClusterIds=223"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_08-06_Dia-dos-Namorados/EmailMkt-01-topo.jpg" 
+            alt="Dia dos Namorados"
+            title="Dia dos Namorados"/>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#cb2019"
+            font-size="19px"
+            padding="50px 0px 30px 20px"
+            align="left"
+            font-weight="400"
+            line-height="25px"
+            letter-spacing="3px">
+            Sugestão de vestidos <br> para o dia dos namorados
+          </mj-text>
+        </mj-column>
+        
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-longo-decote-degage-abertura-costas-rosa-208377"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_10-06_Dia-dos-Namorados/VESTIDO%20LONGO%20DECOTE%20DEGAGE%20ABERTURA%20COSTAS%20ROSA.jpg"
+            title="VESTIDO LONGO DECOTE DEGAGE ABERTURA COSTAS ROSA"
+            alt="VESTIDO LONGO DECOTE DEGAGE ABERTURA COSTAS ROSA" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Longo Decote Degage
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#cb2019" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 249,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 4x R$62,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/vestido-longo-decote-degage-abertura-costas-rosa-208377"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blusa-decote-redondo-manga-longa-tricot-azul-229971"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_10-06_Dia-dos-Namorados/VESTIDO%20CURTO%20DECOTE%20TRANSPASSADO%20COM%20FRANZIDO%20OFF%20WHITE.jpg"
+            title="VESTIDO CURTO DECOTE TRANSPASSADO COM FRANZIDO OFF WHITE"
+            alt="VESTIDO CURTO DECOTE TRANSPASSADO COM FRANZIDO OFF WHITE" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Decote Transp.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#cb2019" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 649,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 324,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$54,15</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/blusa-decote-redondo-manga-longa-tricot-azul-229971"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-longo-decote-transpassado-abertura-costas-preto-211954"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_10-06_Dia-dos-Namorados/VESTIDO%20LONGO%20DECOTE%20TRANSPASSADO%20ABERTURA%20COSTAS%20PRETO.jpg"
+            title="VESTIDO LONGO DECOTE TRANSPASSADO ABERTURA COSTAS PRETO"
+            alt="VESTIDO LONGO DECOTE TRANSPASSADO ABERTURA COSTAS PRETO" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Longo Decote Transp.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#cb2019" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 1499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 749,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 7x R$107,13</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/vestido-longo-decote-transpassado-abertura-costas-preto-211954"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

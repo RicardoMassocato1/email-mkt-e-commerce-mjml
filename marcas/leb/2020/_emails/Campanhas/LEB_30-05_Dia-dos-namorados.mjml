@@ -1,0 +1,251 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/date-yourself"
+            width="600px"
+            padding="0px 0px"
+            alt="Dia dos namorados"
+            title="Dia dos namorados"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/LEB_30-05_Dia-dos-namorados/EmailMkt-01-topo.jpg" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#d93533"
+            font-size="18px"
+            padding="15px 0px 0px 15px"
+            align="left"
+            line-height="20px"
+            font-weight="600">
+            -<br>Sugestões de<br>presentes
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 0px">
+        <mj-group>
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-alfaiataria-cos-alto-detalhe-vivo-caqui-229415/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/LEB_30-05_Dia-dos-namorados/Calca%20Alfaiataria%20Cos%20Alto%20Detalhe%20Vivo%20Caqui.jpg"
+              title="Calca Alfaiataria Cos Alto Detalhe Vivo Caqui"
+              alt="Calca Alfaiataria Cos Alto Detalhe Vivo Caqui" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #db3634; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Alfaiataria Cos Alto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#db3634" />
+
+            <mj-text
+              color="#db3634"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 339,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#db3634"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">6x de R$ 56,65</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-weight:500; font-size: 12px; color: #db3634; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #db3634;"
+                href="https://www.leboh.com.br/calca-alfaiataria-cos-alto-detalhe-vivo-caqui-229415/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/vestido-curto-decote-transpassado-detalhe-vivo-laranja-228890/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/LEB_30-05_Dia-dos-namorados/Vestido%20Curto%20Decote%20Transpassado%20Detalhe%20Vivo%20Laranja.jpg"
+              title="Vestido Curto Decote Transpassado Detalhe Vivo Laranja"
+              alt="Vestido Curto Decote Transpassado Detalhe Vivo Laranja" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #db3634; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Curto Decote
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#db3634" />
+
+            <mj-text
+              color="#db3634"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 339,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#db3634"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">6x de R$ 56,65</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-weight:500; font-size: 12px; color: #db3634; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #db3634;"
+                href="https://www.leboh.com.br/vestido-curto-decote-transpassado-detalhe-vivo-laranja-228890/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/blusa-decote-v-manga-japonesa-amarracao-frente-off-white-221398/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/LEB_30-05_Dia-dos-namorados/Blusa%20Decote%20V%20Manga%20Japonesa%20Amarracao%20Frente%20Off%20White.jpg"
+              title="Blusa Decote V Manga Japonesa Amarracao Frente Off White"
+              alt="Blusa Decote V Manga Japonesa Amarracao Frente Off White" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #db3634; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Decote V Manga Japonesa
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#db3634" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#db3634"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 249,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#db3634"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 124,95</span>
+            </mj-text>
+
+            <mj-text
+              color="#db3634"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">2x de R$ 62,47</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-weight:500; font-size: 12px; color: #db3634; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #db3634;"
+                href="https://www.leboh.com.br/blusa-decote-v-manga-japonesa-amarracao-frente-off-white-221398/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="49.8%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/camisa-manga-longa-alongada-dourado-228838/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/LEB_30-05_Dia-dos-namorados/Camisa%20Manga%20Longa%20Alongada%20Dourado.jpg"
+              title="Camisa Manga Longa Alongada Dourado"
+              alt="Camisa Manga Longa Alongada Dourado" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #db3634; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Camisa Manga Longa Alongadao
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#db3634" />
+
+            <mj-text
+              color="#db3634"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0px"
+              padding-top="23px">
+              <span style="display: block; padding: 10px 0">R$ 389,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#db3634"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">7x de R$ 55,70</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-weight:500; font-size: 12px; color: #db3634; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #db3634;"
+                href="https://www.leboh.com.br/camisa-manga-longa-alongada-dourado-228838/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="100%">
+            <mj-image
+              href="https://www.leboh.com.br/lancamento/um-tempo-pra-mim"
+              width="600px"
+              padding="20px 0px"
+              alt="Um tempo pra mim"
+              title="Um tempo pra mim"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/LEB_30-05_Dia-dos-namorados/EmailMkt-01-rodape.jpg" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

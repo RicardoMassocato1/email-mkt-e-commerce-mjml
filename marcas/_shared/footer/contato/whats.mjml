@@ -1,0 +1,31 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <mj-group>
+      <mj-column vertical-align="middle" width="25%">
+        <mj-image
+          href="https://api.whatsapp.com/send?phone=554433515000"
+          alt="Compre pelo WhatsApp"
+          title="Compre pelo WhatsApp"
+          padding="5px"
+          width="70px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/footer/contato/whatsapp.png" />
+      </mj-column>
+      <mj-column vertical-align="middle" width="70%">
+        <mj-text css-class="whats-app" padding="0px" color="#999999" font-size="12px" line-height="18px">
+          <a
+            style="color: #999999; text-decoration: none; display: block;"
+            target="_blank"
+            href="https://api.whatsapp.com/send?phone=554433515000%20&text=Olá!%20Tudo%20Bem?"
+            alt="Compre pelo WhatsApp"
+            title="Compre pelo WhatsApp">
+            <strong>Compre pelo WhatsApp:</strong>
+            </br>
+            (44) 3351-5000
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-group>
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,82 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lancamento?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_08-06_Dia-dos-Namorados/namos-lbh-01-topo-min.jpg"
+            alt="Dia dos Namorados"
+            title="Dia dos Namorados" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff"> 
+      <mj-column padding="30px 0px 30px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#ef4848" font-size="14.5px" padding="0px 20px 0px 20px" align= "center" font-weight="500" line-height="17px" letter-spacing="2px">
+          Aproveite nosso Frete Grátis em todo o site para garantis seus looks com nossas estampas favoritas e fique ainda mais linda nesse Dia dos Namorados!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/blusa-leboh-gola-alta-manga-curta-basica-verde-261130/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_08-06_Dia-dos-Namorados/namos-lbh-01-01-min.jpg"
+            alt="Blusa Lebôh Gola Alta Manga Curta Básica Verde"
+            title="Blusa Lebôh Gola Alta Manga Curta Básica Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/macacao-leboh-utilitario-com-botao-verde-261165/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_08-06_Dia-dos-Namorados/namos-lbh-01-02-min.jpg"
+            alt="Macacão Lebôh Utilitário Com Botão Verde"
+            title="Macacão Lebôh Utilitário Com Botão Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/blusa-leboh-frente-unica-cavada-estampada-verde-261168/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_08-06_Dia-dos-Namorados/namos-lbh-01-03-min.jpg"
+            alt="Blusa Lebôh Frente Única Cavada Estampada Verde"
+            title="Blusa Lebôh Frente Única Cavada Estampada Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 10px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/vestido-leboh-longo-decote-v-detalhe-costas-verde-261749/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_08-06_Dia-dos-Namorados/namos-lbh-01-04-min.jpg"
+            alt="Vestido Lebôh Longo Decote V Detalhe Costas Verde"
+            title="Vestido Lebôh Longo Decote V Detalhe Costas Verde" />
+        </mj-column>
+    </mj-section>
+  
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

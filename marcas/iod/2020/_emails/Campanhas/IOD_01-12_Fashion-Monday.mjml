@@ -1,0 +1,189 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=251"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-topo.jpg"
+          alt="Fashion Monday"
+          title="Fashion Monday" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="'Poppins', sans-serif" text-transform="Uppercase" color="#000" font-size="14.5px" padding="15px 0px 0px 50px" align="left" font-weight="700" line-height="13px">
+          Não aproveitou a fashion friday!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Semana-da-Cliente/IOD_08-09_Semana-da-Cliente/Prancheta%201-01.jpg"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="'Poppins', sans-serif" text-transform="Uppercase" color="#000" font-size="14.5px" padding="15px 0px 30px 50px" align="left" font-weight="400" line-height="16px">
+          Não perca a fashion Monday com<br>
+          decontos de até <strong>70% off</strong>!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-altura-do-joelho-decote-v-torcao-frente-nude-209350"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/160028/VESTIDO-ALTURA-DO-JOELHO-DECOTE-V-TORCAO-FRENTE---LI-NUDE---M.jpg?v=636996873659000000"
+            title="VESTIDO IÓDICE ALTURA DO JOELHO DECOTE V TORÇÃO FRENTE NUDE"
+            alt="VESTIDO IÓDICE ALTURA DO JOELHO DECOTE V TORÇÃO FRENTE NUDE" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="105px 0 10px 0">
+            VESTIDO IÓDICE ALTURA<br> DO JOELHO DECOTE V<br> TORÇÃO FRENTE NUDE
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 699,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 209,97<br><span style="font-size:10.2px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-altura-do-joelho-decote-v-torcao-frente-nude-209350" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="right" color="#000" font-weight="400" font-size="14px" padding="105px 0 10px 0">
+            CALÇA IÓDICE<br> PANTALONA CÓS<br> INTERMEDIÁRIO BÁSICA
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 769,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            6x de R$ 64,15
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="400" font-size="14px" align="right" padding="0">
+            Por: R$ 230,97<br><span style="font-size:10.2px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-pantalona-cos-intermediario-basica-rosa-208139" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="right" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-pantalona-cos-intermediario-basica-rosa-208139"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/161797/CALCA-PANTALONA-COS-INTERMEDIARIO-BASICA---LI-PINK---36.jpg?v=637003572210300000"
+            title="CALÇA IÓDICE PANTALONA CÓS INTERMEDIÁRIO BÁSICA ROSA"
+            alt="CALÇA IÓDICE PANTALONA CÓS INTERMEDIÁRIO BÁSICA ROSA" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blusa-iodice-decote-v-alca-com-metal-preto-caqui-209358"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/160048/BLUSA-DECOTE-V-ALCA-COM-METAL---ES-PRETO-CAQUI---P.jpg?v=636996873949400000"
+            title="BLUSA IÓDICE DECOTE V ALÇA COM METAL PRETO/CAQUI"
+            alt="BLUSA IÓDICE DECOTE V ALÇA COM METAL PRETO/CAQUI" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="105px 0 10px 0">
+            BLUSA IÓDICE DECOTE V<br> ALÇA COM METAL<br> PRETO/CAQUI
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 619,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 51,65
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 185,97<br><span style="font-size:10.2px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/blusa-iodice-decote-v-alca-com-metal-preto-caqui-209358" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#1b75d8" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=254"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=252"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 20px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Fashion%20Monday&pwaf_productClusterIds=253"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_01-12_Fashion-Monday/Artboard%201-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,192 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/praia?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_11-01_Beach/Ver%C3%A3o%2050%20OFF%20-beach-03-topo.jpg"
+          alt="Portas Abertas"
+          title="Portas Abertas" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#ddd3c7">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#41561d" font-size="11.8px" padding="30px 10px 30px 10px" align="center" font-weight="400" line-height="20px" letter-spacing="1.5px">
+          Um patchwork de estampas, muistura, figuras geométricas e florais em shapes leves e femininos. 
+          enquanto listras emprestam um perfume esportivo às composições. belezas dessa casa de verão.
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/praia?pwaf_OrderByReleaseDateDESC=%2B" text-decoration="none" text-transform="uppercase" inner-padding="9px 23px" align="center" font-weight="400" font-size="11px" padding="0px 0px 30px 0px" background-color="#41561d" color="#ddd3c7" border-radius="0px" border= "0px solid #ffffff" target="_blank"><span style="letter-spacing:3px">SHOP NOW</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ddd3c7">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-bordado-laranja-238268"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/360672/BIQUINI-CORTININHA-BORDADO---CO-CAQUI-LARANJA---P.jpg?v=637378572900500000"
+            title="Biquíni Morena Rosa Cortininha Bordado Laranja"
+            alt="Biquíni Morena Rosa Cortininha Bordado Laranja" />
+
+          <mj-text align="center" color="#41561d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquíni Morena Rosa<br> Cortininha Bordado<br> Laranja
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#41561d" />
+
+          <mj-text color="#41561d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#41561d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 319,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-bordado-laranja-238268" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#41561d" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-basico-laranja-verde-238602"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/359972/BIQUINI-CORTININHA-BASICO---ES-LARANJA-VERDE---M.jpg?v=637378508373100000"
+            title="Biquíni Morena Rosa Cortininha Básico Laranja/Verde"
+            alt="Biquíni Morena Rosa Cortininha Básico Laranja/Verde" />
+
+          <mj-text align="center" color="#41561d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquíni Morena Rosa<br> Cortininha Básico<br> Laranja/Verde
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#41561d" />
+
+          <mj-text color="#41561d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#41561d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-basico-laranja-verde-238602" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#41561d" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ddd3c7">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-tres-pecas-azul-rosa-238513"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/359795/BIQUINI-CORTININHA-TRES-PECAS---ES-AZUL-ROSA---P.jpg?v=637378505077130000"
+            title="Biquíni Morena Rosa Cortininha Tres Pecas Azul/Rosa"
+            alt="Biquíni Morena Rosa Cortininha Tres Pecas Azul/Rosa" />
+
+          <mj-text align="center" color="#41561d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquíni Morena Rosa<br> Cortininha Tres Pecas<br> Azul/Rosa
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#41561d" />
+
+          <mj-text color="#41561d" font-weight="700" font-size="16px" align="center" padding="23px 0 10px 0">
+            6x de R$ 76,65
+          </mj-text>
+
+          <mj-text color="#41561d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-tres-pecas-azul-rosa-238513" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#41561d" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/maio-morena-rosa-engana-mamae-dupla-face-laranja-229638"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/342938/MAIO-ENGANA-MAMAE-DUPLA-FACE---ES-LARANJA-AZUL---P.jpg?v=637238607196170000"
+            title="Maiô Morena Rosa Engana Mamãe Dupla Face Laranja"
+            alt="Maiô Morena Rosa Engana Mamãe Dupla Face Laranja" />
+
+          <mj-text align="center" color="#41561d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Maiô Morena Rosa<br> Engana Mamãe Dupla<br> Face Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#41561d" />
+
+          <mj-text color="#41561d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#41561d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 61,23
+          </mj-text>
+
+          <mj-text color="#41561d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 244,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/maio-morena-rosa-engana-mamae-dupla-face-laranja-229638" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#41561d" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ddd3c7">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#41561d" font-size="14px" padding="20px 0px 10px 0px" align="center" font-weight="800" line-height="21px" letter-spacing="2.5px">
+          Compre por<br> categoria:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px 50px 0px" background-color="#ddd3c7">
+      <mj-group>
+        <mj-column padding="10px 15px 10px 15px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/acessorios?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_11-01_Beach/Ver%C3%A3o%2050%20OFF%20-beach-03-ACESS%C3%93RIOS.jpg"
+            title="Acessórios"
+            alt="Acessórios" />
+        </mj-column>
+
+        <mj-column padding="10px 15px 10px 15px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calcados?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_11-01_Beach/Ver%C3%A3o%2050%20OFF%20-beach-03-SHOES.jpg"
+            title="Shoes"
+            alt="Shoes" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

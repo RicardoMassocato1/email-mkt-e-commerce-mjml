@@ -1,0 +1,185 @@
+'<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_15-12_Viagem-Marcada/MV_EmailMkt_02-topo.jpg"
+          alt="Viagem Marcada"
+          title="Viagem Marcada" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="12.5px" padding="20px 10px 0px 10px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+           Peças com charmosos babados em um mood romântico em ver são estampada nas cores lilás ou verde menta? Você escolhe!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-curto-decote-quadrado-com-babado-verde-244091/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/215706/VESTIDO-CURTO-DECOTE-QUADRADO-COM-BABADO---LI-VERDE---PP.jpg?v=637425191012870000"
+            title="Vestido Zinco Curto Decote Quadrado Com Babado Verde"
+            alt="Vestido Zinco Curto Decote Quadrado Com Babado Verde" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Curto<br> Decote Quadrado Com<br> Babado Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 51,10
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-curto-decote-quadrado-com-babado-verde-244091/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-zinco-midi-evase-com-babado-rosa-244122/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/215782/SAIA-MIDI-EVASE-COM-BABADO---LI-LILAS---36.jpg?v=637425192045200000"
+            title="Saia Zinco Midi Evasê Com Babado Rosa"
+            alt="Saia Zinco Midi Evasê Com Babado Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Zinco Midi Evasê<br> Com Babado Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="23.5px 0 10px 0">
+            12x de R$ 51,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 619,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/saia-zinco-midi-evase-com-babado-rosa-244122/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-zinco-midi-pareo-com-babado-verde-233634/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212916/SAIA-MIDI-PAREO-COM-BABADO---ES-VERDE---36.jpg?v=637327757853730000"
+            title="Saia Zinco Midi Pareô Com Babado Verde"
+            alt="Saia Zinco Midi Pareô Com Babado Verde" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Zinco Midi Pareô<br> Com Babado<br> Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            11x de R$ 54,53
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 599,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/saia-zinco-midi-pareo-com-babado-verde-233634/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/cropped-zinco-decote-reto-abertura-lateral-rosa-244121/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/215770/CROPPED-DECOTE-RETO-ABERTURA-LATERAL---LI-LILAS---P.jpg?v=637425191892830000"
+            title="Cropped Zinco Decote Reto Abertura Lateral Rosa"
+            alt="Cropped Zinco Decote Reto Abertura Lateral Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Cropped Zinco Decote<br> Reto Abertura Lateral<br> Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 319,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/cropped-zinco-decote-reto-abertura-lateral-rosa-244121/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/blusas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_15-12_Viagem-Marcada/MV_EmailMkt_02-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/shorts?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_15-12_Viagem-Marcada/MV_EmailMkt_02-shorts.jpg"
+          alt="Shorts"
+          title="Shorts" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/vestidos?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_15-12_Viagem-Marcada/MV_EmailMkt_02-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

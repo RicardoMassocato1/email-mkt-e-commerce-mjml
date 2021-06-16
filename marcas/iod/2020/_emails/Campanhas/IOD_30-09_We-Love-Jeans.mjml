@@ -1,0 +1,244 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 20px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=%2B&_t=Jeans&pwaf_productClusterIds=183"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Agosto/IOD_30-09_We-Love-Jeans/Email-mkt2004-07-topo.jpg"
+          alt="We Love Jeans"
+          title="We Love Jeans" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="0px 0px 10px 10px" width="55%">
+          <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.iodice.com.br"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Agosto/IOD_30-09_We-Love-Jeans/Email-mkt2004-07-foto.jpg"
+          alt="Mood Alfataria"
+          title="Mood Alfataria" />
+        </mj-column>
+        <mj-column padding="0px 5px 10px 5px" width="45%">
+          <mj-text font-family="Poppins, sans-serif" color="#484848" font-size="12px" padding="60px 0px 0px 5px" align="left" font-weight="500" line-height="13px">
+            <span style="font-size:23px; font-weight:300; line-height:25px">MOOD<br>ALFAIATARIA</span><br><br><br>
+            Com caimento e toque bem leve, o jeans com interpretação de alfaiataria traz elegancia para os looks casuais.
+          </mj-text>
+          <mj-button href="https://www.iodice.com.br" text-decoration="none" text-transform="uppercase" inner-padding="6px 15px" align="left" font-weight="400" font-size="11px" padding="10px 5px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-linha-a-detalhe-ziper-jeans-236347"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176612/SHORTS-LINHA-A-DETALHE-ZIPER---LI-JEANS-MEDIO---36.jpg?v=637327729025600000"
+            title="SHORTS LINHA A DETALHE ZIPER JEANS"
+            alt="SHORTS LINHA A DETALHE ZIPER JEANS" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#2d2d2d" font-weight="400" font-size="14px" padding="170px 0 10px 0">
+            SHORTS LINHA A DETALHE<br> ZIPER JEANS
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 88,31
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 529,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-linha-a-detalhe-ziper-jeans-236347" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#c4af94" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#2d2d2d" font-weight="400" font-size="14px" padding="170px 0 10px 0">
+            MACAQUINHO DECOTE<br> REDONDO DETALHE ZIPER
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            7x de R$ 114,27
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 799,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/macaquinho-decote-redondo-detalhe-ziper-jeans-236342" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="right" font-weight="400" font-size="12px" padding="15px 0px" background-color="#c4af94" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/macaquinho-decote-redondo-detalhe-ziper-jeans-236342"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176580/MACAQUINHO-DECOTE-REDONDO-DETALHE-ZIPER---LI-JEANS-MEDIO---P.jpg?v=637327728365630000"
+            title="MACAQUINHO DECOTE REDONDO DETALHE ZIPER JEANS"
+            alt="MACAQUINHO DECOTE REDONDO DETALHE ZIPER JEANS" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/top-cropped-alca-larga-detalhe-ziper-jeans-236340"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176556/TOP-CROPPED-ALCA-LARGA-DETALHE-ZIPER---LI-JEANS-MEDIO---P.jpg?v=637327728023200000"
+            title="TOP CROPPED ALCA LARGA DETALHE ZIPER JEANS"
+            alt="TOP CROPPED ALCA LARGA DETALHE ZIPER JEANS" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#2d2d2d" font-weight="400" font-size="14px" padding="170px 0 10px 0">
+            TOP CROPPED ALCA<br> LARGA DETALHE ZIPER
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 58,31
+          </mj-text>
+
+          <mj-text font-family= "Poppins, sans-serif" color="#2d2d2d" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 349,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/top-cropped-alca-larga-detalhe-ziper-jeans-236340" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#c4af94" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" color="#000" font-size="19px" padding="30px 0px 20px 30px" align="left" font-weight="400" line-height="20px">
+          SUGESTÕES PARA VOCÊ
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-pantacourt-cos-alto-barra-larga-jeans-210032"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/161227/CALCA-PANTACOURT-COS-ALTO-BARRA-LARGA---UNICA---34.jpg?v=636996894738870000"
+            title="CALCA PANTACOURT COS ALTO BARRA LARGA JEANS"
+            alt="CALCA PANTACOURT COS ALTO BARRA LARGA JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Pantacourt<br> Cos Alto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-pantacourt-cos-alto-barra-larga-jeans-210032" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-alfaiataria-com-cinto-jeans-208310"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/160462/SHORTS-ALFAIATARIA-COM-CINTO---UNICA---36.jpg?v=636996880197570000"
+            title="SHORTS ALFAIATARIA COM CINTO JEANS"
+            alt="SHORTS ALFAIATARIA COM CINTO JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Alfaiataria<br> Com Cinto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$52,48
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/shorts-alfaiataria-com-cinto-jeans-208310" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-slim-cos-alto-abertura-barra-azul-208756"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/160670/CALCA-SLIM-COS-ALTO-ABERTURA-BARRA---LI-AZUL-MARINHO---34.jpg?v=636996883692970000"
+            title="CALCA SLIM COS ALTO ABERTURA BARRA AZUL"
+            alt="CALCA SLIM COS ALTO ABERTURA BARRA AZUL" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Slim Cos<br> Alto 
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 61,23
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 244,93
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-slim-cos-alto-abertura-barra-azul-208756" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

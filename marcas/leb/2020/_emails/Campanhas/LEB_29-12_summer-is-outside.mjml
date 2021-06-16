@@ -1,0 +1,172 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/summer-is-outside?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="summer is outside"
+            title="summer is outside"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dezembro/LEB_29-12_summer-is-outside/Artboard%201%20copy01-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#F7D5C8">
+      <mj-group> 
+        <mj-column padding="50px 0px 0px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#EA5F69" font-style= "italic" font-size="30px" align= "center" font-weight="500" padding="0px 0px 0px 0px" line-height="32px" letter-spacing="0.1px">
+            summer<br> <span style="font-weight:300;">is outside</span> 
+          </mj-text>
+        </mj-column>
+        <mj-column padding="30px 0px 0px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#EA5F69" font-size="26px" align= "left" font-weight="500" padding="0px 0px 0px 0px" line-height="23px" letter-spacing="0.4px">
+            -
+          </mj-text>
+          <mj-text font-family="Work Sans, sans-serif" color="#EA5F69" font-size="13px" align= "left" font-weight="300" padding="0px 0px 0px 0px" line-height="15px" letter-spacing="0px">
+            o verão já chegou na Lebôh.<br>
+            com ele, as tardes quentes<br>
+            vêm acompanhadas daquela <br>
+            sensação de se encontrar <br>
+            em cada pedacinho. <span style="font-style:italic; font-weight:400;">let’s go!</span> <br>
+          </mj-text>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+    <mj-section padding="0" background-color="#F7D5C8">
+      <mj-group> 
+        <mj-column padding="50px 0px 30px 0px">
+          <mj-button href="https://www.leboh.com.br/summer-is-outside?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 17px" align="center" font-weight="400" font-size="12px" padding="0px 0px 0px 0px" background-color="#EA5F69" color="#F7D5C8" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#F7D5C8">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-v-com-bolso-bege-243962/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190283/22000102253000050-0-.jpg?v=637393204639870000"
+            title="Vestido Lebôh Midi Decote V Com Bolso Bege"
+            alt="Vestido Lebôh Midi Decote V Com Bolso Bege" />
+
+          <mj-text align="center" color="#EA5F69" font-weight="300" font-size="14px" padding="21px 0 10px 0">
+            Vestido Lebôh Midi<br> Decote V Com Bolso<br> Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EA5F69" />
+
+          <mj-text color="#EA5F69" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#EA5F69" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-v-com-bolso-bege-243962/p" text-decoration="none" inner-padding="7px 16px" align="center" font-weight="500" font-size="13px" padding="20px 0px" background-color="#F7D5C8" color="#EA5F69" border= "1.1px solid #EA5F69" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-decote-v-manga-flare-com-amarracao-coral-243965/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190279/22000102254000076-0-.jpg?v=637393194745600000"
+            title="Blusa Lebôh Decote V Manga Flare Com Amarração Coral"
+            alt="Blusa Lebôh Decote V Manga Flare Com Amarração Coral" />
+
+          <mj-text align="center" color="#EA5F69" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Decote V<br> Manga Flare Com<br> Amarração Coral
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EA5F69" />
+
+          <mj-text color="#EA5F69" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 59,96
+          </mj-text>
+
+          <mj-text color="#EA5F69" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 179,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-decote-v-manga-flare-com-amarracao-coral-243965/p" text-decoration="none" inner-padding="7px 16px" align="center" font-weight="500" font-size="13px" padding="20px 0px" background-color="#F7D5C8" color="#EA5F69" border= "1.1px solid #EA5F69" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#F7D5C8">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/body-leboh-decote-v-manga-curta-canelado-bege-243970/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190295/22000102256000050-0-.jpg?v=637393209076830000"
+            title="Body Lebôh Decote V Manga Curta Canelado Bege"
+            alt="Body Lebôh Decote V Manga Curta Canelado Bege" />
+
+          <mj-text align="center" color="#EA5F69" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Lebôh Decote V<br> Manga Curta Canelado<br> Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EA5F69" />
+
+          <mj-text color="#EA5F69" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,95
+          </mj-text>
+
+          <mj-text color="#EA5F69" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/body-leboh-decote-v-manga-curta-canelado-bege-243970/p" text-decoration="none" inner-padding="7px 16px" align="center" font-weight="500" font-size="13px" padding="20px 0px" background-color="#F7D5C8" color="#EA5F69" border= "1.1px solid #EA5F69" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/t-shirt-leboh-decote-redondo-canelada-bege-243968/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190291/22000102255000050-0-.jpg?v=637393207702630000"
+            title="T-Shirt Lebôh Decote Redondo Canelada Bege"
+            alt="T-Shirt Lebôh Decote Redondo Canelada Bege" />
+
+          <mj-text align="center" color="#EA5F69" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Lebôh Decote<br> Redondo Canelada<br> Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EA5F69" />
+
+          <mj-text color="#EA5F69" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 59,95
+          </mj-text>
+
+          <mj-text color="#EA5F69" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 119,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/t-shirt-leboh-decote-redondo-canelada-bege-243968/p" text-decoration="none" inner-padding="7px 16px" align="center" font-weight="500" font-size="13px" padding="20px 0px" background-color="#F7D5C8" color="#EA5F69" border= "1.1px solid #EA5F69" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

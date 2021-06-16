@@ -1,0 +1,362 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px 40px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/must-have"
+            width="600px"
+            padding="0"
+            alt="LQDA Progressivo"
+            title="LQDA Progressivo"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-04/_04-EmailMKT-topo.jpg" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#b52034"
+            font-size="22px"
+            padding="25px 0px 0px 25px"
+            align="left"
+            line-height="22px"
+            font-weight="600">
+            must have!
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#b52034"
+            font-size="13.5px"
+            padding="08px 0px 30px 25px"
+            align="left"
+            line-height="15px"
+            font-weight="500">
+            nossos queridinhos da estação para você!
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-canoa-manga-7-8-barra-assimetrica-rosa-223577/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-04/Blusa%20Decote%20Canoa%20Manga%207-8%20Barra%20Assimetrica%20Rosa.jpg"
+            title="Blusa Decote Canoa Manga 7/8 Barra Assimetrica Rosa"
+            alt="Blusa Decote Canoa Manga 7/8 Barra Assimetrica Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Canoa Manga<br> 7/8 Barra Assimetrica Rosa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 249,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 199,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$66,64</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #b52034; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b52034;"
+              href="https://www.leboh.com.br/blusa-decote-canoa-manga-7-8-barra-assimetrica-rosa-223577/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-decote-transpassado-bicolor-marrom-225243/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-04/Vestido%20Midi%20Decote%20Transpassado%20Bicolor%20Marrom.jpg"
+            title="Vestido Midi Decote Transpassado Bicolor Marrom"
+            alt="Vestido Midi Decote Transpassado Bicolor Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote<br> Transpassado Bicolor
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 351,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$50,27</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #b52034; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b52034;"
+              href="https://www.leboh.com.br/vestido-midi-decote-transpassado-bicolor-marrom-225243/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-gola-polo-manga-curta-detalhe-ziper-rosa-223479/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-04/Blusa%20Gola%20Polo%20Manga%20Curta%20Detalhe%20Ziper%20Rosa.jpg"
+            title="Blusa Gola Polo Manga Curta Detalhe Ziper Rosa"
+            alt="Blusa Gola Polo Manga Curta Detalhe Ziper Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Gola Polo Manga<br> Curta Detalhe Ziper
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 183,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$61,30</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #b52034; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b52034;"
+              href="https://www.leboh.com.br/blusa-gola-polo-manga-curta-detalhe-ziper-rosa-223479/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/camisa-manga-longa-compose-de-tecidos-preto-225427/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-04/Camisa%20Manga%20Longa%20Compose%20De%20Tecidos%20Preto.jpg"
+            title="Camisa Manga Longa Compose De Tecidos Preto"
+            alt="Camisa Manga Longa Compose De Tecidos Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa<br> Compose De Tecidos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 295,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$59,18</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #b52034; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b52034;"
+              href="https://www.leboh.com.br/camisa-manga-longa-compose-de-tecidos-preto-225427/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 15px 0px" background-color="#efe7da">
+      <mj-group> 
+        <mj-column width="20%">
+          <mj-image
+            align="right"
+            width="75px"
+            padding="20px 0px 0px 15px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-01/_01-EmailMKT-log.jpg" />
+        </mj-column>
+        <mj-column width="60%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="13px"
+            padding="20px 0px 0px 80px"
+            align="left"
+            line-height="15px"
+            font-weight="500">
+            dia do amigo<br><strong>-</strong>
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="37px"
+            padding="30px 0px 30px 0px"
+            align="center"
+            line-height="32px"
+            font-weight="300">
+            olhar para<br> o&nbsp; &nbsp; &nbsp; outro
+          </mj-text>
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; font-weight:500; font-size: 11px; color: #ffffff; background-color: #5d60ca; display: inline-block; padding: 6px 15px; border: 1px solid #5d60ca; letter-spacing:1px"
+              href="https://www.leboh.com.br/lancamento?O=OrderByReleaseDateDESC"
+              title="shop now">
+              shop now
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image
+            align="right"
+            width="600px"
+            padding="0"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-01/EMAILmkt-icone2.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-04/_04-EmailMKT-blusas.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos"
+            width="600px"
+            padding="0px 0px"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-04/_04-EmailMKT-vestidos.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas"
+            width="600px"
+            padding="0"
+            alt="Calças"
+            title="Calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-04/_04-EmailMKT-calcas.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

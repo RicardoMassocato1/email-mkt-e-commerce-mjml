@@ -1,0 +1,269 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 20px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/dia-das-maes?O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_06-05_Dia-das-maes/EmailMkt_Mae_0201.jpg"
+              title="Dia das #Mães Parceiras"
+              alt="Dia das #Mães Parceiras" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 0px">
+        <mj-group>
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/calca-pantalona-cos-alto-com-botao-coral-221619/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_06-05_Dia-das-maes/Calca%20Pantalona%20Cos%20Alto%20Com%20Botao%20Coral.jpg"
+              title="Calca Pantalona Cos Alto Com Botao Coral"
+              alt="Calca Pantalona Cos Alto Com Botao Coral" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Pantalona Cos Alto Com Botao
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 399,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">7x de R$ 57,12</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #ffffff; background-color:#e9459c; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #2014ce; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/calca-pantalona-cos-alto-com-botao-coral-221619/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/calca-cenoura-cos-alto-com-amarracao-bordo-221603/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_06-05_Dia-das-maes/Calca%20Cenoura%20Cos%20Alto%20Com%20Amarracao%20Bord%C3%B4.jpg"
+              title="Calca Cenoura Cos Alto Com Amarracao Bordô"
+              alt="Calca Cenoura Cos Alto Com Amarracao Bordô" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Cenoura Cos Alto Com Amarracao
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 439,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">8x de R$ 54,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #ffffff; background-color:#e9459c; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #2014ce; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/calca-cenoura-cos-alto-com-amarracao-bordo-221603/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/chemise-curto-com-faixa-bordo-221544/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_06-05_Dia-das-maes/Chemise%20Curto%20Com%20Faixa%20Bord%C3%B4.jpg"
+              title="Chemise Curto Com Faixa Bordô"
+              alt="Chemise Curto Com Faixa Bordô" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Chemise Curto Com Faixa
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 439,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">8x de R$ 54,98</span>
+            </mj-text>
+            
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #ffffff; background-color:#e9459c; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #2014ce; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/chemise-curto-com-faixa-bordo-221544/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/blusa-gola-alta-cava-francesa-com-franzido-roxo-221493/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_06-05_Dia-das-maes/Blusa%20Gola%20Alta%20Cava%20Francesa%20Com%20Franzido%20Roxo.jpg"
+              title="Blusa Gola Alta Cava Francesa Com Franzido Roxo"
+              alt="Blusa Gola Alta Cava Francesa Com Franzido Roxo" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Gola Alta Cava Francesa
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 229,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">4x de R$ 57,47</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #ffffff; background-color:#e9459c; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #2014ce; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/blusa-gola-alta-cava-francesa-com-franzido-roxo-221493/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+    <!--main-->
+    <mj-section padding="0px 0px">
+        <mj-column padding="25px 0 15px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.zinco.com.br/feminino/blusas?map=c,c"
+            alt="Blusas"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_06-05_Dia-das-maes/EmailMkt_Mae_0202.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.zinco.com.br/feminino/calcas?map=c,c"
+            alt="Calças"
+            title="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_06-05_Dia-das-maes/EmailMkt_Mae_0203.jpg" />
+        </mj-column>
+        <mj-column padding="15px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.zinco.com.br/feminino/vestidos?map=c,c"
+            alt="Vestidos"
+            title="Vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_06-05_Dia-das-maes/EmailMkt_Mae_0204.jpg" />
+        </mj-column>
+        <mj-column padding="65px 0px 10px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.zinco.com.br/dia-das-maes?O=OrderByReleaseDateDESC"
+            alt="#Mães Parceiras"
+            title="#Mães Parceiras"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_06-05_Dia-das-maes/EmailMkt_Mae_0205.jpg" />
+        </mj-column>
+      </mj-section>
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

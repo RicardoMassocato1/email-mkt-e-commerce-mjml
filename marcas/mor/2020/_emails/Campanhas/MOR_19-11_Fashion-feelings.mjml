@@ -1,0 +1,159 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 20px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Feelings"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_19-11_Fashion-feelings/Finais_MKT%204.jpg"
+          alt="Fashion Feelings"
+          title="Fashion Feelings" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-redondo-manga-curta-com-sublimacao-azul-227758"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/340194/BLUSA-DECOTE-REDONDO-MANGA-CURTA-COM-SUBLIMACAO---ES-PRETO-AZUL---M.jpg?v=637237725481630000"
+            title="Blusa Morena Rosa Decote Redondo Manga Curta Com Sublimação Azul"
+            alt="Blusa Morena Rosa Decote Redondo Manga Curta Com Sublimação Azul" />
+
+          <mj-text align="center" color="#d44139" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Morena Rosa Decote<br> Redondo Manga Curta
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#d44139" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-redondo-manga-curta-com-sublimacao-azul-227758" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e3e732" color="#d44139" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-redondo-dupla-face-minha-morena-laranja-228203"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/341884/VESTIDO-CURTO-DECOTE-REDONDO-DUPLA-FACE-MINHA-MORENA---ES-PRETO-LARANJA---P.jpg?v=637237849143730000"
+            title="Vestido Morena Rosa Curto Decote Redondo Dupla Face Minha Morena Laranja"
+            alt="Vestido Morena Rosa Curto Decote Redondo Dupla Face Minha Morena Laranja" />
+
+          <mj-text align="center" color="#d44139" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena Rosa<br> Curto Decote Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#d44139" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-redondo-dupla-face-minha-morena-laranja-228203" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e3e732" color="#d44139" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-comfort-cos-intermediario-bolso-faca-preto-227724"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/347982/CALCA-COMFORT-COS-INTERMEDIARIO-BOLSO-FACA---CO-PRETO-ROSE-AZUL---36.jpg?v=637242068140470000"
+            title="Calça Morena Rosa Comfort Cós Intermediário Bolso Faca Preto"
+            alt="Calça Morena Rosa Comfort Cós Intermediário Bolso Faca Preto" />
+
+          <mj-text align="center" color="#d44139" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa Comfort<br> Cós Intermediário Bolso
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#d44139" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-comfort-cos-intermediario-bolso-faca-preto-227724" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e3e732" color="#d44139" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-transpassado-manga-longa-com-amarracao-verde-227805"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/341403/BLUSA-DECOTE-TRANSPASSADO-MANGA-LONGA-COM-AMARRACAO---ES-VERDE-AZUL---M.jpg?v=637237840429270000"
+            title="Blusa Morena Rosa Decote Transpassado Manga Longa Com Amarração Verde"
+            alt="Blusa Morena Rosa Decote Transpassado Manga Longa Com Amarração Verde" />
+
+          <mj-text align="center" color="#d44139" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Morena Rosa Decote<br> Transpassado Manga Longa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#d44139" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 51,32
+          </mj-text>
+
+          <mj-text color="#d44139" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 307,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-transpassado-manga-longa-com-amarracao-verde-227805" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e3e732" color="#d44139" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

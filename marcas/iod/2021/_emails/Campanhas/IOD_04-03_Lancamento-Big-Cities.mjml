@@ -1,0 +1,193 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=263"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_04-03_Lancamento-Big-Cities/Artboard%201%20copy%204-topo.jpg"
+          alt="Lançamento Big Cities"
+          title="Lançamento Big Cities" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="11px" padding="40px 0px 5px 50px" align="left" font-weight="500" line-height="18px">
+          Nova coleção
+        </mj-text>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="14px" padding="0px 0px 20px 50px" align="left" font-weight="400" line-height="18px">
+          Uma coleção que fala à mulher<br> moderna sobre 
+          atitude e<br> atemporalidade com peças<br> marcantes, 
+          impossíveis de esquecer.
+        </mj-text>
+        <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=263" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="5px 0px 40px 50px" background-color="#fff" color="#000" border="2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0px">Shop now</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/parka-iodice-com-recorte-marrom-246060"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/179185/PARKA-COM-RECORTE---LI-MARROM---P.jpg?v=637496247839700000"
+            title="PARKA IÓDICE COM RECORTE MARROM"
+            alt="PARKA IÓDICE COM RECORTE MARROM" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Parka Iódice Com<br> Recorte Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            12x de R$ 110,82
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 1.329,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/parka-iodice-com-recorte-marrom-246060" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-iodice-manga-longa-premium-com-recortes-vermelho-249464"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/179242/CAMISA-MANGA-LONGA-PREMIUM-COM-RECORTES---LI-VINHO---M.jpg?v=637496248909370000"
+            title="CAMISA IÓDICE MANGA LONGA PREMIUM COM RECORTES VERMELHO"
+            alt="CAMISA IÓDICE MANGA LONGA PREMIUM COM RECORTES VERMELHO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Iódice Manga<br> Longa Premium C...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            12x de R$ 374,99
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 4.499,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/camisa-iodice-manga-longa-premium-com-recortes-vermelho-249464" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blazer-iodice-com-lapela-cinza-246152"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/179020/BLAZER-COM-LAPELA---XD-AREIA-CINZA---P.jpg?v=637496135923530000"
+            title="BLAZER IÓDICE COM LAPELA CINZA"
+            alt="BLAZER IÓDICE COM LAPELA CINZA" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blazer Iódice Com<br> Lapela Cinza
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 111,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 669,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/blazer-iodice-com-lapela-cinza-246152" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-iodice-manga-longa-abertura-mangas-branco-246064"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/179207/CAMISA-MANGA-LONGA-ABERTURA-MANGAS---LI-BRANCO---P.jpg?v=637496248243400000"
+            title="CAMISA IÓDICE MANGA LONGA ABERTURA MANGAS BRANCO"
+            alt="CAMISA IÓDICE MANGA LONGA ABERTURA MANGAS BRANCO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Iódice Manga<br> Longa Abertura Man...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 76,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/camisa-iodice-manga-longa-abertura-mangas-branco-246064" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=266&_t=Vestidos&p=4"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_04-03_Lancamento-Big-Cities/Artboard%201%20copy%204-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=264&_t=Blusas&p=4"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_04-03_Lancamento-Big-Cities/Artboard%201%20copy%204-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=265&_t=Cal%C3%A7as&p=4"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_04-03_Lancamento-Big-Cities/Artboard%201%20copy%204-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

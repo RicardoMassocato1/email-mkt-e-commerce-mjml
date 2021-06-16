@@ -1,0 +1,38 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="50px 0px">
+      <mj-group>
+
+        <mj-column width="100%">
+          <mj-text
+            color="#999999"
+            font-size="16px"
+            padding="0 0 30px 0"
+            align="center"
+            text-transform="uppercase">
+            Sugestões para você:
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-include path="./prod.mjml" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-include path="./prod.mjml" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-include path="./prod.mjml" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-include path="./prod.mjml" />
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,42 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="20px 20px 30px 20px" background-color="#ffffff">
+      <mj-column width="100%"  padding="0px 10px 0px 10px">
+          <mj-text font-family="Roboto, sans-serif" color="#000000" font-size="14px" padding="10px 10px" align="justify" font-weight="400" line-height="16px" letter-spacing="0.4px">
+            Oi *|FIRST NAME|*, tudo bem?!<br><br><br>
+            É hora de aproveitar o verão não é mesmo? Aproveite que estamos com <strong>frete grátis</strong> em todo o site!<br><br>
+            
+            Para te ajudar a renovar o closet, <a href="https://www.mariavalentina.com.br/vemverao" style="color: #000000;" title="Clique aqui!">fiz uma procura</a> em nosso site de produtos de verão que estão com 30% de desconto!<br><br>
+            
+            Veja aqui:
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/vemverao" text-decoration="none" text-transform="uppercase" inner-padding="6px 15px" align="left" font-weight="500" font-size="12px" padding="0px 10px" background-color="#000" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+         
+          <mj-text font-family="Roboto, sans-serif" color="#000000" font-size="14px" padding="20px 10px" align="justify" font-weight="400" line-height="16px" letter-spacing="0.4px">
+            <br>E mais!<br><br>
+            Tenho um CUPOM EXTRA, PARA VOCÊ APROVEITAR.<br><br>
+            
+            Pois é, além dos 30% nesses produtos, com o cupom VEMVERAO você terá mais 20% OFF.<br><br>
+
+            É só clicar aqui e aproveitar!<br><br>
+
+            Mas corra, porque o cupom é válido só até amanhã!<br><br>
+
+            Beijos!<br>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+    
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

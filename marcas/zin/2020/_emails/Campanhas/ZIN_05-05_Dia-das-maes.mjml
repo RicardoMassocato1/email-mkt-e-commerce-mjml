@@ -1,0 +1,269 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 20px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/dia-das-maes?O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_05-05_Dia-das-maes/EmailMkt_Mae_0101.jpg"
+              title="Dia das #Mães Parceiras"
+              alt="Dia das #Mães Parceiras" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 0px">
+        <mj-group>
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/vestido-midi-decote-v-amarracao-decote-roxo-223966/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_05-05_Dia-das-maes/Vestido%20Midi%20Decote%20V%20Amarracao%20Decote%20Roxo.jpg"
+              title="Vestido Midi Decote V Amarracao Decote Roxo"
+              alt="Vestido Midi Decote V Amarracao Decote Roxo" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Midi Decote V Amarracao
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 599,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">11x de R$ 54,53</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #ffffff; background-color:#c39be2; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #2014ce; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/vestido-midi-decote-v-amarracao-decote-roxo-223966/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/shorts-evase-com-argolas-vermelho-221982/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_05-05_Dia-das-maes/Shorts%20Evase%20Com%20Argolas%20Vermelho.jpg"
+              title="Shorts Evase Com Argolas Vermelho"
+              alt="Shorts Evase Com Argolas Vermelho" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Evase Com Argolas
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">5x de R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #ffffff; background-color:#c39be2; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #2014ce; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/shorts-evase-com-argolas-vermelho-221982/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/macacao-cenoura-bolso-faca-vermelho-221985/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_05-05_Dia-das-maes/Macacao%20Cenoura%20Bolso%20Faca%20Vermelho.jpg"
+              title="Macacao Cenoura Bolso Faca Vermelho"
+              alt="Macacao Cenoura Bolso Faca Vermelho" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Macacao Cenoura Bolso Faca
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 529,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">10x de R$ 52,99</span>
+            </mj-text>
+            
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #ffffff; background-color:#c39be2; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #2014ce; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/macacao-cenoura-bolso-faca-vermelho-221985/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/vestido-midi-gola-alta-com-cinto-preto-221980/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_05-05_Dia-das-maes/Vestido%20Midi%20Gola%20Alta%20Com%20Cinto%20Preto.jpg"
+              title="Vestido Midi Gola Alta Com Cinto Preto"
+              alt="Vestido Midi Gola Alta Com Cinto Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Midi Gola Alta Cinto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 549,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">10x de R$ 54,99</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #ffffff; background-color:#c39be2; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #2014ce; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/vestido-midi-gola-alta-com-cinto-preto-221980/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+    <!--main-->
+    <mj-section padding="0px 0px">
+        <mj-column padding="25px 0 15px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.zinco.com.br/feminino/blusas?map=c,c"
+            alt="Blusas"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_05-05_Dia-das-maes/EmailMkt_Mae_0102.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.zinco.com.br/feminino/calcas?map=c,c"
+            alt="Calças"
+            title="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_05-05_Dia-das-maes/EmailMkt_Mae_0103.jpg" />
+        </mj-column>
+        <mj-column padding="15px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.zinco.com.br/feminino/vestidos?map=c,c"
+            alt="Vestidos"
+            title="Vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_05-05_Dia-das-maes/EmailMkt_Mae_0104.jpg" />
+        </mj-column>
+        <mj-column padding="65px 0 10px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.zinco.com.br/dia-das-maes?O=OrderByReleaseDateDESC"
+            alt="#Mães Parceiras"
+            title="#Mães Parceiras"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dias-das-M%C3%A3es/ZIN_05-05_Dia-das-maes/EmailMkt_Mae_0105.jpg" />
+        </mj-column>
+      </mj-section>
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

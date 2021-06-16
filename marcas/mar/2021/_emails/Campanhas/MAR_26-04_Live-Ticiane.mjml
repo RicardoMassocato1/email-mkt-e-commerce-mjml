@@ -1,0 +1,97 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 15px 0px 15px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://linktr.ee/mariavalentinaoficial"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_26-04_Live-Ticiane/Prancheta%201-01-min.jpg"
+          alt="Maria Valentina e Ticiane Pinheiro"
+          title="Maria Valentina e Ticiane Pinheiro" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#7c7b79" font-size="13px" padding="15px 20px 25px 20px" align="center" font-weight="400" line-height="20px" letter-spacing="1.1px">
+          Na <strong>terça-feira (27/04)</strong> teremos uma Live Experience com a Ticiane Pinheiro, onde ela irá apresentar sua collab com a Maria.Valentina mostrará como ficar ainda mais linda com seus looks!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 0px 40px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=253&_t=She%20Looks%20Like%20Sun"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_26-04_Live-Ticiane/Prancheta%201-02-min.jpg"
+          alt="She Looks Like Sun"
+          title="She Looks Like Sun" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/macacao-maria-valentina-reto-com-botao-preto-246564"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_26-04_Live-Ticiane/Prancheta%201-03-min.jpg"
+          alt="Macacão Maria.Valentina Reto Com Botão Preto"
+          title="Macacão Maria.Valentina Reto Com Botão Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/camisa-maria-valentina-manga-longa-abertura-lateral-mostarda-228114/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_26-04_Live-Ticiane/Prancheta%201-04-min.jpg"
+          alt="Camisa Maria.Valentina Manga Longa Abertura Lateral Mostarda"
+          title="Camisa Maria.Valentina Manga Longa Abertura Lateral Mostarda" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-v-com-amarracao-verde-252341/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_26-04_Live-Ticiane/Prancheta%201-05-min.jpg"
+          alt="Vestido Maria.Valentina Midi Decote V Com Amarração Verde"
+          title="Vestido Maria.Valentina Midi Decote V Com Amarração Verde" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 40px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Dia%20das%20M%C3%A3es&pwaf_productClusterIds=257"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_26-04_Live-Ticiane/Prancheta%201-06-min.jpg"
+          alt="Dia das Mães"
+          title="Dia das Mães" />
+      </mj-column>
+    </mj-section>
+  
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

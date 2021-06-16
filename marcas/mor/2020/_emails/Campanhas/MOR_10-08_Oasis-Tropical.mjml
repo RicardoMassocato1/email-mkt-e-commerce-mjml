@@ -1,0 +1,238 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="10px 0px 15px 40px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/praia?pwaf_OrderByReleaseDateDESC=%2B"
+        title="Lançamento"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_10-08_Oasis-Tropical/E-mail%20mkt-08-01-topo.jpg" />
+    </mj-column>
+
+    <mj-section padding="20px 0px">
+      <mj-group>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/chemise-longo-amarracao-frontal-laranja-verde-227099"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_10-08_Oasis-Tropical/Chemise%20Longo%20Amarracao%20Frontal%20Laranja-Verde.jpg"
+            title="Chemise Longo Amarracao Frontal Laranja/Verde"
+            alt="Chemise Longo Amarracao Frontal Laranja/Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #9a634e; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Chemise Longo<br> Amarracao Frontal
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#9a634e" />
+
+          <mj-text
+            color="#9a634e"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 479,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9a634e"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 79,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #9a634e; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #9a634e;"
+              href="https://www.morenarosa.com.br/chemise-longo-amarracao-frontal-laranja-verde-227099"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/lenco-versatil-laranja-verde-227093"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_10-08_Oasis-Tropical/Lenco%20Versatil%20Laranja-Verde.jpg"
+            title="Lenco Versatil Laranja/Verde"
+            alt="Lenco Versatil Laranja/Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #9a634e; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Lenco Versatil<br> Laranja/Verde
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#9a634e" />
+
+          <mj-text
+            color="#9a634e"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9a634e"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 5x R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #9a634e; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #9a634e;"
+              href="https://www.morenarosa.com.br/lenco-versatil-laranja-verde-227093"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-boxer-basico-laranja-229056"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_10-08_Oasis-Tropical/Shorts%20Boxer%20Basico%20Laranja.jpg"
+            title="Shorts Boxer Basico Laranja"
+            alt="Shorts Boxer Basico Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #9a634e; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Boxer <br>Basico Laranja
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#9a634e" />
+
+          <mj-text
+            color="#9a634e"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9a634e"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 4x R$ 57,47</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #9a634e; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #9a634e;"
+              href="https://www.morenarosa.com.br/shorts-boxer-basico-laranja-229056"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-frente-unica-transpasse-frente-laranja-227179"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_10-08_Oasis-Tropical/Vestido%20Midi%20Frente%20Unica%20Transpasse%20Frente%20Laranja.jpg"
+            title="Vestido Midi Frente Unica Transpasse Frente Laranja"
+            alt="Vestido Midi Frente Unica Transpasse Frente Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #9a634e; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Frente<br> Unica Transpasse
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#9a634e" />
+
+          <mj-text
+            color="#9a634e"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#9a634e"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 91,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #9a634e; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1.2px solid #9a634e;"
+              href="https://www.morenarosa.com.br/vestido-midi-frente-unica-transpasse-frente-laranja-227179"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="40px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/praia/maios?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Maiôs"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_10-08_Oasis-Tropical/E-mail%20mkt-08-02.jpg" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/praia/chinelos?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Acessórios"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_10-08_Oasis-Tropical/E-mail%20mkt-08-04.jpg" />
+          <mj-image
+            padding="0px 0px"
+            href="https://www.morenarosa.com.br/praia/biquinis?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Biquínis"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_10-08_Oasis-Tropical/E-mail%20mkt-08-03.jpg" />
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

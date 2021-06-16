@@ -1,0 +1,370 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px" background-color="#aeb44a">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_21-08_Lancamento/email_mkt%20%281%29.jpg"
+            title="Lançamento VERÃO 2020"
+            alt="Lançamento VERÃO 2020" />
+        </mj-column>
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Poppins, sans-serif" color="#ffffff" font-size="11px" padding="10px 30px" align="justify" font-weight="300" line-height="20px" letter-spacing="1.2px">
+            Ele está chegando! E não, não é seu ex (ufa!). A gente ta falando do
+            sol, do verão e da primavera. A época mais quente e festiva do ano está cheia 
+            de looks que arrancam suspiros já à primeira vista. 
+            O cenário dessa temporada do “De férias com a Zinco”?
+          </mj-text>
+          <mj-text font-family="Poppins, sans-serif" color="#2d2926" font-size="14px" padding="0px 30px 30px 30px" align="justify" font-weight="800" line-height="20px" letter-spacing="1.2px">
+            Trancoso - Banhia.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-section>
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="10px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_21-08_Lancamento/Prancheta%201.png"
+            title="shop now"
+            alt="E os looks que desfilam na orla da Bahia também ficam ótimos na cidade! Leves e com cara de férias, as peças trazem um clima litorâneo para a paisagem urbana. Aposte no verde pistache, no amarelo e nas estampas tropicais. Eles vão fazer a sua praia!" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/regata-decote-quadrado-canelada-verde-232582/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212415/REGATA-DECOTE-QUADRADO-CANELADA---LI-VERDE-LIMA---PP.jpg?v=637327750019000000"
+            title="Regata Decote Quadrado Canelada Verde"
+            alt="Regata Decote Quadrado Canelada Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Regata Decote<br> Quadrado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">Por: R$ 99,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 29px"></span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #2d2926; background-color: #e3c5bd; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px; border: 1px solid #e3c5bd;"
+              href="https://www.zinco.com.br/regata-decote-quadrado-canelada-verde-232582/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-curta-evase-com-faixa-verde-232617/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212471/SAIA-CURTA-EVASE-COM-FAIXA---LT-VERDE-LIMA---36.jpg?v=637327750826630000"
+            title="Saia Curta Evase Com Faixa Verde"
+            alt="Saia Curta Evase Com Faixa Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Evase<br> Com Faixa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">7x de R$ 52,84</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 369,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #2d2926; background-color: #e3c5bd; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #e3c5bd;"
+              href="https://www.zinco.com.br/saia-curta-evase-com-faixa-verde-232617/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-midi-flare-com-amarracao-verde-233638/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212944/SAIA-MIDI-FLARE-COM-AMARRACAO---LI-VERDE-LIMA---36.jpg?v=6373277583899700000"
+            title="Saia Midi Flare Com Amarracao Verde"
+            alt="Saia Midi Flare Com Amarracao Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Midi Flare<br> Com Amarracao
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">7x de R$ 55,70</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 389,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #2d2926; background-color: #e3c5bd; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #e3c5bd;"
+              href="https://www.zinco.com.br/saia-midi-flare-com-amarracao-verde-233638/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="40px 0px 10px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_21-08_Lancamento/Prancheta%202.png"
+            title="shop now"
+            alt="Tecidos naturais, como o algodão e o linho, adicione tonalidades frescas e o resultado são looks que passeiam pelas diferentes paisagens da estação. Seja a costa brasileira, ou as cidades quentes, você desfila linda em qualquer destino. E dá-lhe beijo na boca.
+            Foto de uma peça em amarelo vivo com texto ao lado: Ilumine-se! Para acender o bronze e as produções, o amarelo vivo aparece em estampas e detalhes. Looks totais com o print gráfico e a cor e conjuntos com pegada de alfaiataria deixam essa história ainda mais nova e interessante." />
+        </mj-column>
+        
+        <mj-column padding="10px 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-evase-bolso-faca-branco-232083/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214161/SHORTS-EVASE-BOLSO-FACA---ES-CRU---34.jpg?v=637327780480330000"
+            title="Shorts Evase Bolso Faca Branco"
+            alt="Shorts Evase Bolso Faca Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Evase<br> Bolso Faca
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">7x de R$ 52,84</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 369,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #2d2926; background-color: #e3c5bd; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #e3c5bd;"
+              href="https://www.zinco.com.br/shorts-evase-bolso-faca-branco-232083/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-midi-evase-mix-de-tecidos-branco-231974/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213639/SAIA-MIDI-EVASE-MIX-DE-TECIDOS---CO-BRANCO-CRU---34.jpg?v=637327772986000000"
+            title="Saia Midi Evase Mix De Tecidos Branco"
+            alt="Saia Midi Evase Mix De Tecidos Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Midi Evase<br> Mix De Tecidos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">8x de R$ 54,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 439,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #2d2926; background-color: #e3c5bd; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #e3c5bd;"
+              href="https://www.zinco.com.br/saia-midi-evase-mix-de-tecidos-branco-231974/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-classico-detalhe-avesso-bege-231968/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213591/SHORTS-CLASSICO-DETALHE-AVESSO---LI-CRU---34.jpg?v=637327772414400000"
+            title="Shorts Classico Detalhe Avesso Bege"
+            alt="Shorts Classico Detalhe Avesso Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Classico<br> Detalhe Avesso
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">5x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 299,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 800; color: #2d2926; background-color: #e3c5bd; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #e3c5bd;"
+              href="https://www.zinco.com.br/shorts-classico-detalhe-avesso-bege-231968/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="40px 0px 0px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_21-08_Lancamento/Banner-final.jpg"
+            title="Lançamento VERÃO 2020"
+            alt="Lançamento VERÃO 2020" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

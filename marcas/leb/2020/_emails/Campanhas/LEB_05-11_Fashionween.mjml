@@ -1,0 +1,228 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/halloween?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Fashionween"
+            title="Fashionween"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_05-11_Fashionween/Artboard%201%20copy-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="25px 0px 30px 0px">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#576daf"
+            font-size="25px"
+            padding="15px 100px 0px 0px"
+            align="right"
+            line-height="15px"
+            font-weight="700">
+            -
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#576daf"
+            font-size="15px"
+            padding="5px 100px 20px 0px"
+            align="right"
+            line-height="17px"
+            letter-spacing="0.5px"
+            font-weight="400">
+            a gente ama uma<br>
+            estampa e quando vem<br>
+            acompanhada de 50%off<br>
+            fica melhor ainda, né?
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/halloween?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 19px" align="right" font-weight="400" font-size="14px" padding="10px 140px 15px 0px" background-color="#576daf" color="#ffffff" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/body-decote-v-alca-transpasse-costa-laranja-220195/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/183706/BODY-DECOTE-V-ALCA-TRANSPASSE-COSTA---ES-LARANJA---PP.jpg?v=637111563807230000"
+            title="Body Decote V Alca Transpasse Costa Laranja"
+            alt="Body Decote V Alca Transpasse Costa Laranja" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Decote V Alca<br> Transpasse Costa Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 209,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 52,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 104,95
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/body-decote-v-alca-transpasse-costa-laranja-220195/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#576daf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-alfaiataria-bolso-faca-laranja-220315/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/184113/SHORTS-ALFAIATARIA-BOLSO-FACA---ES-LARANJA---36.jpg?v=637111572862700000"
+            title="Shorts Alfaiataria Bolso Faca Laranja"
+            alt="Shorts Alfaiataria Bolso Faca Laranja" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Alfaiataria Bolso<br> Faca Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 249,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 124,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/shorts-alfaiataria-bolso-faca-laranja-220315/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#576daf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blazer-alongado-roxo-225248/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186472/22000102037001348-0-.jpg?v=637191021466330000"
+            title="Calca Pantacourt Cos Alto Com Pregas Marrom"
+            alt="Calca Pantacourt Cos Alto Com Pregas Marrom" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Pantacourt Cos Alto<br> Com Pregas Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 409,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 51,23
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 204,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blazer-alongado-roxo-225248/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#576daf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-redondo-manga-raglan-longa-abertura-costas-marrom-225424/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186471/22000102013000871-0-.jpg?v=637191020269570000"
+            title="Blusa Decote Redondo Manga Raglan Longa Abertura Costas Marrom"
+            alt="Blusa Decote Redondo Manga Raglan Longa Abertura Costas Marrom" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Decote Redondo<br> Manga Raglan Longa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-decote-redondo-manga-raglan-longa-abertura-costas-marrom-225424/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#576daf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="15px 15px 0px 15px" background-color="#F7D5C8">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/summer-is-outside?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="summer is outside"
+            title="summer is outside"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Outubro/LEB_28-10_summer-is-outside/Artboard%203-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#F7D5C8">
+      <mj-group> 
+        <mj-column padding="50px 0px 0px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#EA5F69" font-style= "italic" font-size="30px" align= "center" font-weight="500" padding="0px 0px 0px 0px" line-height="32px" letter-spacing="0.1px">
+            summer<br> <span style="font-weight:300;">is outside</span> 
+          </mj-text>
+        </mj-column>
+        <mj-column padding="30px 0px 0px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#EA5F69" font-size="26px" align= "left" font-weight="500" padding="0px 0px 0px 0px" line-height="23px" letter-spacing="0.4px">
+            -
+          </mj-text>
+          <mj-text font-family="Work Sans, sans-serif" color="#EA5F69" font-size="13px" align= "left" font-weight="300" padding="0px 0px 0px 0px" line-height="15px" letter-spacing="0px">
+            o verão já chegou na Lebôh.<br>
+            com ele, as tardes quentes<br>
+            vêm acompanhadas daquela <br>
+            sensação de se encontrar <br>
+            em cada pedacinho. let’s go! <br>
+          </mj-text>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+    <mj-section padding="0" background-color="#F7D5C8">
+      <mj-group> 
+        <mj-column padding="50px 0px 30px 0px">
+          <mj-button href="https://www.leboh.com.br/summer-is-outside?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 17px" align="center" font-weight="400" font-size="12px" padding="0px 0px 0px 0px" background-color="#EA5F69" color="#F7D5C8" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

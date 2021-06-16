@@ -1,0 +1,268 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=165&_t=Rasteiras&p=2"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_03-11_Shoes-Rasteiras/Prancheta%209%20c%C3%B3pia%202-topo-01.jpg"
+          alt="2 rasteiras por R$249,90"
+          title="2 rasteiras por R$249,90" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#ADBD87">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#ffffff" font-size="13.5px" padding="20px 0px 10px 0px" align="center" font-weight="300" line-height="21px" letter-spacing="1.5px">
+          Eles são nossos melhores amigos no verão e<br> 
+          vão deixar seus looks ainda mais confortáveis<br> 
+          e cheios de personalidade! Confira nossa<br> 
+          seleção e leve <strong>a partir de R$69,90</strong>
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=165&_t=Rasteiras&p=2" text-decoration="none" text-transform="uppercase" inner-padding="9px 20px" align="center" font-weight="500" font-size="13px" padding="15px 0px 40px 0px" background-color="#ffffff" color="#ADBD87" border-radius="0px" border= "0px solid #ffffff" target="_blank"><span style="letter-spacing:1.2px">DESCUBRA</pan></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-rasteira-tiras-a-fio-marrom-231006"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/346091/SANDALIA-RASTEIRA-TIRAS-A-FIO---LI-CARAMELO---34.jpg?v=637238800203900000"
+            title="Sandalia Rasteira Tiras A Fio Marrom"
+            alt="Sandalia Rasteira Tiras A Fio Marrom" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#ADBD87" font-weight="400" font-size="15px" padding="10px 0 10px 0">
+            Sandalia Rasteira<br> Tiras A Fio Marrom
+          </mj-text>
+
+          <mj-text color="#ADBD87" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 269,90</text>
+          </mj-text>
+
+          <mj-text color="#ADBD87" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            2x de R$ 53,98
+          </mj-text>
+
+          <mj-text color="#ADBD87" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 107,96
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sandalia-rasteira-tiras-a-fio-marrom-231006" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ADBD87" color="#f7eee9" border-radius="0px" border= "1.2px solid #ADBD87" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#ADBD87" font-weight="400" font-size="15px" padding="10px 0 10px 0">
+            Sandalia Rasteira<br> Tiras Retas Preto
+          </mj-text>
+
+          <mj-text color="#ADBD87" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 289,90</text>
+          </mj-text>
+
+          <mj-text color="#ADBD87" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            2x de R$ 72,47
+          </mj-text>
+
+          <mj-text color="#ADBD87" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 144,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sandalia-rasteira-tiras-retas-preto-220413" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ADBD87" color="#f7eee9" border-radius="0px" border= "1.2px solid #ADBD87" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-rasteira-tiras-retas-preto-220413"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/328643/SANDALIA-RASTEIRA-TIRAS-RETAS---LI-PRETO---34.jpg?v=637118372017600000"
+            title="Sandalia Rasteira Tiras Retas Preto"
+            alt="Sandalia Rasteira Tiras Retas Preto" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-rasteira-detalhe-tiras-mostarda-230974"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/345695/SANDALIA-RASTEIRA-DETALHE-TIRAS---LI-MOSTARDA---34.jpg?v=637238794706270000"
+            title="Sandalia Rasteira Detalhe Tiras Mostarda"
+            alt="Sandalia Rasteira Detalhe Tiras Mostarda" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#ADBD87" font-weight="400" font-size="15px" padding="10px 0 10px 0">
+            Sandalia Rasteira<br> Detalhe Tiras Mostarda
+          </mj-text>
+
+          <mj-text color="#ADBD87" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 229,90</text>
+          </mj-text>
+
+          <mj-text color="#ADBD87" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            2x de R$ 57,47
+          </mj-text>
+
+          <mj-text color="#ADBD87" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 114,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sandalia-rasteira-detalhe-tiras-mostarda-230974" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ADBD87" color="#f7eee9" border-radius="0px" border= "1.2px solid #ADBD87" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#ADBD87">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#ffffff" font-size="14.5px" padding="11px 0px" align="center" font-weight="300" line-height="21px" letter-spacing="1.5px">
+          Combine com:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-decote-v-basico-marrom-239010"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/360460/VESTIDO-CURTO-DECOTE-V-BASICO---ES-MARROM-LARANJA---P.jpg?v=637378520930900000"
+            title="Vestido Curto Decote V Basico Marrom"
+            alt="Vestido Curto Decote V Basico Marrom" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Curto Decote V<br> Basico Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/vestido-curto-decote-v-basico-marrom-239010" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-comfort-cos-intermediario-com-amarracao-preto-241574"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/359122/CALCA-COMFORT-COS-INTERMEDIARIO-COM-AMARRACAO---LI-PRETO---36.jpg?v=637378049634100000"
+            title="Calca Comfort Cos Intermediario Com Amarracao Preto"
+            alt="Calca Comfort Cos Intermediario Com Amarracao Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Comfort Cos<br> Intermediario
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 51,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 259,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-comfort-cos-intermediario-com-amarracao-preto-241574" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-detalhe-pesponto-preto-branco-241352"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/358839/BLUSA-DECOTE-REDONDO-MANGA-CURTA-DETALHE-PESPONTO---CO-PRETO-BRANCO---P.jpg?v=637378044954530000"
+            title="Blusa Decote Redondo Manga Curta Detalhe Pesponto Preto/Branco"
+            alt="Blusa Decote Redondo Manga Curta Detalhe Pesponto Preto/Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Decote Redondo<br> Manga Curta
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 56,63
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 169,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-detalhe-pesponto-preto-branco-241352" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/chemise-midi-abertura-frente-branco-229776"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/343651/CHEMISE-MIDI-ABERTURA-FRENTE---ES-CRU---P.jpg?v=637238620349230000"
+            title="Chemise Midi Abertura Frente Branco"
+            alt="Chemise Midi Abertura Frente Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Chemise Midi Abertura<br> Frente Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 83,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/chemise-midi-abertura-frente-branco-229776" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

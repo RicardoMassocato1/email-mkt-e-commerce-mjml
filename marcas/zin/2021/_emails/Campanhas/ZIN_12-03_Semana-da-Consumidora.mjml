@@ -1,0 +1,165 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/semana-da-consumidora?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_12-03_Semana-da-Consumidora/ZC_EmailMkt_02.jpg"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#000000" font-size="13.5px" padding="30px 20px 30px 20px" align="center" font-weight="400" line-height="20px" letter-spacing="1.5px">
+          A nossa Semana do Consumidor está ON e você não pode ficar de fora! Separei aqui as nossas T-shirts preferidas para te dar um gostinho do que tá rolando! Vem ver!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-com-drapeado-branco-232903/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212662/T-SHIRT-DECOTE-REDONDO-COM-DRAPEADO---LI-BRANCO---P.jpg?v=637327753827270000"
+            title="T-Shirt Zinco Decote Redondo Com Drapeado Branco"
+            alt="T-Shirt Zinco Decote Redondo Com Drapeado Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Zinco Decote<br> Redondo Com Drapeado<br> Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0px">
+              4x de R$ 57,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 229,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-com-drapeado-branco-232903/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-alongada-preto-234934/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213120/T-SHIRT-DECOTE-REDONDO-ALONGADA---LI-PRETO---P.jpg?v=637327763228670000"
+            title="T-Shirt Zinco Decote Redondo Alongada Preto"
+            alt="T-Shirt Zinco Decote Redondo Alongada Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Zinco Decote<br> Redondo Alongada<br> Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0px">
+              6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 349,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-alongada-preto-234934/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-com-retilinea-off-white-228952/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/208212/T-SHIRT-DECOTE-REDONDO-COM-RETILINEA---LI-OFF-WHITE---P.jpg?v=637250824218530000"
+            title="T-Shirt Zinco Decote Redondo Com Retilínea Off White"
+            alt="T-Shirt Zinco Decote Redondo Com Retilínea Off White" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Zinco Decote<br> Redondo Com Retilínea<br> Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0px">
+              3x de R$ 66,63
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 199,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-com-retilinea-off-white-228952/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-com-transparencia-preto-227004/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/207848/T-SHIRT-DECOTE-REDONDO-COM-TRANSPARENCIA---LI-PRETO---P.jpg?v=637250818253230000"
+            title="T-Shirt Zinco Decote Redondo Com Transparência Preto"
+            alt="T-Shirt Zinco Decote Redondo Com Transparência Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Zinco Decote<br> Redondo Com<br> Transparência Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0px">
+              4x de R$ 57,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 229,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/t-shirt-zinco-decote-redondo-com-transparencia-preto-227004/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="40px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_03-03_Tricot-de-Inverno/ZC_EmailMkt_02-topo.jpg"
+          alt="Lançamento Outono/Inverno 2021"
+          title="Lançamento Outono/Inverno 2021" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

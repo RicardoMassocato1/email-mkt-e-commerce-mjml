@@ -1,0 +1,202 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_08-09_Semana-da-Cliente/Banner%20home-03-topo.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#694330" font-size="13.2px" padding="0px 0px 0px 0px" align="center" font-weight="400" line-height="22px" letter-spacing="1.4px">
+          Aproveite para renovar seu closet<br> na semana da cliente!
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.5px" padding="15px 0px" background-color="#ffffff" color="#694330" border-radius="3px" border= "1.2px solid #694330" target="_blank">Eu Quero</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-abaixo-do-joelho-regular-fio-metalizado-preto-cobre-223896"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/340062/SAIA-ABAIXO-DO-JOELHO-REGULAR-FIO-METALIZADO---LT-PRETO-COBRE---40.jpg?v=637237723639430000"
+            title="Camisa Manga Curta Com Bolso Laranja"
+            alt="Camisa Manga Curta Com Bolso Laranja" />
+
+          <mj-text align="center" color="#694330" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Abaixo Do Joelho<br> Regular Fio Metalizado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 389,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 54,58
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 272,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-abaixo-do-joelho-regular-fio-metalizado-preto-cobre-223896" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="3px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-gola-alta-com-bolso-verde-222420"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_08-09_Semana-da-Cliente/Sem%20T%C3%ADtulo-1.jpg"
+            title="Vestido Curto Gola Alta Com Bolso Verde"
+            alt="Vestido Curto Gola Alta Com Bolso Verde" />
+
+          <mj-text align="center" color="#694330" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Curto Gola<br> Alta Com Bolso
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 699,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 81,65
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 489,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-curto-gola-alta-com-bolso-verde-222420" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="3px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-jogger-cos-intermediario-bolso-faca-ameixa-amarelo-222321"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/330632/CALCA-JOGGER-COS-INTERMEDIARIO-BOLSO-FACA---ES-AMEIXA-AMARELO---36.jpg?v=637172397128500000"
+            title="Calca Jogger Cos Intermediario Bolso Faca Ameixa/Amarelo"
+            alt="Calca Jogger Cos Intermediario Bolso Faca Ameixa/Amarelo" />
+
+          <mj-text align="center" color="#694330" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Jogger Cos<br> Intermediario
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-jogger-cos-intermediario-bolso-faca-ameixa-amarelo-222321" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="3px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-curta-evase-bolso-faca-preto-222430"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/330939/SAIA-CURTA-EVASE-BOLSO-FACA---LI-PRETO---40.jpg?v=637172402379700000"
+            title="Saia Curta Evase Bolso Faca Preto"
+            alt="Saia Curta Evase Bolso Faca Preto" />
+
+          <mj-text align="center" color="#694330" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Curta Evase Bolso<br> Faca Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-curta-evase-bolso-faca-preto-222430" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="3px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_08-09_Semana-da-Cliente/Banner%20home-03-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Lingerie&pwaf_productClusterIds=170"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_08-09_Semana-da-Cliente/Banner%20home-03-lingerie.jpg"
+          alt="Lingerie"
+          title="Lingerie" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Cal%C3%A7ados&pwaf_productClusterIds=172"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_08-09_Semana-da-Cliente/Banner%20home-03-shoes.jpg"
+          alt="Shoes"
+          title="Shoes" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

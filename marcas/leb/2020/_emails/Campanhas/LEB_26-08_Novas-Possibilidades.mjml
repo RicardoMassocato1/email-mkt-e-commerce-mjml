@@ -1,0 +1,871 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lancamento"
+            width="600px"
+            padding="0"
+            alt="Lançamento novas possibilidades"
+            title="Lançamento novas possibilidades"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Lancamento-Agosto/LEB_26-08_Novas-Possibilidades/Artboard%2011-topo.jpg" />
+        </mj-column>
+        <mj-column width="100%" padding="15px 45px 30px 45px">
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="14px"  align= "justify" font-weight="500" line-height="16px" letter-spacing="0.4px">
+            na nova temporada lebôh, trends irresistíveis atualizam o estilo das mulheres 
+            que adoram uma novidade de moda. alfaiataria, sporty, tecidos metalizados e um 
+            denim atual e marcante fazem da coleção uma ótima pedida para expressar novas versões.
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0px 30px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lancamento"
+            width="600px"
+            padding="0"
+            alt="Lançamento Banner"
+            title="Lançamento Banner"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Lancamento-Agosto/LEB_26-08_Novas-Possibilidades/Artboard%2011-01.jpg" />
+          <mj-text align="center" padding="0">
+            <a
+              style="font-family: Ubuntu, sans-serif; text-decoration: none; font-size: 12px; font-weight:500; color: #000000; display: inline-block; margin: 80px; margin-top: 20px; padding: 6px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/lancamento"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0px 30px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lancamento"
+            width="600px"
+            padding="0"
+            alt="Lançamento Pink and Blue"
+            title="Lançamento Pink and Blue"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Lancamento-Agosto/LEB_26-08_Novas-Possibilidades/Artboard%2011-02.jpg" />
+        </mj-column>
+        <mj-column width="100%" padding="15px 70px 30px 0px">
+          <mj-text font-family="Ubuntu, sans-serif" font-style= "italic" color="#000000" font-size="12px" padding="0px 0px 0px 0px" align= "right" align= "justify" font-weight="500" line-height="16px">
+            lançamento
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="25px" padding="4px 0px 0px 0px" align= "right" align= "justify" font-weight="400" line-height="23px" letter-spacing="0.4px">
+            pink and<br>
+            blue
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="14px" padding="15px 0px 0px 70px" align= "justify" font-weight="500" line-height="16px" letter-spacing="0.4px">
+            icônicas, as cores invadem a temporada de primavera verão. 
+            o rosa surge em peças acetinadas, donas de uma personalidade atual, 
+            enquanto o azul aparece em looks de alfaiataria e no denim, em
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/t-shirt-decote-redondo-abertura-lateral-rosa-235340/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189087/T-SHIRT-DECOTE-REDONDO-ABERTURA-LATERAL---LI-PINK---PP.jpg?v=637332757662600000"
+            title="T-Shirt Decote Redondo Abertura Lateral Rosa"
+            alt="T-Shirt Decote Redondo Abertura Lateral Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote<br> Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+           <mj-text
+              color="#000000"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">Por: R$99,90</span>
+            </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 14px"></span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/t-shirt-decote-redondo-abertura-lateral-rosa-235340/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-v-manga-7-8-com-amarracao-rosa-233259/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188767/BLUSA-DECOTE-V-MANGA-7-8-COM-AMARRACAO---LI-PINK---PP.jpg?v=637332749947730000"
+            title="Blusa Decote V Manga 7/8 Com Amarracao Rosa"
+            alt="Blusa Decote V Manga 7/8 Com Amarracao Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V<br> Manga 7/8
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">4x de R$54,97</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$219,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/blusa-decote-v-manga-7-8-com-amarracao-rosa-233259/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macacao-utilitario-com-faixa-rosa-233263/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188787/MACACAO-UTILITARIO-COM-FAIXA---LI-PINK---PP.jpg?v=637332750627970000"
+            title="Macacao Utilitario Com Faixa Rosa"
+            alt="Macacao Utilitario Com Faixa Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao<br> Utilitario
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">6x de R$53,31</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$319,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/macacao-utilitario-com-faixa-rosa-233263/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="40px 30px 0px 30px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lancamento"
+            width="600px"
+            padding="0"
+            alt="Lancamento in between days"
+            title="Lancamento in between days"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Lancamento-Agosto/LEB_26-08_Novas-Possibilidades/Artboard%2011-03.jpg" />
+        </mj-column>
+        <mj-column width="100%" padding="15px 70px 30px 0px">
+          <mj-text font-family="Ubuntu, sans-serif" font-style= "italic" color="#000000" font-size="12px" padding="0px 0px 0px 0px" align= "right" align= "justify" font-weight="500" line-height="16px">
+            lançamento
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="25px" padding="4px 0px 0px 0px" align= "right" align= "justify" font-weight="400" line-height="23px" letter-spacing="0.4px">
+            in between<br>
+            days
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="14px" padding="15px 0px 0px 70px" align= "justify" font-weight="500" line-height="16px" letter-spacing="0.4px">
+            volumes e shapes mais confortáveis são as pedidas para os looks casuais. 
+            para atualizar as composições, cores intensas e estampas gráficas chegam 
+            com energia de sobra. outro dos destaques, o jeans, aparece em versões color e com 
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-cigarrete-cos-intermediario-com-reserva-jeans-233048/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189451/CALCA-CIGARRETE-COS-INTERMEDIARIO-COM-RESERVA---LI-JEANS-MEDIO---34.jpg?v=637332764086800000"
+            title="Calca Cigarrete Cos Intermediario Com Reserva Jeans"
+            alt="Calca Cigarrete Cos Intermediario Com Reserva Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Cigarrete<br> Cos Interm.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">4x de R$59,97</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$239,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/calca-cigarrete-cos-intermediario-com-reserva-jeans-233048/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-wide-cos-intermediario-tinturada-rosa-234794/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189674/CALCA-WIDE-COS-INTERMEDIARIO-TINTURADA---LI-PINK---34.jpg?v=637332798248600000"
+            title="Calca Wide Cos Intermediario Tinturada Rosa"
+            alt="Calca Wide Cos Intermediario Tinturada Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Wide Cos<br> Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">3x de R$66,63</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$199,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/calca-wide-cos-intermediario-tinturada-rosa-234794/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-wide-cos-alto-compose-tecido-azul-233078/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189613/CALCA-WIDE-COS-ALTO-COMPOSE-TECIDO---CO-JEANS-MEDIO-TANGERINA---34.jpg?v=637332767121530000"
+            title="Calca Wide Cos Alto Compose Tecido Azul"
+            alt="Calca Wide Cos Alto Compose Tecido Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Wide Cos<br> Alto Compose
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">4x de R$59,97</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$239,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/calca-wide-cos-alto-compose-tecido-azul-233078/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="40px 30px 0px 30px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lancamento"
+            width="600px"
+            padding="0"
+            alt="Lancamento a night wish"
+            title="Lancamento a night wish"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Lancamento-Agosto/LEB_26-08_Novas-Possibilidades/Artboard%2011-04.jpg" />
+        </mj-column>
+        <mj-column width="100%" padding="15px 70px 30px 0px">
+          <mj-text font-family="Ubuntu, sans-serif" font-style= "italic" color="#000000" font-size="12px" padding="0px 0px 0px 0px" align= "right" align= "justify" font-weight="500" line-height="16px">
+            lançamento
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="25px" padding="4px 0px 0px 0px" align= "right" align= "justify" font-weight="400" line-height="23px" letter-spacing="0.4px">
+            a night<br>
+            wish
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="14px" padding="15px 0px 0px 70px" align= "justify" font-weight="500" line-height="16px" letter-spacing="0.4px">
+            surpreendentes, as propostas noturnas da temporada transitam por diferentes 
+            eventos com a mesma desenvoltura. looks de alfaiataria, peças com 
+            transparências e propostas metalizadas enchem os olhos de uma beleza nova 
+            e atual. destaque também para o preto. 
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-boxer-bicolor-azul-branco-233093/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188428/SHORTS-BOXER-BICOLOR---CO-AZUL-BRANCO---36.jpg?v=637332743955700000"
+            title="Shorts Boxer Bicolor Azul/Branco"
+            alt="Shorts Boxer Bicolor Azul/Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Boxer<br> Bicolor
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">3x de R$66,63</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$199,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/shorts-boxer-bicolor-azul-branco-233093/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-alfaiataria-cos-alto-com-botao-verde-233095/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188452/CALCA-ALFAIATARIA-COS-ALTO-COM-BOTAO---LI-VERDE-AGUA---36.jpg?v=637332744359670000"
+            title="Calca Alfaiataria Cos Alto Com Botao Verde"
+            alt="Calca Alfaiataria Cos Alto Com Botao Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Alfaiataria<br> Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">5x de R$59,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$299,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/calca-alfaiataria-cos-alto-com-botao-verde-233095/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-comfort-cos-intermediario-metalizada-azul-233092/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188372/CALCA-COMFORT-COS-INTERMEDIARIO-METALIZADA---LI-AZUL---36.jpg?v=637332635190630000"
+            title="Calca Comfort Cos Intermediario Metalizada Azul"
+            alt="Calca Comfort Cos Intermediario Metalizada Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort<br> Cos Interm.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">7x de R$51,41</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$359,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/calca-comfort-cos-intermediario-metalizada-azul-233092/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        
+        <mj-column width="100%" padding="0px 0px">
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="25px" padding="30px 80px 20px 0px" align= "right" font-weight="400" line-height="25px" letter-spacing="0.5px">
+            sugestões<br>
+            para você 
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/saia-curta-reta-com-amarracao-preto-233086/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188392/SAIA-CURTA-RETA-COM-AMARRACAO---LI-PRETO---36.jpg?v=637332743355200000"
+            title="Saia Curta Reta Com Amarracao Preto"
+            alt="Saia Curta Reta Com Amarracao Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Reta<br> Com Amarracao
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">3x de R$59,96</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$179,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/saia-curta-reta-com-amarracao-preto-233086/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/t-shirt-decote-redondo-com-amarracao-azul-234790/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189643/T-SHIRT-DECOTE-REDONDO-COM-AMARRACAO---LI-AZUL---PP.jpg?v=637332767649030000"
+            title="T-Shirt Decote Redondo Com Amarracao Azul"
+            alt="T-Shirt Decote Redondo Com Amarracao Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote<br> Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">2x de R$59,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$119,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/t-shirt-decote-redondo-com-amarracao-azul-234790/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/t-shirt-dress-com-recorte-azul-234789/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189631/T-SHIRT-DRESS-COM-RECORTE---LI-AZUL---PP.jpg?v=637332767438870000"
+            title="T-Shirt Dress Com Recorte Azul"
+            alt="T-Shirt Dress Com Recorte Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Dress<br> Com Recorte
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">3x de R$59,96</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$179,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/t-shirt-dress-com-recorte-azul-234789/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-boot-cut-cos-intermediario-com-faixa-jeans-233062/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189523/CALCA-BOOT-CUT-COS-INTERMEDIARIO-COM-FAIXA---LI-JEANS-MEDIO---34.jpg?v=637332765364130000"
+            title="Calca Boot Cut Cos Intermediario Com Faixa Jeans"
+            alt="Calca Boot Cut Cos Intermediario Com Faixa Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Boot Cut<br> Cos Interm.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">5x de R$55,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$279,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/calca-boot-cut-cos-intermediario-com-faixa-jeans-233062/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-comfort-detalhe-lateral-jeans-233020/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189217/SHORTS-COMFORT-DETALHE-LATERAL---LI-JEANS-MEDIO---34.jpg?v=637332760249100000"
+            title="Shorts Comfort Detalhe Lateral Jeans"
+            alt="Shorts Comfort Detalhe Lateral Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Comfort<br> D/ Lateral
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">3x de R$59,96</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$179,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/shorts-comfort-detalhe-lateral-jeans-233020/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 25px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-midi-decote-redondo-com-faixa-amarelo-233336/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188918/VESTIDO-MIDI-DECOTE-REDONDO-COM-FAIXA---ES-MOSTARDA-AZUL-MARINHO---P.jpg?v=637332754230230000"
+            title="Vestido Midi Decote Redondo Com Faixa Amarelo"
+            alt="Vestido Midi Decote Redondo Com Faixa Amarelo" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi<br> Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">7x de R$54,27</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$379,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1.1px solid #000000;"
+              href="https://www.leboh.com.br/vestido-midi-decote-redondo-com-faixa-amarelo-233336/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

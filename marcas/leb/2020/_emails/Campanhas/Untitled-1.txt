@@ -1,0 +1,41 @@
+<section class="gmr-cookies" style="position: fixed; bottom: 0; left: 0; background: #fff; height: 130px; display: none; justify-content: center; text-align: center; align-items: center; flex-flow: column; box-shadow: 0 0 20px 0 rgba(0,0,0,0.1); z-index: 9999999;">
+    <div class="gmr-cookies__container"> 
+        <!-- <h2>Cookies</h2> -->
+        <p style=" font-size: 14.5px;"> Utilizamos cookies próprios e de terceiros para melhorar a sua experiência, analisando a navegação de nosso site. Ao continuar a navegação, consideramos que você aceita a sua utilização e nossa
+        <a style=" font-size: 14.5px;" pwa-to-page="/politica-de-privacidade">política de privacidade.</a></p> 
+        <button onclick="cookiesValidate()" class="gmr-cookies__btn" style="background: #fff; padding: 10px 30px; align-self: center; color: #000; border: 1px solid #000; font-size: 14.5px; padding-top: 5px;">Concordo</button>
+    </div>
+</section>
+
+
+<section class="gmr-cookies" style="position: fixed; bottom: 0; left: 0; background: #fff; height: 130px; display: none; justify-content: center; text-align: center; align-items: center; flex-flow: column; box-shadow: 0 0 20px 0 rgba(0,0,0,0.1); z-index: 99999999;">
+    <div class="gmr-cookies__container">
+        <p style=" font-size: 11.5px;"> Utilizamos cookies próprios e de terceiros para melhorar a sua experiência, analisando a navegação de nosso site. Ao continuar a navegação, consideramos que você aceita a sua utilização e nossa
+        <a style=" font-size: 11.5px; color: #000" pwa-to-page="/politica-de-privacidade">política de privacidade.</a></p> 
+        <button onclick="cookiesValidate()" class="gmr-cookies__btn" style="font-size: 11.5px; background: #fff; padding: 8px 30px; align-self: center; color: #000; border: 1px solid #000;">Concordo</button>
+    </div>
+</section>
+
+
+<section class="gmr-cookies" style="width: calc(100% - 0px); position: fixed; bottom: 0; left: 0; background: #fff; height: 150px; display: none; justify-content: center; text-align: center; align-items: center; flex-flow: column; box-shadow: 0 0 20px 0 rgba(0,0,0,0.1); z-index: 99999999;">
+    <div class="gmr-cookies__container">
+        <p style=" font-size: 12px;"> Utilizamos cookies próprios e de terceiros para melhorar a sua experiência, analisando a navegação de nosso site. Ao continuar a navegação, consideramos que você aceita a sua utilização e nossa
+        <a style=" font-size: 12px; color: #000" href="/institucional/politica-de-privacidade">política de privacidade.</a></p> 
+        <button onclick="cookiesValidate()" class="gmr-cookies__btn" style="background: #fff; padding: 8px 30px; align-self: center; color: #000; border: 1px solid #000;">Concordo</button>
+    </div>
+</section>
+
+
+
+<article class="mr-footer__info2-col">
+    <h2>Certificados</h2>
+    <div class="mr-footer__info2-row">
+            <a href="https://secure.vtex.com/?an=morenarosa" aria-label="Certificado" target="_blank" > <img pwa-src="icon-certified-VT" alt="Certificado"> </a>   
+            <a href="https://www.reclameaqui.com.br/empresa/grupo-morena-rosa/" aria-label="Certificado" target="_blank" > <img pwa-src="icon-certified-RA" alt="Certificado"> </a>  
+    </div>
+    <!-- <div class="mr-footer__info2-row">
+        <a href="#" aria-label="Certificado"> <img pwa-src="icon-certified" alt="Certificado"> </a>
+        <a id="seloEbit" aria-label="Ebit" rel="noreferrer" href="https://www.ebit.com.br/77308 " target="_blank" 
+            data-noop="redir(this.href);"></a>
+    </div> -->
+</article>

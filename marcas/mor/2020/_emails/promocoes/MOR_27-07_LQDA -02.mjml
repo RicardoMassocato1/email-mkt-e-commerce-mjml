@@ -1,0 +1,304 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="0px 0px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA&pwaf_productClusterIds=171"
+        title="LQDA"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_27-07_LQDA%20-02/E-mails%20LQDA-04-topo.jpg" />
+    </mj-column>
+
+    <mj-section padding="15px 0px 15px 0px" background-color="#ce3a46">
+      <mj-column padding="0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#ffffff" font-size="17px" padding="0px 0px 5px 0px" align="center" font-weight="600" line-height="23px" letter-spacing="3px">
+            ALL RED
+          </mj-text>
+          <mj-text font-family="Roboto, serif" color="#ffffff" font-size="13px" padding="0px 0px" align="center" font-weight="100" line-height="23px" letter-spacing="2.3px">
+            Peças em tons de Vermelhos para<br> montar seu look e arrasar!
+          </mj-text>
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 12px; border: 1px solid #ffffff; letter-spacing:1.5px"
+              href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA&pwaf_productClusterIds=171"
+              title="SEU QUERO">
+              EU QUERO
+            </a>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px">
+      <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-curta-evase-bolso-faca-vermelho-222429"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_27-07_LQDA%20-02/Saia%20Curta%20Evase%20Bolso%20Faca%20Vermelho.jpg"
+            title="Saia Curta Evase Bolso Faca Vermelho"
+            alt="Saia Curta Evase Bolso Faca Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Evase Bolso<br> Faca Vermelho
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 239,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/saia-curta-evase-bolso-faca-vermelho-222429"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-assimetrico-manga-longa-com-amarracao-pink-222466"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_27-07_LQDA%20-02/Blusa%20Decote%20Assimetrico%20Manga%20Longa%20Com%20Amarracao%20Pink.jpg"
+            title="Blusa Decote Assimetrico Manga Longa Com Amarracao Pink"
+            alt="Blusa Decote Assimetrico Manga Longa Com Amarracao Pink" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Assimetrico<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/blusa-decote-assimetrico-manga-longa-com-amarracao-pink-222466"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/cinto-cintura-quadril-skinny-dupla-face-mrosa-vermelho-222897"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_27-07_LQDA%20-02/Cinto%20Cintura%20Quadril%20Skinny%20Dupla%20Face%20Mrosa%20Vermelho.jpg"
+            title="Cinto Cintura Quadril Skinny Dupla Face Mrosa Vermelho"
+            alt="Cinto Cintura Quadril Skinny Dupla Face Mrosa Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Cinto Cintura Quadril<br> Skinny Dupla Face
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 139,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 83,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">1x de R$83,94</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/cinto-cintura-quadril-skinny-dupla-face-mrosa-vermelho-222897"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-salto-medio-fivela-forrada-vermelho-226941"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_27-07_LQDA%20-02/Sandalia%20Salto%20Medio%20Fivela%20Forrada%20Vermelho.jpg"
+            title="Sandalia Salto Medio Fivela Forrada Vermelho"
+            alt="Sandalia Salto Medio Fivela Forrada Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Sandalia Salto Medio<br> Fivela Forrada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+         <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 258,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$51,78</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/sandalia-salto-medio-fivela-forrada-vermelho-226941"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="40px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA&pwaf_productClusterIds=234"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_27-07_LQDA%20-02/E-mails-LQDA-Progressiva-01-blusas.png" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA&pwaf_productClusterIds=160"
+            title="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_27-07_LQDA%20-02/E-mails-LQDA-Progressiva-01-calcas.png" />
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA&pwaf_productClusterIds=244"
+            title="Vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_27-07_LQDA%20-02/E-mails-LQDA-Progressiva-01-vestidos.png" />
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

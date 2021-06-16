@@ -1,0 +1,104 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 10px 0px 10px"
+          width="600px"
+          href="https://www.morenarosa.com.br/acessorios?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_18-05_Acessorios/ACESS%C3%93RIOS-01-min.jpg"
+          alt="Morena Rosa Acessórios"
+          title="Morena Rosa Acessórios" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#000" font-size="13.5px" padding="20px 30px 40px 30px" text-transform="none" align="center" font-weight="400" line-height="18px" letter-spacing="1.5px">
+          Confira a seleção de acessórios Morena Rosa disponíveis com 30% OFF pra você! Fique linda e complete ainda mais os seus looks com essas peças! 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#d04f25">
+      <mj-column>
+        <mj-image
+          padding="40px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/cinto-morena-rosa-cintura-quadril-regular-metalizado-branco-dourado-244509"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_18-05_Acessorios/ACESS%C3%93RIOS-02-min.jpg"
+          alt="Cinto Morena Rosa Cintura Quadril Regular Metalizado Branco/Dourado"
+          title="Cinto Morena Rosa Cintura Quadril Regular Metalizado Branco/Dourado" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#d04f25">
+      <mj-column>
+        <mj-image
+          padding="15px 0px 15px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/bolsa-morena-rosa-crossbody-alca-trancada-nude-232150"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_18-05_Acessorios/ACESS%C3%93RIOS-03-min.jpg"
+          alt="Bolsa Morena Rosa Crossbody Alça Trancada Nude"
+          title="Bolsa Morena Rosa Crossbody Alça Trancada Nude" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#d04f25">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 20px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/bolsa-morena-rosa-trapezio-alca-madeira-marrom-232173"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_18-05_Acessorios/ACESS%C3%93RIOS-04-min.jpg"
+          alt="Bolsa Morena Rosa Trapezio Alça Madeira Marrom"
+          title="Bolsa Morena Rosa Trapezio Alça Madeira Marrom" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#121212">
+      <mj-group>
+        <mj-column width="47.87%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/roupas?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_18-05_Acessorios/ACESS%C3%93RIOS-roupas-min.jpg"
+            alt="Roupas"
+            title="Roupas" />
+        </mj-column>
+
+        <mj-column width="52.1%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/jeans?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_18-05_Acessorios/ACESS%C3%93RIOS-jeans-min.jpg"
+            alt="Jeans"
+            title="Jeans" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/praia?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_18-05_Acessorios/ACESS%C3%93RIOS-beach-min.jpg"
+            alt="Beach"
+            title="Beach" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="15px 0px 0px 0px" background-color="#d04f25">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

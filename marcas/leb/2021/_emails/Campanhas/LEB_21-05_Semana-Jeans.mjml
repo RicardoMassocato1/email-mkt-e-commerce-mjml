@@ -1,0 +1,75 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/jeans?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_21-05_Semana-Jeans/email2-01-min.jpg"
+            alt="semana do jeans"
+            title="semana do jeans" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#1ca27d"> 
+      <mj-column padding="30px 0px 30px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="14.3px" padding="0px 30px 0px 30px" align= "center" font-weight="300" line-height="17px" letter-spacing="2px">
+          A semana do Jeans está terminando! Aproveite a última chance para comprar peças lindas com Frete Grátis!!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="15px 0px" background-color="#00986f">
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calca-leboh-slouchy-cos-alto-com-recorte-preto-261768/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_21-05_Semana-Jeans/email2-02-min.jpg"
+            alt="Calça Lebôh Slouchy Cós Alto Com Recorte Preto"
+            title="Calça Lebôh Slouchy Cós Alto Com Recorte Preto" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/shorts-leboh-boxer-barra-a-fio-azul-245197/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_21-05_Semana-Jeans/email2-03-min.jpg"
+            alt="Shorts Lebôh Boxer Barra A Fio Azul"
+            title="Shorts Lebôh Boxer Barra A Fio Azul" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calca-leboh-reta-cos-alto-barra-a-fio-bege-261786/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_21-05_Semana-Jeans/email2-04-min.jpg"
+            alt="Calça Lebôh Reta Cós Alto Barra A Fio Bege"
+            title="Calça Lebôh Reta Cós Alto Barra A Fio Bege" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px" background-color="#00986f">
+    </mj-section>
+  
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

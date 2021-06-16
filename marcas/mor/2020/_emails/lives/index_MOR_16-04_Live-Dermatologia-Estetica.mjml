@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0px 0px 15px 0px">
+      <mj-group>
+        <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\_shared\header\top-bar.mjml">
+      </mj-group>
+    </mj-section>
+        <mj-section padding="0" background-color="#899dcc">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            morenarosa.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+      <mj-include path="../../header/_header-lancamento.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="10px 0px 0px 0px"
+            href="http://instagram.com/morenarosaoficial"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lives/MOR_16-04_Live-Dermatologia-Estetica/E-mail-mkt-Live-Semana--Dermatologia-est%C3%A9tica.png"
+            title="Live entre NÓS"
+            alt="Live entre NÓS" />
+          <mj-image
+            padding="30px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Home%2520Office%2520&pwaf_productClusterIds=267"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lives/MOR_16-04_Live-Dermatologia-Estetica/Home%20office%20email.jpg"
+            title="Home Office"
+            alt="Home Office" />
+          <mj-image
+            padding="30px 0px 50px 0px"
+            href="https://www.morenarosa.com.br/shoes-por-preco"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lives/MOR_16-04_Live-Dermatologia-Estetica/E-mail-mkt-We-Love-Shoes-topo.png"
+            title="We Shoes"
+            alt="We Shoes" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

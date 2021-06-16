@@ -1,0 +1,157 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/semana-da-consumidora?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Mar%C3%A7o/LEB_26-03_Semana-da-Consumidora/email%20ultimas%20semanas22-min.png"
+            alt="Semana da Consumidora"
+            title="Semana da Consumidora" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff"> 
+      <mj-column padding="15px 0px 50px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#000000" font-size="15px" padding="15px 0px 0px 40px" align= "left" font-weight="500" line-height="17px" letter-spacing="0.4px">
+          Prorrogamos a Semana da<br> 
+          Consumidora para você atualizar<br> 
+          seu clooset! Leve hoje mesmo<br> 
+          para não perder esses descontos!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-tomara-que-caia-barra-assimetrica-preto-233245/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188708/VESTIDO-MIDI-TOMARA-QUE-CAIA-BARRA-ASSIMETRICA---LI-PRETO---PP.jpg?v=637332748840370000"
+            title="Vestido Lebôh Midi Tomara Que Caia Barra Assimétrica Preto"
+            alt="Vestido Lebôh Midi Tomara Que Caia Barra Assimétrica Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Midi Tomara Que Caia Barra Assimétrica Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            4x de R$ 59,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 239,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-tomara-que-caia-barra-assimetrica-preto-233245/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-leboh-comfort-compose-de-tecidos-azul-233023/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189253/SHORTS-COMFORT-COMPOSE-DE-TECIDOS---CO-JEANS-MEDIO-TANGERINA---34.jpg?v=637332760863000000"
+            title="Shorts Lebôh Comfort Composê De Tecidos Azul"
+            alt="Shorts Lebôh Comfort Composê De Tecidos Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Lebôh Comfort<br> Composê De Tecidos<br> Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            3x de R$ 66,63
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 199,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/shorts-leboh-comfort-compose-de-tecidos-azul-233023/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-ombro-so-cavada-canelada-bege-233179/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188530/BLUSA-OMBRO-SO-CAVADA-CANELADA---LI-CRU---PP.jpg?v=637332745814370000"
+            title="Blusa Lebôh Ombro Só Cavada Canelada Bege"
+            alt="Blusa Lebôh Ombro Só Cavada Canelada Bege" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Ombro Só<br> Cavada Canelada Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            Por: R$ 79,90
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="7px 0">
+             
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-ombro-so-cavada-canelada-bege-233179/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-leboh-comfort-com-cinto-azul-233201/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188587/SHORTS-COMFORT-COM-CINTO---LI-AZUL-MARINHO---36.jpg?v=637332746849370000"
+            title="Shorts Lebôh Comfort Com Cinto Azul"
+            alt="Shorts Lebôh Comfort Com Cinto Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Lebôh Comfort<br> Com Cinto Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#000" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            4x de R$ 59,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 239,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/shorts-leboh-comfort-com-cinto-azul-233201/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border=" 1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

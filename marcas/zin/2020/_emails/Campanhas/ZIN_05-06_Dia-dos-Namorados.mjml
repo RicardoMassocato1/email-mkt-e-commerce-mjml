@@ -1,0 +1,368 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px 0px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/dia-dos-namorados?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/EmailMkt_01-topo.png"
+            title="Dia dos Namorados"
+            alt="Dia dos Namorados" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="0px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/dia-dos-namorados?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/EmailMkt_02%20copiar.jpg"
+            title="Zinco Casal"
+            alt="Zinco Casal" />
+        </mj-column> 
+
+        <mj-column width="100%">
+          <mj-image
+            padding="50px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/feminino"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/EmailMkt_02.png"
+            title="Feminino"
+            alt="Feminino" />
+        </mj-column> 
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #aaaaef"
+            href="https://www.zinco.com.br/parka-mix-de-tecidos-jeans-227302/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/Parka%20Mix%20De%20Tecidos%20Jeans.jpg"
+            title="Parka Mix De Tecidos Jeans"
+            alt="Parka Mix De Tecidos Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #aaaaef; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Parka Mix De Tecidos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#aaaaef"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 849,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#aaaaef"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">12x de R$ 70,82</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#aaaaef; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/parka-mix-de-tecidos-jeans-227302/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #8c8cdf"
+            href="https://www.zinco.com.br/calca-comfort-cos-alto-bolso-lateral-preto-227157/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/Calca%20Comfort%20Cos%20Alto%20Bolso%20Lateral%20Preto.jpg"
+            title="Calca Comfort Cos Alto Bolso Lateral Preto"
+            alt="Calca Comfort Cos Alto Bolso Lateral Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #8c8cdf; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#8c8cdf"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#8c8cdf"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 54,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#8c8cdf; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/calca-comfort-cos-alto-bolso-lateral-preto-227157/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #6565dd"
+            href="https://www.zinco.com.br/macacao-cenoura-detalhe-ziper-laranja-226575/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/Macacao%20Cenoura%20Detalhe%20Ziper%20Laranja.jpg"
+            title="Macacao Cenoura Detalhe Ziper Laranja"
+            alt="Macacao Cenoura Detalhe Ziper Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6565dd; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Cenoura Ziper
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6565dd"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 649,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6565dd"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">12x de R$ 54,15</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#6565dd; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/macacao-cenoura-detalhe-ziper-laranja-226575/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+                padding="35px 0px 20px 0px"
+                width="600px"
+                href="https://www.zinco.com.br/masculino"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/EmailMkt_03.png"
+                title="Masculino"
+                alt="Masculino" />
+        </mj-column>  
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #6565dd"
+            href="https://www.zinco.com.br/bermuda-slim-barra-dobrada-jeans-224619/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/Bermuda%20Slim%20Barra%20Dobrada%20Jeans.jpg"
+            title="Bermuda Slim Barra Dobrada Jeans"
+            alt="Bermuda Slim Barra Dobrada Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6565dd; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bermuda Slim Barra
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6565dd"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 259,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6565dd"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 51,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#6565dd; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/bermuda-slim-barra-dobrada-jeans-224619/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #8c8cdf"
+            href="https://www.zinco.com.br/blazer-com-bolso-azul-224605/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/Blazer%20Com%20Bolso%20Azul.jpg"
+            title="Blazer Com Bolso Azul"
+            alt="" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #8c8cdf; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blazer Com Bolso Azul
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#8c8cdf"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#8c8cdf"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 57,12</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#8c8cdf; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/blazer-com-bolso-azul-224605/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #aaaaef"
+            href="https://www.zinco.com.br/camisa-manga-curta-estampada-amarelo-213054/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/Camisa%20Manga%20Curta%20Estampada%20Amarelo.jpg"
+            title="Camisa Manga Curta Estampada Amarelo"
+            alt="Camisa Manga Curta Estampada Amarelo" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #aaaaef; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Curta
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#aaaaef"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 139,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#8c8cdf"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">2x de R$ 69,97</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#aaaaef; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/camisa-manga-curta-estampada-amarelo-213054/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="40px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_04-06_Dia-dos-Namorados/EmailMkt_05.png"
+            title="Lançamento"
+            alt="Lançamento" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

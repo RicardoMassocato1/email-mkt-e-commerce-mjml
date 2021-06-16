@@ -1,0 +1,210 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_20-01_LQDA/MV_EmailMkt_02-topo.jpg"
+          alt="LQDA até 50% OFF"
+          title="LQDA até 50% OFF" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="Roboto, sans-serif" color="#000000" font-size="14px" padding="30px 0px 30px 0px" align="center" font-weight="400" line-height="21px" letter-spacing="1.5px">
+          <strong>Regatas ou T-shirts?</strong><br> Qual a sua preferida para a estação?
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-redondo-abertura-lateral-dourado-233917/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230747/REGATA-DECOTE-REDONDO-ABERTURA-LATERAL---LI-COBRE---PP.jpg?v=637327834245300000"
+            title="Regata Maria.Valentina Decote Redondo Abertura Lateral Dourado"
+            alt="Regata Maria.Valentina Decote Redondo Abertura Lateral Dourado" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Maria.Valentina<br> Decote Redondo Abertura<br> Lateral Dourado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 62,48
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 249,95
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-redondo-abertura-lateral-dourado-233917/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-redondo-abertura-lateral-azul-235870/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/231577/REGATA-DECOTE-REDONDO-ABERTURA-LATERAL---LI-TURQUESA---PP.jpg?v=637327848690230000"
+            title="Regata Maria.Valentina Decote Redondo Abertura Lateral Azul"
+            alt="Regata Maria.Valentina Decote Redondo Abertura Lateral Azul" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Maria.Valentina<br> Decote Redondo Abertura<br> Lateral Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-redondo-abertura-lateral-azul-235870/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/t-shirt-maria-valentina-decote-redondo-bordado-industrial-preto-229430/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/229213/T-SHIRT-DECOTE-REDONDO-BORDADO-INDUSTRIAL---LI-PRETO---PP.jpg?v=637238017333900000"
+            title="T-Shirt Maria.Valentina Decote Redondo Bordado Industrial Preto"
+            alt="T-Shirt Maria.Valentina Decote Redondo Bordado Industrial Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Maria.Valentina<br> Decote Redondo Bordado<br> Industrial Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,97
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,95
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/t-shirt-maria-valentina-decote-redondo-bordado-industrial-preto-229430/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/t-shirt-maria-valentina-decote-redondo-com-amarracao-verde-231942/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230563/T-SHIRT-DECOTE-REDONDO-COM-AMARRACAO---LI-VERDE-LIMA---PP.jpg?v=637327831252600000"
+            title="T-Shirt Maria.Valentina Decote Redondo Com Amarração Verde"
+            alt="T-Shirt Maria.Valentina Decote Redondo Com Amarração Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Maria.Valentina<br> Decote Redondo Com<br> Amarração Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 249,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 124,95
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/t-shirt-maria-valentina-decote-redondo-com-amarracao-verde-231942/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="Roboto, sans-serif" color="#000000" text-transform="uppercase" font-size="13px" padding="40px 0px 40px 0px" align="center" font-weight="500" line-height="0px" letter-spacing="3px">
+          Complete o look:
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/saias?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_20-01_LQDA/MV_EmailMkt_02-saias.jpg"
+          alt="Saias"
+          title="Saias" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_20-01_LQDA/MV_EmailMkt_02-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/acessorios?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_20-01_LQDA/MV_EmailMkt_02-acessorios.jpg"
+          alt="Acessórios"
+          title="Acessórios" />
+      </mj-column>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

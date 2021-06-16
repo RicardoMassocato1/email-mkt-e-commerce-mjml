@@ -1,0 +1,164 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_08-09_Semana-da-Cliente/Banner%20home-03-topo.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 10px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#694330" font-size="13.2px" padding="0px 0px 0px 0px" align="center" font-weight="400" line-height="22px" letter-spacing="1.4px">
+          Últimas horas para aproveitar a Semana da<br> Cliente! Não perca, estoque limitado!
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.5px" padding="15px 0px" background-color="#ffffff" color="#694330" border-radius="3px" border= "1.2px solid #694330" target="_blank">Eu Quero</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-longo-decote-redondo-bordado-bege-222082"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/330246/VESTIDO-LONGO-DECOTE-REDONDO-BORDADO---ES-PRETO-AREIA---M.jpg?v=637172391102870000"
+            title="Vestido Longo Decote Redondo Bordado Bege"
+            alt="Vestido Longo Decote Redondo Bordado Bege" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#694330" font-weight="400" font-size="15px" padding="160px 0 10px 0">
+            Vestido Longo Decote<br> Redondo Bordado
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 1.599,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            11x de R$ 101,81
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 1.119,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-longo-decote-redondo-bordado-bege-222082" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#694330" border-radius="0px" border= "1.2px solid #694330" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#694330" font-weight="400" font-size="15px" padding="160px 0 10px 0">
+            Vestido Midi Decote<br> V Com Babado
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 1.329,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="right" padding="7px 0">
+            9x de R$ 103,43
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 930,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-midi-decote-v-com-babado-bege-218998" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#694330" border-radius="0px" border= "1.2px solid #694330" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-v-com-babado-bege-218998"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/325800/VESTIDO-MIDI-DECOTE-V-COM-BABADO---LI-CRU---P.jpg?v=637106729179270000"
+            title="Vestido Midi Decote V Com Babado Bege"
+            alt="Vestido Midi Decote V Com Babado Bege" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-decote-v-basico--------------------------------caqui-219006"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/322535/VESTIDO-CURTO-DECOTE-V-BASICO---LT-CAQUI---M.jpg?v=637098079784100000"
+            title="Vestido Curto Decote V Basico Caqui"
+            alt="Vestido Curto Decote V Basico Caqui" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#694330" font-weight="400" font-size="15px" padding="160px 0 10px 0">
+            Vestido Curto Decote<br> V Basico Caqui
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 599,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            6x de R$ 69,98
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 419,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-curto-decote-v-basico--------------------------------caqui-219006" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#694330" border-radius="0px" border= "1.2px solid #694330" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 20px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Lingerie&pwaf_productClusterIds=170"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_08-09_Semana-da-Cliente/Banner%20home-03-lingerie.jpg"
+          alt="Lingerie"
+          title="Lingerie" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Cal%C3%A7ados&pwaf_productClusterIds=172"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_08-09_Semana-da-Cliente/Banner%20home-03-shoes.jpg"
+          alt="Shoes"
+          title="Shoes" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

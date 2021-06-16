@@ -1,0 +1,69 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+      
+      <mj-section>
+        <mj-column padding="0 0 20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://open.spotify.com/playlist/0Zody90ulNKwQDDaD3Mr12?si=1mHMT_xzTPGHgy4zc0A1MQ"
+            title="Ouça AS BEM AMADAS"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_Spotify-Bem-Amadas/email_mkt_spotify-topo.jpg" />
+        </mj-column>
+
+        <mj-column padding="0px 140px 0 140px" width="100%">
+          <mj-image
+            padding="0"
+            title="Imagem"
+            width="130px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_Spotify-Bem-Amadas/email_mkt_spotify-ALBUM.png" />
+        </mj-column>
+
+        <mj-column padding="15px 0px 15px 0px" width="100%">
+          <mj-text font-family="Poppins, serif" color="#aaa1bc" font-size="13px" align="center" font-weight="300" line-height="20px" letter-spacing="1.5px">
+            Ligue o som, coloque seu melhor look<br> e celebre de perto, de longe e<br> o seu amor por você mesma!
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 100px" width="100%">
+          <mj-image
+            padding="0"
+            title="Álbum"
+            width="280px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_Spotify-Bem-Amadas/album.png" />
+        </mj-column>
+        
+        <mj-column padding="0px 0px 30px 0px" width="100%">
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 13px; font-weight:500; color: #ffffff; background-color: #4dae4f; display: inline-block; margin: 0px; margin-top: 0px; padding: 13px 48px; border-radius: 300px;"
+              href="https://open.spotify.com/playlist/0Zody90ulNKwQDDaD3Mr12?si=1mHMT_xzTPGHgy4zc0A1MQ"
+              target="_blank"
+              title="Escute agora"
+              alt="Escute agora">
+              Escute agora
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="40px 0 20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/bem-amadas"
+            title="Bem Amadas"
+            alt="Bem Amadas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_Spotify-Bem-Amadas/landing-bannertopo.jpg" />
+        </mj-column>
+      </mj-section>
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

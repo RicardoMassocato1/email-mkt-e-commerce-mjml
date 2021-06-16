@@ -1,0 +1,148 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_25-12_Feliz-Natal/MV_Natal-topo.jpg"
+          alt="Feliz Natal"
+          title="Feliz Natal" />
+      </mj-column>
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/cropped-maria-valentina-decote-v-com-pregas-laranja-240808/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/233435/CROPPED-DECOTE-V-COM-PREGAS---LI-PITANGA---PP.jpg?v=637377925461930000"
+            title="Cropped Maria.Valentina Decote V Com Pregas Laranja"
+            alt="Cropped Maria.Valentina Decote V Com Pregas Laranja" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Cropped Maria.Valentina<br> Decote V Com Pregas<br> Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/cropped-maria-valentina-decote-v-com-pregas-laranja-240808/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#db3b4a" color="#fff" border="1.2px solid #db3b4a" border-radius="0px" target="_blank"><span style="letter-spacing:1px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/shorts-maria-valentina-comfort-com-cinto-bege-234456/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232282/SHORTS-COMFORT-COM-CINTO---LI-AREIA---34.jpg?v=637327866155670000"
+            title="Shorts Maria.Valentina Comfort Com Cinto Bege"
+            alt="Shorts Maria.Valentina Comfort Com Cinto Bege" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Maria.Valentina<br> Comfort Com Cinto<br> Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 57,12
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 399,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/shorts-maria-valentina-comfort-com-cinto-bege-234456/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#db3b4a" color="#fff" border="1.2px solid #db3b4a" border-radius="0px" target="_blank"><span style="letter-spacing:1px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/chemise-maria-valentina-midi-com-faixa-off-white-marinho-234492/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232335/CHEMISE-MIDI-COM-FAIXA---LT-OFF-WHITE-AZUL-MARINHO---EPP.jpg?v=637327867171170000"
+            title="Chemise Maria.Valentina Midi Com Faixa Off-White/Marinho"
+            alt="Chemise Maria.Valentina Midi Com Faixa Off-White/Marinho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Chemise Maria.Valentina<br> Midi Com Faixa Off-<br>White/Marinho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="32px 0 10px 0">
+            9x de R$ 55,54
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/chemise-maria-valentina-midi-com-faixa-off-white-marinho-234492/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#db3b4a" color="#fff" border="1.2px solid #db3b4a" border-radius="0px" target="_blank"><span style="letter-spacing:1px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/bermuda-maria-valentina-comfort-color-vermelho-215434/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/219353/BERMUDA-COMFORT-COLOR---LI-VERMELHO---36.jpg?v=637099196551800000"
+            title="Bermuda Maria.Valentina Comfort Color Vermelho"
+            alt="Bermuda Maria.Valentina Comfort Color Vermelho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bermuda Maria.Valentina<br> Comfort Color<br> Vermelho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 51,78
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 258,93
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/bermuda-maria-valentina-comfort-color-vermelho-215434/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#db3b4a" color="#fff" border="1.2px solid #db3b4a" border-radius="0px" target="_blank"><span style="letter-spacing:1px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

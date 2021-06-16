@@ -1,0 +1,201 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 30px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=239"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_16-12_Beautiful-Day/Artboard%201%20copy%208-topo.jpg"
+          alt="Lançamento Beautiful Day"
+          title="Lançamento Beautiful Day" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="'Poppins', sans-serif" color="#000" font-size="13px" padding="0px 0px 20px 0px" align="center" font-weight="500" line-height="19px">
+          Fibras naturais, babados e prints<br>
+          orgânicos trazem ainda mais leveza e<br> 
+          praticidade para aproveitar o tempo em<br>
+          casa ou se mover com beleza pelo<br>
+          dia a dia.
+        </mj-text>
+         <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=239" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="0px 0px 20px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 20px 30px 20px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=239"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_16-12_Beautiful-Day/Artboard%201%20copy%208-imagem.jpg"
+          alt="Lançamento Beautiful Day"
+          title="Lançamento Beautiful Day" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blusa-iodice-ombro-a-ombro-manga-bufante-com-babado-preto-238004"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/177910/BLUSA-OMBRO-A-OMBRO-MANGA-BUFANTE-COM-BABADO---LI-PRETO---M.jpg?v=637378468180330000"
+            title="BLUSA IÓDICE OMBRO A OMBRO MANGA BUFANTE COM BABADO PRETO"
+            alt="BLUSA IÓDICE OMBRO A OMBRO MANGA BUFANTE COM BABADO PRETO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            BLUSA IÓDICE OMBRO A OMBRO MANGA BUFANTE COM BABADO PRETO
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 111,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 669,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/blusa-iodice-ombro-a-ombro-manga-bufante-com-babado-preto-238004" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-midi-gola-alta-bordado-preto-238015"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/177936/VESTIDO-MIDI-GOLA-ALTA-BORDADO---LI-PRETO---M.jpg?v=637378468780300000"
+            title="VESTIDO IÓDICE MIDI GOLA ALTA BORDADO PRETO"
+            alt="VESTIDO IÓDICE MIDI GOLA ALTA BORDADO PRETO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            VESTIDO IÓDICE MIDI GOLA ALTA BORDADO PRETO
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            11x de R$ 105,44
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 1.159,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-midi-gola-alta-bordado-preto-238015" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-midi-decote-u-trico-bege-240178"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178103/VESTIDO-MIDI-DECOTE-U-TRICO---LI-AREIA---M.jpg?v=637378475162000000"
+            title="VESTIDO IÓDICE MIDI DECOTE U TRICÔ BEGE"
+            alt="VESTIDO IÓDICE MIDI DECOTE U TRICÔ BEGE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            VESTIDO IÓDICE MIDI DECOTE U TRICÔ BEGE
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 111,10
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 999,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-midi-decote-u-trico-bege-240178" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-pantacourt-cos-largo-com-cordao-bege-240170"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178052/CALCA-PANTACOURT-COS-LARGO-COM-CORDAO---LI-AREIA---38.jpg?v=637378473801830000"
+            title="CALÇA IÓDICE PANTACOURT CÓS LARGO COM CORDÃO BEGE"
+            alt="CALÇA IÓDICE PANTACOURT CÓS LARGO COM CORDÃO BEGE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            CALÇA IÓDICE PANTACOURT CÓS LARGO COM CORDÃO BEGE
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 116,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 699,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-pantacourt-cos-largo-com-cordao-bege-240170" text-decoration="none" text-transform="uppercase" inner-padding="7.5px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border="1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/blusas?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_10-12_Tees-Lancamento/Artboard%201%20copy%206-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/vestidos?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_10-12_Tees-Lancamento/Artboard%201%20copy%206-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 20px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/calcas?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dezembro/IOD_10-12_Tees-Lancamento/Artboard%201%20copy%206-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

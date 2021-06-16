@@ -1,0 +1,155 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_08-03_Dia-da-Mulher/Artboard%201.png"
+          alt="Dia da Mulher Zinco"
+          title="Dia da Mulher Zinco" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 70px 0px 70px"
+          width="300px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_08-03_Dia-da-Mulher/Pri%20Ruffles.png"
+          alt="Pri Ruffles"
+          title="Pri Ruffles" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="35px" padding="30px 0px 10px 0px" align="center" font-weight="800" line-height="20px" letter-spacing="2px">
+          Pri Ruffles
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="14px" padding="0px 0px 15px 0px" align="center" font-weight="500" line-height="20px" letter-spacing="1px">
+          Coordenadora de estilo
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="13px" padding="0px 15px 0px 15px" align="center" font-weight="600" line-height="15px" letter-spacing="1px">
+          Apaixonada por plantas, a Pri mora em um apartamento cheio de flores, folhas de temperos e ervas para fazer chá, junto de suas quatro gatinhas. Livre e aventureira, ela conta que a viagem mais incrível que já fez na vida foi um mochilão pelo Peru e Bolívia, e que seu maior sonho é ter uma pousada para morar de frente para o mar. Mais a cara da Zinco impossível, né?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="60px 70px 0px 70px"
+          width="300px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_08-03_Dia-da-Mulher/Kelly%20Bragin.png"
+          alt="Kelly Bragin"
+          title="Kelly Bragin" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="35px" padding="30px 0px 10px 0px" align="center" font-weight="800" line-height="20px" letter-spacing="2px">
+          Kelly Bragin
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="14px" padding="0px 0px 15px 0px" align="center" font-weight="500" line-height="20px" letter-spacing="1px">
+          Coord. planejamento e modelagem
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="13px" padding="0px 15px 0px 15px" align="center" font-weight="600" line-height="15px" letter-spacing="1px">
+          A Kelly tá com a gente há 10 anos e se desse para resumir ela em um adjetivo seria comprometida. Sempre dando seu melhor em tudo o que faz, ela se inspira muito na força e exemplo que teve da mãe enquanto crescia. Assim como toda Zincolover, ela a-m-a um
+          pretinho básico e não vê a hora de tomar a vacina do covid para poder voltar à vida de agito e curtição. Bora marcar um barzinho?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="60px 70px 0px 70px"
+          width="300px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_08-03_Dia-da-Mulher/Lo%20Santos.png"
+          alt="Lo Santos"
+          title="Lo Santos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="35px" padding="30px 0px 10px 0px" align="center" font-weight="800" line-height="20px" letter-spacing="2px">
+          Lo Santos
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="14px" padding="0px 0px 15px 0px" align="center" font-weight="500" line-height="20px" letter-spacing="1px">
+          Modelagem
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="13px" padding="0px 15px 0px 15px" align="center" font-weight="600" line-height="15px" letter-spacing="1px">
+          A Lo é aquela amiga que tá sempre ali para te ouvir e ajudar, tanto que a coisa que a faz mais feliz no mundo é ver seus amigos e familiares sempre bem. Apaixonada principalmente pelo mozão, ela não vê a hora da casa dos sonhos deles terminar de construir e tem como um dos momentos preferidos da vida o dia em que foi pedida em casamento. A Zinco também é conto de fadas, gente &lt3
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="60px 70px 0px 70px"
+          width="300px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_08-03_Dia-da-Mulher/Anna%20Camargo.png"
+          alt="Anna Camargo"
+          title="Anna Camargo" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="35px" padding="30px 0px 10px 0px" align="center" font-weight="800" line-height="20px" letter-spacing="2px">
+          Anna Camargo
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="14px" padding="0px 0px 15px 0px" align="center" font-weight="500" line-height="20px" letter-spacing="1px">
+          Designer
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="13px" padding="0px 15px 0px 15px" align="center" font-weight="600" line-height="15px" letter-spacing="1px">
+          Se você procurar pela palavra personalidade no dicionário, com certeza o nome da Anna vai estar escrito lá. Ela não é nada basiquinha e gosta mesmo é de chamar atenção, por isso, se fosse um animal, ela provavelmente seria uma borboleta bem colorida ou um pavão. Apaixonada por estampas e paetês, ela respira moda e tem como maior sonho morar em Nova York. Leva a gente também, amiga!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="60px 70px 0px 70px"
+          width="300px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Mar%C3%A7o/ZIN_08-03_Dia-da-Mulher/Gab%20Antoniassi.png"
+          alt="Gab Antoniassi"
+          title="Gab Antoniassi" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="35px" padding="30px 0px 10px 0px" align="center" font-weight="800" line-height="20px" letter-spacing="2px">
+          Gab Antoniassi
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="14px" padding="0px 0px 15px 0px" align="center" font-weight="500" line-height="20px" letter-spacing="1px">
+          Analista de E-Commerce
+        </mj-text>
+        <mj-text font-family="Poppins, serif" color="#000000" font-size="13px" padding="0px 15px 10px 15px" align="center" font-weight="600" line-height="15px" letter-spacing="1px">
+          A Gab é daquelas que por onde passa faz todo mundo abrir um sorriso. Ela ama viajar para a praia, mas confessa que seu lugar preferido no mundo é a sua casa, toda decorada com livros, plantinhas e até um violão. A #DicaZinco de hoje é sobre o livro preferido dela, chamado “Com Amor, Anthony”, um romance sobre um menino autista que com certeza vai derreter o seu coração.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

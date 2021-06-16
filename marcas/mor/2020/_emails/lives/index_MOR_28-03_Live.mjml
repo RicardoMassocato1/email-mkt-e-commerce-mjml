@@ -1,0 +1,273 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0px 0px 15px 0px">
+      <mj-group>
+        <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\_shared\header\top-bar.mjml">
+      </mj-group>
+    </mj-section>
+        <mj-section padding="0" background-color="#efd9e4">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            morenarosa.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="15px 0px 10px 0px"
+            href="https://www.morenarosa.com.br"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_24-03_Out-Now/Topo-10%25%20off%20E-commerce.jpg"
+            title="Desconto CLUBEBR"
+            alt="Desconto CLUBEBR" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../header/_header-lancamento.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="10px 0px 0px 0px"
+            href="http://instagram.com/morenarosaoficial"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/S%C3%A1bado/E-mail-mkt-Live-Semana%2002-01.jpg"
+            title="Live entre NÓS"
+            alt="Live entre NÓS" />
+          <mj-image
+            padding="20px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Outono%2520Inverno%2520&pwaf_productClusterIds=225"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/lctoemail.jpg"
+            title="Coleção Terra Dourada"
+            alt="Coleção Terra Dourada" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="60px 0px 0px 0px">
+        <mj-group>
+
+          <mj-column width="100%">
+            <mj-text
+              color="#999999"
+              font-size="18px"
+              padding="0 0 20px 0"
+              align="center"
+              font-weight="300"
+              text-transform="uppercase">
+              PRODUTOS:
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/shorts-clochard-com-faixa-dourado-225105"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/S%C3%A1bado/Shorts%20Clochard%20Com%20Faixa%20Dourado.jpg"
+              title="Shorts Clochard Com Faixa Dourado"
+              alt="Shorts Clochard Com Faixa Dourado" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Clochard Com Faixa
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 15px 0">R$ 369,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 6x R$ 61,65</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/shorts-clochard-com-faixa-dourado-225105"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/blazer-minha-morena-verde-225101"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/S%C3%A1bado/Blazer%20Minha%20Morena%20Verde.jpg"
+              title="Blazer Minha Morena Verde"
+              alt="Blazer Minha Morena Verde" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blazer Minha Morena
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 15px 0">R$ 439,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 6x R$ 73,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/blazer-minha-morena-verde-225101"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/blusa-decote-transpassado-manga-longa-abertura-costas-preto-224587"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/S%C3%A1bado/Blusa%20Decote%20Transpassado%20Manga%20Longa%20Abertura%20Costas%20Preto.jpg"
+              title="Blusa Decote Transpassado Manga Longa Abertura Costas Preto"
+              alt="Blusa Decote Transpassado Manga Longa Abertura Costas Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Decote Transpassado Manga
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 15px 0">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 5x R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/blusa-decote-transpassado-manga-longa-abertura-costas-preto-224587"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/vestido-curto-decote-redondo-minha-morena-preto-terracota-224125"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/S%C3%A1bado/Vestido%20Curto%20Decote%20Redondo%20Minha%20Morena%20Preto-Terracota.jpg"
+              title="Vestido Curto Decote Redondo Minha Morena Preto/Terracota"
+              alt="Vestido Curto Decote Redondo Minha Morena Preto/Terracota" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Curto Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 15px 0">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 5x R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/vestido-curto-decote-redondo-minha-morena-preto-terracota-224125"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

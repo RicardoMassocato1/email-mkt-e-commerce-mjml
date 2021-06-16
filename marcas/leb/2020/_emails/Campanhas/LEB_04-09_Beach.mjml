@@ -1,0 +1,120 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px">
+        <mj-column padding="0">
+          <mj-image
+            href="https://www.leboh.com.br/beach?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="ganhe 10%offna sua primeira compra com o cupom MYFIRSTLBH"
+            title="Cupom"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_04-09_Beach/Prancheta%201-promo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/beach?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="lbh beach 30%off"
+            title="lbh beach 30%off"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_04-09_Beach/Prancheta%201-topo01.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0"> 
+        <mj-column padding="30px 0px 25px 25px">
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="23px"  align= "left" font-weight="800"padding="0px 0px 0px 25px" line-height="0px" letter-spacing="0.4px">
+            _
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="18px"  align= "left" font-weight="400" padding="25px 0px 0px 25px" line-height="21px" letter-spacing="0.4px">
+            o verão está chegando, aproveite<br>
+            e garanta seu look <strong>lbh</strong> beach<br>
+            com <span style="font-weight: 500;">30%off</span>
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+    <mj-section padding="0px 30px">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/beach?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="comprar"
+            title="comprar"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_04-09_Beach/Prancheta%201-topo02.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0"> 
+        <mj-column padding="30px 0px 25px 25px">
+          <mj-text font-family="Ubuntu, sans-serif" font-style="italic" color="#000000" font-size="28px"  align= "left" font-weight="300" padding="25px 0px 0px 25px" line-height="21px" letter-spacing="0.4px">
+            biquínis e <span style="font-style: normal; font-weight: 400;">maios</span>
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="23px"  align= "left" font-weight="800"padding="5px 0px 0px 25px" line-height="0px" letter-spacing="0.4px">
+            _
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="18px"  align= "left" font-weight="400" padding="25px 0px 0px 25px" line-height="21px" letter-spacing="0.4px">
+            pra entrarna água ou compor<br>
+            seus looks:
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+    <mj-section padding="10px 30px">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/beach?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="comprar"
+            title="comprar"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_04-09_Beach/Prancheta%201-topo03.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0"> 
+        <mj-column padding="20px 0px 25px 25px">
+          <mj-text font-family="Ubuntu, sans-serif" font-style="italic" color="#000000" font-size="28px"  align= "left" font-weight="300" padding="25px 0px 0px 25px" line-height="21px" letter-spacing="0.4px">
+            camisas e <span style="font-style: normal; font-weight: 400;">cangas</span>
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="23px"  align= "left" font-weight="800"padding="5px 0px 0px 25px" line-height="0px" letter-spacing="0.4px">
+            _
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="18px"  align= "left" font-weight="400" padding="25px 0px 0px 25px" line-height="21px" letter-spacing="0.4px">
+            camisas e saídas com 30%off<br>
+            para curtir o verão:
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+    <mj-section padding="10px 30px">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/beach?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="comprar"
+            title="comprar"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_04-09_Beach/Prancheta%201-topo04.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="40px 0px">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lancamento"
+            width="600px"
+            padding="0"
+            alt="novas possibilidades"
+            title="novas possibilidades"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_04-09_Beach/Prancheta%201-rodape.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,75 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lancamento?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_12-05_Neon-Green/Neon%20Green-01-min.jpg"
+            alt="neon green"
+            title="neon green" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#98a845"> 
+      <mj-column padding="30px 0px 30px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="14.3px" padding="0px 30px 0px 30px" align= "center" font-weight="300" line-height="17px" letter-spacing="2px">
+          Neon Green é a cor que brilhou no verão e vai continuar com tudo na próxima temporada, trazendo estilo e mais cor aos seus looks!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="15px 0px" background-color="#616e1f">
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/blusa-leboh-gola-alta-manga-longa-com-babado-verde-260240/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_12-05_Neon-Green/Email-02-min.jpg"
+            alt="Blusa Lebôh Gola Alta Manga Longa Com Babado Verde"
+            title="Blusa Lebôh Gola Alta Manga Longa Com Babado Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calca-leboh-pantalona-cropped-cos-alto-bolso-lateral-verde-260256/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_12-05_Neon-Green/Email-01-min.jpg"
+            alt="Calça Lebôh Pantalona Cropped Cós Alto Bolso Lateral Verde"
+            title="Calça Lebôh Pantalona Cropped Cós Alto Bolso Lateral Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/regata-leboh-decote-redondo-com-ombreira-verde-260248/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_12-05_Neon-Green/Email-03-min.jpg"
+            alt="Regata Lebôh Decote Redondo Com Ombreira Verde"
+            title="Regata Lebôh Decote Redondo Com Ombreira Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px" background-color="#98a845">
+    </mj-section>
+  
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,291 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?p=3&_t=Preview&pwaf_productClusterIds=199"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_01-05_Ultimo-Dia-Frete-gratis/Email-MKT-03-topo.jpg" 
+            alt="Semana Frete Grátis"
+            title="Semana Frete Grátis"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column padding="0 98px 10px 98px" >
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#567f9f"
+            font-size="15px"
+            padding="7px 0px 0px 0px"
+            align="center"
+            font-weight="300"
+            letter-spacing="0.2px"
+            line-height="19px">
+            aproveite e compre hoje para garantir seu pedido com frete grátis!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-midi-reta-detalhe-ziper-preto-226514"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_01-05_Ultimo-Dia-Frete-gratis/SAIA%20MIDI%20RETA%20DETALHE%20ZIPER%20PRETO.jpg"
+            title="SAIA MIDI RETA DETALHE ZIPER PRETO"
+            alt="SAIA MIDI RETA DETALHE ZIPER PRETO" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Midi Reta Detalhe Ziper
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$91,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/saia-midi-reta-detalhe-ziper-preto-226514"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-skinny-cos-alto-bordado-manual-preto-225550"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_01-05_Ultimo-Dia-Frete-gratis/CALCA%20SKINNY%20COS%20ALTO%20BORDADO%20MANUAL%20PRETO.jpg"
+            title="CALCA SKINNY COS ALTO BORDADO MANUAL PRETO"
+            alt="CALCA SKINNY COS ALTO BORDADO MANUAL PRETO" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Skinny Cos Alto Bordado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$66,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/calca-skinny-cos-alto-bordado-manual-preto-225550"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/macacao-alfaiataria-detalhe-cintura-bege-223851"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_01-05_Ultimo-Dia-Frete-gratis/MACACAO%20ALFAIATARIA%20DETALHE%20CINTURA%20BEGE.jpg"
+            title="MACACAO ALFAIATARIA DETALHE CINTURA BEGE"
+            alt="MACACAO ALFAIATARIA DETALHE CINTURA BEGE" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Alfaiataria Cintura
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 949,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 9x R$105,54</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/macacao-alfaiataria-detalhe-cintura-bege-223851"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="50px 70px 20px 70px">
+        <mj-column width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_01-05_Ultimo-Dia-Frete-gratis/Email-MKT-03-vestidos.jpg" 
+            alt="Vestidos"
+            title="Vestidos"/>
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#567f9f"
+            font-size="22px"
+            padding="15px 0px 3px 0px"
+            align="left"
+            font-weight="100"
+            line-height="19px">
+            VESTIDOS
+          </mj-text>
+          <mj-text align="left" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; background-color:#567f9f; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+              href="https://www.iodice.com.br/vestidos"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 70px 20px 70px">
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Jeans&pwaf_productClusterIds=183"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_01-05_Ultimo-Dia-Frete-gratis/Email-MKT-03-jeans.jpg" 
+            alt="Jeans"
+            title="Jeans"/>
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#567f9f"
+            font-size="22px"
+            padding="15px 0px 3px 0px"
+            align="left"
+            font-weight="100"
+            line-height="19px">
+            JEANS
+          </mj-text>
+          <mj-text align="left" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; background-color:#567f9f; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Jeans&pwaf_productClusterIds=183"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="20px 70px 10px 70px">
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_01-05_Ultimo-Dia-Frete-gratis/Email-MKT-03-blusas.jpg" 
+            alt="Blusas"
+            title="Blusas"/>
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#567f9f"
+            font-size="22px"
+            padding="15px 0px 3px 0px"
+            align="left"
+            font-weight="100"
+            line-height="19px">
+            BLUSAS
+          </mj-text>
+          <mj-text align="left" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; background-color:#567f9f; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+              href="https://www.iodice.com.br/blusas"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

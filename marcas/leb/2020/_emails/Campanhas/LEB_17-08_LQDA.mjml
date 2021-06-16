@@ -1,0 +1,250 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda"
+            width="600px"
+            padding="0"
+            alt="LQDA"
+            title="LQDA"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-08_LQDA/LBH-Email-2-topo.jpg" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#b52034"
+            font-size="17.5px"
+            padding="20px 0px 0px 25px"
+            align="left"
+            line-height="22px"
+            font-weight="500">
+            Últimos dias! Separamos alguns looks<br> especialmente para você:
+          </mj-text>
+          <mj-text align="left" padding="10px 26px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 12px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/lqda"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="40px 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-skinny-pietra-cos-alto-compose-tecido-bege-224247/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186138/CALCA-SKINNY-PIETRA-COS-ALTO-COMPOSE-TECIDO---LI-CRU---34.jpg?v=637172335580030000"
+            title="Calca Skinny Pietra Cos Alto Compose Tecido Bege"
+            alt="Calca Skinny Pietra Cos Alto Compose Tecido Bege" />
+        </mj-column>
+
+        <mj-column padding="40px 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #b52034; font-weight: 400; font-size: 15px; padding: 180px 0px 10px 0px; margin: 0px;">
+              Calca Skinny Pietra Cos<br> Alto Compose
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="13px"
+            align="left"
+            padding="0">
+            De: <span style="text-decoration:line-through">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 6px 0">2x de R$ 68,97</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="14px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 137,94</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/calca-skinny-pietra-cos-alto-compose-tecido-bege-224247/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #b52034; font-weight: 400; font-size: 15px; padding: 180px 0px 10px 0px; margin: 0px;">
+              Blusa Decote Redondo<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="13px"
+            align="right"
+            padding="0">
+            De: <span style="text-decoration:line-through">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 6px 0">3x de R$ 53,64</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="14px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 160,93</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/blusa-decote-redondo-manga-longa-com-silk-branco-225422/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0px 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-redondo-manga-longa-com-silk-branco-225422/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/185785/BLUSA-DECOTE-REDONDO-MANGA-LONGA-COM-SILK---LI-BRANCO---PP.jpg?v=637172327207030000"
+            title="Blusa Decote Redondo Manga Longa Com Silk Branco"
+            alt="Blusa Decote Redondo Manga Longa Com Silk Branco" />
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/t-shirt-decote-redondo-assimetrica-preto-225420/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/185773/T-SHIRT-DECOTE-REDONDO-ASSIMETRICA---LI-PRETO---PP.jpg?v=637172327018930000"
+            title="T-Shirt Decote Redondo Assimetrica Preto"
+            alt="T-Shirt Decote Redondo Assimetrica Preto" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #b52034; font-weight: 400; font-size: 15px; padding: 180px 0px 10px 0px; margin: 0px;">
+              T-Shirt Decote Redondo<br> Assimetrica Preto
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="13px"
+            align="left"
+            padding="0">
+            De: <span style="text-decoration:line-through">R$ 209,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 6px 0">2x de R$ 62,97</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="14px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 125,94</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/t-shirt-decote-redondo-assimetrica-preto-225420/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px 30px 0px">
+      <mj-group>
+      <mj-column width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-08_LQDA/lbh-01-blusas.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos"
+            width="600px"
+            padding="15px 0px"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-08_LQDA/lbh-01-vestidos.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas"
+            width="600px"
+            padding="0"
+            alt="Calças"
+            title="Calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_17-08_LQDA/lbh-01-calcas.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

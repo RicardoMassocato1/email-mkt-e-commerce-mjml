@@ -1,0 +1,221 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/masculino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_17-09_Semana-da-Consumidora/ZC_EmailMkt_Semana05-topo.jpg"
+          alt="Semana do Cliente"
+          title="Semana do Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="12.5px" padding="20px 0px 0px 0px" align="center" font-weight="400" line-height="16px" letter-spacing="0.5px">
+          Pensando em bermudas masculinas?<br> 
+          <strong>garanta a sua com até 70% off</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 30px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_17-09_Semana-da-Consumidora/ZC_EmailMkt_Semana05-banner.jpg"
+            title="Progressiva"
+            alt="30% 1 peça, 40% 2 peças, 50% 3 peças, 60% 4 peças, 70% 5 peças ou mais" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0px 0px 20px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-button href="https://www.zinco.com.br/masculino/bermudas?map=c,c&O=OrderByReleaseDateDESC" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12.5px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "2px solid #2fd18a" target="_blank">Shop Now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/bermuda-alfaiataria-bolso-faca-marrom-224203/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/210388/BERMUDA-ALFAIATARIA-BOLSO-FACA---XD-MARROM---36.jpg?v=637327532514130000"
+            title="Bermuda Alfaiataria Bolso Faca Marrom"
+            alt="Bermuda Alfaiataria Bolso Faca Marrom" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bermuda Alfaiataria<br> Bolso Faca Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 259,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 60,64
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 181,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/bermuda-alfaiataria-bolso-faca-marrom-224203/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/bermuda-comfort-detalhe-ziper-rosa-224172/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/210278/BERMUDA-COMFORT-DETALHE-ZIPER---LI-ROSE---36.jpg?v=637327531141970000"
+            title="Bermuda Comfort Detalhe Ziper Rosa"
+            alt="Bermuda Comfort Detalhe Ziper Rosa" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bermuda Comfort<br> Detalhe Ziper Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 259,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 60,64
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 181,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/bermuda-comfort-detalhe-ziper-rosa-224172/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/bermuda-comfort-com-recortes-jeans-207124/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/193162/BERMUDA-COMFORT-COM-RECORTES---UNICA---36.jpg?v=637027123487000000"
+            title="Bermuda Comfort Com Recortes Jeans"
+            alt="Bermuda Comfort Com Recortes Jeans" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bermuda Comfort<br> Com Recortes Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/bermuda-comfort-com-recortes-jeans-207124/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/bermuda-cargo-detalhe-galao-azul-200136/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/187986/BERMUDA-CARGO-DETALHE-GALAO---LI-AZUL---38.jpg?v=636958557636000000"
+            title="Bermuda Cargo Detalhe Galao Azul"
+            alt="Bermuda Cargo Detalhe Galao Azul" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bermuda Cargo<br> Detalhe Galao Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 259,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 60,64
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 181,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/bermuda-cargo-detalhe-galao-azul-200136/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/masculino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_17-09_Semana-da-Consumidora/ZC_EmailMkt_Semana05-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/masculino/camisetas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_17-09_Semana-da-Consumidora/ZC_EmailMkt_Semana05-camisetas.jpg"
+          alt="Camisetas"
+          title="Camisetas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 20px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/masculino/camisas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_17-09_Semana-da-Consumidora/ZC_EmailMkt_Semana05-camisas.jpg"
+          alt="Camisas"
+          title="Camisas" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

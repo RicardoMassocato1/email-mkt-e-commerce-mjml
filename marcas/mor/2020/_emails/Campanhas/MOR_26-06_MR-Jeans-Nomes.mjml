@@ -1,0 +1,154 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+      
+      <mj-section>
+        <mj-column padding="0px 0px 0 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/jeans-modelagens"
+            alt="Mulheres Brasileiras"
+            title="Mulheres Brasileiras"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_21-05_MR-Jeans/E-mails-mkt-Jeans-02-topo-email.png" />
+          <mj-text padding="30px 60px 10px 60px" align="center" font-family="Poppins, serif" color="#000000" font-size="13px" font-weight="400" line-height="18px" letter-spacing="1.5px">
+            Modelagens de jeans perfeitas, que realçam a beleza e a atitude da mulher nacional
+          </mj-text>
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 13px; font-weight: 500; background-color: #1d3c58; color: #ffffff; display: inline-block; margin-top: 0px; padding: 8px 15px;"
+              href="https://www.morenarosa.com.br/jeans-modelagens"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 30px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/jeans-modelagens"
+            alt="Andréia"
+            title="Andréia"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_26-06_MR-Jeans-Nomes/E-mails-mkt-Jeans-Modelagens-andreia.jpg" />
+          <mj-text padding="10px 0px 10px 0px" align="center" font-family="Poppins, serif" color="#000000" font-size="12px" font-weight="400" line-height="18px" letter-spacing="1.5px">
+            Cós médio e perna ajustada, básica, versátil. Desenha as curvas. Andréia foi a primeira modelo da Morena Rosa, foi também colaboradora do nosso time.
+          </mj-text>
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 13px; font-weight: 500; background-color: #1d3c58; color: #ffffff; display: inline-block; margin-top: 0px; padding: 8px 15px;"
+              href="https://www.morenarosa.com.br/jeans-modelagens"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0px 30px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/jeans-modelagens"
+            alt="Carol"
+            title="Carol"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_26-06_MR-Jeans-Nomes/E-mails-mkt-Jeans-Modelagens-carol.jpg" />
+          <mj-text padding="10px 0px 10px 0px" align="center" font-family="Poppins, serif" color="#000000" font-size="12px" font-weight="400" line-height="18px" letter-spacing="1.5px">
+            Cós alto + barra ampla. Beleza e conforto. A favorita para o dia a dia. Carol é uma homenagem a Carol Trentini, que estrelou a campanha de 2011 e muitas outras.
+          </mj-text>
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 13px; font-weight: 500; background-color: #1d3c58; color: #ffffff; display: inline-block; margin-top: 0px; padding: 8px 15px;"
+              href="https://www.morenarosa.com.br/jeans-modelagens"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 30px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/jeans-modelagens"
+            alt="Isabelli"
+            title="Isabelli"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_26-06_MR-Jeans-Nomes/E-mails-mkt-Jeans-Modelagens-isabelli.jpg" />
+          <mj-text padding="10px 0px 10px 0px" align="center" font-family="Poppins, serif" color="#000000" font-size="12px" font-weight="400" line-height="18px" letter-spacing="1.5px">
+            Cós alto e perna ajustada. Versatilidade e conforto que define a silhueta. Juntamente com Carol Trentini, a nossa homenageada Isabelli Fontana também estrelou a campanha de 2011 e no ano seguinte foi nossa parceira no projeto One Love.
+          </mj-text>
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 13px; font-weight: 500; background-color: #1d3c58; color: #ffffff; display: inline-block; margin-top: 0px; padding: 8px 15px;"
+              href="https://www.morenarosa.com.br/jeans-modelagens"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0px 30px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/jeans-modelagens"
+            alt="Camila"
+            title="Camila"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_26-06_MR-Jeans-Nomes/E-mails-mkt-Jeans-Modelagens-camila.jpg" />
+          <mj-text padding="10px 0px 10px 0px" align="center" font-family="Poppins, serif" color="#000000" font-size="12px" font-weight="400" line-height="18px" letter-spacing="1.5px">
+            Cós alto e barra superampla. Alonga a silhueta. Perfeita para todos os momentos. Camila Coelho foi nossa parceira em 2015 e desenhou uma coleção exclusiva para a Morena Rosa.
+          </mj-text>
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 13px; font-weight: 500; background-color: #1d3c58; color: #ffffff; display: inline-block; margin-top: 0px; padding: 8px 15px;"
+              href="https://www.morenarosa.com.br/jeans-modelagens"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 30px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/jeans-modelagens"
+            alt="Giane"
+            title="Giane"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_26-06_MR-Jeans-Nomes/E-mails-mkt-Jeans-Modelagens-giane.jpg" />
+          <mj-text padding="10px 0px 10px 0px" align="center" font-family="Poppins, serif" color="#000000" font-size="12px" font-weight="400" line-height="18px" letter-spacing="1.5px">
+            Cós médio + comprimento cropped. Para looks cheios de personalidade. A modelagem Giane homenageia a modelo Gianne Albertoni, que estrelou a nossa campanha de 2008.
+          </mj-text>
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 13px; font-weight: 500; background-color: #1d3c58; color: #ffffff; display: inline-block; margin-top: 0px; padding: 8px 15px;"
+              href="https://www.morenarosa.com.br/jeans-modelagens"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

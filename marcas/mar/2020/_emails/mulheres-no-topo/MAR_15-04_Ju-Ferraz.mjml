@@ -1,0 +1,172 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section>
+      <mj-column>
+        <mj-text
+          align="center"
+          font-family="Brandon Text, serif" 
+          color="#000000" 
+          font-size="25px" 
+          padding="0px 0px 0px 0px" 
+          font-weight="600" 
+          line-height="1.3" 
+          letter-spacing="4px">
+            MULHERES<br> NO TOPO
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-family="Brandon Text, serif" 
+          color="#000000" 
+          font-size="13px" 
+          padding="25px 0px 0px 0px" 
+          font-weight="700" 
+          line-height="1.3" 
+          letter-spacing="3px">
+            CONHEÇA
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-family="Brandon Text, serif" 
+          color="#000000" 
+          font-size="19px" 
+          padding="2px 0px 0px 0px" 
+          font-weight="700" 
+          line-height="1.3" 
+          letter-spacing="4px">
+            JU FERRAZ
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section  padding="0px 15px">
+      <mj-image 
+        padding="0" 
+        width="600px" 
+        alt="Ju Ferraz" 
+        title="Ju Ferraz" 
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_15-04_Mulheres-no-Topo/MAR_15-04_Mulheres-no-Topo%28Ju-Ferraz%29/Imagem-topo.jpg" />
+        
+      <mj-text
+        font-family= "Brandon Text, serif"
+        color="#000000"
+        font-size="12.5px"
+        padding="0"
+        align="justify"
+        font-weight="400"
+        letter-spacing="0.2px"
+        line-height="1.5">
+        Ela não para. Baiana, formada em jornalismo, Ju Ferraz está há 15 anos escrevendo seu nome entre os RPs mais influentes do país. Diretora de novos negócios da Holding Clube, a profissional é responsável por conectar pessoas e ideias1 e transformar sonhos em realidade.
+      </mj-text>
+    </mj-section>
+
+    <mj-section padding="5px 0 10px 0px">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-family="Brandon Text, serif" 
+          color="#000000" 
+          font-size="15px" 
+          padding="30px 0px 15px 0px" 
+          font-weight="700" 
+          line-height="1.3" 
+          letter-spacing="3px">
+            INSPIRE-SE NO LOOK
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 0px 0px">
+      <mj-group>
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            border="2px solid #eeeeee"
+            href="https://www.mariavalentina.com.br/blusa-decote-redondo-manga-longa-abertura-lateral-preto-220894/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_15-04_Mulheres-no-Topo/MAR_15-04_Mulheres-no-Topo%28Ju-Ferraz%29/01.jpg" 
+            title="Blusa Decote Redondo Manga Longa Abertura Lateral Preto" 
+            alt="Blusa Decote Redondo Manga Longa Abertura Lateral Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 52,84</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-redondo-manga-longa-abertura-lateral-preto-220894/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px"
+            border="2px solid #eeeeee"
+            href="https://www.mariavalentina.com.br/calca-comfort-cos-intermediario-detalhe-elastico-verde-221182/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_15-04_Mulheres-no-Topo/MAR_15-04_Mulheres-no-Topo%28Ju-Ferraz%29/Imagem-01.jpg" 
+            title="Calca Comfort Cos Intermediario Detalhe Elastico Verde" 
+            alt="Calca Comfort Cos Intermediario Detalhe Elastico Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/calca-comfort-cos-intermediario-detalhe-elastico-verde-221182/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

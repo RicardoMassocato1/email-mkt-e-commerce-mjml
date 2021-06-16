@@ -1,0 +1,515 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/EmailMkt_01.png"
+          title="Lançamento"
+          alt="Lançamento" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 5px">
+      <mj-group>
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #74a9c2"
+            href="https://www.zinco.com.br/trench-coat-com-abotoamento-preto-226886/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/Trench%20Coat%20Com%20Abotoamento%20Preto.jpg"
+            title="Trench Coat Com Abotoamento Preto"
+            alt="Trench Coat Com Abotoamento Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Trench Coat
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">11x de R$ 54,53</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/trench-coat-com-abotoamento-preto-226886/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #74a9c2"
+            href="https://www.zinco.com.br/jaqueta-bomber-detalhe-retilinea-marrom-226511/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/Jaqueta%20Bomber%20Detalhe%20Retilinea%20Marrom.jpg"
+            title="Jaqueta Bomber Detalhe Retilinea Marrom"
+            alt="Jaqueta Bomber Detalhe Retilinea Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Bomber
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 54,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/jaqueta-bomber-detalhe-retilinea-marrom-226511/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #74a9c2"
+            href="https://www.zinco.com.br/parka-mix-de-tecidos-jeans-227302/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/Parka%20Mix%20De%20Tecidos%20Jeans.jpg"
+            title="Parka Mix De Tecidos Jeans"
+            alt="Parka Mix De Tecidos Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Parka Mix De Tecidos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 849,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">12x de R$ 70,82</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/parka-mix-de-tecidos-jeans-227302/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento/jeans?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/EmailMkt_02.png"
+          title="Jeans"
+          alt="Jeans" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 5px">
+      <mj-group>
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #74a9c2"
+            href="https://www.zinco.com.br/calca-jogger-cos-alto-mix-de-tecidos-jeans-227311/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/Calca%20Jogger%20Cos%20Alto%20Mix%20De%20Tecidos%20Jeans.jpg"
+            title="Calca Jogger Cos Alto Mix De Tecidos Jeans"
+            alt="Calca Jogger Cos Alto Mix De Tecidos Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Jogger Cos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 51,10</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/calca-jogger-cos-alto-mix-de-tecidos-jeans-227311/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #74a9c2"
+            href="https://www.zinco.com.br/calca-comfort-cos-intermediario-compose-tecido-azul-227611/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/Calca%20Comfort%20Cos%20Intermediario%20Compose%20Tecido%20Azul.jpg"
+            title="Calca Comfort Cos Intermediario Compose Tecido Azul"
+            alt="Calca Comfort Cos Intermediario Compose Tecido Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 57,12</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/calca-comfort-cos-intermediario-compose-tecido-azul-227611/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #74a9c2"
+            href="https://www.zinco.com.br/calca-comfort-cos-intermediario-com-retilinea-azul--227604/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/Calca%20Comfort%20Cos%20Intermediario%20Com%20Retilinea%20Azul.jpg"
+            title="Calca Comfort Cos Intermediario Com Retilinea Azul"
+            alt="Calca Comfort Cos Intermediario Com Retilinea Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 55,54</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/calca-comfort-cos-intermediario-com-retilinea-azul--227604/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/lancamento/blusas"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/EmailMkt_03.png"
+              title="Blusas"
+              alt="Blusas" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 5px">
+      <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #74a9c2"
+            href="https://www.zinco.com.br/blusa-decote-quadrado-manga-longa-tricot-mostarda-229808/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/Blusa%20Decote%20Quadrado%20Manga%20Longa%20Tricot%20Mostarda.jpg"
+            title="Blusa Decote Quadrado Manga Longa Tricot Mostarda"
+            alt="Blusa Decote Quadrado Manga Longa Tricot Mostarda" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Quadrado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 55,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/blusa-decote-quadrado-manga-longa-tricot-mostarda-229808/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #74a9c2"
+            href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-detalhe-retilinea-cinza-227265/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/Blusa%20Decote%20Redondo%20Manga%20Longa%20Detalhe%20Retilinea%20Cinza.jpg"
+            title="Blusa Decote Redondo Manga Longa Detalhe Retilinea Cinza"
+            alt="Blusa Decote Redondo Manga Longa Detalhe Retilinea Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-detalhe-retilinea-cinza-227265/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #74a9c2"
+            href="https://www.zinco.com.br/blusa-gola-esporte-manga-longa-abertura-lateral-bege-226657/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_27-05_Friaca/Blusa%20Gola%20Esporte%20Manga%20Longa%20Abertura%20Lateral%20Bege.jpg"
+            title="Blusa Gola Esporte Manga Longa Abertura Lateral Bege"
+            alt="Blusa Gola Esporte Manga Longa Abertura Lateral Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Gola Esporte
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#000000; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/blusa-gola-esporte-manga-longa-abertura-lateral-bege-226657/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

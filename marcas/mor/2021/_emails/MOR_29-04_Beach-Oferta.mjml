@@ -1,0 +1,97 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#69afbe">
+      <mj-column>
+        <mj-image
+          padding="15px 10px 0px 10px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Oferta%20Especial&pwaf_productClusterIds=369"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Beach-Oferta/topo-min.jpg"
+          alt="Morena Rosa Beach"
+          title="Morena Rosa Beach" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#69afbe">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="13px" padding="20px 20px 20px 20px" text-transform="none" align="center" font-weight="400" line-height="18px" letter-spacing="2.5px">
+          Aproveitem os climas mais quentes para conhecer nossa nova coleção MR Beach, e usando o nosso cupom, você garante
+          <strong>10% OFF</strong>. Corre, que é por tempo limitado!!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-url="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Beach-Oferta/MORENA%20ROSA%20BEACH-fundo-01.jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-group>
+        <mj-column padding="60px 5px 0px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-morena-rosa-cortininha-ripple-com-amarracao-azul-250969"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Beach-Oferta/MRBeach2102134513-01-min.jpg"
+            title="Biquíni Morena Rosa Cortininha Ripple Com Amarração Azul"
+            alt="Biquíni Morena Rosa Cortininha Ripple Com Amarração Azul" />
+        </mj-column>
+
+        <mj-column padding="110px 5px 0px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="hhttps://www.morenarosa.com.br/biquini-morena-rosa-cortininha-bordado-azul-250974"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Beach-Oferta/MRBeach2102134584-02-min.jpg"
+            title="Biquíni Morena Rosa Cortininha Bordado Azul"
+            alt="Biquíni Morena Rosa Cortininha Bordado Azul" />
+        </mj-column>
+
+
+        <mj-column padding="30px 5px 0px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/chemise-morena-rosa-longo-amarracao-frontal-laranja-251179"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Beach-Oferta/MRBeach2102134639-03-min.jpg"
+            title="Chemise Morena Rosa Longo Amarração Frontal Laranja"
+            alt="Chemise Morena Rosa Longo Amarração Frontal Laranja" />
+        </mj-column>
+
+        <mj-column padding="80px 5px 30px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/maio-morena-rosa-engana-mamae-dupla-face-laranja-250978"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Beach-Oferta/MRBeach2102134701-04-min.jpg"
+            title="Maiô Morena Rosa Engana Mamãe Dupla Face Laranja"
+            alt="Maiô Morena Rosa Engana Mamãe Dupla Face Laranja" />
+        </mj-column>      
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-url="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Beach-Oferta/MORENA%20ROSA%20BEACH-fundo-02.jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-group>    
+        <mj-column width="100%">
+          <mj-image
+            padding="30px 25px 40px 25px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Oferta%20Especial&pwaf_productClusterIds=368"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Beach-Oferta/beach-rodape-min.jpg"
+            alt="Use cupom: BEACHMR"
+            title="Use cupom: BEACHMR" />
+        </mj-column> 
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

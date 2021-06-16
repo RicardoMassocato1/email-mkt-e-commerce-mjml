@@ -1,0 +1,27 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="25px 0px">
+      <mj-column>
+        <mj-image
+          alt="Morena Rosa"
+          title="Morena Rosa"
+          href="https://www.morenarosa.com.br"
+          width="275px"
+          padding="0px 30px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/header/logo/v1/morena-rosa-black.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 25px 0px">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link href="/vestuario" padding="0px 15px" font-size="14px" color="#606158">Vestuário</mj-navbar-link>
+          <mj-navbar-link href="/lingerie" padding="0px 15px" font-size="14px" color="#606158">Lingerie</mj-navbar-link>
+          <mj-navbar-link href="/praia" padding="0px 15px" font-size="14px" color="#606158">Praia</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

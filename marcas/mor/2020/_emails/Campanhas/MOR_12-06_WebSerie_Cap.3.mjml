@@ -1,0 +1,261 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0px 0px 10px 0px">
+      <mj-group>
+        <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\_shared\header\top-bar.mjml">
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000000">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            morenarosa.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          padding="0px 0px 10px 0px"
+          href="https://www.morenarosa.com.br/bem-amadas"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_03-06_WebSerie_Cap.1/email_mkt_Prancheta%201%20c%C3%B3pia%202.jpg"
+          title="WEBSERIE"
+          alt="WEBSERIE" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../header/_header-lancamento.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="20px 0px 30px 0px"
+            href="https://www.morenarosa.com.br/bem-amadas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_12-06_WebSerie_Cap.3/emailmkt_3-1.jpg"
+            title="As Bem Amadas - Cap.3"
+            alt="As Bem Amadas - Cap.3" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-boot-cut-cos-intermediario-barra-larga-verde-branco-222050"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_12-06_WebSerie_Cap.3/Calca%20Boot%20Cut%20Cos%20Intermediario%20Barra%20Larga%20Verde-Branco.jpg"
+            title="Calca Boot Cut Cos Intermediario Barra Larga Verde/Branco"
+            alt="Calca Boot Cut Cos Intermediario Barra Larga Verde/Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Boot Cut Cos Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">ou 6x R$ 73,31</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+              href="https://www.morenarosa.com.br/calca-boot-cut-cos-intermediario-barra-larga-verde-branco-222050"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-midi-evase-barra-assimetrica-preto-229793"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_12-06_WebSerie_Cap.3/Saia%20Midi%20Evase%20Barra%20Assimetrica%20Preto.jpg"
+            title="Saia Midi Evase Barra Assimetrica Preto"
+            alt="Saia Midi Evase Barra Assimetrica Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Midi Evase Barra Assimetrica
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">ou 6x R$ 99,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+              href="https://www.morenarosa.com.br/saia-midi-evase-barra-assimetrica-preto-229793"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-salto-alto-ziper-traseiro-vermelho-226158"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_12-06_WebSerie_Cap.3/Sandalia%20Salto%20Alto%20Ziper%20Traseiro%20Vermelh-01.jpg"
+            title="Sandalia Salto Alto Ziper Traseiro Vermelho"
+            alt="Sandalia Salto Alto Ziper Traseiro Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Sandalia Salto Alto Ziper Traseiro
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 329,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">ou 6x R$ 54,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+              href="https://www.morenarosa.com.br/sandalia-salto-alto-ziper-traseiro-vermelho-226158"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sapatilha-bico-fino-tira-enrugada-bege-225819"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_12-06_WebSerie_Cap.3/Sapatilha%20Bico%20Fino%20Tira%20Enrugada%20Bege-02.jpg"
+            title="Sapatilha Bico Fino Tira Enrugada Bege"
+            alt="Sapatilha Bico Fino Tira Enrugada Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Sapatilha Bico Fino Tira Enrugada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 10px">ou 4x R$ 57,47</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+              href="https://www.morenarosa.com.br/sapatilha-bico-fino-tira-enrugada-bege-225819"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px 40px 0px"
+            href="https://www.morenarosa.com.br/bem-amadas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_12-06_WebSerie_Cap.3/emailmkt_3-2.jpg"
+            title="Brinde"
+            alt="Brinde" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

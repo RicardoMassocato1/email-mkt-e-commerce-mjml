@@ -1,0 +1,198 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Fashion Feeling"
+            title="Fashion Feeling"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_19-11_Fashion-Feelings/Artboard%201%20copy%202-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="25px 0px 30px 0px">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#000"
+            font-size="25px"
+            padding="15px 100px 0px 0px"
+            align="right"
+            line-height="15px"
+            font-weight="700">
+            -
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#000"
+            font-size="15px"
+            padding="5px 100px 20px 0px"
+            align="right"
+            line-height="17px"
+            letter-spacing="0.5px"
+            font-weight="400">
+            #TBT nossos queridinhos<br>
+            mais vendidos pra você!
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda?O=OrderByTopSaleDESC" text-decoration="none" inner-padding="7px 19px" align="right" font-weight="400" font-size="14px" padding="10px 140px 15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="right" color="#000" font-weight="300" font-size="15px" padding="155px 0 10px 0">
+            Blazer Lebôh Com<br> Amarração Vermelho
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            6x de R$ 51,32
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 307,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/blazer-leboh-com-amarracao-vermelho-228973/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blazer-leboh-com-amarracao-vermelho-228973/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187299/BLAZER-COM-AMARRACAO---LI-VERMELHO---PP.jpg?v=637250791254670000"
+            title="Blazer Lebôh Com Amarração Vermelho"
+            alt="Blazer Lebôh Com Amarração Vermelho" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-boot-cut-gigi-cos-alto-bolso-faca-preto-224242/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189808/CALCA-BOOT-CUT-GIGI-COS-ALTO-BOLSO-FACA---LI-PRETO---34.jpg?v=637358645611400000"
+            title="Calça Lebôh Boot Cut Gigi Cós Alto Bolso Faca Preto"
+            alt="Calça Lebôh Boot Cut Gigi Cós Alto Bolso Faca Preto" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="left" color="#000" font-weight="300" font-size="15px" padding="140px 0 10px 0">
+            Calça Lebôh Boot Cut<br> Gigi Cós Alto Bolso<br> Faca Preto
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 249,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            3x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 174,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/calca-leboh-boot-cut-gigi-cos-alto-bolso-faca-preto-224242/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="right" color="#000" font-weight="300" font-size="15px" padding="110px 0 10px 0">
+            T-Shirt Lebôh Decote<br> Redondo Bolso<br> Frente Preto
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 115,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0 0px 0">
+            Por: R$ 81,13
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/t-shirt-leboh-decote-redondo-bolso-frente-preto-189306/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+        <mj-column padding="10px 5px 40px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/t-shirt-leboh-decote-redondo-bolso-frente-preto-189306/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189758/T-SHIRT-DECOTE-REDONDO-BOLSO-FRENTE---LI-PRETO---PP.jpg?v=637358644251170000"
+            title="T-Shirt Lebôh Decote Redondo Bolso Frente Preto"
+            alt="T-Shirt Lebôh Decote Redondo Bolso Frente Preto" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="15px 15px 0px 15px" background-color="#F7D5C8">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/summer-is-outside?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="summer is outside"
+            title="summer is outside"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Outubro/LEB_28-10_summer-is-outside/Artboard%203-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#F7D5C8">
+      <mj-group> 
+        <mj-column padding="50px 0px 0px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#EA5F69" font-style= "italic" font-size="30px" align= "center" font-weight="500" padding="0px 0px 0px 0px" line-height="32px" letter-spacing="0.1px">
+            summer<br> <span style="font-weight:300;">is outside</span> 
+          </mj-text>
+        </mj-column>
+        <mj-column padding="30px 0px 0px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#EA5F69" font-size="26px" align= "left" font-weight="500" padding="0px 0px 0px 0px" line-height="23px" letter-spacing="0.4px">
+            -
+          </mj-text>
+          <mj-text font-family="Work Sans, sans-serif" color="#EA5F69" font-size="13px" align= "left" font-weight="300" padding="0px 0px 0px 0px" line-height="15px" letter-spacing="0px">
+            o verão já chegou na Lebôh.<br>
+            com ele, as tardes quentes<br>
+            vêm acompanhadas daquela <br>
+            sensação de se encontrar <br>
+            em cada pedacinho. let’s go! <br>
+          </mj-text>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+    <mj-section padding="0" background-color="#F7D5C8">
+      <mj-group> 
+        <mj-column padding="50px 0px 30px 0px">
+          <mj-button href="https://www.leboh.com.br/summer-is-outside?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 17px" align="center" font-weight="400" font-size="12px" padding="0px 0px 0px 0px" background-color="#EA5F69" color="#F7D5C8" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,179 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Shorts%20a%20partir%20de%20109,90&pwaf_productClusterIds=233"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_01-11_Shorts-a-109%2C90/Artboard%201-topo.jpg"
+          alt="Shorts a R$109,90"
+          title="Shorts a R$109,90" />
+      </mj-column>
+    </mj-section> 
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Semana-da-Cliente/IOD_08-09_Semana-da-Cliente/Prancheta%201-01.jpg"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="uppercase" color="#000" font-size="15px" padding="5px 0px 20px 50px" align="left" font-weight="300" line-height="20px">
+          O verão está chegando e com ele a<br> temporada de shorts está aberta.<br>
+          Aproveite nossa seleção especial e<br> garanta o seu preferido!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-boxer-com-amarracao-off-white-marinho-234178"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174731/SHORTS-BOXER-COM-AMARRACAO---LT-AZUL-MARINHO-OFF-WHITE---36.jpg?v=637327684208030000"
+            title="SHORTS LINHA A DETALHE PESPONTO ROSA"
+            alt="SHORTS LINHA A DETALHE PESPONTO ROSA" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Linha A Detalhe<br> Pesponto Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 57,47
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 229,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/shorts-boxer-com-amarracao-off-white-marinho-234178" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-linha-a-com-faixa-jeans-236349"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176635/SHORTS-LINHA-A-COM-FAIXA---LI-JEANS-ESCURO---36.jpg?v=637327729379970000"
+            title="SHORTS LINHA A COM FAIXA JEANS"
+            alt="SHORTS LINHA A COM FAIXA JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Linha A Com<br> Faixa Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 66,63
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 199,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-linha-a-com-faixa-jeans-236349" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-evase-com-faixa-estampado-marinho-nude-219576"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/165337/SHORTS-EVASE-COM-FAIXA---ES-AZUL-MARINHO-NUDE---38.jpg?v=637098608870830000"
+            title="SHORTS EVASE COM FAIXA ESTAMPADO MARINHO/NUDE"
+            alt="SHORTS EVASE COM FAIXA ESTAMPADO MARINHO/NUDE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Evase com Faixa<vr> Estampado Marinho/Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 449,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 179,96
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/shorts-evase-com-faixa-estampado-marinho-nude-219576" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-boyfriend-barra-desfiada-jeans-213616"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/163185/SHORTS-BOYFRIEND-BARRA-DESFIADA---LI-JEANS-CLARO---36.jpg?v=637054527562530000"
+            title="SHORTS BOYFRIEND BARRA DESFIADA JEANS"
+            alt="SHORTS BOYFRIEND BARRA DESFIADA JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Boyfriend Barra<br> Desfiada Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 63,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 127,96
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-boyfriend-barra-desfiada-jeans-213616" text-decoration="none" text-transform="uppercase" inner-padding="8px 17px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=239"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Novembro/IOD_01-11_Shorts-a-109%2C90/Artboard%201-rodape.jpg"
+          alt="Lançamento"
+          title="Lançamento" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

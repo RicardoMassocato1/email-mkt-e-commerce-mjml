@@ -1,0 +1,241 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iodice</mj-title>
+    <mj-preview>Iodice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=211&_t=Semana%20da%20Cliente&p=2"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Semana-da-Cliente/IOD_10-09_Semana-da-Cliente/Prancheta%202-topo.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="uppercase" color="#325146" font-size="15.5px" padding="0px 0px 0px 30px" align="left" font-weight="300" line-height="18px">
+          Vestidos com desconto progressivo<br> até 70% off
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-curto-decote-v-compose-de-tecidos-preto-223234"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/169415/VESTIDO-CURTO-DECOTE-V-COMPOSE-DE-TECIDOS---ES-PRETO-OFF-WHITE---P.jpg?v=637193659684330000"
+            title="VESTIDO CURTO DECOTE V COMPOSE DE TECIDOS PRETO"
+            alt="VESTIDO CURTO DECOTE V COMPOSE DE TECIDOS PRETO" />
+
+          <mj-text align="center" color="#325146" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Curto<br> Decote V
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#325146" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 699,90</text>
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 81,65
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 489,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-curto-decote-v-compose-de-tecidos-preto-223234" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#325146" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-curto-decote-transpassado-com-drapeado-verde-oliva-223114"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/168601/VESTIDO-CURTO-DECOTE-TRANSPASSADO-COM-DRAPEADO---LI-VERDE-OLIVA---P.jpg?v=637172151006200000"
+            title="VESTIDO CURTO DECOTE TRANSPASSADO COM DRAPEADO VERDE OLIVA"
+            alt="VESTIDO CURTO DECOTE TRANSPASSADO COM DRAPEADO VERDE OLIVA" />
+
+          <mj-text align="center" color="#325146" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Curto<br> Decote Transp.
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#325146" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 599,90</text>
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 69,98
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 419,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-curto-decote-transpassado-com-drapeado-verde-oliva-223114" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#325146" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-longo-decote-redondo-torcao-frente-rosa-223780"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/168878/VESTIDO-LONGO-DECOTE-REDONDO-TORCAO-FRENTE---LI-PINK---P.jpg?v=637172154769500000"
+            title="VESTIDO LONGO DECOTE REDONDO TORCAO FRENTE ROSA"
+            alt="VESTIDO LONGO DECOTE REDONDO TORCAO FRENTE ROSA" />
+
+          <mj-text align="center" color="#325146" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Longo<br> Decote Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#325146" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 549,90</text>
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 64,15
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 384,93
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-longo-decote-redondo-torcao-frente-rosa-223780" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#325146" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-midi-decote-v-torcao-frente-preto-220798"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/167760/VESTIDO-MIDI-DECOTE-V-TORCAO-FRENTE---LI-PRETO---P.jpg?v=637106926518130000"
+            title="VESTIDO MIDI DECOTE V TORCAO FRENTE PRETO"
+            alt="VESTIDO MIDI DECOTE V TORCAO FRENTE PRETO" />
+
+          <mj-text align="center" color="#325146" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi<br> Decote V
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#325146" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-midi-decote-v-torcao-frente-preto-220798" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#325146" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-midi-decote-transpassado-com-fenda-verde-preto-219341"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/167617/VESTIDO-MIDI-DECOTE-TRANSPASSADO-COM-FENDA---ES-PRETO-CORAL---M.jpg?v=637106920102400000"
+            title="VESTIDO MIDI DECOTE TRANSPASSADO COM FENDA VERDE/PRETO"
+            alt="VESTIDO MIDI DECOTE TRANSPASSADO COM FENDA VERDE/PRETO" />
+
+          <mj-text align="center" color="#325146" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi<br> Decote Transp.
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#325146" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 649,90</text>
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 75,82
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 454,93
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-midi-decote-transpassado-com-fenda-verde-preto-219341" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#325146" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-io-deise-malha-litio-cinza-203603"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/159175/VESTIDO-IO-DEISE-MALHA-LITIO---PRETO---OFF-WHITE---P.jpg?v=636917029179870000"
+            title="VESTIDO IO DEISE MALHA LITIO CINZA"
+            alt="VESTIDO IO DEISE MALHA LITIO CINZA" />
+
+          <mj-text align="center" color="#325146" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido IO Deise<br> Malha Litio
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#325146" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 588,00</text>
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 68,60
+          </mj-text>
+
+          <mj-text color="#325146" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 411,60
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/vestido-io-deise-malha-litio-cinza-203603" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#325146" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=230"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Semana-da-Cliente/IOD_10-09_Semana-da-Cliente/Prancheta%202-rodape.jpg"
+          alt="Lançamento A Força da Natureza"
+          title="Lançamento A Força da Natureza" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

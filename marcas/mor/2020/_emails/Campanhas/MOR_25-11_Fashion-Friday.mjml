@@ -1,0 +1,146 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    
+    <mj-section padding="0px 0px" background-color="#000">
+      <mj-column>
+
+        <mj-text font-family="'Roboto', sans-serif" color="#ff4a15" font-size="22px" padding="40px 0px 20px 50px" align="left" font-weight="800" line-height="30px" letter-spacing="4px">
+          FASHION<br> FRIDAY
+        </mj-text>
+
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" font-size="11.2px" padding="0px 0px 40px 50px" text-transform="uppercase" align="left" font-weight="400" line-height="26px" letter-spacing="2px">
+          Já escolheu seu desejo para passar<br> o ano novo? cada calcinha um<br> desejo diferente, confira:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border= "1.5px solid #ff4a15"
+            href="https://www.morenarosa.com.br/lingerie/calcinhas?pwaf_OrderByReleaseDateDESC=%2B&pwaf_53=branco"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_25-11_Fashion-Friday/FASHION%20FRIDAY-09-01.jpg"
+            title="Calcinhas Branco"
+            alt="Calcinhas Branco" />
+
+          <mj-button href="https://www.morenarosa.com.br/lingerie/calcinhas?pwaf_OrderByReleaseDateDESC=%2B&pwaf_53=branco" text-decoration="none" text-transform="uppercase" inner-padding="7px 20px" align="center" line-height="17px" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ff4a15" color="#fff" border-radius="0px" target="_blank"><span style="letter-spacing:1.5px"><strong>branco:</strong><br>Seja a luz que<br>ilumina o mundo</span></mj-button>
+          
+          <mj-button href="https://www.morenarosa.com.br/lingerie/calcinhas?pwaf_OrderByReleaseDateDESC=%2B&pwaf_53=branco" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="0px 0px 15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank"><span style="letter-spacing:3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border= "1.5px solid #ff4a15"
+            href="https://www.morenarosa.com.br/calcinha-morena-rosa-ripple-com-amarracao-coral-230401"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_25-11_Fashion-Friday/FASHION%20FRIDAY-09-02.jpg"
+            title="Calcinha Morena Rosa Ripple Com Amarração Coral"
+            alt="Calcinha Morena Rosa Ripple Com Amarração Coral" />
+
+          <mj-button href="https://www.morenarosa.com.br/calcinha-morena-rosa-ripple-com-amarracao-coral-230401" text-decoration="none" text-transform="uppercase" inner-padding="7px 26px" align="center" line-height="17px" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ff4a15" color="#fff" border-radius="0px" target="_blank"><span style="letter-spacing:1.5px"><strong>laranja:</strong><br>vibre a alegria<br>no corpo</span></mj-button>
+          
+          <mj-button href="https://www.morenarosa.com.br/calcinha-morena-rosa-ripple-com-amarracao-coral-230401" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="0px 0px 15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank"><span style="letter-spacing:3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border= "1.5px solid #ff4a15"
+            href="https://www.morenarosa.com.br/calcinha-morena-rosa-ripple-com-amarracao-azul-230400"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_25-11_Fashion-Friday/FASHION%20FRIDAY-09-03.jpg"
+            title="Calcinha Morena Rosa Ripple Com Amarração Azul"
+            alt="Calcinha Morena Rosa Ripple Com Amarração Azul" />
+
+          <mj-button href="https://www.morenarosa.com.br/calcinha-morena-rosa-ripple-com-amarracao-azul-230400" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" line-height="17px" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ff4a15" color="#fff" border-radius="0px" target="_blank"><span style="letter-spacing:1.5px"><strong>azul:</strong><br>Tudo lindo como<br>calma na alma</span></mj-button>
+          
+          <mj-button href="https://www.morenarosa.com.br/calcinha-morena-rosa-ripple-com-amarracao-azul-230400" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="0px 0px 15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank"><span style="letter-spacing:3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border= "1.5px solid #ff4a15"
+            href="https://www.morenarosa.com.br/calcinha-morena-rosa-ripple-com-amarracao-amarelo-230402"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_25-11_Fashion-Friday/FASHION%20FRIDAY-09-04.jpg"
+            title="Calcinha Morena Rosa Ripple Com Amarração Amarelo"
+            alt="Calcinha Morena Rosa Ripple Com Amarração Amarelo" />
+
+          <mj-button href="https://www.morenarosa.com.br/calcinha-morena-rosa-ripple-com-amarracao-amarelo-230402" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" line-height="17px" font-weight="400" font-size="11px" padding="15px 0px" background-color="#ff4a15" color="#fff" border-radius="0px" target="_blank"><span style="letter-spacing:1.5px"><strong>amarelo:</strong><br>vai e brilha feito<br>o sol que ilumina</span></mj-button>
+          
+          <mj-button href="https://www.morenarosa.com.br/calcinha-morena-rosa-ripple-com-amarracao-amarelo-230402" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="0px 0px 15px 0px" background-color="#000" color="#fff" border-radius="0px" target="_blank"><span style="letter-spacing:3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0px 0px" background-color="#000">
+      <mj-column>
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" text-transform="uppercase" font-size="13px" padding="40px 0px 20px 0px" align="center" font-weight="500" line-height="20px" letter-spacing="2px">
+          Complete o look<br> para o ano novo:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#000">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/lingerie/calcinhas?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Calcinhas%20Fashion%20Friday"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_25-11_Fashion-Friday/FASHION%20FRIDAY-09-calcinhas.jpg"
+            title="Calcinhas"
+            alt="Calcinhas" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/praia/biquinis?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Biquinis%20Fashion%20Friday"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_25-11_Fashion-Friday/FASHION%20FRIDAY-09-biquinis.jpg"
+            title="Biquinis"
+            alt="Biquinis" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%20&_t=Vestidos%20Fashion%20Friday&pwaf_productClusterIds=171"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_25-11_Fashion-Friday/FASHION%20FRIDAY-09-vestidos.jpg"
+            title="Vestidos"
+            alt="Vestidos" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

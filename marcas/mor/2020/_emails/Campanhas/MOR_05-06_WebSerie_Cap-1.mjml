@@ -1,0 +1,218 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0px 0px 10px 0px">
+      <mj-group>
+        <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\_shared\header\top-bar.mjml">
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000000">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            morenarosa.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          padding="0px 0px 10px 0px"
+          href="https://www.morenarosa.com.br/bem-amadas"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_WebSerie_Cap.1/2.1.jpg"
+          title="WEBSERIE"
+          alt="WEBSERIE" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../header/_header-lancamento.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="20px 0px 30px 0px"
+            href="https://www.morenarosa.com.br/bem-amadas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_WebSerie_Cap.1/2.2.jpg"
+            title="As Bem Amadas - Cap.1"
+            alt="As Bem Amadas - Cap.1" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-longo-decote-transpassado-com-faixa-amarelo-227966"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_WebSerie_Cap.1/Vestido%20Longo%20Decote%20Transpassado%20Com%20Faixa%20Amarelo.jpg"
+            title="Vestido Longo Decote Transpassado Com Faixa Amarelo"
+            alt="Vestido Longo Decote Transpassado Com Faixa Amarelo" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 15px; padding: 180px 0px 10px 0px; margin: 0px;">
+              Vestido Longo Decote<br> Transpassado
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding: 5px 0">R$ 1199,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">11x de R$ 109,08</span>
+          </mj-text>
+
+          <mj-text align="left">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;"
+              href="https://www.morenarosa.com.br/vestido-longo-decote-transpassado-com-faixa-amarelo-227966"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 15px; padding: 180px 0px 10px 0px; margin: 0px;">
+              Sutia Bralette<br> Bojo Removivel
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding: 5px 0">R$ 189,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 63,30</span>
+          </mj-text>
+
+          <mj-text align="right">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;"
+              href="https://www.morenarosa.com.br/sutia-bralette-bojo-removivel-preto-225154"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sutia-bralette-bojo-removivel-preto-225154"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_WebSerie_Cap.1/Sutia%20Bralette%20Bojo%20Removivel%20Preto.jpg"
+            title="Sutia Bralette Bojo Removivel Preto"
+            alt="Sutia Bralette Bojo Removivel Preto" />
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantalona-cos-intermediario-barra-larga-camel-227955"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_WebSerie_Cap.1/Calca%20Pantalona%20Cos%20Intermediario%20Barra%20Larga%20Camel.jpg"
+            title="Calca Pantalona Cos Intermediario Barra Larga Camel"
+            alt="Calca Pantalona Cos Intermediario Barra Larga Camel" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="sans-serif; color: #999999; font-weight: 300; font-size: 15px; padding: 180px 0px 10px 0px; margin: 0px;">
+              Calca Pantalona Cos<br> Intermediario Barra
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding: 5px 0">R$ 529,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 88,31</span>
+          </mj-text>
+
+          <mj-text align="left">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;"
+              href="https://www.morenarosa.com.br/calca-pantalona-cos-intermediario-barra-larga-camel-227955"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px 40px 0px"
+            href="https://www.morenarosa.com.br/bem-amadas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_WebSerie/MOR_05-06_WebSerie_Cap.1/2.3.jpg"
+            title="Brinde"
+            alt="Brinde" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

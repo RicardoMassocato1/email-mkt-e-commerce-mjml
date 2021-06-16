@@ -1,0 +1,222 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-column>
+        <mj-image
+          padding="40px 70px 20px 70px"
+          width="350px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Monday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_01-12_Fashion-Monday/Artboard%2038-topo.jpg"
+          alt="Fashion Monday"
+          title="Fashion Monday" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#046ea2"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" text-transform="uppercase" font-size="24px" padding="0px 0px 10px 0px" align="center" font-weight="700" line-height="28px" letter-spacing="4px">
+          FASHION<br> MONDAY
+        </mj-text>
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" text-transform="uppercase" font-size="14px" padding="0px 0px 15px 0px" align="center" font-weight="300" line-height="16px" letter-spacing="1.5px">
+          Descontos<br> progressivos
+        </mj-text>
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" text-transform="uppercase" font-size="18px" padding="15px 0px 15px 0px" align="center" font-weight="300" line-height="0px" letter-spacing="3px">
+          até <span style="font-size:26px; font-weight:800">70%off</span>
+        </mj-text>
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" font-size="12.5px" padding="15px 0px 15px 0px" align="center" font-weight="300" line-height="19px" letter-spacing="2px">
+          1 peça 30%<br>
+          2 peças 40%<br>
+          3 peças 50%<br>
+          4 peças 60%<br>
+          5 peças ou mais 70%
+        </mj-text>
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" font-size="12.5px" padding="15px 30px 15px 30px" align="center" font-weight="300" line-height="19px" letter-spacing="2px">
+          Não aproveitou a Fashion Friday?! Não perca a Fashion Monday com descontos de até <strong>70% OFF!</strong>
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-morena-rosa-ombro-a-ombro-manga-longa-bicolor-marrom-219197"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/328148/BLUSA-OMBRO-A-OMBRO-MANGA-LONGA-BICOLOR---CO-CARAMELO-CAQUI---P.jpg?v=637118364312000000"
+            title="Blusa Morena Rosa Ombro A Ombro Manga Longa Bicolor Marrom"
+            alt="Blusa Morena Rosa Ombro A Ombro Manga Longa Bicolor Marrom" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Morena Rosa Ombro<br> A Ombro Manga Longa<br> Bicolor Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 369,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            32x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 110,97<br><span style="font-size:10.5px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/blusa-morena-rosa-ombro-a-ombro-manga-longa-bicolor-marrom-219197" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-pantacourt-cos-intermediario-bordado-manual-branco-dourado-220142"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/322881/CALCA-PANTACOURT-COS-INTERMEDIARIO-BORDADO-MANUAL---LI-DOURADO---38.jpg?v=637098092818930000"
+            title="Calça Morena Rosa Pantacourt Cós Intermediário Bordado Manual Branco/Dourado"
+            alt="Calça Morena Rosa Pantacourt Cós Intermediário Bordado Manual Branco/Dourado" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa<br> Pantacourt Cós<br> Intermediário Bordado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 1.119,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 111,99
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 335,97<br><span style="font-size:10.5px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-pantacourt-cos-intermediario-bordado-manual-branco-dourado-220142" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bermuda-morena-rosa-cenoura-barra-italiana-xadrez-preto-182945"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/255429/BERMUDA-CENOURA-BARRA-ITALIANA---XADREZ-PRETO---36.jpg?v=636725521759400000"
+            title="Bermuda Morena Rosa Cenoura Barra Italiana Xadrez Preto"
+            alt="Bermuda Morena Rosa Cenoura Barra Italiana Xadrez Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bermuda Morena Rosa<br> Cenoura Barra Italiana<br> Xadrez Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 119,97<br><span style="font-size:10.5px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/bermuda-morena-rosa-cenoura-barra-italiana-xadrez-preto-182945" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-morena-rosa-pantalona-com-top-preto-207918"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/308974/MACACAO-PANTALONA-COM-TOP---ESTAMPADO-PRETO-PISTACHE---P.jpg?v=637014051899800000"
+            title="Macacão Morena Rosa Pantalona Com Top Preto"
+            alt="Macacão Morena Rosa Pantalona Com Top Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacão Morena Rosa<br> Pantalona Com<br> Top Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 649,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 75,82
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 194,97<br><span style="font-size:10.5px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/macacao-morena-rosa-pantalona-com-top-preto-207918" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#046ea2"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" font-size="14px" padding="30px 30px 20px 30px" align="center" font-weight="300" line-height="19px" letter-spacing="2px">
+          Compre por categoria:
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas/?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Monday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_01-12_Fashion-Monday/Artboard%2038%20copy%202-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-column>
+        <mj-image
+          padding="20px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/calcas/?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Monday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_01-12_Fashion-Monday/Artboard%2038%20copy%202-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Monday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_01-12_Fashion-Monday/Artboard%2038%20copy%202-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

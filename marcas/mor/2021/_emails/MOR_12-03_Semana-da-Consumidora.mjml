@@ -1,0 +1,164 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=semana%20da%20consumidora&pwaf_productClusterIds=351"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Mar%C3%A7o/MOR_12-03_Semana-da-Consumidora/Semana%20da%20Consumidodra-05.jpg"
+          alt="Semana da Consumidora - MR Living"
+          title="Semana da Consumidora - MR Living" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#802425" font-size="15px" padding="30px 0px 20px 0px" align="center" font-weight="400" line-height="22px" letter-spacing="1px">
+          MR Living, o projeto verão para<br> se movimentar.
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=semana%20da%20consumidora&pwaf_productClusterIds=351" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="400" font-size="14px" padding="0px 0px 10px 0px" background-color="#802425" color="#fff" border-radius="0px" border= "1.2px solid #802425" target="_blank"><span style="letter-spacing:1px">SHOP NOW</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/parka-morena-rosa-detalhe-tela-branco-233211"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/366554/PARKA-DETALHE-TELA---LI-BRANCO---P.jpg?v=637435739366330000"
+            title="Parka Morena Rosa Detalhe Tela Branco"
+            alt="Parka Morena Rosa Detalhe Tela Branco" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Parka Morena Rosa<br> Detalhe Tela Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/parka-morena-rosa-detalhe-tela-branco-233211" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-curta-gode-detalhe-refletivo-preto-233508"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/363699/SAIA-CURTA-GODE-DETALHE-REFLETIVO---ES-BRANCO-PRETO---P.jpg?v=637407176908300000"
+            title="Saia Morena Rosa Curta Godê Detalhe Refletivo Preto"
+            alt="Saia Morena Rosa Curta Godê Detalhe Refletivo Preto" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Curta<br> Godê Detalhe Reflet...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 96,65
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 579,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-curta-gode-detalhe-refletivo-preto-233508" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 10px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/top-morena-rosa-cropped-alca-detalhe-tela-azul-verde-232898"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/363535/TOP-CROPPED-ALCA-DETALHE-TELA---CO-AZUL-MARINHO-VERDE---P.jpg?v=637407173566430000"
+            title="Top Morena Rosa Cropped Alça Detalhe Tela Azul/Verde"
+            alt="Top Morena Rosa Cropped Alça Detalhe Tela Azul/Verde" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Morena Rosa Cropped<br> Alça Detalhe Tela<br> Azul/Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            2x de R$ 57,95
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 115,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/top-morena-rosa-cropped-alca-detalhe-tela-azul-verde-232898" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-legging-cos-alto-basica-roxo-232960"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/363675/CALCA-LEGGING-COS-ALTO-BASICA---ES-ROXO-VERDE---P.jpg?v=637407176444900000"
+            title="Calça Morena Rosa Legging Cós Alto Básica Roxo"
+            alt="Calça Morena Rosa Legging Cós Alto Básica Roxo" />
+
+          <mj-text align="center" color="#802425" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa<br> Legging Cós Alto Básica<br> Roxo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#802425" />
+
+          <mj-text color="#802425" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            3x de R$ 65,30
+          </mj-text>
+
+          <mj-text color="#802425" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 195,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-legging-cos-alto-basica-roxo-232960" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#802425" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Lan%C3%A7amento&pwaf_productClusterIds=347"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Fevereiro/MOR_22-02_Lancamento-Outono-Inverno-2021/Email%20MKT_1-topo.jpg"
+          alt="Lançamento Outono/Inverno 2021"
+          title="Lançamento Outono/Inverno 2021" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

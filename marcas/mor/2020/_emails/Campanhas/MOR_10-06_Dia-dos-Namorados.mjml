@@ -1,0 +1,500 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="http://morenarosa.com.be/bem-amadas"
+            alt="bem amadas"
+            title="bem amadas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/landing_page_novo-07.jpg" />
+        </mj-column>
+
+
+        <mj-column padding="20px 10px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Bem%2520Amadas&pwaf_productClusterIds=283"
+            alt="As Bem Amadas - cap.1"
+            title="As Bem Amadas - cap.1"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/fase1.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 10px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bolsa-bucket-duas-alcas-preto-222205"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/Bolsa%20Bucket%20Duas%20Alcas%20Preto.jpg"
+            title="Bolsa Bucket Duas Alcas Preto"
+            alt="Bolsa Bucket Duas Alcas Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a39cb6; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bolsa Bucket<br> Duas Alcas
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#a39cb6" />
+
+          <mj-text
+            color="#a39cb6"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a39cb6"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$61,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a39cb6; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a39cb6;"
+              href="https://www.morenarosa.com.br/bolsa-bucket-duas-alcas-preto-222205"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 7.5px 10px 7.5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/maio-decote-v-com-metal-prata-216163"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/Maio%20Decote%20V%20Com%20Metal%20Prata.jpg"
+            title="Maio Decote V Com Metal Prata"
+            alt="Maio Decote V Com Metal Prata" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a39cb6; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Maio Decote V<br> Com Metal
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#a39cb6" />
+
+          <mj-text
+            color="#a39cb6"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a39cb6"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$61,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a39cb6; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a39cb6;"
+              href="https://www.morenarosa.com.br/maio-decote-v-com-metal-prata-216163"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 10px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-alca-com-recortes-preto-196712"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/Body%20Alca%20Com%20Recortes%20Preto.jpg"
+            title="Body Alca Com Recortes Preto"
+            alt="Body Alca Com Recortes Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a39cb6; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Body Alca Com<br> Recortes
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#a39cb6" />
+
+          <mj-text
+            color="#a39cb6"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 134,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#a39cb6"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 2x R$67,47</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a39cb6; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a39cb6;"
+              href="https://www.morenarosa.com.br/body-alca-com-recortes-preto-196712"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 10px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Bem%2520Amadas&pwaf_productClusterIds=284"
+            alt="As Bem Amadas - cap.2"
+            title="As Bem Amadas - cap.2"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/fase2.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 10px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantacourt-cos-alto-basica-azul-222600"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/Calca%20Pantacourt%20Cos%20Alto%20Basica%20Azul.jpg"
+            title="Calca Pantacourt Cos Alto Basica Azul"
+            alt="Calca Pantacourt Cos Alto Basica Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cda5c0; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantacourt<br> Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#cda5c0" />
+
+          <mj-text
+            color="#cda5c0"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cda5c0"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$76,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #cda5c0; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cda5c0;"
+              href="https://www.morenarosa.com.br/calca-pantacourt-cos-alto-basica-azul-222600"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 7.5px 10px 7.5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bolsa-bucket-base-capim-dourado-preto-225177"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/Bolsa%20Bucket%20Base%20Capim%20Dourado%20Preto.jpg"
+            title="Bolsa Bucket Base Capim Dourado Preto"
+            alt="Bolsa Bucket Base Capim Dourado Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cda5c0; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bolsa Bucket<br> Capim Dourado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#cda5c0" />
+
+          <mj-text
+            color="#cda5c0"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 1279,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cda5c0"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 12x R$106,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #cda5c0; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cda5c0;"
+              href="https://www.morenarosa.com.br/bolsa-bucket-base-capim-dourado-preto-225177"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 10px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-decote-v-manga-ampla-com-sobreposicao-azul-216238"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/Body%20Decote%20V%20Manga%20Ampla%20Com%20Sobreposicao%20Azul.jpg"
+            title="Body Decote V Manga Ampla Com Sobreposicao Azul"
+            alt="Body Decote V Manga Ampla Com Sobreposicao Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cda5c0; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Body Decote V<br> Manga Ampla
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#cda5c0" />
+
+          <mj-text
+            color="#cda5c0"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 529,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cda5c0"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$88,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-size: 12px; color: #cda5c0; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cda5c0;"
+              href="https://www.morenarosa.com.br/body-decote-v-manga-ampla-com-sobreposicao-azul-216238"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 10px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?p=2&sort=OrderByReleaseDateDESC&_t=Bem%2520Amadas&pwaf_productClusterIds=285"
+            alt="As Bem Amadas - cap.3"
+            title="As Bem Amadas - cap.3"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/fase3.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 10px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-decote-v-com-metal-prata-228044"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/Vestido%20Curto%20Decote%20V%20Com%20Metal%20Prata.jpg"
+            title="Vestido Curto Decote V Com Metal Prata"
+            alt="Vestido Curto Decote V Com Metal Prata" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #b03e29; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto<br> Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#b03e29" />
+
+          <mj-text
+            color="#b03e29"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 479,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b03e29"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$79,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #b03e29; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b03e29;"
+              href="https://www.morenarosa.com.br/vestido-curto-decote-v-com-metal-prata-228044"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 7.5px 10px 7.5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-transpassado-com-faixa-pink-230072"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/Vestido%20Midi%20Decote%20Transpassado%20Com%20Faixa%20Pink.jpg"
+            title="Vestido Midi Decote Transpassado Com Faixa Pink"
+            alt="Vestido Midi Decote Transpassado Com Faixa Pink" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #b03e29; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi<br> Decote Transp.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#b03e29" />
+
+          <mj-text
+            color="#b03e29"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 869,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b03e29"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 8x R$108,73</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #b03e29; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b03e29;"
+              href="https://www.morenarosa.com.br/vestido-midi-decote-transpassado-com-faixa-pink-230072"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 10px 20px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bolsa-crossbody-alca-corrente-vermelho-222202"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dia-dos-Namorados/MOR_10-06_Dia-dos-Namorados/Bolsa%20Crossbody%20Alca%20Corrente%20Vermelho.jpg"
+            title="Bolsa Crossbody Alca Corrente Vermelho"
+            alt="Bolsa Crossbody Alca Corrente Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #b03e29; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bolsa Crossbody<br> Alca Corrente
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#b03e29" />
+
+          <mj-text
+            color="#b03e29"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b03e29"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$99,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-size: 12px; color: #b03e29; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b03e29;"
+              href="https://www.morenarosa.com.br/bolsa-crossbody-alca-corrente-vermelho-222202"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

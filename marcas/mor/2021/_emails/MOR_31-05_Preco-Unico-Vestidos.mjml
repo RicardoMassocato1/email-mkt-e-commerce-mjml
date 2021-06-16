@@ -1,0 +1,93 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Vestidos&pwaf_productClusterIds=376"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_31-05_Preco-Unico-Vestidos/PPRE%C3%87O%20%C3%9ANICO-vestidos-min.jpg"
+          alt="Preço Único"
+          title="Preço Único" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#000" font-size="13px" padding="20px 25px 30px 25px" text-transform="none" align="center" font-weight="400" line-height="18px" letter-spacing="1.5px">
+          Vestidos são peças únicas que não podem faltar no armário das mulheres mais estilosas. Venha conhecer a nossa seleção de vestidos que estão com preço único de R$ 199,90.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 10px 0px" background-color="#000">
+      <mj-group>
+        <mj-column padding="60px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="250px"
+            href="https://www.morenarosa.com.br/t-shirt-morena-rosa-dress-detalhe-cadarco-jeans-244046"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_31-05_Preco-Unico-Vestidos/PPRE%C3%87O%20%C3%9ANICO-01-min.jpg"
+            title="T-Shirt Morena Rosa Dress Detalhe Cadarço Jeans"
+            alt="T-Shirt Morena Rosa Dress Detalhe Cadarço Jeans" />
+
+          <mj-button href="https://www.morenarosa.com.br/t-shirt-morena-rosa-dress-detalhe-cadarco-jeans-244046" text-decoration="none" text-transform="uppercase" inner-padding="8px 25px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" target="_blank">Confira!</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="250px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-transpassado-detalhe-vies-azul-240180"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_31-05_Preco-Unico-Vestidos/PPRE%C3%87O%20%C3%9ANICO-02-min.jpg"
+            title="Vestido Morena Rosa Curto Decote Transpassado Detalhe Viés Azul"
+            alt="Vestido Morena Rosa Curto Decote Transpassado Detalhe Viés Azul" />
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-transpassado-detalhe-vies-azul-240180" text-decoration="none" text-transform="uppercase" inner-padding="8px 25px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" target="_blank">Confira!</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#000">
+      <mj-group>
+        <mj-column padding="60px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="250px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-v-trico-menta-244583"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_31-05_Preco-Unico-Vestidos/PPRE%C3%87O%20%C3%9ANICO-03-min.jpg"
+            title="Vestido Morena Rosa Curto Decote V Tricô Menta"
+            alt="Vestido Morena Rosa Curto Decote V Tricô Menta" />
+
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-v-trico-menta-244583" text-decoration="none" text-transform="uppercase" inner-padding="8px 25px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" target="_blank">Confira!</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="250px"
+            href="https://www.morenarosa.com.br/t-shirt-morena-rosa-dress-com-silk-preto-239919"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_31-05_Preco-Unico-Vestidos/PPRE%C3%87O%20%C3%9ANICO-04-min.jpg"
+            title="T-Shirt Morena Rosa Dress Com Silk Preto"
+            alt="T-Shirt Morena Rosa Dress Com Silk Preto" />
+          
+          <mj-button href="https://www.morenarosa.com.br/t-shirt-morena-rosa-dress-com-silk-preto-239919" text-decoration="none" text-transform="uppercase" inner-padding="8px 25px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" target="_blank">Confira!</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

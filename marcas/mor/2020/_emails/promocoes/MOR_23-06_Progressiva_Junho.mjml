@@ -1,0 +1,275 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="0px 0px 10px 0px" background-color="#f5e9dd">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0 0 10px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=171"
+            title="Progressiva até 70% OFF"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_23-06_Progressiva_Junho/E-mail%20Mkt%20-%20Progressivos-02-topo.png" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/vestuario/blusas?_t=Lqda%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+            alt="Blusas"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_23-06_Progressiva_Junho/E-mail%20Mkt%20-%20Progressivos-02-blusas.png" />
+          <mj-image
+            padding="0px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%252520Jeans&pwaf_productClusterIds=198"
+            alt="Jeans"
+            title="Jeans"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_23-06_Progressiva_Junho/E-mail%20Mkt%20-%20Progressivos-02-jeans.png" />
+          <mj-image
+            padding="25px 0px 50px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%252520Cal%25C3%25A7ados&pwaf_productClusterIds=172"
+            alt="Shoes"
+            title="Shoes"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_23-06_Progressiva_Junho/E-mail%20Mkt%20-%20Progressivos-02-shoes.png" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-sem-manga-com-metal-preto-215852"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_23-06_Progressiva_Junho/Blusa%20Ombro%20A%20Ombro%20Sem%20Manga%20Com%20Metal%20Preto.jpg"
+            title="Blusa Ombro A Ombro Sem Manga Com Metal Preto"
+            alt="Blusa Ombro A Ombro Sem Manga Com Metal Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #e64f44; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Ombro A Ombro
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#e64f44" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 279,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 5x R$ 55,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e64f44;"
+              href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-sem-manga-com-metal-preto-215852"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantacourt-cos-intermediario-com-faixa-----------------azul-219227"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_23-06_Progressiva_Junho/Calca%20Pantacourt%20Cos%20Intermediario%20Com%20Faixa%20Azul.jpg"
+            title="Calca Pantacourt Cos Intermediario Com Faixa Azul"
+            alt="Calca Pantacourt Cos Intermediario Com Faixa Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #e64f44; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantacourt Cos Int.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#e64f44" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 321,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 53,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e64f44;"
+              href="https://www.morenarosa.com.br/calca-pantacourt-cos-intermediario-com-faixa-----------------azul-219227"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-midi-assimetrica-com-amarracao-nude-219339"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_23-06_Progressiva_Junho/Saia%20Midi%20Assimetrica%20Com%20Amarracao%20Nude.jpg"
+            title="Saia Midi Assimetrica Com Amarracao Nude"
+            alt="Saia Midi Assimetrica Com Amarracao Nude" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #e64f44; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Midi Assimetrica
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#e64f44" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 419,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 69,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e64f44;"
+              href="https://www.morenarosa.com.br/saia-midi-assimetrica-com-amarracao-nude-219339"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-redondo-cava-nadador-basica-off-white-186152"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_23-06_Progressiva_Junho/Blusa%20Decote%20Redondo%20Cava%20Nadador%20Basica%20Off%20White.jpg"
+            title="Blusa Decote Redondo Cava Nadador Basica Off White"
+            alt="Blusa Decote Redondo Cava Nadador Basica Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #e64f44; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#e64f44" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 129,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 90,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 1x R$ 90,93</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e64f44;"
+              href="https://www.morenarosa.com.br/blusa-decote-redondo-cava-nadador-basica-off-white-186152"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

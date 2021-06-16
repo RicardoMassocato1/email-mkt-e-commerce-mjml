@@ -1,0 +1,58 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="30px 0px 0px 0px" background-color="#efe7df">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#604f42" font-size="24px" padding="20px 0px 0px 0px" align="center" font-weight="900" line-height="37px" letter-spacing="5px">
+          Hey, *|FIRST_NAME|*
+        </mj-text>
+
+        <mj-text font-family="Roboto, serif" color="#604f42" font-size="14.5px" padding="40px 0px 40px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="2px">
+          Vimos que você adicionou produtos<br> 
+          no carrinho nos últimos dias.<br>
+          Porém, passamos por uma instabilidade<br> 
+          e talvez você não tenha conseguido<br> 
+          finalizar o seu pedido. :( 
+        </mj-text>
+
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#604f42" font-size="13.5px" padding="0px 0px 0px 0px" align="center" font-weight="700" line-height="20px" letter-spacing="2px">
+          Pedimos desculpas pelo ocorrido,<br> e te informamos que o problema já<br> foi identificado e solucionado!
+        </mj-text>
+
+        <mj-text font-family="Roboto, serif" color="#604f42" font-size="14.5px" padding="30px 0px 30px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="2px">
+          E mais! Estamos liberando um <strong>cupom<br> 
+          de frete grátis</strong> e <strong>15% OFF</strong> para você<br> 
+          finalizar seu pedido até sexta (13/11),<br> 
+          e levar as suas peças favoritas<br> 
+          para casa!
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br" text-decoration="none" text-transform="uppercase" inner-padding="9px 20px" align="center" font-weight="400" font-size="14px" padding="15px 0px 40px 0px" background-color="#604f42" color="#efe7df" border-radius="0px" border= "0px solid #ffffff" target="_blank"><span style="letter-spacing:1px">Voltar para o site</span></mj-button>
+
+        <mj-text font-family="Roboto, serif" color="#604f42" font-size="15px" padding="10px 0px 0px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="2px">
+          No <a href="https://morenarosa.myvtex.com/checkout" style="color:#604f42; font-weight:600">carrinho</a>, adicione o cupom<br>
+        </mj-text>
+        <mj-text font-family="Roboto, serif" color="#604f42" font-size="14.5px" padding="12px 0px 5px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="2px">
+          <span style="font-size:30px; padding:0px 0px 0px 0px; background-color:#604f42; color:#efe7df; font-weight:600; letter-spacing:3px">&nbsp;TODEVOLTA&nbsp;</span><br> 
+        </mj-text>
+        <mj-text font-family="Roboto, serif" color="#604f42" font-size="15px" padding="0px 0px 40px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="2px">
+          e garanta suas peças com <br><strong>15% OFF</strong> e <strong>FRETE GRÁTIS.</strong>
+        </mj-text>
+
+        <mj-text font-family="Roboto, serif" color="#604f42" font-size="15px" padding="0px 0px 40px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="2px">
+          Queremos ver você linda<br> de <a href="https://morenarosa.myvtex.com" style="color:#604f42; font-weight:600">Morena Rosa</a>! <br><br>
+          Bjs,
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

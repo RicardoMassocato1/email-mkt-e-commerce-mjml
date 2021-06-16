@@ -1,0 +1,199 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Fashion Friday"
+            title="Fashion Friday"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_25-11_Fashion-Friday/Artboard%2011%20copy%204-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="20px 0px 25px 25px">
+          <mj-text font-family="'Work Sans', sans-serif" color="#ff884d" font-size="17px"  align= "left" font-weight="400" padding="0px 0px 10px 25px" line-height="18px" letter-spacing="-0.5px">
+            renove o closet com lookinhos<br>
+            para o verão com até <strong>70% OFF!</strong>
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/body-leboh-ombro-so-cavado-basico-preto-220198/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/184904/BODY-OMBRO-SO-CAVADO-BASICO---LT-PRETO-BRANCO---PP.jpg?v=637117519051800000"
+            title="Body Lebôh Ombro Só Cavado Básico Preto"
+            alt="Body Lebôh Ombro Só Cavado Básico Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="21px 0 10px 0">
+            Body Lebôh Ombro Só<br> Cavado Básico Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 179,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="16px 0">
+            Por: R$ 89,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/body-leboh-ombro-so-cavado-basico-preto-220198/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="13px" padding="15px 0px" background-color="#ff884d" color="#ffffff" border-radius="0px" target="_blank">shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-leboh-clochard-barra--assimetrica-jeans-221622/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/184152/SAIA-MIDI-ALFAIATARIA-DETALHE-ILHOS---LI-PRETO---36.jpg?v=637111577146530000"
+            title="Shorts Lebôh Clochard Barra Assimétrica Jeans"
+            alt="Shorts Lebôh Clochard Barra Assimétrica Jeans" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Lebôh Midi Alfaiataria<br> Detalhe Ilhós Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/shorts-leboh-clochard-barra--assimetrica-jeans-221622/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="13px" padding="15px 0px" background-color="#ff884d" color="#ffffff" border-radius="0px" target="_blank">shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-leboh-clochard-barra--assimetrica-jeans-221622/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/184872/SHORTS-CLOCHARD-BARRA--ASSIMETRICA---LI-JEANS-MEDIO---34.jpg?v=637111614950430000"
+            title="Shorts Lebôh Clochard Barra Assimétrica Jeans"
+            alt="Shorts Lebôh Clochard Barra Assimétrica Jeans" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Lebôh Clochard<br> Barra Assimétrica Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 249,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 124,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/shorts-leboh-clochard-barra--assimetrica-jeans-221622/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="13px" padding="15px 0px" background-color="#ff884d" color="#ffffff" border-radius="0px" target="_blank">shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-wide-cos-alto-detalhe-lateral-branco-210721/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/179097/CALCA-WIDE-COS-ALTO-DETALHE-LATERAL---LI-BRANCO---34.jpg?v=637012459090230000"
+            title="Calça Lebôh Wide Cós Alto Detalhe Lateral Branco"
+            alt="Calça Lebôh Wide Cós Alto Detalhe Lateral Branco" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Wide Cós Alto<br> Detalhe Lateral Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/calca-leboh-wide-cos-alto-detalhe-lateral-branco-210721/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="13px" padding="15px 0px" background-color="#ff884d" color="#ffffff" border-radius="0px" target="_blank">shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.leboh.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_23-11_Fashion-Friday/Artboard%2011%20copy%203-vestido.jpg" 
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.leboh.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_23-11_Fashion-Friday/Artboard%2011%20copy%203-blusas.jpg" 
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.leboh.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_23-11_Fashion-Friday/Artboard%2011%20copy%203-calcas.jpg" 
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

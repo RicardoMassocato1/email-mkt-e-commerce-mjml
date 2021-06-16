@@ -1,0 +1,147 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/black-friday/oferta-da-madrugada?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Oferta da Madrugada - Fashion Friday"
+            title="Oferta da Madrugada - Fashion Friday"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_27-11_Oferta-Madrugada/oferta%20da%20madrugada%20LEBOH-02-topo.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+
+        <mj-text font-family="'Work Sans', sans-serif" color="#FF864D" font-size="15.2px" padding="0px 20px 20px 20px" align="left" font-weight="500" line-height="26px" letter-spacing="0px">
+          você se cadastrou para ficar sabendo das nossas ofertas especiais na Fashion Friday
+          e agora você tem uma vantagem!
+        </mj-text>
+
+        <mj-text font-family="'Work Sans', sans-serif" color="#FF864D" font-size="15.2px" padding="0px 20px 20px 20px" align="left" font-weight="500" line-height="26px" letter-spacing="0px">
+          liberamos especialmente para você uma vitrine que não está na Fashion Friday 
+          com descontos especiais de até 60%*!
+        </mj-text>
+
+        <mj-text font-family="'Work Sans', sans-serif" color="#FF864D" font-size="15.9px" padding="5px 20px 12px 20px" align="center" font-weight="500" line-height="26px" letter-spacing="0px">
+          USE O CUPOM
+        </mj-text>
+
+        <mj-button font-family="'Work Sans', sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="10px 35px" align="center" font-weight="500" font-size="25.2px" padding="0px 0px 0px 0px" background-color="#FF864D" color="#FFF" border-radius="0px" border= "0px solid #ffffff" target="_blank"><span style="letter-spacing:0.1px">FF60</span></mj-button>
+
+        <mj-text font-family="'Work Sans', sans-serif" color="#FF864D" font-size="15.2px" padding="40px 20px 20px 20px" align="left" font-weight="500" line-height="26px" letter-spacing="0px">
+          mas corra, que o desconto só estará disponível até o dia 27/11, ok?!
+        </mj-text>
+
+        <mj-text font-family="'Work Sans', sans-serif" color="#FF864D" font-size="11.2px" padding="0px 20px 20px 20px" align="left" font-weight="500" line-height="20px" letter-spacing="0px">
+          *cupom válido apenas para a vitrine selecionada e não cumulativa  com outras promoções
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px 50px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/black-friday/oferta-da-madrugada?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Shop Now"
+            title="Shop Now"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_27-11_Oferta-Madrugada/oferta%20da%20madrugada%20LEBOH-02-rodape.jpg" />
+        </mj-column>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blazer-leboh-com-amarracao-vermelho-228973/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187299/BLAZER-COM-AMARRACAO---LI-VERMELHO---PP.jpg?v=637250791254670000"
+            title="Blazer Lebôh Com Amarração Vermelho"
+            alt="Blazer Lebôh Com Amarração Vermelho" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="21px 0 10px 0">
+            Blazer Lebôh Com<br> Amarração Vermelho
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blazer-leboh-com-amarracao-vermelho-228973/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="14px" padding="15px 0px" background-color="#ff854d" color="#ffffff" border-radius="0px" target="_blank">descubra</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-gola-alta-cavada-tricot-laranja-230374/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187431/BLUSA-GOLA-ALTA-CAVADA-TRICOT---CO-LARANJA-AZUL---PP.jpg?v=637250793236930000"
+            title="Blusa Lebôh Gola Alta Cavada Tricot Laranja"
+            alt="Blusa Lebôh Gola Alta Cavada Tricot Laranja" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Gola Alta<br> Cavada Tricot Laranja
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-gola-alta-cavada-tricot-laranja-230374/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="14px" padding="15px 0px" background-color="#ff854d" color="#ffffff" border-radius="0px" target="_blank">descubra</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-cenoura-cos-alto-listrada-preto-230319/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187339/CALCA-CENOURA-COS-ALTO-LISTRADA---LT-PRETO---36.jpg?v=637250791803870000"
+            title="Calça Lebôh Cenoura Cós Alto Listrada Preto"
+            alt="Calça Lebôh Cenoura Cós Alto Listrada Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Cenoura<br> Cós Alto Listrada Preto
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-leboh-cenoura-cos-alto-listrada-preto-230319/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="14px" padding="15px 0px" background-color="#ff854d" color="#ffffff" border-radius="0px" target="_blank">descubra</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-boot-cut-gigi-cos-alto-bolso-faca-preto-224242/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189808/CALCA-BOOT-CUT-GIGI-COS-ALTO-BOLSO-FACA---LI-PRETO---34.jpg?v=637358645611400000"
+            title="Calça Lebôh Boot Cut Gigi Cós Alto Bolso Faca Preto"
+            alt="Calça Lebôh Boot Cut Gigi Cós Alto Bolso Faca Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Boot Cut Gigi<br> Cós Alto Bolso Faca Preto
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/calca-leboh-boot-cut-gigi-cos-alto-bolso-faca-preto-224242/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="14px" padding="15px 0px" background-color="#ff854d" color="#ffffff" border-radius="0px" target="_blank">descubra</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,366 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 20px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_30-07_Dia-da-Amizade/EmailMkt_Lqda07-topo.jpg"
+            title="Dia da Amizade"
+            alt="Dia da Amizade" />
+        </mj-column>
+
+        <mj-column padding="0px 0px 10px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="12px" padding="10px 0px" align="center" font-weight="400" line-height="17px" letter-spacing="1px" text-transform="uppercase">
+            Hoje é dia de comemorar a amizade! Para isso,<br>
+            liberamos um cupom de 10% OFF para você<br> aproveitar
+            e enviar para as suas amigas queridas!
+          </mj-text>
+          <mj-text 
+            font-family= "Roboto, sans-serif" 
+            font-weight="400" 
+            padding="15px 0px 0px 0px" 
+            color="#000000" 
+            font-size="12.5px" 
+            align="center" 
+            line-height= "18px" 
+            letter-spacing= "1px">
+              USE O CUPOM
+          </mj-text>
+          <mj-text 
+            font-family= "Roboto, sans-serif" 
+            font-weight="900" 
+            padding="0px 0px 0px 0px" 
+            color="#000000" 
+            font-size="13.5px" 
+            align="center" 
+            line-height= "10px" 
+            letter-spacing= "0.5px">
+              ENTREAMIGAS
+          </mj-text>
+          <mj-text align="center" padding="20px 0px 10px 0px">
+            <a
+              style="background-color:#ea5b0c; text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; padding: 7px 13px; letter-spacing:1px;"
+              href="https://www.mariavalentina.com.br/lancamento"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-comfort-cos-elastico-com-babado-mostarda-226196/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_30-07_Dia-da-Amizade/Calca%20Comfort%20Cos%20Elastico%20Com%20Babado%20Mostarda.jpg"
+            title="Calca Comfort Cos Elastico Com Babado Mostarda"
+            alt="Calca Comfort Cos Elastico Com Babado Mostarda" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort<br> Cos Elastico
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$51,10</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.mariavalentina.com.br/calca-comfort-cos-elastico-com-babado-mostarda-226196/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-colar-nude-229699/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_30-07_Dia-da-Amizade/T-Shirt%20Decote%20Redondo%20Com%20Colar%20Nude.jpg"
+            title="T-Shirt Decote Redondo Com Colar Nude"
+            alt="T-Shirt Decote Redondo Com Colar Nude" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote<br> Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">8x de R$54,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.mariavalentina.com.br/t-shirt-decote-redondo-com-colar-nude-229699/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/blusa-decote-v-manga-longa-bicolor-nude-226896/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_30-07_Dia-da-Amizade/Blusa%20Decote%20V%20Manga%20Longa%20Bicolor%20Nude.jpg"
+            title="Blusa Decote V Manga Longa Bicolor Nude"
+            alt="Blusa Decote V Manga Longa Bicolor Nude" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$55,54</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.mariavalentina.com.br/blusa-decote-v-manga-longa-bicolor-nude-226896/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        
+        <mj-column padding="0 5px 30px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-midi-decote-redondo-abertura-decote-cinza-230159/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_30-07_Dia-da-Amizade/Vestido%20Midi%20Decote%20Redondo%20Abertura%20Decote%20Cinza.jpg"
+            title="Vestido Midi Decote Redondo Abertura Decote Cinza"
+            alt="Vestido Midi Decote Redondo Abertura Decote Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi<br> Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$59,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.mariavalentina.com.br/vestido-midi-decote-redondo-abertura-decote-cinza-230159/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 30px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/bermuda-ciclista-com-lenco-jeans-232144/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_30-07_Dia-da-Amizade/Bermuda%20Ciclista%20Com%20Lenco%20Jeans.jpg"
+            title="Bermuda Ciclista Com Lenco Jeans"
+            alt="Bermuda Ciclista Com Lenco Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bermuda Ciclista<br> Com Lenco
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$56,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.mariavalentina.com.br/bermuda-ciclista-com-lenco-jeans-232144/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 30px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/saia-midi-fluida-com-botao-azul-229442/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_30-07_Dia-da-Amizade/Saia%20Midi%20Fluida%20Com%20Botao%20Azul.jpg"
+            title="Saia Midi Fluida Com Botao Azul"
+            alt="Saia Midi Fluida Com Botao Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Midi Fluida<br> Com Botao
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$52,84</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px; border: 1px solid #000000;"
+              href="https://www.mariavalentina.com.br/saia-midi-fluida-com-botao-azul-229442/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

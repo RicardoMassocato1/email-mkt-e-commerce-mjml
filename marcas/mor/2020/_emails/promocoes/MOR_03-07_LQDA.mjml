@@ -1,0 +1,278 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px 40px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?p=7&_t=LQDA%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+            title="LQDA"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_03-07_LQDA/LQDA-08-topo.jpg" />
+        </mj-column>
+    
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-clochard-com-faixa-dourado-225105"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_03-07_LQDA/Shorts%20Clochard%20Com%20Faixa%20Dourado.jpg"
+            title="Shorts Clochard Com Faixa Dourado"
+            alt="Shorts Clochard Com Faixa Dourado" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ce3a46; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Clochard C/ Faixa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ce3a46" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 221,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 55,48</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #ce3a46;"
+              href="https://www.morenarosa.com.br/shorts-clochard-com-faixa-dourado-225105"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-gola-alta-com-bolso-verde-222420"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_03-07_LQDA/Vestido%20Curto%20Gola%20Alta%20Com%20Bolso%20Verde.jpg"
+            title="Vestido Curto Gola Alta Com Bolso Verde"
+            alt="Vestido Curto Gola Alta Com Bolso Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ce3a46; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Gola Alta
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ce3a46" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 699,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 419,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 69,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #ce3a46;"
+              href="https://www.morenarosa.com.br/vestido-curto-gola-alta-com-bolso-verde-222420"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-curta-five-pockets-color-verde-228701"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_03-07_LQDA/Saia%20Curta%20Five%20Pockets%20Color%20Verde.jpg"
+            title="Saia Curta Five Pockets Color Verde"
+            alt="Saia Curta Five Pockets Color Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ce3a46; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Five Pockets
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ce3a46" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 199,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 119,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">2x de R$ 59,97</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #ce3a46;"
+              href="https://www.morenarosa.com.br/saia-curta-five-pockets-color-verde-228701"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-amarracao-frente-vermelho-225441"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_03-07_LQDA/Blusa%20Decote%20Redondo%20Manga%20Curta%20Amarracao%20Frente%20Vermelho.jpg"
+            title="Blusa Decote Redondo Manga Curta Amarracao Frente Vermelho"
+            alt="Blusa Decote Redondo Manga Curta Amarracao Frente Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ce3a46; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#ce3a46" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 279,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 167,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#ce3a46"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 55,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #ce3a46;"
+              href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-amarracao-frente-vermelho-225441"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="20px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?p=7&_t=LQDA%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_03-07_LQDA/LQDA-08-blusas.jpg" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/vestuario/calcas?p=2&_t=LQDA%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+            title="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_03-07_LQDA/LQDA-08-calcas.jpg" />
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/shorts?p=2&_t=LQDA%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+            title="Shorts"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_03-07_LQDA/LQDA-08-shorts.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

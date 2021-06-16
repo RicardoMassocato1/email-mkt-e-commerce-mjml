@@ -1,0 +1,165 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Fashion Friday"
+            title="Fashion Friday"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Outubro/LEB_27-10_Fashion-Friday/Artboard%2011%20copy%205-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="20px 0px 25px 25px">
+          <mj-text font-family="Ubuntu, sans-serif" color="#c7c23d" font-size="16px"  align= "left" font-weight="400" padding="10px 0px 10px 25px" line-height="20px" letter-spacing="0.4px">
+            Jeans + Tweed? Combinação perfeita!<br> Confira nossa seleção:
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="right" color="#000" font-weight="300" font-size="15px" padding="180px 0 10px 0">
+            Saia Curta Reta Com<br> Tweed Jeans
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="right" padding="10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 229,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="0">
+            Por: R$ 91,96
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/saia-curta-reta-com-tweed-jeans-224018/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#c7c23d" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/saia-curta-reta-com-tweed-jeans-224018/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186386/22000102030000019-0-.jpg?v=637175697641500000"
+            title="Saia Curta Reta Com Tweed Jeans"
+            alt="Saia Curta Reta Com Tweed Jeans" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-comfort-com-tweed-jeans-224019/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186343/22000200719002090-0-.jpg?v=637175453763970000"
+            title="Shorts Comfort Com Tweed Jeans"
+            alt="Shorts Comfort Com Tweed Jeans" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="left" color="#000" font-weight="300" font-size="15px" padding="180px 0 10px 0">
+            Shorts Comfort Com<br> Tweed Jeans
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="left" padding="10px 0">
+            De: <text style="text-decoration: line-through;">R$ 249,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="left" padding="0">
+            Por: R$ 99,96
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/shorts-comfort-com-tweed-jeans-224019/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#c7c23d" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="right" color="#000" font-weight="300" font-size="15px" padding="160px 0 10px 0">
+            Top Cropped Alca<br> Bicolor Preto
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 389,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            3x de R$ 51,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 155,96
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/jaqueta-over-com-tweed-jeans-224007/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#c7c23d" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+        <mj-column padding="10px 5px 40px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/jaqueta-over-com-tweed-jeans-224007/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/185898/JAQUETA-OVER-COM-TWEED---LI-JEANS-MEDIO---P.jpg?v=637172329113270000"
+            title="Jaqueta Over Com Tweed Jeans"
+            alt="Jaqueta Over Com Tweed Jeans" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/vestidos?map=c"
+            width="600px"
+            padding="0"
+            alt="vestidos"
+            title="vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Outubro/LEB_08-10_Fashion-Friday/Artboard%2011%20copy%203-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/blusas?map=c"
+            width="600px"
+            padding="0"
+            alt="blusas"
+            title="blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Outubro/LEB_08-10_Fashion-Friday/Artboard%2011%20copy%203-blusas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="calças"
+            title="calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Outubro/LEB_08-10_Fashion-Friday/Artboard%2011%20copy%203-calcas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

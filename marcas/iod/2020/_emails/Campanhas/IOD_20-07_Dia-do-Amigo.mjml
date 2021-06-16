@@ -1,0 +1,210 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 15px 0px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%2525C3%2525A7amento&pwaf_productClusterIds=222"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_21-07_Dia-do-Amigo/Email-AMIGA-2002-topo.jpg" 
+            alt="Urban Essence"
+            title="Urban Essence"/>
+
+          <mj-text font-family="Poppins, sans-serif" color="#9b5030" font-size="32px" align="center" font-weight="300" letter-spacing="1.5px">
+            DIA DA AMIGA
+          </mj-text>
+          <mj-text font-family="Poppins, sans-serif" color="#9b5030" font-size="13px" align="center" font-weight="400" line-height="18px" letter-spacing="0px">
+            Para comemorar o dia do amigo temos um<br> cupom de 10% OFF* para compartilhar com<br> as amigas!
+          </mj-text>
+          <mj-text align="center" padding="20px 0px 30px 0px">
+            <a
+              style="font-family:Poppins, sans-serif; text-decoration: none; text-transform: uppercase; font-weight: 500; font-size: 14px; color: #9b5030; display: inline-block; margin: 0px; padding: 7px 15px; border: 1.2px solid #9b5030;"
+              title="AMIGA10">
+              AMIGA10
+            </a>
+          </mj-text>
+          <mj-text align="center" padding="0px 0px 50px 0px">
+            <a
+              style="background-color:#9b5030; text-decoration: none; text-transform: uppercase; font-weight: 300; font-size: 11px; color: #ffffff; display: inline-block; margin: 0px; padding: 7px 20px; letter-spacing:0.5px;"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%2525C3%2525A7amento&pwaf_productClusterIds=222"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+        
+
+        <mj-column padding="0 5px 30px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blazer-detalhe-vivo-preto-230479"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_21-07_Dia-do-Amigo/BLAZER%20DETALHE%20VIVO%20PRETO.jpg"
+            title="BLAZER DETALHE VIVO PRETO"
+            alt="BLAZER DETALHE VIVO PRETO" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #1d1d1b; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blazer Detalhe Vivo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          
+          <mj-text
+            color="#1d1d1b"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#1d1d1b"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 83,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11px; font-weight: 300; letter-spacing: 1px; color: #ffffff; background-color: #1d1d1b; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 10px;"
+              href="https://www.iodice.com.br/blazer-detalhe-vivo-preto-230479"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 30px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-reta-cos-alto-bolso-faca-nude-228996"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_21-07_Dia-do-Amigo/CALCA%20RETA%20COS%20ALTO%20BOLSO%20FACA%20NUDE.jpg"
+            title="CALCA RETA COS ALTO BOLSO FACA NUDE"
+            alt="CALCA RETA COS ALTO BOLSO FACA NUDE" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #1d1d1b; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Reta Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#1d1d1b"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#1d1d1b"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 99,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11px; font-weight: 300; letter-spacing: 1px; color: #ffffff; background-color: #1d1d1b; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 10px;"
+              href="https://www.iodice.com.br/calca-reta-cos-alto-bolso-faca-nude-228996"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 30px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-manga-longa-com-recortes-jeans-228796"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_21-07_Dia-do-Amigo/CAMISA%20MANGA%20LONGA%20COM%20RECORTES%20JEANS.jpg"
+            title="CAMISA MANGA LONGA COM RECORTES JEANS"
+            alt="CAMISA MANGA LONGA COM RECORTES JEANS" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #1d1d1b; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#1d1d1b"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#1d1d1b"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 91,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 10.5px; font-weight: 300; letter-spacing: 1px; color: #ffffff; background-color: #1d1d1b; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 10px;"
+              href="https://www.iodice.com.br/camisa-manga-longa-com-recortes-jeans-228796"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="30px 0px 0px 0px" width="100%">
+          <mj-image
+            padding="0px 0px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=207"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_21-07_Dia-do-Amigo/Email-AMIGA-2002-rodape.jpg" 
+            alt="LQDA Progressiva"
+            title="LQDA Progressiva"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,235 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 20px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lqda?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-02/EmailMkt_Lqda02-topo.jpg"
+            title="LQDA"
+            alt="LQDA" />
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="11.5px" padding="10px 15px" align="center" font-weight="400" line-height="17px" letter-spacing="1.2px" text-transform="uppercase">
+            Nesta temporada, o utilitário se mantem como tendência relevante, 
+            aparecendo em versões ainda mais descontraídas, transitando com humor 
+            e beleza por diversas ocasiões de uso.
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/macacao-utilitario-com-faixa-off-white-223567/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-02/Macacao%20Utilitario%20Com%20Faixa%20Off%20White.jpg" 
+            title="Macacao Utilitario Com Faixa Off White" 
+            alt="Macacao Utilitario Com Faixa Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Utilitario Com Faixa Off White
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 739,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 517,93</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 51,79</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/macacao-utilitario-com-faixa-off-white-223567/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/macacao-cenoura-com-transpasse-mostarda-218931/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-02/Macacao%20Cenoura%20Com%20Transpasse%20Mostarda.jpg" 
+            title="Macacao Cenoura Com Transpasse Mostarda" 
+            alt="Macacao Cenoura Com Transpasse Mostarda" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Cenoura Com Transpasse
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 649,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 324,95</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 54,15</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/macacao-cenoura-com-transpasse-mostarda-218931/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/macacao-pantalona-com-recorte-laranja-223085/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-02/Macacao%20Pantalona%20Com%20Recorte%20Laranja.jpg" 
+            title="Macacao Pantalona Com Recorte Laranja" 
+            alt="Macacao Pantalona Com Recorte Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Pantalona Com Recorte Laranja
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 1.219,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 609,95</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 60,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/macacao-pantalona-com-recorte-laranja-223085/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/macacao-utilitario-com-bolso-azul-223562/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-02/Macacao%20Utilitario%20Com%20Bolso%20Azul.jpg" 
+            title="Macacao Utilitario Com Bolso Azul" 
+            alt="Macacao Utilitario Com Bolso Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Utilitario Com Bolso Azul
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 899,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 539,94</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 53,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/macacao-utilitario-com-bolso-azul-223562/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="12.5px" padding="15px 15px 0px 15px" align="center" font-weight="600" line-height="17px" letter-spacing="1.2px" text-transform="uppercase">
+            Ótimos parceiros casuais para o dia a dia.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/LQDA/BLUSAS?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-02/EmailMkt_Lqda02-blusas.jpg"
+          title="Blusas"
+          alt="Blusas" />
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/LQDA/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-02/EmailMkt_Lqda02-calcas.jpg"
+          title="Calças"
+          alt="Calças" />
+      </mj-column>    
+
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="20px 0px 10px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-02/EmailMkt_Lqda02-rodape.jpg"
+          title="LQDA com até 50% OFF"
+          alt="LQDA com até 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

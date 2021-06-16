@@ -1,0 +1,221 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Jeans&pwaf_productClusterIds=296"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_16-09-Aerolook-Denim/E-mail%20mkt%202004-06_1-topo.jpg"
+          alt="Aerolook Denim - Nosso demin superleve se converte em aerolloks irresistíveis, tanto na versão com calça jogging, quanto na com shorts."
+          title="Aerolook Denim" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macaquinho-decote-redondo-detalhe-ziper-jeans-236384"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/354870/MACAQUINHO-DECOTE-REDONDO-DETALHE-ZIPER---LI-JEANS-CLARO---P.jpg?v=637326679879500000"
+            title="Macaquinho Decote Redondo Detalhe Ziper Jeans"
+            alt="Macaquinho Decote Redondo Detalhe Ziper Jeans" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macaquinho<br> Decote Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 83,31
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/macaquinho-decote-redondo-detalhe-ziper-jeans-236384" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#764525" border-radius="0px" border="1.2px solid #764525" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-pantalona-com-faixa-jeans-234690"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/353621/MACACAO-PANTALONA-COM-FAIXA---LI-JEANS-ESCURO---P.jpg?v=637326654560200000"
+            title="Macacao Pantalona Com Faixa Jeans"
+            alt="Macacao Pantalona Com Faixa Jeans" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacao<br> Pantalona
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x  R$111,65
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 669,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/macacao-pantalona-com-faixa-jeans-234690" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#764525" border-radius="0px" border="1.2px solid #764525" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-cenoura-cos-alto-com-amarracao-branco-235768"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/354665/CALCA-CENOURA-COS-ALTO-COM-AMARRACAO---LI-BRANCO---36.jpg?v=637326676268930000"
+            title="Calca Cenoura Cos Alto Com Amarracao Branco"
+            alt="Calca Cenoura Cos Alto Com Amarracao Branco" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Cenoura<br> Cos Alto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 96,65
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 579,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-cenoura-cos-alto-com-amarracao-branco-235768" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#764525" border-radius="0px" border="1.2px solid #764525" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/jeans/t-shirts?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_16-09-Aerolook-Denim/E-mail%20mkt%202004-06_1-topo02.jpg"
+          alt="Compre também - Nossas t-shirts chegaram com tudo na coleção. Elas possuem estamparia diferenciada e se destacam em meio às outras."
+          title="Compre também" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/t-shirt-gola-redonda-com-silk-branco-235049"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355339/T-SHIRT-GOLA-REDONDA-COM-SILK---CO-BRANCO-BRANCO---P.jpg?v=637326734832600000"
+            title="Sapatilha Bico Fino Traseiro Aberto Marrom"
+            alt="Sapatilha Bico Fino Traseiro Aberto Marrom" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Gola<br> Redonda Com Silk
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x R$ 66,63
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 199,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/t-shirt-gola-redonda-com-silk-branco-235049" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#764525" border-radius="0px" border="1.2px solid #764525" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/t-shirt-gola-redonda-bordado-industrial-bege-234474"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355316/T-SHIRT-GOLA-REDONDA-BORDADO-INDUSTRIAL---LI-CRU---PP.jpg?v=637326732300400000"
+            title="T-Shirt Gola Redonda Bordado Industrial Bege"
+            alt="T-Shirt Gola Redonda Bordado Industrial Bege" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Gola<br> Redonda Bordado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x R$ 66,63
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 199,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/t-shirt-gola-redonda-bordado-industrial-bege-234474" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#764525" border-radius="0px" border="1.2px solid #764525" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/t-shirt-gola-redonda-detalhe-termocolante-azul-235052"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/354126/T-SHIRT-GOLA-REDONDA-DETALHE-TERMOCOLANTE---LI-AZUL-MARINHO---PP.jpg?v=637326663552630000"
+            title="T-Shirt Gola Redonda Detalhe Termocolante Azul"
+            alt="T-Shirt Gola Redonda Detalhe Termocolante Azul" />
+
+          <mj-text align="center" color="#764525" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Gola<br> Redonda Detalhe
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#764525" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x R$ 55,98
+          </mj-text>
+
+          <mj-text color="#764525" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/t-shirt-gola-redonda-detalhe-termocolante-azul-235052" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#764525" border-radius="0px" border="1.2px solid #764525" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_16-09-Aerolook-Denim/Banner%20home-07-rodape.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

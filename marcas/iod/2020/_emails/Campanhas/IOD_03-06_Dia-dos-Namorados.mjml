@@ -1,0 +1,229 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="0px 0px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Dois%20em%20um&pwaf_productClusterIds=223"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_03-06_Dia-dos-Namorados/EmailMkt-02-topo.jpg" 
+            alt="Dia dos Namorados"
+            title="Dia dos Namorados"/>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-image
+            padding="15px 0px 50px 0px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Dois%20em%20um&pwaf_productClusterIds=223"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_03-06_Dia-dos-Namorados/EmailMkt-02-rodape.jpg" 
+            alt="50% de Desconto"
+            title="50% de Desconto"/>
+        </mj-column>
+        
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/macacao-pantalona-bolso-faca-preto-mostarda-223215"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_03-06_Dia-dos-Namorados/MACACAO%20PANTALONA%20BOLSO%20FACA%20PRETO-MOSTARDA.jpg"
+            title="MACACAO PANTALONA BOLSO FACA PRETO/MOSTARDA"
+            alt="MACACAO PANTALONA BOLSO FACA PRETO/MOSTARDA" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Pantalona Bolso 
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 699,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 116,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/macacao-pantalona-bolso-faca-preto-mostarda-223215"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-cigarrete-cos-intermediario-com-laser-verde-228836"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_03-06_Dia-dos-Namorados/CALCA%20CIGARRETE%20COS%20INTERMEDIARIO%20COM%20LASER%20VERDE.jpg"
+            title="CALCA CIGARRETE COS INTERMEDIARIO COM LASER VERDE"
+            alt="CALCA CIGARRETE COS INTERMEDIARIO COM LASER VERDE" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Cigarrete Cos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 449,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 74,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/calca-cigarrete-cos-intermediario-com-laser-verde-228836"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 0px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-skinny-cos-intermediario-com-pence-jeans-228839"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_03-06_Dia-dos-Namorados/CALCA%20SKINNY%20COS%20INTERMEDIARIO%20COM%20PENCE%20JEANS.jpg"
+            title="CALCA SKINNY COS INTERMEDIARIO COM PENCE JEANS"
+            alt="CALCA SKINNY COS INTERMEDIARIO COM PENCE JEANS" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Skinny Cos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 61,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/calca-skinny-cos-intermediario-com-pence-jeans-228839"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 0px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/jaqueta-biker-com-recorte-jeans-230452"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_03-06_Dia-dos-Namorados/JAQUETA%20BIKER%20COM%20RECORTE%20JEANS.jpg"
+            title="JAQUETA BIKER COM RECORTE JEANS"
+            alt="JAQUETA BIKER COM RECORTE JEANS" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Biker C/ Recorte
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 649,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 108,31</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/jaqueta-biker-com-recorte-jeans-230452"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

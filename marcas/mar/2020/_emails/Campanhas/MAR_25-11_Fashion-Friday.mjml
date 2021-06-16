@@ -1,0 +1,204 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/black-friday/ofertas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Novembro/MAR_25-11_Fashion-Friday/MV_EmailMkt_02-topo.jpg"
+          alt="Fashion Friday"
+          title="Fashion Friday" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="Roboto, sans-serif" color="#000000" text-transform="uppercase" font-size="13px" padding="40px 0px 15px 0px" align="center" font-weight="400" line-height="0px" letter-spacing="0.5px">
+          Renove o closet com bolsas e cintos com
+        </mj-text>
+        <mj-text font-family="Roboto, sans-serif" color="#000000" text-transform="uppercase" font-size="19px" padding="10px 0px 20px 0px" align="center" font-weight="800" line-height="0px" letter-spacing="2px">
+          até 70% off!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/cinto-maria-valentina-versatil-medio-amarracao-franjas-bege-207616/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/224218/CINTO-VERSATIL-MEDIO-AMARRACAO-FRANJAS---LI-AREIA---P.jpg?v=637147265528330000"
+            title="Cinto Maria.Valentina Versátil Médio Amarração Franjas Bege"
+            alt="Cinto Maria.Valentina Versátil Médio Amarração Franjas Bege" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Cinto Maria.Valentina<br> Versátil Médio Amarração<br> Franjas Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 64,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 194,95
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/cinto-maria-valentina-versatil-medio-amarracao-franjas-bege-207616/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/cinto-maria-valentina-cintura-medio-dupla-face-marrom-220830/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/224324/CINTO-CINTURA-MEDIO-DUPLA-FACE---CO-CARAMELO-AREIA---P.jpg?v=637159193181500000"
+            title="Cinto Maria.Valentina Cintura Médio Dupla Face Marrom"
+            alt="Cinto Maria.Valentina Cintura Médio Dupla Face Marrom" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Cinto Maria.Valentina<br> Cintura Médio Dupla<br> Face Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 184,95
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/cinto-maria-valentina-cintura-medio-dupla-face-marrom-220830/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/bolsa-maria-valentina-shopping-duo-color-azul-193834/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/220369/BOLSA-SHOPPING-DUO-COLOR---LI--MARINHO---TU.jpg?v=637099230865870000"
+            title="Bolsa Maria.Valentina Shopping Duo Color Azul - TU"
+            alt="Bolsa Maria.Valentina Shopping Duo Color Azul - TU" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bolsa Maria.Valentina<br> Shopping Duo <br>Color Azul - TU
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 449,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 56,23
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 224,95
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/bolsa-maria-valentina-shopping-duo-color-azul-193834/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/bolsa-maria-valentina-shopping-duo-color-vermelho-193833/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/220365/BOLSA-SHOPPING-DUO-COLOR---LI-BORDO---TU.jpg?v=637099230800200000"
+            title="Bolsa Maria.Valentina Shopping Duo Color Vermelho - TU"
+            alt="Bolsa Maria.Valentina Shopping Duo Color Vermelho - TU" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Bolsa Maria.Valentina<br> Shopping Duo Color<br> Vermelho - TU
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 449,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 56,23
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 224,95
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/bolsa-maria-valentina-shopping-duo-color-vermelho-193833/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Novembro/MAR_25-11_Fashion-Friday/MV_EmailMkt_02-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Novembro/MAR_25-11_Fashion-Friday/MV_EmailMkt_02-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Novembro/MAR_25-11_Fashion-Friday/MV_EmailMkt_02-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

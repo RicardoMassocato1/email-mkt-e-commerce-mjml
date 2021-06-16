@@ -1,0 +1,306 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="20px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 20px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/lqda/"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_17-06_Progressiva-Junho/zinco-Email%20mkt-01-topo.jpg"
+              title="Desconto Progressivo"
+              alt="Desconto Progressivo" />
+          </mj-column>  
+          <mj-column padding="0" width="100%">
+            <mj-text 
+              font-family= "Poppins, sans-serif" 
+              font-weight="700" 
+              padding="30px 10px 30px 30px" 
+              color="#000000" 
+              font-size="14.5px" 
+              align="left" 
+              line-height= "19px" 
+              letter-spacing= "3px"
+              text-transform="uppercase">
+                O comfort look que você<br> queria está aqui! leve tudo<br> com até 70% off.
+            </mj-text>
+          </mj-column>
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/calca-comfort-cos-alto-bolso-lateral-rosa-218270/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_17-06_Progressiva-Junho/Calca%20Comfort%20Cos%20Alto%20Bolso%20Lateral%20Rosa.jpg"
+              title="Calca Comfort Cos Alto Bolso Lateral Rosa"
+              alt="Calca Comfort Cos Alto Bolso Lateral Rosa" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Comfort Cos Alto Bolso Lateral
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 399,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 279,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">5x de R$ 55,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #9000f0; background-color:#feb483; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #52d845; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/calca-comfort-cos-alto-bolso-lateral-rosa-218270/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/macacao-alfaiataria-com-amarracao-laranja-218203/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_17-06_Progressiva-Junho/Macacao%20Alfaiataria%20Com%20Amarracao%20Laranja.jpg"
+              title="Macacao Alfaiataria Com Amarracao Laranja"
+              alt="Macacao Alfaiataria Com Amarracao Laranja" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Macacao Alfaiataria Com Amarracao
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 599,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 419,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">8x de R$ 52,49</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #9000f0; background-color:#feb483; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #52d845; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/macacao-alfaiataria-com-amarracao-laranja-218203/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/camisa-manga-longa-basica-azul-216194/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_17-06_Progressiva-Junho/Camisa%20Manga%20Longa%20Basica%20Azul.jpg"
+              title="Camisa Manga Longa Basica Azul"
+              alt="Camisa Manga Longa Basica Azul" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Camisa Manga Longa Basica Azul
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 399,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 279,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">5x de R$ 55,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #9000f0; background-color:#feb483; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #52d845; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/camisa-manga-longa-basica-azul-216194/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/calca-skinny-cos-intermediario-basica-laranja-213029/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_17-06_Progressiva-Junho/Calca%20Skinny%20Cos%20Intermediario%20Basica%20Laranja.jpg"
+              title="Calca Skinny Cos Intermediario Basica Laranja"
+              alt="Calca Skinny Cos Intermediario Basica Laranja" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Skinny Cos Intermediario
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 259,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 181,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">3x de R$ 60,64</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #9000f0; background-color:#feb483; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #52d845; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/calca-skinny-cos-intermediario-basica-laranja-213029/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="25px 0 50px 0px" width="100%">
+            <mj-image
+              padding="0"
+              align="left"
+              href="https://www.zinco.com.br/lqda/feminino"
+              alt="Feminino"
+              title="Feminino"
+              width="400px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_17-06_Progressiva-Junho/zinco-Email%20mkt-01-feminino.jpg" />
+          </mj-column>
+          <mj-column padding="0px 0px" width="100%">
+            <mj-image
+              padding="0"
+              align="right"
+              href="https://www.zinco.com.br/lqda/masculino"
+              alt="Masculino"
+              title="Masculino"
+              width="400px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_17-06_Progressiva-Junho/zinco-Email%20mkt-01-masculino.jpg" />
+          </mj-column>
+          <mj-column padding="65px 0 0px 0px" width="100%">
+            <mj-image
+              padding="0"
+              href="https://www.zinco.com.br/lqda/"
+              alt="Desconto Progressivo"
+              title="Desconto Progressivo"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_17-06_Progressiva-Junho/zinco-Email%20mkt-01-rodape.jpg" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

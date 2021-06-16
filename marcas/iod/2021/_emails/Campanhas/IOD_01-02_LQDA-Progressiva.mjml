@@ -1,0 +1,179 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Progressiva&pwaf_productClusterIds=207"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Fevereiro/IOD_01-02_LQDA-Progressiva/Artboard%201%20copy%202-topo.jpg"
+          alt="LQDA progressiva"
+          title="LQDA progressiva" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#ffffff">
+      <mj-group>
+      <mj-column padding="10px 10px 10px 0px" width="55%">
+          <mj-image
+          padding="10px 0px 10px 5px"
+          width="600px"
+          href="https://www.iodice.com.br"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Fevereiro/IOD_01-02_LQDA-Progressiva/Email-mkt2004-07-img.jpg"
+          alt="Mood Alfaiataria"
+          title="Mood Alfaiataria" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 0px" width="45%">
+          <mj-text font-family="Poppins, sans-serif" color="#000" font-size="11px" padding="50px 0px 0px 5px" align="left" font-weight="500" line-height="13px">
+            <span style="font-size:25px; font-weight:300; line-height:25px">MOOD<br>ALFAIATARIA</span><br><br><br>
+            Com caimento e toque bem leve, o jeans com interpretação de alfaiataria traz
+            elegância para os looks casuais.
+          </mj-text>
+          <mj-button href="https://www.iodice.com.br" text-decoration="none" text-transform="uppercase" inner-padding="6px 15px" align="left" font-weight="400" font-size="11px" padding="10px 5px" background-color="#AB1622" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/jaqueta-iodice-classica-detalhe-ziper-jeans-236341"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176568/JAQUETA-CLASSICA-DETALHE-ZIPER---LI-JEANS-MEDIO---P.jpg?v=637327728196770000"
+            title="JAQUETA IÓDICE CLASSICA DETALHE ZÍPER JEANS"
+            alt="JAQUETA IÓDICE CLASSICA DETALHE ZÍPER JEANS" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            JAQUETA IÓDICE<br> CLASSICA DETALHE<br> ZÍPER JEANS
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 619,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0 0px 0">
+            Por: R$ 309,95<br><span style="font-size:10.2px; line-height:20px; font-weight:400">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/jaqueta-iodice-classica-detalhe-ziper-jeans-236341" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="right" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            SHORTS IÓDICE LINHA<br> A DETALHE ZÍPER<br> JEANS
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="14px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 529,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0 0px 0">
+            Por: R$ 264,95<br><span style="font-size:10.2px; line-height:20px; font-weight:400">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-iodice-linha-a-detalhe-ziper-jeans-236347" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="right" font-weight="400" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-iodice-linha-a-detalhe-ziper-jeans-236347"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176612/SHORTS-LINHA-A-DETALHE-ZIPER---LI-JEANS-MEDIO---36.jpg?v=637327729025600000"
+            title="SHORTS IÓDICE LINHA A DETALHE ZÍPER JEANS"
+            alt="SHORTS IÓDICE LINHA A DETALHE ZÍPER JEANS" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/top-iodice-cropped-alca-larga-detalhe-ziper-jeans-236340"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176556/TOP-CROPPED-ALCA-LARGA-DETALHE-ZIPER---LI-JEANS-MEDIO---P.jpg?v=637327728023200000"
+            title="TOP IÓDICE CROPPED ALÇA LARGA DETALHE ZÍPER JEANS"
+            alt="TOP IÓDICE CROPPED ALÇA LARGA DETALHE ZÍPER JEANS" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            TOP IÓDICE CROPPED<br> ALÇA LARGA DETALHE<br> ZÍPER JEANS
+          </mj-text>
+
+          <mj-text color="#000" font-weight="400" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0 0px 0">
+            Por: R$ 174,95<br><span style="font-size:10.2px; line-height:20px; font-weight:400">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/top-iodice-cropped-alca-larga-detalhe-ziper-jeans-236340" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#fff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Blusas&pwaf_productClusterIds=195"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Fevereiro/IOD_01-02_LQDA-Progressiva/Artboard%201%20copy%202-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=260"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Fevereiro/IOD_01-02_LQDA-Progressiva/Artboard%201%20copy%202-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Vestidos&pwaf_productClusterIds=211"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Fevereiro/IOD_01-02_LQDA-Progressiva/Artboard%201%20copy%202-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

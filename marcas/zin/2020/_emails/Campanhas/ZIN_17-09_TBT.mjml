@@ -1,0 +1,155 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 20px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_17-09_TBT/emailmkt_8-01.jpg"
+          alt="#TBT"
+          title="#TBT" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-decote-redondo-detalhe-galao-azul-232064/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214033/T-SHIRT-DECOTE-REDONDO-DETALHE-GALAO---LI-AZUL---PP.jpg?v=637327778583800000"
+            title="T-Shirt Decote Redondo Detalhe Galao Azul"
+            alt="T-Shirt Decote Redondo Detalhe Galao Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Decote Redondo<br> Detalhe Galao Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/t-shirt-decote-redondo-detalhe-galao-azul-232064/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#3c3636" color="#a19821" border-radius="0px" border= "1px solid #a19821" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-alfaiataria-cos-alto-compose-tecido-pink-235098/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213380/CALCA-ALFAIATARIA-COS-ALTO-COMPOSE-TECIDO---CO-PINK-LARANJA-AMARELO---36.jpg?v=637327768933070000"
+            title="Calca Alfaiataria Cos Alto Compose Tecido Pink"
+            alt="Calca Alfaiataria Cos Alto Compose Tecido Pink" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Alfaiataria Cos Alto<br> Compose Tecido Pink
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 57,12
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 399,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/calca-alfaiataria-cos-alto-compose-tecido-pink-235098/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#3c3636" color="#a19821" border-radius="0px" border= "1px solid #a19821" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-midi-flare-tricot-nude-234974/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213271/SAIA-MIDI-FLARE-TRICOT---CO-CRU-VERDE-LARANJA---36.jpg?v=637327767216400000"
+            title="Saia Midi Flare Tricot Nude"
+            alt="Saia Midi Flare Tricot Nude" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Midi Flare<br> Tricot Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            8x de R$ 54,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 439,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/saia-midi-flare-tricot-nude-234974/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#3c3636" color="#a19821" border-radius="0px" border= "1px solid #a19821" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-flare-cadarco-cintura-rosa-234947/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213160/SHORTS-FLARE-CADARCO-CINTURA---ES-PINK---36.jpg?v=637327763764870000"
+            title="Shorts Flare Cadarco Cintura Rosa"
+            alt="Shorts Flare Cadarco Cintura Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Flare Cadarco<br> Cintura Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/shorts-flare-cadarco-cintura-rosa-234947/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#3c3636" color="#a19821" border-radius="0px" border= "1px solid #a19821" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_17-09_TBT/ZC_EmailMkt_Semana01-topo.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

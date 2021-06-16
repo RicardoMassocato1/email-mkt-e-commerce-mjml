@@ -1,0 +1,229 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 20px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lqda?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-01/EmailMkt_Lqda01-topo.jpg"
+            title="LQDA"
+            alt="LQDA" />
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="11.5px" padding="10px 15px" align="center" font-weight="400" line-height="17px" letter-spacing="1.2px" text-transform="uppercase">
+            Superfícies luminosas caíram no gosto da mulher brasileira. Nesta estação, 
+            as peças ganham tecidos com brilhos mais contidos e discretos, 
+            perfeitos para diversas ocasiões do dia a dia, além da noite.
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/regata-decote-v-fio-metalizado-cobre-224565/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-01/Regata%20Decote%20V%20Fio%20Metalizado%20Cobre.jpg" 
+            title="Regata Decote V Fio Metalizado Cobre" 
+            alt="Regata Decote V Fio Metalizado Cobre" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Regata Decote V Fio Metalizado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 233,94</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 58,48</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/regata-decote-v-fio-metalizado-cobre-224565/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/blusa-decote-redondo-manga-longa-com-pregas-laranja-221008/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-01/Blusa%20Decote%20Redondo%20Manga%20Longa%20Com%20Pregas%20Laranja.jpg" 
+            title="Blusa Decote Redondo Manga Longa Com Pregas Laranja" 
+            alt="Blusa Decote Redondo Manga Longa Com Pregas Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 239,94</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-redondo-manga-longa-com-pregas-laranja-221008/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/camisa-manga-longa-com-entremeio-preto-221051/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-01/Camisa%20Manga%20Longa%20Com%20Entremeio%20Preto.jpg" 
+            title="Camisa Manga Longa Com Entremeio Preto" 
+            alt="Camisa Manga Longa Com Entremeio Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa Com Entremeio
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 479,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 287,94</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 57,58</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/camisa-manga-longa-com-entremeio-preto-221051/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/calca-pantalona-cos-intermediario-metalizada-marrom-218429/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-01/Calca%20Pantalona%20Cos%20Intermediario%20Metalizada%20Marrom.jpg" 
+            title="Calca Pantalona Cos Intermediario Metalizada Marrom" 
+            alt="Calca Pantalona Cos Intermediario Metalizada Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantalona Cos Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,95</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 59,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/calca-pantalona-cos-intermediario-metalizada-marrom-218429/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/blusas"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-01/EmailMkt_Lqda01-blusas.jpg"
+          title="Blusas"
+          alt="Blusas" />
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/vestidos"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-01/EmailMkt_Lqda01-vestidos.jpg"
+          title="Vestidos"
+          alt="Vestidos" />
+      </mj-column>    
+
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="20px 0px 10px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_23-07_LQDA-01/EmailMkt_Lqda01-rodape.jpg"
+          title="LQDA com até 50% OFF"
+          alt="LQDA com até 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

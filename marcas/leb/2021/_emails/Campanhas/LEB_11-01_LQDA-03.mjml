@@ -1,0 +1,206 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_11-01_LQDA/Artboard%203%20copy%202-topo.jpg"
+            alt="lqda até 50% off"
+            title="lqda até 50% off" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#D00613"> 
+        <mj-column padding="40px 0px 30px 0px">
+          <mj-text font-family= "Work Sans, sans-serif" color="#EDD9CB" font-size="24px" padding="0px 0px 15px 70px" align="left" line-height="28px" letter-spacing="0px" font-weight="500">
+            monte seu look<br>
+            com até 50% OFF
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 18px" align="left" font-weight="400" font-size="14px" padding="10px 0px 15px 70px" background-color="#EDD9CB" color="#D00613" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#D00613">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/camisa-leboh-manga-longa-alongada-dourado-233290/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188802/CAMISA-MANGA-LONGA-ALONGADA---LT-DOURADO---PP.jpg?v=637332751617800000"
+            title="Camisa Lebôh Manga Longa Alongada Dourado"
+            alt="Camisa Lebôh Manga Longa Alongada Dourado" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Lebôh Manga<br> Longa Alongada Dourado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/camisa-leboh-manga-longa-alongada-dourado-233290/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/salopete-leboh-curta-com-faixa-rosa-236149/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189663/SALOPETE-CURTA-COM-FAIXA---LI-PINK---PP.jpg?v=637332769950900000"
+            title="Salopete Lebôh Curta Com Faixa Rosa"
+            alt="Salopete Lebôh Curta Com Faixa Rosa" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Salopete Lebôh Curta<br> Com Faixa Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 259,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 64,97
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 129,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/salopete-leboh-curta-com-faixa-rosa-236149/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 50px 0px" background-color="#D00613">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-cenoura-clochard-cos-alto-detalhe-elastico-preto-233070/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189571/CALCA-CENOURA-CLOCHARD-COS-ALTO-DETALHE-ELASTICO---CO-PRETO-OFF-WHITE---34.jpg?v=637332766275200000"
+            title="Calça Lebôh Cenoura Clochard Cós Alto Detalhe Elástico Preto"
+            alt="Calça Lebôh Cenoura Clochard Cós Alto Detalhe Elástico Preto" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Cenoura<br> Clochard Cós Alto Detalhe<br> Elástico Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 239,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 59,97
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 119,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-leboh-cenoura-clochard-cos-alto-detalhe-elastico-preto-233070/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-redondo-com-faixa-amarelo-233336/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/188918/VESTIDO-MIDI-DECOTE-REDONDO-COM-FAIXA---ES-MOSTARDA-AZUL-MARINHO---P.jpg?v=637332754230230000"
+            title="Vestido Lebôh Midi Decote Redondo Com Faixa Amarelo"
+            alt="Vestido Lebôh Midi Decote Redondo Com Faixa Amarelo" />
+
+          <mj-text align="center" color="#EDD9CB" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Midi<br> Decote Redondo Com<br> Faixa Amarelo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#EDD9CB" />
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 379,90</text>
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 63,31
+          </mj-text>
+
+          <mj-text color="#EDD9CB" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 189,95
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-redondo-com-faixa-amarelo-233336/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#D00613" color="#EDD9CB" border-radius="0px" border=" 1.2px solid #EDD9CB" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="blusas"
+            title="blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_11-01_LQDA/Artboard%203%20copy%202-blusas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="calças"
+            title="calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_11-01_LQDA/Artboard%203%20copy%202-calcas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="vestidos"
+            title="vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Janeiro/LEB_11-01_LQDA/Artboard%203%20copy%202-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,191 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-column>
+        <mj-image
+          padding="40px 70px 20px 70px"
+          width="350px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Monday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_01-12_Fashion-Monday/Artboard%2038-topo.jpg"
+          alt="Fashion Monday"
+          title="Fashion Monday" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 20px 0px" background-color="#046ea2"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" text-transform="uppercase" font-size="24px" padding="0px 0px 10px 0px" align="center" font-weight="700" line-height="28px" letter-spacing="4px">
+          FASHION<br> MONDAY
+        </mj-text>
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" text-transform="uppercase" font-size="14px" padding="0px 0px 15px 0px" align="center" font-weight="300" line-height="16px" letter-spacing="1.5px">
+          Descontos<br> progressivos
+        </mj-text>
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" text-transform="uppercase" font-size="18px" padding="15px 0px 15px 0px" align="center" font-weight="300" line-height="0px" letter-spacing="3px">
+          até <span style="font-size:26px; font-weight:800">70%off</span>
+        </mj-text>
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" font-size="12.5px" padding="15px 0px 15px 0px" align="center" font-weight="300" line-height="19px" letter-spacing="2px">
+          1 peça 30%<br>
+          2 peças 40%<br>
+          3 peças 50%<br>
+          4 peças 60%<br>
+          5 peças ou mais 70%
+        </mj-text>
+        <mj-text font-family="'Roboto', sans-serif" color="#fff" font-size="13px" padding="15px 0px 5px 0px" align="center" font-weight="300" line-height="19px" letter-spacing="2px">
+          Últimos dias para garantir seu<br> produto com desconto!
+        </mj-text>
+
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Monday" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="13px" padding="15px 0px" background-color="#fff" color="#046ea2" border-radius="0px" border= "1.2px solid #fff" target="_blank"><span style="letter-spacing: 4px">Shop now</span></mj-button>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#046ea2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-morena-rosa-pantacourt-com-faixa-azul-228033"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/341572/MACACAO-PANTACOURT-COM-FAIXA---ES-AZUL-CRU---P.jpg?v=637237844532800000"
+            title="Macacão Morena Rosa Pantacourt Com Faixa Azul"
+            alt="Macacão Morena Rosa Pantacourt Com Faixa Azul" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#fff" font-weight="400" font-size="15px" padding="115px 0 10px 0">
+            Macacão Morena<br> Rosa Pantacourt<br> Com Faixa Azul
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 789,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 92,15
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 236,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/macacao-morena-rosa-pantacourt-com-faixa-azul-228033" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#046ea2" border-radius="0px" border= "1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#fff" font-weight="400" font-size="15px" padding="115px 0 10px 0">
+            Jaqueta Morena Rosa<br> Bomber Detalhe<br> Retilínea Preto
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 649,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            6x de R$ 75,82
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="right" padding="0px">
+            Por: R$ 194,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/jaqueta-morena-rosa-bomber-detalhe-retilinea-preto-227718" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#046ea2" border-radius="0px" border= "1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/jaqueta-morena-rosa-bomber-detalhe-retilinea-preto-227718"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/347970/JAQUETA-BOMBER-DETALHE-RETILINEA---CO-PRETO-ROSE-AZUL---P.jpg?v=637242067975000000"
+            title="Jaqueta Morena Rosa Bomber Detalhe Retilínea Preto"
+            alt="Jaqueta Morena Rosa Bomber Detalhe Retilínea Preto" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#046ea2">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-slim-isabelli-cos-alto-color-laranja-223665"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/331535/CALCA-SLIM-ISABELLI-COS-ALTO-COLOR---LI-TERRACOTA---34.jpg?v=637172427790270000"
+            title="Calça Morena Rosa Slim Isabelli Cós Alto Color Laranja"
+            alt="Calça Morena Rosa Slim Isabelli Cós Alto Color Laranja" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#fff" font-weight="400" font-size="15px" padding="115px 0 10px 0">
+            Calça Morena Rosa<br> Slim Isabelli Cós Alto<br> Color Laranja
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 89,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-slim-isabelli-cos-alto-color-laranja-223665" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#046ea2" border-radius="0px" border= "1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas/?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Monday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_01-12_Fashion-Monday/Artboard%2038%20copy%202-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-column>
+        <mj-image
+          padding="20px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/praia?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Monday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_04-12_Fashion-Monday/Artboard%2038%20copy%203-beach.jpg"
+          alt="Beach"
+          title="Beach" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#046ea2">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calcados?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=226&_t=Fashion%20Monday"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_04-12_Fashion-Monday/Artboard%2038%20copy%203-shoes.jpg"
+          alt="Shoes"
+          title="Shoes" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

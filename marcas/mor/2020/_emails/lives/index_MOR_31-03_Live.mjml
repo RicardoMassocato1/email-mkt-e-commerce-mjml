@@ -1,0 +1,273 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0px 0px 15px 0px">
+      <mj-group>
+        <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\_shared\header\top-bar.mjml">
+      </mj-group>
+    </mj-section>
+        <mj-section padding="0" background-color="#efd9e4">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            morenarosa.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="15px 0px 10px 0px"
+            href="https://www.morenarosa.com.br"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_24-03_Out-Now/Topo-10%25%20off%20E-commerce.jpg"
+            title="Desconto CLUBEBR"
+            alt="Desconto CLUBEBR" />
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../header/_header-lancamento.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="10px 0px 0px 0px"
+            href="http://instagram.com/morenarosaoficial"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/Ter%C3%A7a-feira/E-mail-mkt-Live-Semana%2002-04.jpg"
+            title="Live entre NÓS"
+            alt="Live entre NÓS" />
+          <mj-image
+            padding="20px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Outono%2520Inverno%2520&pwaf_productClusterIds=225"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/lctoemail.jpg"
+            title="Coleção Terra Dourada"
+            alt="Coleção Terra Dourada" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="60px 0px 0px 0px">
+        <mj-group>
+
+          <mj-column width="100%">
+            <mj-text
+              color="#999999"
+              font-size="18px"
+              padding="0 0 20px 0"
+              align="center"
+              font-weight="300"
+              text-transform="uppercase">
+              PRODUTOS:
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/oculos-dframe-haste-larga-preto-223514"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/Ter%C3%A7a-feira/Oculos%20Dframe%20Haste%20Larga%20Preto.jpg"
+              title="Oculos Dframe Haste Larga Preto"
+              alt="Oculos Dframe Haste Larga Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Oculos Dframe Haste Larga
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 15px 0">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 5x R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/oculos-dframe-haste-larga-preto-223514"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/t-shirt-gola-redonda-bordado-industrial-preto-226370"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/Ter%C3%A7a-feira/T-Shirt%20Gola%20Redonda%20Bordado%20Industrial%20Preto.jpg"
+              title="T-Shirt Gola Redonda Bordado Industrial Preto"
+              alt="T-Shirt Gola Redonda Bordado Industrial Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Gola Redonda
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 15px 0">R$ 199,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 3x R$ 66,63</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/t-shirt-gola-redonda-bordado-industrial-preto-226370"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/body-decote-redondo-frente-unica-com-metal-vermelho-222436"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/Ter%C3%A7a-feira/Body%20Decote%20Redondo%20Frente%20Unica%20Com%20Metal%20Vermelho.jpg"
+              title="Body Decote Redondo Frente Unica Com Metal Vermelho"
+              alt="Body Decote Redondo Frente Unica Com Metal Vermelho" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Body Decote Redondo Frente
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 15px 0">R$ 549,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 6x R$ 91,65</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/body-decote-redondo-frente-unica-com-metal-vermelho-222436"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.morenarosa.com.br/jaqueta-comfort-detalhe-ziper-verde-222414"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Live_do_Dia_28-03_at%C3%A9_31-03/Lancamento%20Cole%C3%A7%C3%A3o%20Terra%20Dourada%20%28S%C3%A1bado%20e%20Ter%C3%A7a%29/Ter%C3%A7a-feira/Jaqueta%20Comfort%20Detalhe%20Ziper%20Verde.jpg"
+              title="Jaqueta Comfort Detalhe Ziper Verde"
+              alt="Jaqueta Comfort Detalhe Ziper Verde" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Jaqueta Comfort Ziper Verde
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 15px 0">R$ 599,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 6x R$ 99,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.morenarosa.com.br/jaqueta-comfort-detalhe-ziper-verde-222414"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

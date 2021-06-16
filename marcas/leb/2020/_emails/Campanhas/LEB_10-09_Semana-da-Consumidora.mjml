@@ -1,0 +1,267 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Semana da Cliente"
+            title="Semana da Cliente"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_10-09_Semana-da-Consumidora/Artboard%2011%20copy%202-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#f4e4d6"> 
+        <mj-column padding="30px 0px 25px 25px">
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="21px"  align= "left" font-weight="800"padding="0px 0px 0px 25px" line-height="0px" letter-spacing="0.4px">
+            _
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#000000" font-size="17px"  align= "left" font-weight="400" padding="10px 0px 10px 25px" line-height="21px" letter-spacing="0.4px">
+            prepare seu look para a nova<br>
+            estação com até <span style="font-weight: 500;">70%off</span>
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 22px" align="left" font-weight="400" font-size="12px" padding="10px 25px 0px 25px" background-color="#216abf" color="#ffffff" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+    
+    <mj-section padding="20px 0px 0px 0px" background-color="#f4e4d6">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/jaqueta-bomber-compose-de-tecidos-verde-vinho-laranja-225723/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186318/JAQUETA-BOMBER-COMPOSE-DE-TECIDOS---CO-VERDE-MILITAR-VINHO-CAMEL---PP.jpg?v=637172340347700000"
+            title="Jaqueta Bomber Compose De Tecidos Verde/Vinho/Laranja"
+            alt="Jaqueta Bomber Compose De Tecidos Verde/Vinho/Laranja" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Bomber Compose De Teci.
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 389,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 54,58
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 272,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/jaqueta-bomber-compose-de-tecidos-verde-vinho-laranja-225723/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#216abf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-skinny-pietra-cos-intermediario-com-lenco-verde-224244/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186120/CALCA-SKINNY-PIETRA-COS-INTERMEDIARIO-COM-LENCO---LI-VERDE-MILITAR---34.jpg?v=637172335145330000"
+            title="Calca Skinny Pietra Cos Intermediario Com Lenco Verde"
+            alt="Calca Skinny Pietra Cos Intermediario Com Lenco Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Calca Skinny<br> Pietra Cos Inter.
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 65,31
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 195,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/calca-skinny-pietra-cos-intermediario-com-lenco-verde-224244/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#216abf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-cenoura-cos-alto-bolso-faca-preto-224036/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186042/CALCA-CENOURA-COS-ALTO-BOLSO-FACA---LI-PRETO---34.jpg?v=637172332991470000"
+            title="Calca Cenoura Cos Alto Bolso Faca Preto"
+            alt="Calca Cenoura Cos Alto Bolso Faca Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Calca Cenoura<br> Cos Alto Bolso
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 229,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,64
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 160,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-cenoura-cos-alto-bolso-faca-preto-224036/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#216abf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#f4e4d6">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-curto-gola-polo-com-bolso-preto-224011/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186346/22000200713000010-0-.jpg?v=637175456781970000"
+            title="T-Shirt Decote Redondo Assimetrica Preto"
+            alt="T-Shirt Decote Redondo Assimetrica Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Decote<br> Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 569,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 56,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 398,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/vestido-curto-gola-polo-com-bolso-preto-224011/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#216abf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/t-shirt-decote-redondo-assimetrica-preto-225420/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/185773/T-SHIRT-DECOTE-REDONDO-ASSIMETRICA---LI-PRETO---PP.jpg?v=637172327018930000"
+            title="T-Shirt Decote Redondo Assimetrica Preto"
+            alt="T-Shirt Decote Redondo Assimetrica Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Decote<br> Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 209,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 73,46
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 146,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/t-shirt-decote-redondo-assimetrica-preto-225420/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#216abf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macacao-utilitario-bicolor-verde-225246/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186473/22000102036004101-0-.jpg?v=637191022339100000"
+            title="Macacao Utilitario Bicolor Verde"
+            alt="Macacao Utilitario Bicolor Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Macacao<br> Utilitario Bicolor
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,93
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/macacao-utilitario-bicolor-verde-225246/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#216abf" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#f4e4d6">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/vestidos?map=c"
+            width="600px"
+            padding="0"
+            alt="vestidos"
+            title="vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_10-09_Semana-da-Consumidora/Artboard%2011%20copy%202-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="calças"
+            title="calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_10-09_Semana-da-Consumidora/Artboard%2011%20copy%202-calcas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/blusas?map=c"
+            width="600px"
+            padding="0"
+            alt="blusas"
+            title="blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Semana-da-Consumidora/LEB_10-09_Semana-da-Consumidora/Artboard%2011%20copy%202-blusas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

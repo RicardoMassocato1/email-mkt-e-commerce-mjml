@@ -1,0 +1,176 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-column padding="0 0 20px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lancamento/preview?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="um tmepo pra mim"
+            title="um tempo pra mim"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_19-05_Um-Tempo-Pra-Mim/lbh-preview.jpg" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 5px 0 5px">
+        <mj-group>
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="right" padding="0">
+              <h1
+                style="font-family: Brandon Text, sans-serif; color: #999999; font-weight: 400; font-size: 15px; padding: 200px 0px 10px 0px; margin: 0px;">
+                Calca Comfort Cos <br> Elastico Detalhe Vivo
+              </h1>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="right"
+              padding="0">
+              <span style="font-family: Brandon Text, sans-serif; display: block; padding: 5px 0">R$ 389,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">7x de R$ 55,70</span>
+            </mj-text>
+
+            <mj-text align="right">
+              <a
+                style="font-family: Brandon Text, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #606158;"
+                href="https://www.leboh.com.br/calca-comfort-cos-elastico-detalhe-vivo-preto-231052/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="left"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-comfort-cos-elastico-detalhe-vivo-preto-231052/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_19-05_Um-Tempo-Pra-Mim/Calca%20Comfort%20Cos%20Elastico%20Detalhe%20Vivo%20Preto.jpg"
+              title="Calca Comfort Cos Elastico Detalhe Vivo Preto"
+              alt="Calca Comfort Cos Elastico Detalhe Vivo Preto" />
+          </mj-column>
+
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="right"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-cenoura-cos-alto-compose-tecido-laranja-230538/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_19-05_Um-Tempo-Pra-Mim/Calca%20Cenoura%20Cos%20Alto%20Compose%20Tecido%20Laranja.jpg"
+              title="Calca Cenoura Cos Alto Compose Tecido Laranja"
+              alt="Calca Cenoura Cos Alto Compose Tecido Laranja" />
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="left" padding="0">
+              <h1
+                style="font-family: Brandon Text, sans-serif; color: #999999; font-weight: 400; font-size: 15px; padding: 200px 0px 10px 0px; margin: 0px;">
+                Calca Cenoura Cos Alto <br> Compose Tecido
+              </h1>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="left"
+              padding="0">
+              <span style="font-family: Brandon Text, sans-serif; display: block; padding: 5px 0">R$ 319,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="left"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">6x de R$ 53,31</span>
+            </mj-text>
+
+            <mj-text align="left">
+              <a
+                style="font-family: Brandon Text, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #606158;"
+                href="https://www.leboh.com.br/calca-cenoura-cos-alto-compose-tecido-laranja-230538/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-text align="right" padding="0">
+              <h1
+                style="font-family: Brandon Text, sans-serif; color: #999999; font-weight: 400; font-size: 15px; padding: 200px 0px 10px 0px; margin: 0px;">
+                Calca Jegging Cos <br> Intermediario Abertura
+              </h1>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="right"
+              padding="0">
+              <span style="font-family: Brandon Text, sans-serif; display: block; padding: 5px 0">R$ 249,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="right"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">4x de R$ 62,47</span>
+            </mj-text>
+
+            <mj-text align="right">
+              <a
+                style="font-family: Brandon Text, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #606158;"
+                href="https://www.leboh.com.br/calca-jegging-cos-intermediario-abertura-barra-jeans-229389/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="left"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-jegging-cos-intermediario-abertura-barra-jeans-229389/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_19-05_Um-Tempo-Pra-Mim/Calca%20Jegging%20Cos%20Intermediario%20Abertura%20Barra%20Jeans.jpg"
+              title="Calca Jegging Cos Intermediario Abertura Barra Jeans"
+              alt="Calca Jegging Cos Intermediario Abertura Barra Jeans" />
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

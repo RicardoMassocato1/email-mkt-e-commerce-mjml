@@ -1,0 +1,143 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=269"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_12-03_Semana-da-Consumidora/Artboard%201%20copy%20%281%29.png"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="14px" padding="30px 20px 20px 20px" align="center" font-weight="400" line-height="18px">
+          Para você, nessa Semana da Consumidora, separamos os Jeans-desejos da estação para ir direto para o seu clooset! Aproveite nossos descontos, e aproveite!
+        </mj-text>
+        <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=269" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="5px 0px 40px 0px" background-color="#fff" color="#000" border="2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0px">Shop now</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/t-shirt-iodice-decote-redondo-detalhe-termocolante-jeans-230533"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/173821/T-SHIRT-DECOTE-REDONDO-DETALHE-TERMOCOLANTE---LI-JEANS-ESCURO---P.jpg?v=637237649089400000"
+            title="T-SHIRT IÓDICE DECOTE REDONDO DETALHE TERMOCOLANTE JEANS"
+            alt="T-SHIRT IÓDICE DECOTE REDONDO DETALHE TERMOCOLANTE JEANS" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            T-SHIRT IÓDICE DECOTE<br> REDONDO DETALHE<br> TERMOCOLANTE JEANS
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 279,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/t-shirt-iodice-decote-redondo-detalhe-termocolante-jeans-230533" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="right" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            CALÇA IÓDICE<br> CIGARRETE CÓS ALTO<br> BOLSO FACA JEANS
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            6x de R$ 76,65
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="400" font-size="14px" align="right" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-cigarrete-cos-alto-bolso-faca-jeans-235916" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-cigarrete-cos-alto-bolso-faca-jeans-235916"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176516/CALCA-CIGARRETE-COS-ALTO-BOLSO-FACA---LI-JEANS-MEDIO---36.jpg?v=637327727486070000"
+            title="CALÇA IÓDICE CIGARRETE CÓS ALTO BOLSO FACA JEANS"
+            alt="CALÇA IÓDICE CIGARRETE CÓS ALTO BOLSO FACA JEANS" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-comfort-cos-intermediario-com-amarracao-jeans-230476"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/173599/CALCA-COMFORT-COS-INTERMEDIARIO-COM-AMARRACAO---LI-JEANS-ESCURO---36.jpg?v=637237645334730000"
+            title="CALÇA IÓDICE COMFORT CÓS INTERMEDIÁRIO COM AMARRAÇÃO JEANS"
+            alt="CALÇA IÓDICE COMFORT CÓS INTERMEDIÁRIO COM AMARRAÇÃO JEANS" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "'Poppins', sans-serif" align="left" color="#000" font-weight="400" font-size="14px" padding="130px 0 10px 0">
+            CALÇA IÓDICE<br> COMFORT CÓS<br> INTERMEDIÁRIO C...
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 91,65
+          </mj-text>
+
+          <mj-text font-family= "'Poppins', sans-serif" color="#000" font-weight="400" font-size="14px" align="left" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-comfort-cos-intermediario-com-amarracao-jeans-230476" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="60px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=263"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_04-03_Lancamento-Big-Cities/Artboard%201%20copy%204-topo.jpg"
+          alt="Lançamento Big Cities"
+          title="Lançamento Big Cities" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

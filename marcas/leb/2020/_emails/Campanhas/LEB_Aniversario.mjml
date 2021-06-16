@@ -1,0 +1,50 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="150px 0px 0px 0px" background-color="#f4e4d6"  border= "25px solid #9280b7"> 
+        <mj-column padding="30px 0px 40px 5px">
+          <mj-text font-family="Work Sans, sans-serif" color="#9280b7" font-size="40px"  align= "left" font-weight="400" padding="0px 0px 20px 25px" line-height="21px" letter-spacing="0.5px">
+            *|FIRST_NAME|* 
+          </mj-text>
+
+          <mj-text font-family="Work Sans, sans-serif" color="#9280b7" font-size="35px"  align= "left" font-weight="800"padding="0px 0px 0px 25px" line-height="0px" letter-spacing="0.4px">
+            -
+          </mj-text>
+
+          <mj-text font-family="Work Sans, sans-serif" color="#9280b7" font-size="18px" align="justify" font-weight="400" padding="35px 0px 10px 25px" line-height="22px" letter-spacing="0.4px">
+            este&nbsp;&nbsp; mês,&nbsp; &nbsp; celebramos&nbsp;&nbsp; sua<br>
+            personalidade e desejamos que<br>
+            você &nbsp; seja &nbsp; cada&nbsp; vez &nbsp; mais&nbsp; a<br>
+            mulher original que você é.
+          </mj-text>
+
+          <mj-text font-family="Work Sans, sans-serif" color="#9280b7" font-size="18px" align="justify" font-weight="400" padding="35px 0px 10px 25px" line-height="22px" letter-spacing="0.4px">
+            e para comemorar:<br>
+            <span style="font-weight: 600;">10% de desconto</span><br>
+            para suas compras<br>
+            em nossa loja virtual
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC" font-family="Work Sans, sans-serif" text-decoration="none" inner-padding="17px 34px" align="left" font-weight="600" font-size="30px" padding="25px 0px 0px 25px" background-color="#9280b7" color="#ffffff" border-radius="0px" target="_blank">parabens</mj-button>
+          
+          <mj-text font-family="Work Sans, sans-serif" color="#9280b7" font-size="15px" align="justify" font-weight="400" padding="70px 0px 0px 25px" line-height="18px" letter-spacing="0.4px">
+            *descontos intransferível e válido até o<br>
+            <span style="font-weight: 500;">último dia deste mês.</span>
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+
+    
+    
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

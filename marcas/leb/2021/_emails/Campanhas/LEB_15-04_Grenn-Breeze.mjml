@@ -1,0 +1,181 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#8a8a4a">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/verde?map=ft&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_15-04_Grenn-Breeze/Prancheta%201-topo.jpg"
+            alt="grenn breeze"
+            title="grenn breeze" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#97985e"> 
+      <mj-column padding="30px 0px 40px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="14.3px" padding="0px 20px 0px 20px" align= "center" font-weight="300" line-height="17px" letter-spacing="2px">
+          A brisa do verão trouxe a nova coleção da Lebôh! Com ela, as tardes quentes se tornam agradáveis e os momentos mais leves. easy as a breeze!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="30px 0px 10px 0px" background-color="#8a8a4a">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-frente-unica-cavada-amarracao-costas-verde-245220/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190352/22000102302001342-0-.jpg?v=637406083998700000"
+            title="Blusa Lebôh Frente Unica Cavada Amarração Costas Verde"
+            alt="Blusa Lebôh Frente Unica Cavada Amarração Costas Verde" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Frente Unica<br> Cavada Amarração Cos...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              3x de R$ 53,30
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 159,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-frente-unica-cavada-amarracao-costas-verde-245220/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#8a8a4a" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-curto-decote-quadrado-transpasse-frente-verde-246583/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190365/22000102316001342-0-.jpg?v=637406088048430000"
+            title="Vestido Lebôh Curto Decote Quadrado Transpasse Frente Verde"
+            alt="Vestido Lebôh Curto Decote Quadrado Transpasse Frente Verde" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Curto<br> Decote Quadrado Tr...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              4x de R$ 54,97
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 219,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-curto-decote-quadrado-transpasse-frente-verde-246583/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#8a8a4a" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 30px 0px" background-color="#8a8a4a">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-decote-quadrado-manga-bufante-amarracao-costas-verde-oliva-243954/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190327/22000102250000066-0-.jpg?v=637406070750400000"
+            title="Blusa Lebôh Decote Quadrado Manga Bufante Amarração Costas Verde Oliva"
+            alt="Blusa Lebôh Decote Quadrado Manga Bufante Amarração Costas Verde Oliva" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Decote<br> Quadrado Manga Buf...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              4x de R$ 54,97
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 219,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-decote-quadrado-manga-bufante-amarracao-costas-verde-oliva-243954/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#8a8a4a" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-curto-decote-quadrado-com-sublimacao-verde-246606/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190369/22000102317001289-0-.jpg?v=637406090294930000"
+            title="Vestido Lebôh Curto Decote Quadrado Com Sublimação Verde"
+            alt="Vestido Lebôh Curto Decote Quadrado Com Sublimação Verde" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Curto<br> Decote Quadrado C...
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0px">
+              5x de R$ 51,98
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="400" font-size="14px" align="center" padding="0px 0">
+            Por: R$ 259,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-curto-decote-quadrado-com-sublimacao-verde-246606/p" font-family="Work Sans, sans-serif" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12.3px" padding="15px 0px" background-color="#8a8a4a" color="#fff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="15px 0px" background-color="#97985e">
+    </mj-section>
+    <mj-section padding="30px 0px 0px 0px" background-color="#8a8a4a">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/blusas?map=c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_15-04_Grenn-Breeze/Prancheta%201-01.jpg"
+            alt="Blusas"
+            title="Blusas" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="40px 0px 40px 0px" background-color="#8a8a4a">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_15-04_Grenn-Breeze/Prancheta%201-02.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 60px 0px" background-color="#8a8a4a">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Abril/LEB_15-04_Grenn-Breeze/Prancheta%201-03.jpg"
+            alt="Calças"
+            title="Calças" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

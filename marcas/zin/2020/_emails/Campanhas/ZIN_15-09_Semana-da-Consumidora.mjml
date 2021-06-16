@@ -1,0 +1,280 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_15-09_Semana-da-Consumidora/ZC_EmailMkt_Semana03-topo.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="12.5px" padding="20px 0px 0px 0px" align="center" font-weight="400" line-height="16px" letter-spacing="0.5px">
+          Composições novas para a primavera<br> 
+          <strong>com até 70% off</strong>
+        </mj-text>
+        <mj-button href="https://www.zinco.com.br/lqda?O=OrderByReleaseDateDESC" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12.5px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "2px solid #2fd18a" target="_blank">Shop Now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 30px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_15-09_Semana-da-Consumidora/ZC_EmailMkt_Semana03-banner.jpg"
+            title="Progressiva"
+            alt="30% 1 peça, 40% 2 peças, 50% 3 peças, 60% 4 peças, 70% 5 peças ou mais" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-midi-decote-v-torcao-frente-vermelho-224768/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/203409/VESTIDO-MIDI-DECOTE-V-TORCAO-FRENTE---LI-VERMELHO---P.jpg?v=637172598598400000"
+            title="Vestido Midi Decote V Torcao Frente Vermelho"
+            alt="Vestido Midi Decote V Torcao Frente Vermelho" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi<br> Decote V
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-midi-decote-v-torcao-frente-vermelho-224768/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-reto-com-faixa-azul-223600/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/203332/MACACAO-RETO-COM-FAIXA---LT-AZUL---PP.jpg?v=637172597070730000"
+            title="Macacao Reto Com Faixa Azul"
+            alt="Macacao Reto Com Faixa Azul" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacao Reto<br> Com Faixa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 53,65
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 321,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/macacao-reto-com-faixa-azul-223600/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-reto-com-amarracao-vermelho-223211/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/203228/MACACAO-RETO-COM-AMARRACAO---ES-VERMELHO---P.jpg?v=637172595115200000"
+            title="Macacao Reto Com Amarracao Vermelho"
+            alt="Macacao Reto Com Amarracao Vermelho" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacao Reto<br> Com Amarracao
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 549,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 54,99
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 384,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/macacao-reto-com-amarracao-vermelho-223211/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-curto-decote-v-com-faixa-nude-218040/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/201713/VESTIDO-CURTO-DECOTE-V-COM-FAIXA---ES-CRU-LARANJA---PP.jpg?v=637111911855400000"
+            title="Vestido Curto Decote V Com Faixa Nude"
+            alt="Vestido Curto Decote V Com Faixa Nude" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Curto<br> Decote V
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-curto-decote-v-com-faixa-nude-218040/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-comfort-cos-alto-bolso-lateral-rosa-218270/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/200174/CALCA-COMFORT-COS-ALTO-BOLSO-LATERAL---LI-ROSE---36.jpg?v=637111742427000000"
+            title="Calca Comfort Cos Alto Bolso Lateral Rosa"
+            alt="Calca Comfort Cos Alto Bolso Lateral Rosa" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Comfort<br> Cos Alto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/calca-comfort-cos-alto-bolso-lateral-rosa-218270/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-alfaiataria-com-amarracao-laranja-218203/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/200053/MACACAO-ALFAIATARIA-COM-AMARRACAO---ES-CORAL---P.jpg?v=637111697227400000"
+            title="Macacao Alfaiataria Com Amarracao Laranja"
+            alt="Macacao Alfaiataria Com Amarracao Laranja" />
+
+          <mj-text align="center" color="#2fd18a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacao<br> Alfaiataria
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 599,90</text>
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            8x de R$ 52,49
+          </mj-text>
+
+          <mj-text color="#2fd18a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 419,93
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/macacao-alfaiataria-com-amarracao-laranja-218203/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#cbfff1" color="#2fd18a" border-radius="0px" border= "1px solid #2fd18a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_15-09_Semana-da-Consumidora/ZC_EmailMkt_Semana01-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_15-09_Semana-da-Consumidora/ZC_EmailMkt_Semana01-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Semana-da-Consumidora/ZIN_15-09_Semana-da-Consumidora/ZC_EmailMkt_Semana01-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

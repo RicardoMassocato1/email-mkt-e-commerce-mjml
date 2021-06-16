@@ -1,0 +1,212 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Fevereiro/email-4.gif"
+          alt="LQDA 50%OFF"
+          title="LQDA 50%OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-topo.jpg"
+          title="Jardim Botânico"
+          alt="Jardim Botânico" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-url="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-02.jpg" background-size="110%" background-repeat="no-repeat">
+      <mj-column padding="0px 0px 0px 0px" width="100%">
+        <mj-text font-family="Roboto, serif" color="#634731" font-size="11.2px" padding="0px 30px 0px 22px" align="left" font-weight="400" line-height="21px" letter-spacing="1.4px">
+          Nas estações de primavera e verão, as estampas<br>
+          florais são a grande pedida! Dessa vez, os prints<br>
+          vêm em versões mais abstratas, com pontos de<br>
+          cor iluminados e muita feminilidade!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-pantacourt-cos-intermediario-com-faixa-laranja-234331"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352156/CALCA-PANTACOURT-COS-INTERMEDIARIO-COM-FAIXA---ES-LARANJA-PRETO---38.jpg?v=637326623083570000"
+            title="Calça Morena Rosa Pantacourt Cós Intermediário Com Faixa Laranja"
+            alt="Calça Morena Rosa Pantacourt Cós Intermediário Com Faixa Laranja" />
+
+          <mj-text align="center" color="#634731" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa<br> Pantacourt Cós<br> Intermediário Com Fai...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 789,90</text>
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 92,15
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 552,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-pantacourt-cos-intermediario-com-faixa-laranja-234331" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-redondo-minha-morena-preto-234118"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/351956/VESTIDO-CURTO-DECOTE-REDONDO-MINHA-MORENA---ES-PRETO---P.jpg?v=637326619735570000"
+            title="Vestido Morena Rosa Curto Decote Redondo Minha Morena Preto"
+            alt="Vestido Morena Rosa Curto Decote Redondo Minha Morena Preto" />
+
+          <mj-text align="center" color="#634731" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena Rosa<br> Curto Decote Redondo<br> Minha Morena Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 61,23
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 244,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-redondo-minha-morena-preto-234118" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-v-com-cinto-preto-233476"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/351518/VESTIDO-MIDI-DECOTE-V-COM-CINTO---ES-PRETO-VERDE-LIMA---P.jpg?v=637326608973800000"
+            title="Vestido Morena Rosa Midi Decote V Com Cinto Preto"
+            alt="Vestido Morena Rosa Midi Decote V Com Cinto Preto" />
+
+          <mj-text align="center" color="#634731" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena Rosa<br> Midi Decote V Com<br> Cinto Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 759,90</text>
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 88,65
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 531,93
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-v-com-cinto-preto-233476" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-u-minha-morena-bege-234110"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/351858/VESTIDO-MIDI-DECOTE-U-MINHA-MORENA---ES-PRETO-AREIA---P.jpg?v=637326617604000000"
+            title="Vestido Morena Rosa Midi Decote U Minha Morena Bege"
+            alt="Vestido Morena Rosa Midi Decote U Minha Morena Bege" />
+
+          <mj-text align="center" color="#634731" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena Rosa<br> Midi Decote U Minha<br> Morena Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#634731" />
+
+          <mj-text color="#634731" font-weight="700" font-size="16px" align="center" padding="32px 0 10px 0">
+            4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#634731" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-u-minha-morena-bege-234110" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

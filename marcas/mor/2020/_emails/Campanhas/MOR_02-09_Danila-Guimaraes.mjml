@@ -1,0 +1,174 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-column padding="0" width="100%">
+      <mj-image
+        padding="10px 0px 0px 0px"
+        width="600px"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Danila%20Guimar%C3%A3es&pwaf_productClusterIds=304"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_02-09_Danila-Guimaraes/E-mail%20mkt%202004-07_1-topo.jpg"
+        alt="Danila Guimarães - Danila Guimarães assina para a Morena Rosa uma coleção com tudo o que as mulheres vão querer ter no closet!"
+        title="Danila Guimarães" />
+    </mj-column>
+
+    <mj-section padding="10px 0px 20px 0px">
+      <mj-group>    
+        <mj-column padding="20px 5px 0px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-v-manga-curta-com-recorte-laranja-235371"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355407/BLUSA-DECOTE-V-MANGA-CURTA-COM-RECORTE---CO-CAQUI-LARANJA-PINK---P.jpg?v=637327740414130000"
+            title="Blusa Decote V Manga Curta Com Recorte Laranja"
+            alt="Blusa Decote V Manga Curta Com Recorte Laranja" />
+        </mj-column>
+
+        <mj-column padding="35px 5px 25px 0px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #e6347e; font-weight: 400; font-size: 15px; padding: 150px 0px 10px 0px; margin: 0px;">
+              Blusa Decote V Manga<br> Curta Com Recorte<br> Laranja
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#e6347e"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">6x de R$ 64,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#e6347e"
+            font-weight="300"
+            font-size="14px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 389,90</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11.8px; font-weight: 300; letter-spacing: 1.8px; background-color: #e6347e; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/blusa-decote-v-manga-curta-com-recorte-laranja-235371"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="25px 0px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #e6347e; font-weight: 400; font-size: 15px; padding: 150px 0px 10px 0px; margin: 0px;">
+              Calca Reta Cos<br> Intermediario Botoes<br> Perna Azul
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#e6347e"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">6x de R$ 96,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#e6347e"
+            font-weight="300"
+            font-size="14px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 579,90</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11.8px; font-weight: 300; letter-spacing: 1.8px; background-color: #e6347e; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/calca-reta-cos-intermediario-botoes-perna-azul-235454"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-reta-cos-intermediario-botoes-perna-azul-235454"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355526/CALCA-RETA-COS-INTERMEDIARIO-BOTOES-PERNA---LI-TURQUESA---36.jpg?v=637327742917430000"
+            title="Calca Reta Cos Intermediario Botoes Perna Azul"
+            alt="Calca Reta Cos Intermediario Botoes Perna Azul" />
+        </mj-column>
+
+
+        <mj-column padding="10px 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-v-manga-casulo-amarracao-frente-rosa-235397"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355466/BLUSA-DECOTE-V-MANGA-CASULO-AMARRACAO-FRENTE---CO-ROSA-LARANJA-CAQUI---PP.jpg?v=637327741972000000"
+            title="Blusa Decote V Manga Casulo Amarracao Frente Rosa"
+            alt="Blusa Decote V Manga Casulo Amarracao Frente Rosa" />
+        </mj-column>
+
+        <mj-column padding="25px 5px 25px 0px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Poppins, sans-serif; color: #e6347e; font-weight: 400; font-size: 15px; padding: 150px 0px 10px 0px; margin: 0px;">
+              Blusa Decote V Manga<br> Casulo Amarracao<br> Frente Rosa
+            </h1>
+          </mj-text>
+
+          <mj-text
+            color="#e6347e"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">6x de R$ 61,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#e6347e"
+            font-weight="300"
+            font-size="14px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 369,90</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 11.8px; font-weight: 300; letter-spacing: 1.8px; background-color: #e6347e; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 13px;"
+              href="https://www.morenarosa.com.br/blusa-decote-v-manga-casulo-amarracao-frente-rosa-235397"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,165 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=259&_t=Semana%20da%20Consumidora"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_08-03_Semana-da-Consumidora/MV_EmailMkt_01.jpg"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#000000" font-size="13.5px" padding="30px 20px 30px 20px" align="center" font-weight="500" line-height="20px" letter-spacing="1.1px">
+          Texto abaixo do banner: A semana da consumidora chegou! Você pode ter mais de 900 reais de desconto + frete grátis!
+        </mj-text>
+          <mj-button href="https://mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=259&_t=Semana%20da%20Consumidora" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="13px" padding="0px 0px 40px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://mariavalentina.com.br/colete-maria-valentina-alongado-com-faixa-bege-235822"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/231402/COLETE-ALONGADO-COM-FAIXA---LI-CRU---PP.jpg?v=637327846059800000"
+            title="Colete Maria.Valentina Alongado Com Faixa Bege"
+            alt="Colete Maria.Valentina Alongado Com Faixa Bege" />
+        </mj-column>
+
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 130px 0px 10px 0px; margin: 0px;">
+              Colete Maria.Valentina<br> Alongado Com Faixa<br> Bege
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 529,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            7x de R$ 52,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 370,93
+          </mj-text>
+          
+          <mj-button href="https://mariavalentina.com.br/colete-maria-valentina-alongado-com-faixa-bege-235822" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="left" font-weight="600" font-size="12.5px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:1px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 130px 0px 10px 0px; margin: 0px;">
+              Camisa Maria.Valentina<br> Manga Longa Com<br> Bolso Bege
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            5x de R$ 54,58
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 272,93
+          </mj-text>
+          
+          <mj-button href="https://mariavalentina.com.br/camisa-maria-valentina-manga-longa-com-bolso-bege-234507" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="right" font-weight="600" font-size="12.5px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:1px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://mariavalentina.com.br/camisa-maria-valentina-manga-longa-com-bolso-bege-234507"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232427/CAMISA-MANGA-LONGA-COM-BOLSO---LI-CRU---PP.jpg?v=637327869204570000"
+            title="Camisa Maria.Valentina Manga Longa Com Bolso Bege"
+            alt="Camisa Maria.Valentina Manga Longa Com Bolso Bege" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://mariavalentina.com.br/shorts-maria-valentina-clochard-com-faixa-bege-234672"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230930/SHORTS-CLOCHARD-COM-FAIXA---LI-CRU---36.jpg?v=637327838308130000"
+            title="Shorts Maria.Valentina Clochard Com Faixa Bege"
+            alt="Shorts Maria.Valentina Clochard Com Faixa Bege" />
+        </mj-column>
+
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 130px 0px 10px 0px; margin: 0px;">
+              Shorts Maria.Valentina<br> Clochard Com Faixa<br> Bege
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 349,93
+          </mj-text>
+          
+          <mj-button href="https://mariavalentina.com.br/shorts-maria-valentina-clochard-com-faixa-bege-234672" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="left" font-weight="600" font-size="12.5px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:1px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Ticiane%20Pinheiro&pwaf_productClusterIds=257"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_02-03_Lan%C3%A7amento/MV_EmailMkt_01-topo.jpg"
+          alt="Maria.Valentina & Ticiane Pinheiro"
+          title="Maria.Valentina & Ticiane Pinheiro" />
+      </mj-column>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

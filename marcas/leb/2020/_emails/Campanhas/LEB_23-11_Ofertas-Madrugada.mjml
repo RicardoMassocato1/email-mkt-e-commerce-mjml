@@ -1,0 +1,105 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/black-friday/oferta-da-madrugada?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Oferta da Madrugada"
+            title="Oferta da Madrugada"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_23-11_Oferta-Madrugada/oferta%20da%20madrugada%20LEBOH-01.png" />
+        </mj-column>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/camisa-leboh-manga-longa-alongada-tijolo-verde-231189/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187583/CAMISA-MANGA-LONGA-ALONGADA---ES-VERDE-FERRUGEM---P.jpg?v=637250795257470000"
+            title="Camisa Lebôh Manga Longa Alongada Tijolo/Verde"
+            alt="Camisa Lebôh Manga Longa Alongada Tijolo/Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="21px 0 10px 0">
+            Camisa Lebôh Manga<br> Longa Alongada<br> Tijolo/Verde
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/camisa-leboh-manga-longa-alongada-tijolo-verde-231189/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="14px" padding="15px 0px" background-color="#ff854d" color="#ffffff" border-radius="0px" target="_blank">descubra</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-gola-alta-manga-raglan-longa-tricot-off-white-230371/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187423/BLUSA-GOLA-ALTA-MANGA-RAGLAN-LONGA-TRICOT---LI-OFF-WHITE---PP.jpg?v=637250793137430000"
+            title="Blusa Lebôh Gola Alta Manga Raglan Longa Tricot Off White"
+            alt="Blusa Lebôh Gola Alta Manga Raglan Longa Tricot Off White" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Gola Alta<br> Manga Raglan Longa<br> Tricot Off White
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-gola-alta-manga-raglan-longa-tricot-off-white-230371/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="14px" padding="15px 0px" background-color="#ff854d" color="#ffffff" border-radius="0px" target="_blank">descubra</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/parka-leboh-corta-vento-marrom-228969/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187291/PARKA-CORTA-VENTO---ES-MARROM---P.jpg?v=637250791137500000"
+            title="Parka Lebôh Corta Vento Marrom"
+            alt="Parka Lebôh Corta Vento Marrom" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Parka Lebôh Corta<br> Vento Marrom
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/parka-leboh-corta-vento-marrom-228969/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="14px" padding="15px 0px" background-color="#ff854d" color="#ffffff" border-radius="0px" target="_blank">descubra</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macaquinho-leboh-gola-esporte-detalhe-punho-preto-228919/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187139/MACAQUINHO-GOLA-ESPORTE-DETALHE-PUNHO---LI-PRETO---PP.jpg?v=637250788817370000"
+            title="Macaquinho Lebôh Gola Esporte Detalhe Punho Preto"
+            alt="Macaquinho Lebôh Gola Esporte Detalhe Punho Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="400" font-size="14px" padding="20px 0 10px 0">
+            Macaquinho Lebôh Gola<br> Esporte Detalhe Punho
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/macaquinho-leboh-gola-esporte-detalhe-punho-preto-228919/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="400" font-size="14px" padding="15px 0px" background-color="#ff854d" color="#ffffff" border-radius="0px" target="_blank">descubra</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

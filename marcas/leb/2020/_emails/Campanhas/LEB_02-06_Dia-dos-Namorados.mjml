@@ -1,0 +1,341 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700&display=swap"/>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="20px 0px" background-color="#c51c19">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="0px 0px"
+            href="https://www.leboh.com.br/date-yourself?O=OrderByReleaseDateDESC"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_02-06_Dia-dos-Namorados/EmailMkt-02-topo.jpg" 
+            alt="date yourself"
+            title="date yourself"/>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="60px 40px 30px 40px"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_02-06_Dia-dos-Namorados/EmailMkt-02-faixa%20netflix%20e%20pipoca.jpg" 
+            alt="netflix e pipoca"
+            title="netflix e pipoca"/>
+        </mj-column>
+        
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-comfort-listrado-azul-229383/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_02-06_Dia-dos-Namorados/Shorts%20Comfort%20Listrado%20Azul.jpg"
+            title="Shorts Comfort Listrado Azul"
+            alt="Shorts Comfort Listrado Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Comfort Listrado 
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+          <mj-text
+            color="#ffffff"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 159,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ffffff"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$53,30</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.leboh.com.br/shorts-comfort-listrado-azul-229383/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-comfort-cos-elastico-detalhe-vivo-preto-231052/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_02-06_Dia-dos-Namorados/Calca%20Comfort%20Cos%20Elastico%20Detalhe%20Vivo%20Preto.jpg"
+            title="Calca Comfort Cos Elastico Detalhe Vivo Preto"
+            alt="Calca Comfort Cos Elastico Detalhe Vivo Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos Elastico
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+          <mj-text
+            color="#ffffff"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ffffff"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$55,70</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.leboh.com.br/calca-comfort-cos-elastico-detalhe-vivo-preto-231052/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-curto-decote-transpassado-detalhe-vivo-laranja-228890/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_02-06_Dia-dos-Namorados/Vestido%20Curto%20Decote%20Transpassado%20Detalhe%20Vivo%20Laranja.jpg"
+            title="Vestido Curto Decote Transpassado Detalhe Vivo Laranja"
+            alt="Vestido Curto Decote Transpassado Detalhe Vivo Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Decote Laranja
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+          <mj-text
+            color="#ffffff"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ffffff"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$56,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.leboh.com.br/vestido-curto-decote-transpassado-detalhe-vivo-laranja-228890/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column width="100%">
+          <mj-image
+            padding="40px 40px 30px 40px"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_02-06_Dia-dos-Namorados/EmailMkt-02-faixa%20skincare%20e%20vinho.jpg" 
+            alt="skincare e vinho"
+            title="skincare e vinho"/>
+        </mj-column>
+        
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-redondo-manga-3-4-detalhe-listras-preto-230387/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_02-06_Dia-dos-Namorados/Blusa%20Decote%20Redondo%20Manga%203-4%20Detalhe%20Listras%20Preto.jpg"
+            title="Blusa Decote Redondo Manga 3/4 Detalhe Listras Preto"
+            alt="Blusa Decote Redondo Manga 3/4 Detalhe Listras Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+          <mj-text
+            color="#ffffff"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ffffff"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$56,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.leboh.com.br/blusa-decote-redondo-manga-3-4-detalhe-listras-preto-230387/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/t-shirt-decote-ribana-com-relevo-verde-225211/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_02-06_Dia-dos-Namorados/T-Shirt%20Decote%20Ribana%20Com%20Relevo%20Verde.jpg"
+            title="T-Shirt Decote Ribana Com Relevo Verde"
+            alt="T-Shirt Decote Ribana Com Relevo Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote Ribana
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+          <mj-text
+            color="#ffffff"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 209,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ffffff"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$52,47</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.leboh.com.br/t-shirt-decote-ribana-com-relevo-verde-225211/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/jaqueta-esportiva-detalhe-tela-amarelo-228978/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dia-dos-Namorados/LEB_02-06_Dia-dos-Namorados/Jaqueta%20Esportiva%20Detalhe%20Tela%20Amarelo.jpg"
+            title="Jaqueta Esportiva Detalhe Tela Amarelo"
+            alt="Jaqueta Esportiva Detalhe Tela Amarelo" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Esportiva D/ Tela
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+          <mj-text
+            color="#ffffff"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#ffffff"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$51,10</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#ffffff; color: #c51c19; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.leboh.com.br/jaqueta-esportiva-detalhe-tela-amarelo-228978/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

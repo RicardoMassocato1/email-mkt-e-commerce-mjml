@@ -1,0 +1,167 @@
+'<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_08-12_Summer-Challenge/MV_EmailMkt_01-topo.jpg"
+          alt="Lançamento Summer Challenge"
+          title="Lançamento Summer Challenge" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="12.5px" padding="20px 10px 0px 10px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+           A gente faz o verão acontecer em qualquer lugar. Por isso, 
+           desafiamos Zincolovers a mostrarem o seu próprio jeito de curtir e 
+           aproveitar a mais alegre das estações.<br><br>
+           <span style="font-weight:700;">Os looks pra vestir no calor da temporada? Peças com babados, combinações esportivas e muitos jeans.</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-midi-decote-quadrado-com-recorte-rosa-244001/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/215514/VESTIDO-MIDI-DECOTE-QUADRADO-COM-RECORTE---ES-PINK---PP.jpg?v=637425188324630000"
+            title="Vestido Zinco Midi Decote Quadrado Com Recorte Rosa"
+            alt="Vestido Zinco Midi Decote Quadrado Com Recorte Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Midi Decote<br> Quadrado Com Recorte<br> Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 51,10
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-midi-decote-quadrado-com-recorte-rosa-244001/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/top-zinco-cropped-manga-curta-com-amarracao-roxo-244096/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/215738/TOP-CROPPED-MANGA-CURTA-COM-AMARRACAO---ES-LILAS---PP.jpg?v=637425191432870000"
+            title="Top Zinco Cropped Manga Curta Com Amarração Roxo"
+            alt="Top Zinco Cropped Manga Curta Com Amarração Roxo" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Zinco Cropped Manga<br> Curta Com Amarração<br> Roxo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/top-zinco-cropped-manga-curta-com-amarracao-roxo-244096/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-pantalona-cos-alto-compose-tecido-preto-244300/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/216045/CALCA-PANTALONA-COS-ALTO-COMPOSE-TECIDO---ES-PRETO-OFF-WHITE---36.jpg?v=637425195639300000"
+            title="Calça Zinco Pantalona Cós Alto Composê Tecido Preto"
+            alt="Calça Zinco Pantalona Cós Alto Composê Tecido Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Zinco Pantalona<br> Cós Alto Composê<br> Tecido Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            8x de R$ 54,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 439,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/calca-zinco-pantalona-cos-alto-compose-tecido-preto-244300/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-zinco-sport-detalhe-tela-branco-244538/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/217037/SHORTS-SPORT-DETALHE-TELA---LI-BRANCO---34.jpg?v=637425209987100000"
+            title="Shorts Zinco Sport Detalhe Tela Branco"
+            alt="Shorts Zinco Sport Detalhe Tela Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Zinco Sport<br> Detalhe Tela<br> Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/shorts-zinco-sport-detalhe-tela-branco-244538/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_08-12_Summer-Challenge/MV_EmailMkt_01-rodape.jpg"
+          alt="Lançamento Summer Challenge"
+          title="Lançamento Summer Challenge" />
+      </mj-column>
+    </mj-section>
+    
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

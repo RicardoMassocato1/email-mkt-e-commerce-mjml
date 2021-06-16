@@ -1,0 +1,28 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <!--main-->
+    <mj-section background-url="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_23-03_Informativo/03_MV_2001_STROKES-off.jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="600px">
+        <mj-text align="center" padding="50px 0px 50px 0px" color="#4e5a4c" font-size="28px" font-family="Poppins" font-weight="700">COVID-19</mj-text>
+        <mj-text align="justify" padding="0px 110px 30px 110px" color="#000000" font-size="16px" font-family="Poppins" font-weight="300" line-height="1.5">Nossas atitudes são decisivas para a contenção do avanço do COVID-19. Juntas, podemos atravessar este momento e manter nossa família e comunidade em segurança.</mj-text>
+        <mj-text align="justify" padding="0px 110px 30px 110px" color="#000000" font-size="16px" font-family="Poppins" font-weight="600" line-height="1.5">- Evite tocar os olhos, nariz e boca;<br>- Lave muito bem as mãos com água e sabão, antes e após, manusear objetos;<br>- Higienize bem maçanetas, torneiras e objetos de uso constante com álcool 70.<br><br>E, PRINCIPALMENTE, EVITE AGLOMERAÇÕES DE PESSOAS!</mj-text>
+        <mj-text align="justify" padding="0px 110px 30px 110px" color="#000000" font-size="16px" font-family="Poppins" font-weight="300" line-height="1.5">Por motivos de segurança para a contenção da covid-19, os atendimentos à consumidora serão feitos por e-mail e chat. Pedimos desculpas pelo inconveniente e torcemos para que logo nossas telefonistas possam voltar a atendê-las.<br><br>Como forma de cuidado, te presenteamos com um cupom de 10% off em nosso site. Assim você faz suas compras com segurança e conforto.</mj-text>
+        <mj-text align="center" padding="10px 110px 40px 110px" color="#000000" font-size="16px" font-family="Poppins" font-weight="300" line-height="1.5"><strong>Use o cupom<br>CLUBEMR</strong><br><br>Vamos passar por esta fase juntas!</mj-text>
+        <mj-button background-color="#f0d8c0" padding="0px 0px 60px 0px" href="http://mariavalentina.com.br" color="#4e5a4c" border="2px solid #4e5a4c" font-size="16px" font-family="Poppins" font-weight="600" line-height="0.5">USAR O CUPOM</mj-button>
+      </mj-column>
+    </mj-section>
+    <!--main-->
+
+    
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

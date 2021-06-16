@@ -1,0 +1,81 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/jeans?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=196&_t=OUTLET%20Roupas"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_11-05_Jeans/jeasn%20alterado-01-min.jpg"
+          alt="Morena Rosa Ofertas"
+          title="Morena Rosa Ofertas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#272d6b" font-size="14px" padding="20px 30px 30px 30px" text-transform="none" align="center" font-weight="400" line-height="18px" letter-spacing="1.5px">
+          O Jeans é aquela peça que não pode faltar em seu guarda roupa. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#272d6b">
+      <mj-column>
+        <mj-image
+          padding="50px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/shorts-saia-morena-rosa-detalhe-ziper-jeans-243781"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_11-05_Jeans/jeasn%20alterado-02-min.jpg"
+          alt="Shorts Saia Morena Rosa Detalhe Zíper Jeans"
+          title="Shorts Saia Morena Rosa Detalhe Zíper Jeans" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#272d6b">
+      <mj-column>
+        <mj-image
+          padding="15px 0px 15px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calca-morena-rosa-slim-isabelli-cos-alto-com-termocolante-jeans-243764"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_11-05_Jeans/jeasn%20alterado-03-min.jpg"
+          alt="Calça Morena Rosa Slim Isabelli Cós Alto Com Termocolante Jeans"
+          title="Calça Morena Rosa Slim Isabelli Cós Alto Com Termocolante Jeans" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#272d6b">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-transpassado-compose-de-tecidos-jeans-246058"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_11-05_Jeans/jeasn%20alterado-04-min.jpg"
+          alt="Vestido Morena Rosa Curto Decote Transpassado Composê De Tecidos Jeans"
+          title="Vestido Morena Rosa Curto Decote Transpassado Composê De Tecidos Jeans" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#272d6b">
+      <mj-column>
+        <mj-image
+          padding="25px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/jeans-modelagens"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Maio/MOR_11-05_Jeans/jeasn%20alterado-05-min.jpg"
+          alt="Modelagens"
+          title="Modelagens" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

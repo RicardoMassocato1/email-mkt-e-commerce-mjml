@@ -1,0 +1,864 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-column padding="0px 0px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/vestuario/calcas?p=2&_t=LQDA%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+        title="LQDA"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/LQDA-09-topo.jpg" />
+    </mj-column>
+
+    <mj-section padding="20px 0px" background-color="#ce3a46">
+      <mj-column padding="0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#ffffff" font-size="15px" padding="0px 0px" align="center" font-weight="500" line-height="25px" letter-spacing="2px">
+            SKYNNY  x CÓS ALTO
+          </mj-text>
+          <mj-text font-family="Roboto, serif" color="#ffffff" font-size="13px" padding="10px 0px" align="center" font-weight="300" line-height="21px" letter-spacing="2px">
+            Nossos queridinhos do instagram<br> com até <strong>50% OFF</strong>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px">
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ce3a46">
+      <mj-column padding="0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#ffffff" font-size="25px" padding="0px 0px" align="center" font-weight="500" line-height="25px" letter-spacing="2px">
+            SKYNNY
+          </mj-text>
+        </mj-column>
+    </mj-section>
+  
+    <mj-section padding="40px 0px 20px 0px">
+      <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-slim-isabelli-cos-alto-bolso-faca-jeans-226101"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Calca%20Slim%20Isabelli%20Cos%20Alto%20Bolso%20Faca%20Jeans.jpg"
+            title="Calca Slim Isabelli Cos Alto Bolso Faca Jeans"
+            alt="Calca Slim Isabelli Cos Alto Bolso Faca Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Slim Isabelli Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 249,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 149,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">2x de R$74,97</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/calca-slim-isabelli-cos-alto-bolso-faca-jeans-226101"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-slim-isabelli-cos-alto-com-laser-jeans-226058"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Calca%20Slim%20Isabelli%20Cos%20Alto%20Com%20Laser%20Jeans.jpg"
+            title="Calca Slim Isabelli Cos Alto Com Laser Jeans"
+            alt="Calca Slim Isabelli Cos Alto Com Laser Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Slim Isabelli Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 233,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$58,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/calca-slim-isabelli-cos-alto-com-laser-jeans-226058"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-slim-isabelli-cos-alto-com-termocolante-jeans-226055"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Calca%20Slim%20Isabelli%20Cos%20Alto%20Com%20Termocolante%20Jeans.jpg"
+            title="Calca Slim Isabelli Cos Alto Com Termocolante Jeans"
+            alt="Calca Slim Isabelli Cos Alto Com Termocolante Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Slim Isabelli Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+         <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 579,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 347,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$57,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/calca-slim-isabelli-cos-alto-com-termocolante-jeans-226055"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+    <mj-section padding="15px 0px">
+    </mj-section>
+
+    <mj-section padding="30px 0px" background-color="#ce3a46">
+      <mj-column padding="0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#ffffff" font-size="25px" padding="0px 0px" align="center" font-weight="500" line-height="25px" letter-spacing="2px">
+            CÓS ALTO
+          </mj-text>
+        </mj-column>
+    </mj-section>
+  
+    <mj-section padding="40px 0px 20px 0px">
+      <mj-group>
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-comfort-cos-alto-detalhe-galao-verde-227225"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Calca%20Comfort%20Cos%20Alto%20Detalhe%20Galao%20Verde.jpg"
+            title="Calca Comfort Cos Alto Detalhe Galao Verde"
+            alt="Calca Comfort Cos Alto Detalhe Galao Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/calca-comfort-cos-alto-detalhe-galao-verde-227225"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-reta-cos-alto-com-termocolante-------------------------jeans-218639"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Calca%20Reta%20Cos%20Alto%20Com%20Termocolante%20Jeans.jpg"
+            title="Calca Reta Cos Alto Com Termocolante Jeans"
+            alt="Calca Reta Cos Alto Com Termocolante Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Reta Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 919,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$76,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/calca-reta-cos-alto-com-termocolante-------------------------jeans-218639"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-slim-isabelli-cos-alto-color-laranja-223665"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Calca%20Slim%20Isabelli%20Cos%20Alto%20Color%20Laranja.jpg"
+            title="Calca Slim Isabelli Cos Alto Color Laranja"
+            alt="Calca Slim Isabelli Cos Alto Color Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Slim Isabelli Cos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+         <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 179,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/calca-slim-isabelli-cos-alto-color-laranja-223665"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-column padding="20px 20px 30px 20px" width="100%">
+      <mj-image
+        padding="0"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=LQDA%2520Cal%25C3%25A7ados&pwaf_productClusterIds=172"
+        title="Calçados"
+        width="600px"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/LQDA-09-calcados.jpg" />
+    </mj-column>
+
+    <mj-section padding="0" background-color="#f5e9dd">
+      <mj-group>
+        <mj-column padding="0px 0px">
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; letter-spacing: 3px; font-size: 25px; color: #e64f44; display: inline-block; margin-top: 0px; padding: 12px 12px; font-weight: 700"
+                title="shop by size">
+                SHOP BY SIZE
+              </a>
+            </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 15px 30px 25px" background-color="#f5e9dd">
+      <mj-group>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=34"
+                title="Tam. 34">
+                34
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=35"
+                title="Tam. 35">
+                35
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=36"
+                title="Tam. 36">
+                36
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=37"
+                title="Tam. 37">
+                37
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=38"
+                title="Tam. 38">
+                38
+              </a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 17px; color: #ffffff; display: inline-block; margin-top: 10px; padding: 12px 12px; background-color: #e64f44; font-weight: 700"
+                href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=Progressivos%2520Cal%2525C3%2525A7ados&pwaf_productClusterIds=172&pwaf_57=39"
+                title="Tam. 39">
+                39
+              </a>
+            </mj-text>
+        </mj-column>>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-group>
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-super-alto-tiras-em-x-verde-226259"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Sandalia%20Super%20Alto%20Tiras%20Em%20X%20Verde.jpg"
+            title="Sandalia Super Alto Tiras Em X Verde"
+            alt="Sandalia Super Alto Tiras Em X Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Sandalia Super Alto Tiras
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 233,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$58,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/sandalia-super-alto-tiras-em-x-verde-226259"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bota-cano-curto-salto-medio-enfeite-personalizado-rubi-195686"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Bota%20Cano%20Curto%20Salto%20Medio%20Enfeite%20Personalizado%20Rubi.jpg"
+            title="Bota Cano Curto Salto Medio Enfeite Personalizado Rubi"
+            alt="Bota Cano Curto Salto Medio Enfeite Personalizado Rubi" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bota Cano Curto Salto Medio
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 419,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 209,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$52,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/bota-cano-curto-salto-medio-enfeite-personalizado-rubi-195686"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bota-cano-curto-salto-fachete-com-recorte-off-white-200841"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Bota%20Cano%20Curto%20Salto%20Fachete%20Com%20Recorte%20Off%20White.jpg"
+            title="Bota Cano Curto Salto Fachete Com Recorte Off White"
+            alt="Bota Cano Curto Salto Fachete Com Recorte Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bota Cano Curto Salto Fachete
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+         <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 499,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 249,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$62,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/bota-cano-curto-salto-fachete-com-recorte-off-white-200841"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-super-alto-max-fivela-bege-226237"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Sandalia%20Super%20Alto%20Max%20Fivela%20Bege.jpg"
+            title="Sandalia Super Alto Max Fivela Bege"
+            alt="Sandalia Super Alto Max Fivela Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Sandalia Super Alto Max
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 233,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$58,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/sandalia-super-alto-max-fivela-bege-226237"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-salto-alto-detalhe-elastico-traseiro-preto-226208"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Sandalia%20Salto%20Alto%20Detalhe%20Elastico%20Traseiro%20Preto.jpg"
+            title="Sandalia Salto Alto Detalhe Elastico Traseiro Preto"
+            alt="Sandalia Salto Alto Detalhe Elastico Traseiro Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Sandalia Salto Alto Elast.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 221,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$55,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/sandalia-salto-alto-detalhe-elastico-traseiro-preto-226208"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bota-cano-curto-rasteiro-rebite-personalizado-marrom-195543"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_LQDA/MOR_06-07_LQDA/Bota%20Cano%20Curto%20Rasteiro%20Rebite%20Personalizado%20Marrom.jpg"
+            title="Bota Cano Curto Rasteiro Rebite Personalizado Marrom"
+            alt="Bota Cano Curto Rasteiro Rebite Personalizado Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bota Cano Curto Rasteiro
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 199,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$66,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #ce3a46; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 9px;"
+              href="https://www.morenarosa.com.br/bota-cano-curto-rasteiro-rebite-personalizado-marrom-195543"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

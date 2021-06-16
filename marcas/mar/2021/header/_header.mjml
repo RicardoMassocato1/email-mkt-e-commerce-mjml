@@ -1,0 +1,49 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0px 0px 10px 0px">
+      <mj-group>
+        <mj-include path="../../../_shared/header/top-bar.mjml">
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000000">
+      <mj-column>
+        <mj-navbar base-url="https://www.mariavalentina.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            mariavalentina.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="25px 0px">
+      <mj-column>
+        <mj-image
+          alt="Maria.Valentina"
+          title="Maria.Valentina"
+          href="https://www.mariavalentina.com.br"
+          width="275px"
+          padding="0px 30px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/header/logo/v1/maria-valentina-black.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 25px 0px">
+      <mj-column>
+        <mj-navbar base-url="https://www.mariavalentina.com.br">
+          <mj-navbar-link href="/casacos" font-family="'Roboto', sans-serif" text-transform="none" padding="0px 15px" font-size="15px" color="#000"><span style="letter-spacing:2px;">Casacos</span></mj-navbar-link>
+          <mj-navbar-link href="/vestidos" font-family="'Roboto', sans-serif" text-transform="none" padding="0px 15px" font-size="15px" color="#000"><span style="letter-spacing:2px;">Vestidos</span></mj-navbar-link>          
+          <mj-navbar-link href="/blusas" font-family="'Roboto', sans-serif" text-transform="none" padding="0px 15px" font-size="15px" color="#000"><span style="letter-spacing:2px;">Blusas</span></mj-navbar-link>
+          <mj-navbar-link href="/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=OUTLET&pwaf_productClusterIds=252" font-family="'Roboto', sans-serif" padding="0px 15px" font-size="14.5px" color="#000" font-weight="600"><span style="letter-spacing:2px;">OUTLET</span></mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

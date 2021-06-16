@@ -1,0 +1,709 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+      <!--topo -->
+      <mj-section>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br"
+            title="Frete Grátis"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_26-04_Frete-Gratis/frete_gratis_.gif" />
+        </mj-column>
+        <mj-column padding="10px 0 0 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/diadasmaes"
+            title="Dia das Mães PROTAGONISTAS"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/email_mkt_dia%20das%20m%C3%A3es_1-topo.jpg" />
+        </mj-column>
+        <mj-column padding="10px 0 0 0px" width="100%">
+        <mj-text padding="10px 70px" font-family="Poppins, serif" color="#a17352" font-size="12.5px" align="center" font-weight="400" line-height="14px" letter-spacing="1.5px">
+           Aproveite a semana do FRETE GRÁTIS e garanta o presente da sua mãe protagonista!
+        </mj-text>
+        <mj-text align="center" padding="0">
+            <a style="text-decoration: none; text-transform: uppercase; font-size: 12px;background-color:#f7f0ea; color: #a17352; display: inline-block; margin-top: 15px; padding: 6px 8px; border: 1px solid #f7f0ea; letter-spacing:0.9px"
+              title="das">
+              Seleção especial para mães protagonistas
+            </a>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+      <!--topo -->
+
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-group>
+
+        <mj-column padding="20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=M%25C3%25A3e%2520Projeto%2520Ver%25C3%25A3o%2520&pwaf_productClusterIds=278"
+            alt="#projetoVerão"
+            title="#projetoVerão"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/email_mkt_dia%20das%20m%C3%A3es_2.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 10px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/jaqueta-classica-metalizada-azul-206180"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Jaqueta%20Classica%20Metalizada%20Azul.jpg"
+            title="Jaqueta Classica Metalizada Azul"
+            alt="Jaqueta Classica Metalizada Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Classica Metalizada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 399,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$66,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/jaqueta-classica-metalizada-azul-206180"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 7.5px 10px 7.5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-comfort-cos-elastico-bolso-lateral-marinho-206083"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Calca%20Comfort%20Cos%20Elastico%20Bolso%20Lateral%20Marinho.jpg"
+            title="Calca Comfort Cos Elastico Bolso Lateral Marinho"
+            alt="Calca Comfort Cos Elastico Bolso Lateral Marinho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort Cos Elastico
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$76,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/calca-comfort-cos-elastico-bolso-lateral-marinho-206083"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 10px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tenis-classico-com-recorte-off-white-220433"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Tenis%20Classico%20Com%20Recorte%20Off%20White.jpg"
+            title="Tenis Classico Com Recorte Off White"
+            alt="Tenis Classico Com Recorte Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Tenis Classico Com Recorte
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$66,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/tenis-classico-com-recorte-off-white-220433"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-group>
+
+        <mj-column padding="20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=M%25C3%25A3e%2520Fashionista%252520&pwaf_productClusterIds=279"
+            alt="Fashion"
+            title="Fashion"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/email_mkt_dia%20das%20m%C3%A3es_Prancheta3.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 10px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/bota-cano-curto-salto-medio-basica-cabernet-226078"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Bota%20Cano%20Curto%20Salto%20Medio%20Basica%20Cabernet.jpg"
+            title="Bota Cano Curto Salto Medio Basica Cabernet"
+            alt="Bota Cano Curto Salto Medio Basica Cabernet" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bota Cano Curto Salto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$76,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/bota-cano-curto-salto-medio-basica-cabernet-226078"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 7.5px 10px 7.5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blazer-alongado-rosa-marinho-214544"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Blazer%20Alongado%20Rosa-Marinho.jpg"
+            title="Blazer Alongado Rosa/Marinho"
+            alt="Blazer Alongado Rosa/Marinho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blazer Alongado Rosa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 1214,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 12x R$101,24</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/blazer-alongado-rosa-marinho-214544"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 10px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-v-manga-3-4-amarracao-frente-azul-224584"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Blusa%20Decote%20V%20Manga%203-4%20Amarracao%20Frente%20Azul.jpg"
+            title="Blusa Decote V Manga 3/4 Amarracao Frente Azul"
+            alt="Blusa Decote V Manga 3/4 Amarracao Frente Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V Manga
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$64,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/blusa-decote-v-manga-3-4-amarracao-frente-azul-224584"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-group>
+
+        <mj-column padding="20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=M%25C3%25A3e%2520Classica%2520&pwaf_productClusterIds=276"
+            alt="Clássica"
+            title="Clássica"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/email_mkt_dia%20das%20m%C3%A3es_Prancheta4.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 10px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/oculos-gatinho-haste-metal-preto-223520"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Oculos%20Gatinho%20Haste%20Metal%20Preto.jpg"
+            title="Oculos Gatinho Haste Metal Preto"
+            alt="Oculos Gatinho Haste Metal Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Oculos Gatinho Haste Metal
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$53,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/oculos-gatinho-haste-metal-preto-223520"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 7.5px 10px 7.5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-longa-minha-morena-laranja-222677"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Blusa%20Decote%20Redondo%20Manga%20Longa%20Minha%20Morena%20Laranja.jpg"
+            title="Blusa Decote Redondo Manga Longa Minha Morena Laranja"
+            alt="Blusa Decote Redondo Manga Longa Minha Morena Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo Manga
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$53,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-longa-minha-morena-laranja-222677"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 10px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantacourt-cos-alto-com-faixa-off-white-219374"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Calca%20Pantacourt%20Cos%20Alto%20Com%20Faixa%20Off%20White.jpg"
+            title="Calca Pantacourt Cos Alto Com Faixa Off White"
+            alt="Calca Pantacourt Cos Alto Com Faixa Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantacourt Cos Alto Faixa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 289,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 5x R$57,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/calca-pantacourt-cos-alto-com-faixa-off-white-219374"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px">
+      <mj-group>
+
+        <mj-column padding="20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?sort=OrderByReleaseDateDESC&_t=M%25C3%25A3e%2520Descolada%2520&pwaf_productClusterIds=277"
+            alt="Descolada"
+            title="Descolada"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/email_mkt_dia%20das%20m%C3%A3es_Prancheta5.jpg" />
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 10px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-comfort-com-faixa-preto-222167"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Shorts%20Comfort%20Com%20Faixa%20Preto.jpg"
+            title="Shorts Comfort Com Faixa Preto"
+            alt="Shorts Comfort Com Faixa Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Comfort Com Faixa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 579,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$96,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/shorts-comfort-com-faixa-preto-222167"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 7.5px 10px 7.5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-boot-cut-carol-cos-intermediario-bolso-faca-preto-224029"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Calca%20Boot%20Cut%20Carol%20Cos%20Intermediario%20Bolso%20Faca%20Preto.jpg"
+            title="Calca Boot Cut Carol Cos Intermediario Bolso Faca Preto"
+            alt="Calca Boot Cut Carol Cos Intermediario Bolso Faca Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Boot Cut Carol Cos
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$91,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/calca-boot-cut-carol-cos-intermediario-bolso-faca-preto-224029"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 10px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-altura-do-joelho-gola-alfaiataria-amarracao-cintura-azul-vermelho-222456"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Dia-das-M%C3%A3es/Vestido%20Altura%20Do%20Joelho%20Gola%20Alfaiataria%20Amarracao%20Cintura%20Azul-Vermelho.jpg"
+            title="Vestido Altura Do Joelho Gola Alfaiataria Amarracao Cintura Azul/Vermelho"
+            alt="Vestido Altura Do Joelho Gola Alfaiataria Amarracao Cintura Azul/Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #a17352; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Altura Do Joelho
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#a17352"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 699,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#a17352"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$116,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-size: 12px; color: #a17352; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #a17352;"
+              href="https://www.morenarosa.com.br/vestido-altura-do-joelho-gola-alfaiataria-amarracao-cintura-azul-vermelho-222456"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          href="https://www.morenarosa.com.br"
+          alt="Morena Rosa"
+          title="Morena Rosa"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_26-04_Frete-Gratis/email%201-rodape.jpg" />
+      </mj-column>
+    </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

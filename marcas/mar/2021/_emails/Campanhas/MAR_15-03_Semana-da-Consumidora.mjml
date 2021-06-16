@@ -1,0 +1,153 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=259&_t=Semana%20da%20Consumidora"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Mar%C3%A7o/MAR_08-03_Semana-da-Consumidora/MV_EmailMkt_01.jpg"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#000000" font-size="14px" padding="30px 20px 30px 20px" align="center" font-weight="500" line-height="20px" letter-spacing="1.1px">
+          Hoje é o dia da Consumidora, e tudo o que fazemos é sempre pensando em você,  e na sua felicidade de se ver sempre linda! Aproveite os descontos progressivos que preparamos especialmente para você!
+        </mj-text>
+          <mj-button href="https://mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=259&_t=Semana%20da%20Consumidora" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="13px" padding="0px 0px 40px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/blusa-maria-valentina-gola-alta-manga-longa-fio-metalizado-preto-227598"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/228329/BLUSA-GOLA-ALTA-MANGA-LONGA-FIO-METALIZADO---CO-PRETO-DOURADO---PP.jpg?v=637237999316530000"
+            title="Blusa Maria.Valentina Gola Alta Manga Longa Fio Metalizado Preto"
+            alt="Blusa Maria.Valentina Gola Alta Manga Longa Fio Metalizado Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Maria.Valentina Gola<br> Alta Manga Longa Fio<br> Metalizado Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            10x de R$ 54,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/blusa-maria-valentina-gola-alta-manga-longa-fio-metalizado-preto-227598" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-redondo-abertura-decote-cinza-230159"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/229317/VESTIDO-MIDI-DECOTE-REDONDO-ABERTURA-DECOTE---CO-PRETO-CINZA---PP.jpg?v=637238020087470000"
+            title="Vestido Maria.Valentina Midi Decote Redondo Abertura Decote Cinza"
+            alt="Vestido Maria.Valentina Midi Decote Redondo Abertura Decote Cinza" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Maria.Valentina<br> Midi Decote Redondo<br> Abertura Decote Cinza
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            10x de R$ 59,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 599,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-redondo-abertura-decote-cinza-230159" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-cenoura-cos-largo-com-pregas-azul-225762"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/227218/CALCA-CENOURA-COS-LARGO-COM-PREGAS---LI-AZUL---38.jpg?v=637237937725600000"
+            title="Calça Maria.Valentina Cenoura Cós Largo Com Pregas Azul"
+            alt="Calça Maria.Valentina Cenoura Cós Largo Com Pregas Azul" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Maria.Valentina<br> Cenoura Cós Largo Com<br> Pregas Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            10x de R$ 52,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 529,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-cenoura-cos-largo-com-pregas-azul-225762" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/shorts-maria-valentina-alfaiataria-bordado-industrial-preto-231925"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230512/SHORTS-ALFAIATARIA-BORDADO-INDUSTRIAL---LI-PRETO---36.jpg?v=637327829393930000"
+            title="Shorts Maria.Valentina Alfaiataria Bordado Industrial Preto"
+            alt="Shorts Maria.Valentina Alfaiataria Bordado Industrial Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Maria.Valentina<br> Alfaiataria Bordado<br> Industrial Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            8x de R$ 54,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 439,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/shorts-maria-valentina-alfaiataria-bordado-industrial-preto-231925" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

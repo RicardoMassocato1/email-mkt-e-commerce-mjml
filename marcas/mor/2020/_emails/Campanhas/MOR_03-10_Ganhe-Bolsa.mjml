@@ -1,0 +1,203 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Lan%C3%A7amento&pwaf_productClusterIds=291"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_03-10_Ganhe-Bolsa/Banner-home.gif"
+          alt="Vem Verão 2020"
+          title="Vem Verão 2020" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#000000" text-transform="uppercase" font-size="19px" padding="50px 0px 10px 30px" align="left" font-weight="500" line-height="18px" letter-spacing="1.8px">
+          Sugestões para você:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantalona-cos-intermediario-tricot-preto-236059"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352418/CALCA-PANTALONA-COS-INTERMEDIARIO-TRICOT---LI-PRETO---38.jpg?v=637326627340870000"
+            title="Calca Pantalona Cos Intermediario Tricot Preto"
+            alt="Calca Pantalona Cos Intermediario Tricot Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Pantalona<br> Cos Intermediario
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            12x R$ 101,65
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 1.219,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-pantalona-cos-intermediario-tricot-preto-236059" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#b9003d" color="#ffffff" border-radius="0px" border= "1.2px solid #b9003d" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-midi-evase-tricot-nude-235559"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355224/SAIA-MIDI-EVASE-TRICOT---CO-NUDE-PINK---38.jpg?v=637326728525030000"
+            title="Saia Midi Evase Tricot Nude"
+            alt="Saia Midi Evase Tricot Nude" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Midi Evase<br> Tricot Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            8x R$ 106,23
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 849,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-midi-evase-tricot-nude-235559" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#b9003d" color="#ffffff" border-radius="0px" border= "1.2px solid #b9003d" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-midi-reta-tricot-marrom-236051"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355236/SAIA-MIDI-RETA-TRICOT---CO-MARROM-LARANJA---38.jpg?v=637326728691430000"
+            title="Saia Midi Reta Tricot Marrom"
+            alt="Saia Midi Reta Tricot Marrom" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Midi Reta<br> Tricot Marrom
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 83,31
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/saia-midi-reta-tricot-marrom-236051" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#b9003d" color="#ffffff" border-radius="0px" border= "1.2px solid #b9003d" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-jogger-cos-elastico-com-recorte-preto-233515"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355027/CALCA-JOGGER-COS-ELASTICO-COM-RECORTE---CO-PRETO-VERDE-LIMA-OFF-WHITE---38.jpg?v=637326717876670000"
+            title="Calca Jogger Cos Elastico Com Recorte Preto"
+            alt="Calca Jogger Cos Elastico Com Recorte Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Jogger<br> Cos Elastico
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 76,65
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-jogger-cos-elastico-com-recorte-preto-233515" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#b9003d" color="#ffffff" border-radius="0px" border= "1.2px solid #b9003d" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-boxer-minha-morena-azul-234107"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/351838/SHORTS-BOXER-MINHA-MORENA---ES-AZUL-LARANJA---36.jpg?v=637326617217130000"
+            title="Shorts Boxer Minha Morena Azul"
+            alt="Shorts Boxer Minha Morena Azul" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Boxer<br> Minha Morena
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 319,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/shorts-boxer-minha-morena-azul-234107" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#b9003d" color="#ffffff" border-radius="0px" border= "1.2px solid #b9003d" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-frente-unica-recorte-frente-preto-234068"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/351806/VESTIDO-CURTO-FRENTE-UNICA-RECORTE-FRENTE---LI-PRETO---P.jpg?v=637326616688130000"
+            title="Vestido Curto Frente Unica Recorte Frente Preto"
+            alt="Vestido Curto Frente Unica Recorte Frente Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Curto<br> Frente Unica
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 76,65
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-curto-frente-unica-recorte-frente-preto-234068" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#b9003d" color="#ffffff" border-radius="0px" border= "1.2px solid #b9003d" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,50 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0px 0px 10px 0px">
+      <mj-group>
+        <mj-include path="../../../_shared/header/top-bar.mjml">
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="1px 0px" background-color="#000000">
+      <mj-column>
+        <mj-navbar base-url="https://www.leboh.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            font-family="Ubuntu, sans-serif"
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            Leboh.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="25px 0px">
+      <mj-column>
+        <mj-image
+          alt="Lebôh"
+          title="Lebôh"
+          href="https://www.leboh.com.br"
+          width="128px"
+          padding="0px 25px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/header/logo/leboh.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 25px 0px">
+      <mj-column>
+        <mj-navbar base-url="https://www.leboh.com.br">
+          <mj-navbar-link href="/blusas" padding="0px 15px" font-size="14px" color="#000">Blusas</mj-navbar-link>
+          <mj-navbar-link href="/vestidos" padding="0px 15px" font-size="14px" color="#000">Vestidos</mj-navbar-link>
+          <mj-navbar-link href="/calcas" padding="0px 15px" font-size="14px" color="#000">calças</mj-navbar-link>
+          <mj-navbar-link href="/lqda" padding="0px 15px" font-size="14.5px" color="#000" font-weight="600">LQDA</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

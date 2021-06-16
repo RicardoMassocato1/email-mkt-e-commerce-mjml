@@ -1,0 +1,221 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_04-08_Inverno-em-Cor/EmailMkt_inverno-topo.jpg"
+              title="Inverno em Cor"
+              alt="Inverno em Cor" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/vestido-longo-decote-v-com-cordao-preto-225914/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_04-08_Inverno-em-Cor/Vestido%20Longo%20Decote%20V%20Com%20Cordao%20Preto.jpg" 
+            title="Vestido Longo Decote V Com Cordao Preto" 
+            alt="Vestido Longo Decote V Com Cordao Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Longo Decote V Com Cordao
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 959,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 95,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#000000; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/vestido-longo-decote-v-com-cordao-preto-225914/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px"
+            href="https://www.mariavalentina.com.br/blusa-decote-transpassado-manga-curta-com-amarracao-laranja-228040/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_04-08_Inverno-em-Cor/Blusa%20Decote%20Transpassado%20Manga%20Curta%20Com%20Amarracao%20Laranja.jpg" 
+            title="Blusa Decote Transpassado Manga Curta Com Amarracao Laranja" 
+            alt="Blusa Decote Transpassado Manga Curta Com Amarracao Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Transpassado Manga Curta
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 56,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#000000; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-transpassado-manga-curta-com-amarracao-laranja-228040/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/camisa-manga-longa-abertura-lateral-ameixa-225864/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_04-08_Inverno-em-Cor/Camisa%20Manga%20Longa%20Abertura%20Lateral%20Ameixa.jpg" 
+            title="Camisa Manga Longa Abertura Lateral Ameixa" 
+            alt="Camisa Manga Longa Abertura Lateral Ameixa" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa Abertura Lateral
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 549,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 54,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#000000; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/camisa-manga-longa-abertura-lateral-ameixa-225864/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/blusa-decote-v-manga-longa-detalhe-no-pink-225781/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_04-08_Inverno-em-Cor/Blusa%20Decote%20V%20Manga%20Longa%20Detalhe%20No%20Pink.jpg" 
+            title="Blusa Decote V Manga Longa Detalhe No Pink" 
+            alt="Blusa Decote V Manga Longa Detalhe No Pink" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V Manga Longa D/ No Pink
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 56,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#000000; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-v-manga-longa-detalhe-no-pink-225781/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="0px 0px 20px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/blusas"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_04-08_Inverno-em-Cor/EmailMkt_inverno-blusas.jpg"
+              title="Blusas"
+              alt="Blusas" />
+      </mj-column>  
+    
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="0 0px 0px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/calcas"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_04-08_Inverno-em-Cor/EmailMkt_inverno-calcas.jpg"
+              title="Calças"
+              alt="Calças" />
+      </mj-column>  
+   
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="20px 0px 0 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/vestidos"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_04-08_Inverno-em-Cor/EmailMkt_inverno-vestidos.jpg"
+              title="Vestidos"
+              alt="Vestidos" />
+      </mj-column>  
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="10px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_04-08_Inverno-em-Cor/EmailMkt_inverno-rodape.jpg"
+              title="Inverno em Cor"
+              alt="Inverno em Cor" />
+      </mj-column>    
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

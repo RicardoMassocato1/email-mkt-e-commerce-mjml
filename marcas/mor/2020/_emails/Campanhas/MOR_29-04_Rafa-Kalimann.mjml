@@ -1,0 +1,188 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+      <!--topo -->
+      <mj-section>
+        <mj-column padding="0 0 20px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br"
+            title="Frete Grátis"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Campanha-Frete-Gratis/MOR_26-04_Frete-Gratis/frete_gratis_.gif" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?p=3&sort=OrderByReleaseDateDESC&_t=Poderes%20da%20Rafa%2520&pwaf_productClusterIds=280"
+            title="Poderes da RAFA"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Rafa-Kalimann/Prancheta%203-8.png" />
+        </mj-column>
+      </mj-section>
+      <!--topo -->
+
+    <mj-section padding="0px 5px 25px 5px">
+      <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-gola-alta-manga-longa-compose-de-tecidos-cobre-222412"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Rafa-Kalimann/Blusa%20Gola%20Alta%20Manga%20Longa%20Compose%20De%20Tecidos%20Cobre.jpg"
+            title="Blusa Gola Alta Manga Longa Compose De Tecidos Cobre"
+            alt="Blusa Gola Alta Manga Longa Compose De Tecidos Cobre" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Gola Alta Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 799,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 7x R$114,27</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #999999; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #999999;"
+              href="https://www.morenarosa.com.br/blusa-gola-alta-manga-longa-compose-de-tecidos-cobre-222412"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/jaqueta-esportiva-detalhe-ziper-verde-laranja-223975"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Rafa-Kalimann/Jaqueta%20Esportiva%20Detalhe%20Ziper%20Verde-Laranja.jpg"
+            title="Jaqueta Esportiva Detalhe Ziper Verde/Laranja"
+            alt="Jaqueta Esportiva Detalhe Ziper Verde/Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Esportiva Detalhe Ziper
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$99,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #999999; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #999999;"
+              href="https://www.morenarosa.com.br/jaqueta-esportiva-detalhe-ziper-verde-laranja-223975"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tenis-cano-medio-carimbo-personalizado-preto-225947"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_29-04_Rafa-Kalimann/Tenis%20Cano%20Medio%20Carimbo%20Personalizado%20Preto.jpg"
+            title="Tenis Cano Medio Carimbo Personalizado Preto"
+            alt="Tenis Cano Medio Carimbo Personalizado Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Tenis Cano Medio Carimbo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$66,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-size: 12px; color: #999999; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #999999;"
+              href="https://www.morenarosa.com.br/tenis-cano-medio-carimbo-personalizado-preto-225947"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

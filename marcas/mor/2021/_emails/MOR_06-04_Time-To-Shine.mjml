@@ -1,0 +1,74 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/roupas?pwaf_OrderByReleaseDateDESC=%2B&pwaf_53=preto"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_06-04_Time-To-Shine/Img/Email%20Mkt-topo.jpg"
+          alt="MR Time To Shine"
+          title="MR Time To Shine" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 20px"
+          width="600px"
+          href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-v-alca-com-metal-azul-247703/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_06-04_Time-To-Shine/Img/Email%20Mkt-01.jpg"
+          alt="Blusa Morena Rosa Decote V Alça Com Metal Azul"
+          title="Blusa Morena Rosa Decote V Alça Com Metal Azul" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 20px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestido-morena-rosa-altura-do-joelho-gola-alta-detalhe-tela-preto-247821/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_06-04_Time-To-Shine/Img/Email%20Mkt-02.jpg"
+          alt="Vestido Morena Rosa Altura Do Joelho Gola Alta Detalhe Tela Preto"
+          title="Vestido Morena Rosa Altura Do Joelho Gola Alta Detalhe Tela Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 20px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calca-morena-rosa-jogger-cos-intermediario-detalhe-lateral-preto-247904/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_06-04_Time-To-Shine/Img/Email%20Mkt-03.jpg"
+          alt="Calça Morena Rosa Jogger Cós Intermediário Detalhe Lateral Preto"
+          title="Calça Morena Rosa Jogger Cós Intermediário Detalhe Lateral Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/jeans?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Abril/MOR_06-04_Time-To-Shine/Img/Email%20Mkt-04.jpg"
+          alt="Morena Rosa Jeans"
+          title="Morena Rosa Jeans" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

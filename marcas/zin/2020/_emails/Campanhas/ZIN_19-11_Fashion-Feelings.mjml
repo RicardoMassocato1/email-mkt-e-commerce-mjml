@@ -1,0 +1,145 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-Friday/ofertas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_18-11_Fashion-Feelings/MV_EmailMkt_02-topo.jpg"
+          alt="Fashion Feelings"
+          title="Fashion Feelings" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="14px" padding="20px 0px 0px 0px" align="center" font-weight="400" line-height="22px" letter-spacing="0.5px">
+          <strong>#TBT</strong><br>
+          nossos queridinhos mais<br>
+          vendidos pra você
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="right" color="#000" font-weight="400" font-size="15px" padding="150px 0 10px 0">
+            Vestido Zinco Midi<br> Decote Redondo
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="8px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 279,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-midi-decote-redondo-com-babado-preto-227151/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="right" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-midi-decote-redondo-com-babado-preto-227151/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/207875/VESTIDO-MIDI-DECOTE-REDONDO-COM-BABADO---LI-PRETO---PP.jpg?v=637250818587730000"
+            title="Vestido Zinco Midi Decote Redondo Com Babado Preto"
+            alt="Vestido Zinco Midi Decote Redondo Com Babado Preto" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-cenoura-cos-alto-detalhe-pesponto-preto-223536/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/206975/14000105596000010-0-.jpg?v=637189509126370000"
+            title="Calça Zinco Cenoura Cós Alto Detalhe Pesponto Preto"
+            alt="Calça Zinco Cenoura Cós Alto Detalhe Pesponto Preto" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="left" color="#000" font-weight="400" font-size="15px" padding="135px 0 10px 0">
+            Calça Zinco Cenoura Cós Alto Detalhe Pesponto Preto
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="left" padding="0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="left" padding="8px 0">
+            6x de R$ 51,32
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 307,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/calca-zinco-cenoura-cos-alto-detalhe-pesponto-preto-223536/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="left" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text font-family="poppins, serif" align="right" color="#000" font-weight="400" font-size="15px" padding="135px 0 10px 0">
+            Body Zinco Gola<br> Alta Cavado Com <br>Retilínea Azul
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="8px 0">
+            4x de R$ 52,48
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 209,93
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/body-zinco-gola-alta-cavado-com-retilinea-azul-221761/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="right" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/body-zinco-gola-alta-cavado-com-retilinea-azul-221761/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/203899/BODY-GOLA-ALTA-CAVADO-COM-RETILINEA---LI-AZUL-MARINHO---PP.jpg?v=637172613372900000"
+            title="Body Zinco Gola Alta Cavado Com Retilínea Azul"
+            alt="Body Zinco Gola Alta Cavado Com Retilínea Azul" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

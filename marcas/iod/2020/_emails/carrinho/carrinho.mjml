@@ -1,0 +1,48 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\iod\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_25-03_Carrinho-abandonado/iodice.jpg"
+              alt="Desconto TODEVOLTA" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section>
+        <mj-column width="100%">
+          <mj-text font-family= "Poppins, sans-serif" padding="0px 50px 32px 50px" color="#585858" font-size="15px" align="center" line-height= "1.5" letter-spacing= "1.2px">olá, nome! você ainda pode levar
+os produtos que deixou no seu carrinho!</mj-text>
+          <mj-text font-family= "Poppins, sans-serif" padding="0px 50px 2px 50px" color="#585858" font-size="15px" align="center" line-height= "1.5" letter-spacing= "1.2px">aproveite o cupom</mj-text>
+          <mj-text font-family= "Poppins, sans-serif" padding="20px 50px 20px 50px" color="#585858" font-size="21px" align="center" font-weight="600" line-height= "1.5" letter-spacing= "1.2px">ESTOUDEVOLTA</mj-text>
+          <mj-text font-family= "Poppins, sans-serif" padding="0px 50px 2px 50px" color="#585858" font-size="15px" align="center" line-height= "1.5" letter-spacing= "1.2px">e ganhe <strong>10% DE DESCONTO</strong> para finalizar a sua compra.</mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="center">
+            <a
+              style="font-family: Poppins, sans-serif; text-decoration: none; background-color:#585858; letter-spacing: 1px; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 20px; padding: 15px 17px;"
+              href="https://www.zinco.com.br/"
+              title="Descubra">
+              <strong>FINALIZAR COMPRA ></strong>
+            </a>
+          </mj-text>
+          <mj-text font-family= "Open Sans, sans-serif"  padding="40px 50px 0px 50px" color="#585858" font-size="13px" align="center" line-height= "2" letter-spacing= "0.2px">sentiu dificuldade para finalizar sua compra?<br>caso precisar de ajuda, fala com a gente pelo chat, por email ou <a href="https://api.whatsapp.com/send?phone=554433515000" style="color: #585858;" title="WhatsApp"><strong>clique aqui</strong></a> para falar pelo whatsapp!</mj-text>
+        </mj-column>
+      </mj-section>
+    <!--main-->
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\iod\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,122 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=263"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_11-05_She-Looks-Like-Sun/Prancheta%201-01-min.jpg"
+          alt="Lançamento"
+          title="Lançamento" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#7c7b79" font-size="13px" padding="15px 20px 25px 20px" align="center" font-weight="400" line-height="20px" letter-spacing="1.1px">
+          Unimos a sofisticação das nossas peças com a qualidade da AcquaAroma, para criarmos campanhas lindas e com um perfume maravilhoso!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Novidades&pwaf_productClusterIds=253"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_11-05_She-Looks-Like-Sun/Prancheta%201-02-min.jpg"
+          alt="Maria.Valentina + AcquaAroma"
+          title="Maria.Valentina + AcquaAroma" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-transpassado-fio-metalizado-vermelho-251659"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_11-05_She-Looks-Like-Sun/Prancheta%201-03-min.jpg"
+          alt="Vestido Maria.Valentina Midi Decote Transpassado Fio Metalizado Vermelho"
+          title="Vestido Maria.Valentina Midi Decote Transpassado Fio Metalizado Vermelho" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestido-maria-valentina-curto-decote-redondo-bicolor-vermelho-251541/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_11-05_She-Looks-Like-Sun/Prancheta%201-04-min.jpg"
+          alt="Vestido Maria.Valentina Curto Decote Redondo Bicolor Vermelho"
+          title="Vestido Maria.Valentina Curto Decote Redondo Bicolor Vermelho" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_11-05_She-Looks-Like-Sun/Prancheta%201-05-min.jpg"
+          alt="Camisa Maria.Valentina Manga 3/4 Com Abertura Preto"
+          title="Camisa Maria.Valentina Manga 3/4 Com Abertura Preto" />
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.acquaaroma.com.br"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_11-05_She-Looks-Like-Sun/Prancheta%201-06-min.jpg"
+          alt="AcquaAroma + Maria.Valentina"
+          title="AcquaAroma + Maria.Valentina" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.acquaaroma.com.br/loja/kit-sabonete-em-barra-acqua-aroma-versailles-100g-04-unds-amber-floral-lily-vanilla"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_11-05_She-Looks-Like-Sun/Prancheta%201-07-min.jpg"
+          alt="Kit Sabonete Versailles 100g (Amber, Floral, Lily, Vanilla) - 04 Unds."
+          title="Kit Sabonete Versailles 100g (Amber, Floral, Lily, Vanilla) - 04 Unds." />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 30px 0px" background-color="#dcd8cd">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.acquaaroma.com.br/loja/sabonete-liquido-perolado-versailles-230ml-lily-rose"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Maio/MAR_11-05_She-Looks-Like-Sun/Prancheta%201-08-min.jpg"
+          alt="Sabonete Líquido Perolado 230ml Lily Rose - Versailles"
+          title="Sabonete Líquido Perolado 230ml Lily Rose - Versailles" />
+      </mj-column>
+    </mj-section>
+  
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

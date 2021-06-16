@@ -1,0 +1,50 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+    <mj-section padding="0px 0px 10px 0px">
+      <mj-group>
+        <mj-include path="../../../_shared/header/top-bar.mjml">
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="1px 0px" background-color="#000000">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link
+            padding="0"
+            href=""
+            text-transform="lowercase"
+            font-family="Roboto, serif"
+            font-size="12.2px"
+            color="#ffffff">
+            morenarosa.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="25px 0px">
+      <mj-column>
+        <mj-image
+          alt="Morena Rosa"
+          title="Morena Rosa"
+          href="https://www.morenarosa.com.br"
+          width="225px"
+          padding="0px 30px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/email_cores-padroes/Morena%20Rosa-min.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 25px 0px">
+      <mj-column>
+        <mj-navbar base-url="https://www.morenarosa.com.br">
+          <mj-navbar-link href="/roupas?pwaf_OrderByReleaseDateDESC=%2B" padding="0px 15px" font-size="14px" color="#000">Roupas</mj-navbar-link>
+          <mj-navbar-link href="/lingerie?pwaf_OrderByReleaseDateDESC=%2B" padding="0px 15px" font-size="14px" color="#000">Lingerie</mj-navbar-link>
+          <mj-navbar-link href="/praia?pwaf_OrderByReleaseDateDESC=%2B" padding="0px 15px" font-size="14px" color="#000">Praia</mj-navbar-link>
+          <mj-navbar-link href="/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=OUTLET%20Roupas&pwaf_productClusterIds=196" padding="0px 15px" font-size="14.5px" color="#000" font-weight="600">OUTLET</mj-navbar-link>
+
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

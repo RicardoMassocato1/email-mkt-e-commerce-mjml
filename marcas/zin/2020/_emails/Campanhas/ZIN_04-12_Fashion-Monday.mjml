@@ -1,0 +1,185 @@
+'<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-Friday/ofertas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_04-12_Fashion-Monday/MV_EmailMkt_04-topo.jpg"
+          alt="Fashion Monday"
+          title="Fashion Monday" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="13.5px" padding="20px 30px 0px 30px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+           Últimos dias para garantir seu produto com desconto!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/camisa-zinco-manga-longa-tinturada-branco-223997/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/204200/CAMISA-MANGA-LONGA-TINTURADA---LI-BRANCO---PP.jpg?v=637172619555830000"
+            title="Camisa Zinco Manga Longa Tinturada Branco"
+            alt="Camisa Zinco Manga Longa Tinturada Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Zinco Manga<br> Longa Tinturada Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 131,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/camisa-zinco-manga-longa-tinturada-branco-223997/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-zinco-five-pockets-com-desfiados-jeans-227118/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214454/SHORTS-FIVE-POCKETS-COM-DESFIADOS---LI-JEANS-ESCURO---34.jpg?v=637358665054200000"
+            title="Shorts Zinco Five Pockets Com Desfiados Jeans"
+            alt="Shorts Zinco Five Pockets Com Desfiados Jeans" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Zinco Five Pockets<br> Com Desfiados Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0px 0px">
+            Por: R$ 83,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/shorts-zinco-five-pockets-com-desfiados-jeans-227118/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-midi-decote-redondo-abertura-costas-branco-226631/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/207561/VESTIDO-MIDI-DECOTE-REDONDO-ABERTURA-COSTAS---ES-CRU---P.jpg?v=637250814484030000"
+            title="Vestido Zinco Midi Decote Redondo Abertura Costas Branco"
+            alt="Vestido Zinco Midi Decote Redondo Abertura Costas Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Midi Decote<br> Redondo Abertura<br> Costas Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 739,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 221,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-midi-decote-redondo-abertura-costas-branco-226631/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-skinny-regular-cos-intermediario-barra-desmanchada-jeans-226736/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/208552/CALCA-SKINNY-REGULAR-COS-INTERMEDIARIO-BARRA-DESMANCHADA---LI-JEANS-MEDIO---34.jpg?v=637250830813300000"
+            title="Calça Zinco Skinny Regular Cós Intermediário Barra Desmanchada Jeans"
+            alt="Calça Zinco Skinny Regular Cós Intermediário Barra Desmanchada Jeans" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Zinco Skinny Regular<br> Cós Intermediário Barra<br> Desmanchada Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 95,97<br><span style="font-size:11px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/calca-zinco-skinny-regular-cos-intermediario-barra-desmanchada-jeans-226736/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/feminino/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_04-12_Fashion-Monday/MV_EmailMkt_04-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/feminino/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_04-12_Fashion-Monday/MV_EmailMkt_04-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/feminino/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_04-12_Fashion-Monday/MV_EmailMkt_04-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

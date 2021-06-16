@@ -1,0 +1,191 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/black-friday/fashionween?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_04-11_Fashionweem/Fashionween-03-topo.jpg"
+          alt="Fashionween"
+          title="Fashionween" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-pantacourt-cos-alto-com-faixa-bege-227515/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/209482/CALCA-PANTACOURT-COS-ALTO-COM-FAIXA---LI-AREIA---34.jpg?v=637250843121230000"
+            title="Calca Pantacourt Cos Alto Com Faixa Bege"
+            alt="Calca Pantacourt Cos Alto Com Faixa Bege" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Pantacourt Cos<br> Alto Com Faixa Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 174,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/calca-pantacourt-cos-alto-com-faixa-bege-227515/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-decote-redondo-com-silk-azul-227296/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/209176/T-SHIRT-DECOTE-REDONDO-COM-SILK---LI-AZUL---PP.jpg?v=637250839027630000"
+            title="T-Shirt Decote Redondo Com Silk Azul"
+            alt="T-Shirt Decote Redondo Com Silk Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Decote Redondo<br> Com Silk Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 229,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 57,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 114,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/t-shirt-decote-redondo-com-silk-azul-227296/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-five-pockets-tinturado-bege-226893/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/208792/SHORTS-FIVE-POCKETS-TINTURADO---LI-AREIA---34.jpg?v=637250834261100000"
+            title="Shorts Five Pockets Tinturado Bege"
+            alt="Shorts Five Pockets Tinturado Bege" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Five Pockets<br> Tinturado Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 279,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,97
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/shorts-five-pockets-tinturado-bege-226893/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-tricot-bege-229818/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/208387/BLUSA-DECOTE-REDONDO-MANGA-LONGA-TRICOT---LT-AREIA---P.jpg?v=637250828359570000"
+            title="Blusa Decote Redondo Manga Longa Tricot Bege"
+            alt="Blusa Decote Redondo Manga Longa Tricot Bege" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Decote Redondo<br> Manga Longa Tricot Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 174,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-tricot-bege-229818/p" text-decoration="none" inner-padding="8px 19px" align="center" font-weight="600" font-size="13px" padding="15px 0px" background-color="#000" color="#e2524a" border-radius="0px" border= "0px solid #e2524a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.zinco.com.br/feminino/blusas?map=c,c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_04-11_Fashionweem/Fashionween-03-blusas.jpg"
+            alt="Blusas"
+            title="Blusas" />
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.zinco.com.br/feminino/calcas?map=c,c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_04-11_Fashionweem/Fashionween-03-calcas.jpg"
+            alt="Calças"
+            title="Calças" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.zinco.com.br/feminino/vestidos?map=c,c&O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Novembro/ZIN_04-11_Fashionweem/Fashionween-03-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

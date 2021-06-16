@@ -1,0 +1,227 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Preview&pwaf_productClusterIds=199"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_17-04_Recortes-Metalizados/03-EmailMKT-recorte%20metalizado-topo.jpg" 
+            alt="The Denim Gallery"
+            title="The Denim Gallery" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+      <mj-group>
+        <mj-column>
+          <mj-image
+            title="Recortes Metalizados"
+            padding="0px 0 20px 0"
+            align="left"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Preview&pwaf_productClusterIds=199"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_17-04_Recortes-Metalizados/03-EmailMKT-recorte%20metalizado-imagem.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" >
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#669999"
+            font-size="23px"
+            padding="0px 10px 0px 20px"
+            align="right"
+            font-weight="300"
+            line-height="26px"
+            letter-spacing="1px">
+            Recortes<br>Metalizados
+          </mj-text>
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#669999"
+            font-size="10px"
+            padding="7px 10px 8px 20px"
+            align="right"
+            font-weight="300">
+            Uma nova proposta para os recortes no jeans, que traz a sofisticação da mistura de tecidos em peças ousadas como o macacão e calça mom.
+          </mj-text>
+          <mj-text align="right">
+              <a
+                style="letter-spacing:1px;text-decoration: none; text-transform: uppercase; font-size: 9px; color: #669999; display: inline-block; margin-top: 0px; padding: 4px 15px; border: 1px solid #669999;"
+                href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Preview&pwaf_productClusterIds=199"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+        </mj-column>
+        </mj-group>
+      </mj-section>
+
+
+      <mj-section padding="0px 0px">
+        <mj-group>
+
+          <mj-column padding="0 5px 20px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/jaqueta-cropped-bicolor-azul-branco-226268"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_17-04_Recortes-Metalizados/JAQUETA%20CROPPED%20BICOLOR%20AZUL-BRANCO.jpg"
+            title="JAQUETA CROPPED BICOLOR AZUL/BRANCO"
+            alt="JAQUETA CROPPED BICOLOR AZUL/BRANCO" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Cropped Bicolor
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 579,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 96,65</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/jaqueta-cropped-bicolor-azul-branco-226268"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-boyfriend-compose-de-tecidos-azul-branco-222917"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_17-04_Recortes-Metalizados/SHORTS%20BOYFRIEND%20COMPOSE%20DE%20TECIDOS%20AZUL-BRANCO.jpg"
+            title="SHORTS BOYFRIEND COMPOSE DE TECIDOS AZUL/BRANCO"
+            alt="SHORTS BOYFRIEND COMPOSE DE TECIDOS AZUL/BRANCO" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Boyfriend Compose
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 58,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/shorts-boyfriend-compose-de-tecidos-azul-branco-222917"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-mom-cos-intermediario-compose-tecido-azul-branco-222914"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_17-04_Recortes-Metalizados/CALCA%20MOM%20COS%20INTERMEDIARIO%20COMPOSE%20TECIDO%20AZUL-BRANCO.jpg"
+            title="CALCA MOM COS INTERMEDIARIO COMPOSE TECIDO AZUL/BRANCO"
+            alt="CALCA MOM COS INTERMEDIARIO COMPOSE TECIDO AZUL/BRANCO" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Mom Cos Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 99,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/calca-mom-cos-intermediario-compose-tecido-azul-branco-222914"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,123 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column background-color="#F2ECE4">
+          <mj-text
+            color="#B1A69B"
+            font-size="18px"
+            padding="40px 30px"
+            line-height="22px"
+            align="center"
+            font-weight="300">
+            <strong>*|FIRST_NAME|*</strong>, este mês celebramos a vida que recomeça.
+            <br/>
+            As boas histórias e os bons encontros.
+            <br/>
+            Celebramos você!
+          </mj-text>
+          <mj-image
+            padding="0"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/aniversario/aniversario.png"
+            alt="Feliz aniversário!" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column padding-top="50px">
+          <mj-text
+            color="#999999"
+            font-size="16px"
+            padding="0 0 10px 0"
+            align="center"
+            font-weight="300"
+            text-transform="uppercase">
+            E para comemorar:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column background-color="#D3C4B0" width="230px">
+          <mj-text
+            color="#ffffff"
+            font-size="40px"
+            padding="10px"
+            align="center"
+            font-weight="700"
+            letter-spacing="5px"
+            text-transform="uppercase">
+            10% OFF
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column background-color="#F2ECE4" width="230px">
+          <mj-text
+            color="#D3C4B0"
+            font-size="18px"
+            padding="10px"
+            font-weight="300"
+            align="center">
+            em nossa loja virtual
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text
+            color="#A1A1A1"
+            font-size="12px"
+            padding="10px"
+            font-weight="300"
+            align="center">
+            Válido exclusivamente para você durante todo este mês. <br/> Use o cupom abaixo e aproveite!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text
+            color="#A1A1A1"
+            font-size="12px"
+            padding="10px 0 0 0"
+            font-weight="300"
+            align="center">
+            cupom:
+          </mj-text>
+          <mj-text
+            color="#D3C4B0"
+            font-size="34px"
+            padding="0"
+            font-weight="700"
+            align="center"
+            text-transform="uppercase">
+            parabens
+          </mj-text>
+          <mj-text padding="20px 0 0 0" align="center">
+            <a
+              style="font-weight: 300; border: 1px solid #D3C4B0; color: #D3C4B0; text-decoration: none; text-transform: uppercase; font-size: 18px; display: inline-block; margin: 10px 0 0 0;padding: 5px 10px;"
+              href="#"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

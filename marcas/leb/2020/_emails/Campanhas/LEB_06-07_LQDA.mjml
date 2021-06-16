@@ -1,0 +1,306 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/must-have"
+            width="600px"
+            padding="0"
+            alt="LQDA"
+            title="LQDA"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_06-07_LQDA/lbh-02-topo.jpg" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#b52034"
+            font-size="19px"
+            padding="20px 0px 5px 25px"
+            align="left"
+            line-height="22px"
+            font-weight="500">
+            must have
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#b52034"
+            font-size="14px"
+            padding="0px 0px 10px 25px"
+            align="left"
+            line-height="16px"
+            font-weight="500">
+            nossos looks queridinhos com<br> até 50% OFF! aproveite!
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="40px 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macacao-alfaiataria-bolso-faca-marrom-225529/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_06-07_LQDA/Macacao%20Alfaiataria%20Bolso%20Faca%20Marrom.jpg"
+            title="Macacao Alfaiataria Bolso Faca Marrom"
+            alt="Macacao Alfaiataria Bolso Faca Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Alfaiataria
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 599,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 359,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 51,42</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/macacao-alfaiataria-bolso-faca-marrom-225529/p"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="40px 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/parka-com-capuz-verde-223800/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_06-07_LQDA/Parka%20Com%20Capuz%20Verde.jpg"
+            title="Parka Com Capuz Verde"
+            alt="Parka Com Capuz Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Parka Com Capuz
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 689,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 413,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">8x de R$ 51,74</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/parka-com-capuz-verde-223800/p"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blazer-alongado-roxo-225248/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_06-07_LQDA/Blazer%20Alongado%20Roxo.jpg"
+            title="Blazer Alongado Roxo"
+            alt="Blazer Alongado Roxo" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blazer Alongado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 409,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 245,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 61,48</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/blazer-alongado-roxo-225248/p"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/camisa-manga-longa-com-vivos-preto-223708/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_06-07_LQDA/Camisa%20Manga%20Longa%20Com%20Vivos%20Preto.jpg"
+            title="Camisa Manga Longa Com Vivos Preto"
+            alt="Camisa Manga Longa Com Vivos Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 339,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 203,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 50,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 600; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/camisa-manga-longa-com-vivos-preto-223708/p"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px 30px 0px">
+      <mj-group>
+      <mj-column width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_06-07_LQDA/lbh-02-blusas.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos"
+            width="600px"
+            padding="15px 0px"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_06-07_LQDA/lbh-02-vestidos.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas"
+            width="600px"
+            padding="0"
+            alt="Calças"
+            title="Calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_06-07_LQDA/lbh-02-calcas.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

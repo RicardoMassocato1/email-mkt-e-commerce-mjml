@@ -1,0 +1,199 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_06-01_LQDA/Email%201-topo.jpg"
+          alt="LQDA com até 50% OFF"
+          title="LQDA com até 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#e5ddd2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-reta-cos-intermediario-botoes-perna-azul-235454"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355526/CALCA-RETA-COS-INTERMEDIARIO-BOTOES-PERNA---LI-TURQUESA---36.jpg?v=637327742917430000"
+            title="Calça Morena Rosa Reta Cós Intermediário Botões Perna Azul"
+            alt="Calça Morena Rosa Reta Cós Intermediário Botões Perna Azul" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa Reta<br> Cós Intermediário Botões<br> Perna Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 579,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 57,99
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 289,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-reta-cos-intermediario-botoes-perna-azul-235454" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-v-alca-detalhe-costas-azul-235426"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355506/BLUSA-DECOTE-V-ALCA-DETALHE-COSTAS---LI-TURQUESA---PP.jpg?v=637327742659430000"
+            title="Blusa Morena Rosa Decote V Alça Detalhe Costas Azul"
+            alt="Blusa Morena Rosa Decote V Alça Detalhe Costas Azul" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Morena Rosa<br> Decote V Alça Detalhe<br> Costas Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-v-alca-detalhe-costas-azul-235426" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#e5ddd2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-v-com-fenda-preto-233961"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355043/VESTIDO-CURTO-DECOTE-V-COM-FENDA---LI-PRETO---P.jpg?v=637326718680300000"
+            title="Vestido Morena Rosa Curto Decote V Com Fenda Preto"
+            alt="Vestido Morena Rosa Curto Decote V Com Fenda Preto" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena Rosa<br> Curto Decote V Com<br> Fenda Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 57,48
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 229,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-curto-decote-v-com-fenda-preto-233961" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-comfort-cos-elastico-detalhe-vivo-laranja-235390"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355450/CALCA-COMFORT-COS-ELASTICO-DETALHE-VIVO---CO-CAQUI-LARANJA-ROSA---36.jpg?v=637327741760470000"
+            title="Calça Morena Rosa Comfort Cós Elástico Detalhe Vivo Laranja"
+            alt="Calça Morena Rosa Comfort Cós Elástico Detalhe Vivo Laranja" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa<br> Comfort Cós Elástico<br> Detalhe Vivo Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 549,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 54,99
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 274,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-comfort-cos-elastico-detalhe-vivo-laranja-235390" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#e5ddd2">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#e2442b" font-size="14px" padding="20px 0px 10px 0px" align="center" font-weight="800" line-height="21px" letter-spacing="2.5px">
+          Compre por<br> categoria
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#e5ddd2">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Blusas&pwaf_productClusterIds=234"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_06-01_LQDA/Email%201-blusas.jpg"
+            alt="Blusas"
+            title="Blusas" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=160"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_06-01_LQDA/Email%201-calcas.jpg"
+            alt="Calças"
+            title="Calças" />
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestidos&pwaf_productClusterIds=244"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_06-01_LQDA/Email%201-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

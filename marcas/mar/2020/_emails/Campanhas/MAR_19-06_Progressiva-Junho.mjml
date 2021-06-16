@@ -1,0 +1,308 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 30px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lqda"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Progressiva-Junho/MAR_19-06_Progressiva-Junho/Email%20mkt-03-topo.jpg"
+            title="Mais looks por Menos"
+            alt="Mais looks por Menos" />
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="30px" padding="0px 10px" align="center" font-weight="600" line-height="37px" letter-spacing="7px">
+            COMBINE<br> COM
+          </mj-text>
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="14px" padding="20px 0px" align="center" font-weight="500" line-height="18px" letter-spacing="2.5px">
+            Peças chaves que vão bem em<br> qualquer look
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="40px 0px 0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="22px" align="center" font-weight="600" line-height="37px" letter-spacing="4px">
+            CAMISAS + JEANS
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/camisa-manga-longa-abertura-lateral-azul-211193/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Progressiva-Junho/MAR_19-06_Progressiva-Junho/Camisa%20Manga%20Longa%20Abertura%20Lateral%20Azul.jpg" 
+            title="Camisa Manga Longa Abertura Lateral Azul" 
+            alt="Camisa Manga Longa Abertura Lateral Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 307,93</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 51,32</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/camisa-manga-longa-abertura-lateral-azul-211193/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/calca-boot-cut-cos-intermediario-abertura-barra-preto-208283/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Progressiva-Junho/MAR_19-06_Progressiva-Junho/Calca%20Boot%20Cut%20Cos%20Intermediario%20Abertura%20Barra%20Preto.jpg" 
+            title="Calca Boot Cut Cos Intermediario Abertura Barra Preto" 
+            alt="Calca Boot Cut Cos Intermediario Abertura Barra Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Boot Cut Cos Interm.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 279,93</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 55,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/calca-boot-cut-cos-intermediario-abertura-barra-preto-208283/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="30px 0px 0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="22px" align="center" font-weight="600" line-height="37px" letter-spacing="4px">
+            SAIA + BLUSA
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/saia-curta-lapis-detalhe-galao-vermelho-214950/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Progressiva-Junho/MAR_19-06_Progressiva-Junho/Saia%20Curta%20Lapis%20Detalhe%20Galao%20Vermelho.jpg" 
+            title="Saia Curta Lapis Detalhe Galao Vermelho" 
+            alt="Saia Curta Lapis Detalhe Galao Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Lapis
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 272,93</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 54,58</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/saia-curta-lapis-detalhe-galao-vermelho-214950/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/blusa-ombro-so-manga-unica-bicolor-laranja-208269/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Progressiva-Junho/MAR_19-06_Progressiva-Junho/Blusa%20Ombro%20So%20Manga%20Unica%20Bicolor%20Laranja.jpg" 
+            title="Blusa Ombro So Manga Unica Bicolor Laranja" 
+            alt="Blusa Ombro So Manga Unica Bicolor Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Ombro So Manga
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 209,93</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 52,48</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/blusa-ombro-so-manga-unica-bicolor-laranja-208269/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="30px 0px 0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="22px" align="center" font-weight="600" line-height="37px" letter-spacing="4px">
+            VESTIDO + ACESSORIOS
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/vestido-midi-decote-v-com-botao-estampado-nude-marinho-213359/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Progressiva-Junho/MAR_19-06_Progressiva-Junho/Vestido%20Midi%20Decote%20V%20Com%20Botao%20Estampado%20Nude-Marinho.jpg" 
+            title="Vestido Midi Decote V Com Botao Estampado Nude/Marinho" 
+            alt="Vestido Midi Decote V Com Botao Estampado Nude/Marinho" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 689,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 482,93</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">9x de R$ 53,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/vestido-midi-decote-v-com-botao-estampado-nude-marinho-213359/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/bolsa-shopping-detalhe-tresse-preto-193781/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Progressiva-Junho/MAR_19-06_Progressiva-Junho/Bolsa%20Shopping%20Detalhe%20Tresse%20Preto%20-%20TU.jpg" 
+            title="Bolsa Shopping Detalhe Tresse Preto - TU" 
+            alt="Bolsa Shopping Detalhe Tresse Preto - TU" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Bolsa Shopping Tresse
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text text-decoration="line-through" color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+              <span style="display: block; padding-top: 10px">R$ 799,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 559,93</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 55,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #000000;" 
+              href="https://www.mariavalentina.com.br/bolsa-shopping-detalhe-tresse-preto-193781/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="10px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lqda"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Progressiva-Junho/MAR_19-06_Progressiva-Junho/Email%20mkt-03-rodape.jpg"
+            title="Mais por Menos"
+            alt="Mais por Menos" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,161 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/lancamento?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Frete Grátis acima da compra de duas peças"
+            title="Frete Grátis acima da compra de duas peças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Novembro/MAR_02-11_Frete-Gratis-2-peca/MV_EmailMkt_02-topo-02.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="0">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="14px" padding="30px 0px 20px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="0.5px">
+            Está aberta a temporada de sol, calor e muitos<br> 
+            vestidos! Monte seu look e ganhe frete grátis<br> 
+            na compra de duas peças ou mais.
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-curto-decote-redondo-dupla-face-pink-240856/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/233475/VESTIDO-CURTO-DECOTE-REDONDO-DUPLA-FACE---ES-FUCSIA-CRU---PP.jpg?v=637377926106230000"
+            title="Vestido Curto Decote Redondo Dupla Face Pink"
+            alt="Vestido Curto Decote Redondo Dupla Face Pink" />
+        </mj-column>
+
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 170px 0px 10px 0px; margin: 0px;">
+              Vestido Curto Decote<br> Redondo Dupla Face
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            7x de R$ 55,70
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 389,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/vestido-curto-decote-redondo-dupla-face-pink-240856/p" font-family="Roboto, sans-serif" text-decoration="underline" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="700" font-size="12px" padding="10px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 170px 0px 10px 0px; margin: 0px;">
+              Vestido Midi Decote V<br> Com Camadas Off White
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="right" padding="7px 0">
+            10x de R$ 69,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 699,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/vestido-midi-decote-v-com-camadas-off-white-238896/p" font-family="Roboto, sans-serif" text-decoration="underline" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="700" font-size="12px" padding="10px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-midi-decote-v-com-camadas-off-white-238896/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232994/VESTIDO-MIDI-DECOTE-V-COM-CAMADAS---LI-OFF-WHITE---PP.jpg?v=637377918150500000"
+            title="Vestido Midi Decote V Com Camadas Off White"
+            alt="Vestido Midi Decote V Com Camadas Off White" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-longo-decote-quadrado-bordado-laranja-238754/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232773/VESTIDO-LONGO-DECOTE-QUADRADO-BORDADO---LI-PITANGA---PP.jpg?v=637377913033230000"
+            title="Vestido Longo Decote Quadrado Bordado Laranja"
+            alt="Vestido Longo Decote Quadrado Bordado Laranja" />
+        </mj-column>
+
+        <mj-column padding="0px 5px 10px 5px">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Roboto, sans-serif; color: #000000; font-weight: 400; font-size: 15px; padding: 170px 0px 10px 0px; margin: 0px;">
+              Vestido Longo Decote<br> Quadrado Bordado
+            </h1>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            10x de R$ 82,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 829,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/vestido-longo-decote-quadrado-bordado-laranja-238754/p" font-family="Roboto, sans-serif" text-decoration="underline" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="700" font-size="12px" padding="10px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Novembro/MAR_02-11_Frete-Gratis-2-peca/MV_EmailMkt_02-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.mariavalentina.com.br/acessorios?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Acessórios"
+            title="Acessórios"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Novembro/MAR_02-11_Frete-Gratis-2-peca/MV_EmailMkt_02-acessorios.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

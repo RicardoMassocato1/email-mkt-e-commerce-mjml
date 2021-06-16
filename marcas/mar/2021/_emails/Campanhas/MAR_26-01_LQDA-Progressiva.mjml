@@ -1,0 +1,197 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_26-01_LQDA-Progressiva/MV_EmailMkt_01-topo.jpg"
+          alt="LQDA Progressiva"
+          title="LQDA Progressiva" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="Roboto, sans-serif" color="#000000" font-size="15px" padding="30px 0px 20px 0px" align="center" font-weight="400" line-height="21px" letter-spacing="1.5px">
+          Looks completos com descontos<br>
+          progressivos de <strong>até 50% OFF!</strong><br> 
+          Aproveite!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/blusa-maria-valentina-decote-v-manga-curta-com-amarracao-nude-235832/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/231466/BLUSA-DECOTE-V-MANGA-CURTA-COM-AMARRACAO---ES-CRU-PRETO---PP.jpg?v=637327847084830000"
+            title="Blusa Maria.Valentina Decote V Manga Curta Com Amarração Nude"
+            alt="Blusa Maria.Valentina Decote V Manga Curta Com Amarração Nude" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Maria.Valentina<br> Decote V Manga Curta<br> Com Amarração Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 199,95<br><span style="font-weight:300; font-size:10.3px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/blusa-maria-valentina-decote-v-manga-curta-com-amarracao-nude-235832/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-reta-cos-intermediario-basica-preto-235881/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/231640/CALCA-RETA-COS-INTERMEDIARIO-BASICA---LI-PRETO---36.jpg?v=637327849677870000"
+            title="Calça Maria.Valentina Reta Cós Intermediário Básica Preto"
+            alt="Calça Maria.Valentina Reta Cós Intermediário Básica Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Maria.Valentina<br> Reta Cós Intermediário<br> Básica Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 619,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 309,95<br><span style="font-weight:300; font-size:10.3px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-reta-cos-intermediario-basica-preto-235881/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-maria-valentina-straight-m--helena-cos-intermediario-bolso-faca-verde-226832/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/232551/12000203328000034-0-.jpg?v=637346438855470000"
+            title="Calça Maria.Valentina Straight M. Helena Cós Intermediário Bolso Faca Verde"
+            alt="Calça Maria.Valentina Straight M. Helena Cós Intermediário Bolso Faca Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Maria.Valentina<br> Straight M. Helena Cós<br> Intermediário Bol...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 194,95<br><span style="font-weight:300; font-size:10.3px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/calca-maria-valentina-straight-m--helena-cos-intermediario-bolso-faca-verde-226832/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/blusa-maria-valentina-gola-alta-cavada-basica-bege-227536/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/228255/BLUSA-GOLA-ALTA-CAVADA-BASICA---LI-AREIA---PP.jpg?v=637237998477200000"
+            title="Blusa Maria.Valentina Gola Alta Cavada Básica Bege"
+            alt="Blusa Maria.Valentina Gola Alta Cavada Básica Bege" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Maria.Valentina<br> Gola Alta Cavada Básica<br> Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 149,95<br><span style="font-weight:300; font-size:10.3px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/blusa-maria-valentina-gola-alta-cavada-basica-bege-227536/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0.3px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="Roboto, sans-serif" color="#000000" text-transform="uppercase" font-size="14px" padding="40px 0px 40px 0px" align="center" font-weight="500" line-height="0px" letter-spacing="3.5px">
+          COMPRE POR CATEGORIA:
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_26-01_LQDA-Progressiva/MV_EmailMkt_01-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_26-01_LQDA-Progressiva/MV_EmailMkt_01-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Janeiro/MAR_26-01_LQDA-Progressiva/MV_EmailMkt_01-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

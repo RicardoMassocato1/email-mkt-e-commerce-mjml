@@ -1,0 +1,176 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 20px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_30-09_Lancamento/emailmkt_06-01.jpg"
+          alt="Tem que ter no armário"
+          title="Tem que ter no armário" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 10px" background-color="#bb2c28">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#fff" font-size="12.5px" padding="10px 0px" align="center" font-weight="300" line-height="20px" letter-spacing="1.5px">
+          Fizemos uma seleção especial de peças que você tem que ter no armário!
+          Apostamos nas peças coringas de nylon, que aparecem numa pegada moderna
+          e cool, com detalhes de brilho e relevo, são peças certas para criar o famoso 
+          "aero look" com pegada esportiva.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-boxer-com-recorte-preto-234937/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213132/SHORTS-BOXER-COM-RECORTE---LI-PRETO---36.jpg?v=637327763383970000"
+            title="Shorts Boxer Com Recorte Preto"
+            alt="Shorts Boxer Com Recorte Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Boxer Com<br> Recorte Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 52,84
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/shorts-boxer-com-recorte-preto-234937/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#3c3636" color="#c12d23" border-radius="0px" border= "1px solid #c12d23" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/jaqueta-bomber-com-recorte-preto-233319/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212829/JAQUETA-BOMBER-COM-RECORTE---LI-PRETO---P.jpg?v=637327756318330000"
+            title="Jaqueta Bomber Com Recorte Preto"
+            alt="Jaqueta Bomber Com Recorte Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Bomber Com<br> Recorte Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 55,54
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/jaqueta-bomber-com-recorte-preto-233319/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#3c3636" color="#c12d23" border-radius="0px" border= "1px solid #c12d23" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-sport-cos-alto-com-recorte-branco-233315/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/212817/CALCA-SPORT-COS-ALTO-COM-RECORTE---LI-BRANCO---36.jpg?v=637327756133800000"
+            title="Calca Sport Cos Alto Com Recorte Branco"
+            alt="Calca Sport Cos Alto Com Recorte Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Sport Cos Alto<br> Com Recorte Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            10x de R$ 54,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/calca-sport-cos-alto-com-recorte-branco-233315/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#3c3636" color="#c12d23" border-radius="0px" border= "1px solid #c12d23" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-boxer-com-silk-branco-232079/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214137/SHORTS-BOXER-COM-SILK---LI-BRANCO---34.jpg?v=637327780153500000"
+            title="Shorts Boxer Com Silk Branco"
+            alt="Shorts Boxer Com Silk Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Boxer Com<br> Silk Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/shorts-boxer-com-silk-branco-232079/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#3c3636" color="#c12d23" border-radius="0px" border= "1px solid #c12d23" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 10px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_30-09_Lancamento/emailmkt_06-04.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Lancamento-Agosto/ZIN_30-09_Lancamento/emailmkt_06-03.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

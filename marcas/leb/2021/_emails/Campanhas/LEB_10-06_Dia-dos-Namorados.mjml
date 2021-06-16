@@ -1,0 +1,82 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lancamento?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_10-06_Dia-dos-Namorados/namos-lbh-02-topo-min.jpg"
+            alt="Dia dos Namorados"
+            title="Dia dos Namorados" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#fff"> 
+      <mj-column padding="30px 0px 30px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#ef4848" font-size="14.5px" padding="0px 20px 0px 20px" align= "center" font-weight="500" line-height="17px" letter-spacing="2px">
+          Site todo com Frete Grátis para você garantir looks lindos e os vestidos queridinhos para curtir o Dia dos Namorados com a Lebôh!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/vestido-leboh-curto-decote-v-abertura-decote-off-white-260100/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_10-06_Dia-dos-Namorados/namos-lbh-02-01-min.jpg"
+            alt="Vestido Lebôh Curto Decote V Abertura Decote Off White"
+            title="Vestido Lebôh Curto Decote V Abertura Decote Off White" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/vestido-leboh-longo-decote-redondo-bicolor-preto-260029/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_10-06_Dia-dos-Namorados/namos-lbh-02-02-min.jpg"
+            alt="Vestido Lebôh Longo Decote Redondo Bicolor Preto"
+            title="Vestido Lebôh Longo Decote Redondo Bicolor Preto" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-v-com-fenda-preto-244055/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_10-06_Dia-dos-Namorados/namos-lbh-02-03-min.jpg"
+            alt="Vestido Lebôh Midi Decote V Com Fenda Preto"
+            title="Vestido Lebôh Midi Decote V Com Fenda Preto" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 10px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/vestido-leboh-curto-gola-polo-compose-de-tecidos-preto-261159/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_10-06_Dia-dos-Namorados/namos-lbh-02-04-min.jpg"
+            alt="Vestido Lebôh Curto Gola Polo Composê De Tecidos Preto"
+            title="Vestido Lebôh Curto Gola Polo Composê De Tecidos Preto" />
+        </mj-column>
+    </mj-section>
+  
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,232 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="0px 10px">
+        <mj-column padding="0 0 10px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lancamento?O=OrderByTopSaleDESC"
+            width="600px"
+            padding="0"
+            alt="#tbt"
+            title="#tbt"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_30-04_%23TBT-do-M%C3%AAs/Email-MKT-04-topo.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0 20px 0" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lancamento?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Semana do Frete Grátis"
+            title="Semana do Frete Grátis"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_30-04_%23TBT-do-M%C3%AAs/Email-MKT-04-frete.jpg" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 5px 0 5px">
+        <mj-group>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/vestido-assimetrico-decote-redondo-com-amarracao-bege-223723/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_30-04_%23TBT-do-M%C3%AAs/Vestido%20Assimetrico%20Decote%20Redondo%20Com%20Amarracao%20Bege.jpg"
+              title="Vestido Assimetrico Decote Redondo Com Amarracao Bege"
+              alt="Vestido Assimetrico Decote Redondo Com Amarracao Bege" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Assimetrico Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 439,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">8x de R$ 54,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/vestido-assimetrico-decote-redondo-com-amarracao-bege-223723/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-mom-cos-alto-com-tie-dye-preto-225824/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_30-04_%23TBT-do-M%C3%AAs/Calca%20Mom%20Cos%20Alto%20Com%20Tie%20Dye%20Preto.jpg"
+              title="Calca Mom Cos Alto Com Tie Dye Preto"
+              alt="Calca Mom Cos Alto Com Tie Dye Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Mom Cos Alto Com Tie Dye Preto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">5x de R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/calca-mom-cos-alto-com-tie-dye-preto-225824/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/jaqueta-bomber-compose-de-tecidos-verde-vinho-laranja-225723/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_30-04_%23TBT-do-M%C3%AAs/Jaqueta%20Bomber%20Compose%20De%20Tecidos%20Verde-Vinho-Laranja.jpg"
+              title="Jaqueta Bomber Compose De Tecidos Verde/Vinho/Laranja"
+              alt="Jaqueta Bomber Compose De Tecidos Verde/Vinho/Laranja" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Jaqueta Bomber Compose De Tecidos
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 389,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">7x de R$ 55,70</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/jaqueta-bomber-compose-de-tecidos-verde-vinho-laranja-225723/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/calca-boot-cut-gigi-cos-alto-galao-lateral-jeans-225586/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_30-04_%23TBT-do-M%C3%AAs/Calca%20Boot%20Cut%20Gigi%20Cos%20Alto%20Galao%20Lateral%20Jeans.jpg"
+              title="Calca Boot Cut Gigi Cos Alto Galao Lateral Jeans"
+              alt="Calca Boot Cut Gigi Cos Alto Galao Lateral Jeans" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Boot Cut Gigi Cos Alto Galao
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 319,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">6x de R$ 53,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/calca-boot-cut-gigi-cos-alto-galao-lateral-jeans-225586/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

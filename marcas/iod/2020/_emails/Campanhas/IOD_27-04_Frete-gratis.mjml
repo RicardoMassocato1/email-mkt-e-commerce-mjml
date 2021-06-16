@@ -1,0 +1,227 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_27-04_Frete-gratis/Email-MKT-02-topo.jpg" 
+            alt="Semana Frete Grátis"
+            title="Semana Frete Grátis"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column padding="0px 0 0px 0px">
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#669999"
+            font-size="14px"
+            padding="7px 0px 5px 0px"
+            align="center"
+            font-weight="300"
+            letter-spacing="0.2px"
+            line-height="19px">
+            Aproveite e garanta o seu look exclusivo sem <br>pagar frete
+          </mj-text>
+          <mj-text align="center">
+              <a
+                style="letter-spacing:1px;text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; background-color:#669999; display: inline-block; padding: 6px 10px; border: 1px solid #669999;"
+                href="https://www.iodice.com.br"
+                title="Shop now">
+                Shop now
+              </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-midi-gola-lapela-com-bolso-laranja-222549"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_27-04_Frete-gratis/VESTIDO%20MIDI%20GOLA%20LAPELA%20COM%20BOLSO%20LARANJA.jpg"
+            title="VESTIDO MIDI GOLA LAPELA COM BOLSO LARANJA"
+            alt="VESTIDO MIDI GOLA LAPELA COM BOLSO LARANJA" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Gola Lapela
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 849,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 8x R$106,23</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/vestido-midi-gola-lapela-com-bolso-laranja-222549"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blusa-gola-alta-manga-longa-abertura-lateral-marrom-224474"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_27-04_Frete-gratis/BLUSA%20GOLA%20ALTA%20MANGA%20LONGA%20ABERTURA%20LATERAL%20MARROM.jpg"
+            title="BLUSA GOLA ALTA MANGA LONGA ABERTURA LATERAL MARROM"
+            alt="BLUSA GOLA ALTA MANGA LONGA ABERTURA LATERAL MARROM" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Gola Alta Manga L.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 479,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$79,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/blusa-gola-alta-manga-longa-abertura-lateral-marrom-224474"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-midi-decote-v-transpasse-frente-verde-oliva-223110"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_26-04_Frete-gratis/MACACAO%20RETO%20COM%20FAIXA%20BEGE.jpg"
+            title="VESTIDO MIDI DECOTE V TRANSPASSE FRENTE VERDE OLIVA"
+            alt="VESTIDO MIDI DECOTE V TRANSPASSE FRENTE VERDE OLIVA" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#999999"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 749,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#999999"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 7x R$107,12</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #606158;"
+              href="https://www.iodice.com.br/vestido-midi-decote-v-transpasse-frente-verde-oliva-223110"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="50px 0 20px 0">
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_27-04_Frete-gratis/Email-MKT-02-blusas.jpg" 
+            alt="Blusas"
+            title="Blusas"/>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0 10px 0">
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Campanha%20Frete%20Gratis%20%28Abril-20%29/IOD_27-04_Frete-gratis/Email-MKT-02-vestidos.jpg" 
+            alt="Vestidos"
+            title="Vestidos"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

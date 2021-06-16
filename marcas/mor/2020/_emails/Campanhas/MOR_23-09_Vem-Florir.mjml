@@ -1,0 +1,165 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Vem%20Florir&pwaf_productClusterIds=306"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_23-09_Vem-Florir/E-commerce%20Vem%20Florir-04-topo.jpg"
+          alt="Vem Florir 2020 - Celebre a beleza e os encantos da mulher brasileira."
+          title="Vem Florir 2020" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Vem%20Florir&pwaf_productClusterIds=306"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_23-09_Vem-Florir/E-commerce%20Vem%20Florir-04-frase.jpg"
+          alt="Ganhe um brinde exclusivo na compra da terceira peça."
+          title="Vem Florir 2020" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-abertura-manga-com-amarracao-laranja-235476"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355554/BLUSA-OMBRO-A-OMBRO-ABERTURA-MANGA-COM-AMARRACAO---ES-LARANJA-PINK---PP.jpg?v=637327743569400000"
+            title="Blusa Ombro A Ombro Abertura Manga Com Amarracao Laranja"
+            alt="Blusa Ombro A Ombro Abertura Manga Com Amarracao Laranja" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#d9453b" font-weight="400" font-size="15px" padding="180px 0 10px 0">
+            Blusa Ombro A Ombro<br> Abertura Manga
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/blusa-ombro-a-ombro-abertura-manga-com-amarracao-laranja-235476" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9453b" color="#f7eee9" border-radius="0px" border= "1.2px solid #d9453b" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#d9453b" font-weight="400" font-size="15px" padding="180px 0 10px 0">
+            Macacao Pantacourt<br> Com Amarracao
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            6x de R$ 103,31
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 619,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/macacao-pantacourt-com-amarracao-laranja-235067" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9453b" color="#f7eee9" border-radius="0px" border= "1.2px solid #d9453b" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-pantacourt-com-amarracao-laranja-235067"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/354228/MACACAO-PANTACOURT-COM-AMARRACAO---ES-LARANJA---M.jpg?v=637326665433730000"
+            title="Macacao Pantacourt Com Amarracao Laranja"
+            alt="Macacao Pantacourt Com Amarracao Laranja" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-decote-transpassado-minha-morena-laranja-228183"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/340542/VESTIDO-CURTO-DECOTE-TRANSPASSADO-MINHA-MORENA---ES-PRETO-LARANJA---P.jpg?v=637237731666830000"
+            title="Vestido Curto Decote Transpassado Minha Morena Laranja"
+            alt="Vestido Curto Decote Transpassado Minha Morena Laranja" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#d9453b" font-weight="400" font-size="15px" padding="180px 0 10px 0">
+            Vestido Curto Decote<br> Transpassado
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#d9453b" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 349,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-curto-decote-transpassado-minha-morena-laranja-228183" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9453b" color="#f7eee9" border-radius="0px" border= "1.2px solid #d9453b" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas/?pwaf_OrderByReleaseDateDESC=%2B&_t=Vem%20Florir&pwaf_productClusterIds=306"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_23-09_Vem-Florir/E-commerce%20Vem%20Florir-04-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-column>
+        <mj-image
+          padding="15px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/calcas/?pwaf_OrderByReleaseDateDESC=%2B&_t=Vem%20Florir&pwaf_productClusterIds=306"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_23-09_Vem-Florir/E-commerce%20Vem%20Florir-04-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#f7eee9">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%2B&_t=Vem%20Florir&pwaf_productClusterIds=306"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Vem-Florir/MOR_23-09_Vem-Florir/E-commerce%20Vem%20Florir-04-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

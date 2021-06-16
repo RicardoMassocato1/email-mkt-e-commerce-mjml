@@ -1,0 +1,195 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%20&pwaf_productClusterIds=230&_t=LQDA%20Living"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_23-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT4-topo.jpg"
+          alt="Verão 50% OFF"
+          title="Verão 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/top-morena-rosa-strappy-alca-trancado-costas-preto-marinho-193352"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/282544/TOP-STRAPPY-ALCA-TRANCADO-COSTAS---CO-PRETO-MARINHO-LARANJA---P.jpg?v=636880899525730000"
+            title="Top Morena Rosa Strappy Alça Trançado Costas Preto/Marinho"
+            alt="Top Morena Rosa Strappy Alça Trançado Costas Preto/Marinho" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Morena Rosa Strappy<br> Alça Trançado Costas<br> Preto/Marinho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 129,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0 10px 0">
+            Por: R$ 64,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/top-morena-rosa-strappy-alca-trancado-costas-preto-marinho-193352" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-boxer-detalhe-ziper-preto-192959"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/286498/SHORTS-BOXER-DETALHE-ZIPER---LI-PRETO---P.jpg?v=636891397409170000"
+            title="Shorts Morena Rosa Boxer Detalhe Zíper Preto"
+            alt="Shorts Morena Rosa Boxer Detalhe Zíper Preto" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena Rosa Boxer<br> Detalhe Zíper Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 199,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,96
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-boxer-detalhe-ziper-preto-192959" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/regata-morena-rosa-decote-redondo-com-top-branco-226878"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/334942/REGATA-DECOTE-REDONDO-COM-TOP---CO-BRANCO-PRETO---P.jpg?v=637172516136470000"
+            title="Regata Morena Rosa Decote Redondo Com Top Branco"
+            alt="Regata Morena Rosa Decote Redondo Com Top Branco" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Morena Rosa<br> Decote Redondo Com<br> Top Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/regata-morena-rosa-decote-redondo-com-top-branco-226878" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-legging-cos-alto-com-brilho-prata-206053"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/306837/CALCA-LEGGING-COS-ALTO-COM-BRILHO---LI-PRATA---P.jpg?v=637006387700000000"
+            title="Calça Morena Rosa Legging Cós Alto Com Brilho Prata"
+            alt="Calça Morena Rosa Legging Cós Alto Com Brilho Prata" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="25px 0 10px 0">
+            Calça Morena Rosa<br> Legging Cós Alto Com<br> Brilho Prata
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 289,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 57,98
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 173,94
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-legging-cos-alto-com-brilho-prata-206053" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#d9384a" font-size="13.5px" padding="20px 0px 10px 0px" align="center" font-weight="800" line-height="21px" letter-spacing="2.5px">
+          Compre também
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%20&pwaf_productClusterIds=173&_t=LQDA%20Acess%C3%B3rios"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_23-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT4-acessorios.jpg"
+            alt="Acessórios"
+            title="Acessórios" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%20&pwaf_productClusterIds=172&_t=LQDA%20Shoes"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_23-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT4-shoes.jpg"
+            alt="Shoes"
+            title="Shoes" />
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%20&pwaf_productClusterIds=169&pwaf_OrderByBestDiscountDESC=%2B&_t=LQDA%20Beach"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_23-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT4-beach.jpg"
+            alt="Beach"
+            title="Beach" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

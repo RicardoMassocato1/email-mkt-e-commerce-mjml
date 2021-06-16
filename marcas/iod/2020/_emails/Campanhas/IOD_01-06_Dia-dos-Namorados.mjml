@@ -1,0 +1,223 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="0px 0px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Dois%20em%20um&pwaf_productClusterIds=223"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_01-06_Dia-dos-Namorados/EmailMkt-05-topo-01.jpg" 
+            alt="Dia dos Namorados"
+            title="Dia dos Namorados"/>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-image
+            padding="0px 0px"
+            href="https://www.tudogostoso.com.br/receita/11915-fondue-de-queijo.html"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_01-06_Dia-dos-Namorados/EmailMkt-05-receita-01.jpg" 
+            alt="Sugestão de Jantar"
+            title="Sugestão de Jantar"/>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-image
+            padding="0px 0px 25px 0px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Dois%20em%20um&pwaf_productClusterIds=223"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_01-06_Dia-dos-Namorados/EmailMkt-05-rodape01.jpg" 
+            alt="50% de Desconto"
+            title="50% de Desconto"/>
+        </mj-column>
+        
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-boxer-compose-de-tecidos-bege-216292"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_01-06_Dia-dos-Namorados/SHORTS%20BOXER%20COMPOSE%20DE%20TECIDOS%20BEGE.jpg"
+            title="SHORTS BOXER COMPOSE DE TECIDOS BEGE"
+            alt="SHORTS BOXER COMPOSE DE TECIDOS BEGE" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Boxer Compose
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#cb2019" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 419,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 209,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 4x R$52,48</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/shorts-boxer-compose-de-tecidos-bege-216292"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-manga-longa-basica-off-white-213551"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_01-06_Dia-dos-Namorados/CAMISA%20MANGA%20LONGA%20BASICA%20OFF%20WHITE.jpg"
+            title="CAMISA MANGA LONGA BASICA OFF WHITE"
+            alt="CAMISA MANGA LONGA BASICA OFF WHITE" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga L. Basica
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#cb2019" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 449,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 224,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 4x R$56,23</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/camisa-manga-longa-basica-off-white-213551"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-reta-alfaiataria-cos-alto-bolso-faca-verde-216447"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Dia-dos-Namorados/IOD_01-06_Dia-dos-Namorados/CALCA%20RETA%20ALFAIATARIA%20COS%20ALTO%20BOLSO%20FACA%20VERDE.jpg"
+            title="CALCA RETA ALFAIATARIA COS ALTO BOLSO FACA VERDE"
+            alt="CALCA RETA ALFAIATARIA COS ALTO BOLSO FACA VERDE" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #cb2019; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Reta Alfaiataria
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#cb2019" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 449,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 224,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#cb2019"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 4x R$56,23</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#cb2019; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #cb2019;"
+              href="https://www.iodice.com.br/calca-reta-alfaiataria-cos-alto-bolso-faca-verde-216447"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

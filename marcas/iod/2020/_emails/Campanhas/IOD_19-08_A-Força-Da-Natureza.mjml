@@ -1,0 +1,244 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 30px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=230"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Agosto/IOD_19-08_A-For%C3%A7a-Da-Natureza/Artboard%201%20copy%204-topo.jpg" 
+              alt="A Força da Natureza"
+              title="A Força da Natureza"/>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/saia-midi-evase-com-faixa-marrom-236159"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175749/SAIA-MIDI-EVASE-COM-FAIXA---LI-CARAMELO---38.jpg?v=637327711745500000"
+              title="SAIA MIDI EVASE COM FAIXA MARROM"
+              alt="SAIA MIDI EVASE COM FAIXA MARROM" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Saia Midi Evase com<br> Faixa Marrom
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">12x de R$ 370,82</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 4.449,90</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 6px 14px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/saia-midi-evase-com-faixa-marrom-236159"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-flare-cos-alto-com-pence-branco-dourado-235185"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175464/CALCA-FLARE-COS-ALTO-COM-PENCE---LI-DOURADO---38.jpg?v=637327706670300000"
+              title="CALCA FLARE COS ALTO COM PENCE BRANCO/DOURADO"
+              alt="CALCA FLARE COS ALTO COM PENCE BRANCO/DOURADO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Flare Cos Alto com<br> Pence Branco/Dourado
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">6x de R$ 91,65</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 549,90</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 6px 14px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/calca-flare-cos-alto-com-pence-branco-dourado-235185"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/top-cropped-alca-larga-detalhe-ziper-jeans-236340"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176560/TOP-CROPPED-ALCA-LARGA-DETALHE-ZIPER---LI-JEANS-MEDIO---M.jpg?v=637327728070570000"
+              title="TOP CROPPED ALCA LARGA DETALHE ZIPER JEANS"
+              alt="TOP CROPPED ALCA LARGA DETALHE ZIPER JEANS" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Top Cropped Alca Larga<br> Detalhe Ziper Jeans
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">6x de R$ 58,31</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 349,90</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 6px 14px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/top-cropped-alca-larga-detalhe-ziper-jeans-236340"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/blusa-decote-redondo-cavada-abertura-frente-ouro-velho-234413"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174897/BLUSA-DECOTE-REDONDO-CAVADA-ABERTURA-FRENTE---LI-OURO-VELHO---P.jpg?v=637327688056200000"
+              title="BLUSA DECOTE REDONDO CAVADA ABERTURA FRENTE OURO VELHO"
+              alt="BLUSA DECOTE REDONDO CAVADA ABERTURA FRENTE OURO VELHO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Decote Redondo<br> Cavada Abertura Frente
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">4x de R$ 57,47</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="14px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">Por: R$ 229,90</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 5px; padding: 6px 14px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/blusa-decote-redondo-cavada-abertura-frente-ouro-velho-234413"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="40px 0px 0px 0px" width="100%">
+            <mj-image
+              padding="0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=234"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Agosto/IOD_19-08_A-For%C3%A7a-Da-Natureza/Artboard%201%20copy%204-01.jpg" 
+              alt="Vestidos"
+              title="Vestidos"/>
+            <mj-image
+              padding="0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=231"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Agosto/IOD_19-08_A-For%C3%A7a-Da-Natureza/Artboard%201%20copy%204-02.jpg" 
+              alt="Blusas"
+              title="Blusas"/>
+            <mj-image
+              padding="0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=235"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Agosto/IOD_19-08_A-For%C3%A7a-Da-Natureza/Artboard%201%20copy%204-03.jpg" 
+              alt="Jeans"
+              title="Jeans"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

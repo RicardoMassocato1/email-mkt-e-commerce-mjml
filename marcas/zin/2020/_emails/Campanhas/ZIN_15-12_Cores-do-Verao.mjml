@@ -1,0 +1,186 @@
+'<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_15-12_Cores-do-Verao/MV_EmailMkt_03-topo.jpg"
+          alt="Cores de Verão"
+          title="Cores de Verão" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0px 20px 0px" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-family="'Poppins', sans-serif" color="#000000" text-transform="uppercase" font-size="12.5px" padding="20px 10px 0px 10px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+           Babados, franzidos e estampas praianas encontram referências 
+           esportivas em looks em tons de pink e azul. As cores do verão!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-midi-decote-quadrado-com-recorte-rosa-244001/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/215514/VESTIDO-MIDI-DECOTE-QUADRADO-COM-RECORTE---ES-PINK---PP.jpg?v=637425188324630000"
+            title="Vestido Zinco Midi Decote Quadrado Com Recorte Rosa"
+            alt="Vestido Zinco Midi Decote Quadrado Com Recorte Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Midi<br> Decote Quadrado<br> Com Recorte Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 51,10
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 459,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-midi-decote-quadrado-com-recorte-rosa-244001/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-zinco-flare-barra-arredondada-azul-244212/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/215867/SHORTS-FLARE-BARRA-ARREDONDADA---ES-AZUL---36.jpg?v=637425193164230000"
+            title="Shorts Zinco Flare Barra Arredondada Azul"
+            alt="Shorts Zinco Flare Barra Arredondada Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Zinco Flare<br> Barra Arredondada<br> Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 319,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/shorts-zinco-flare-barra-arredondada-azul-244212/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-midi-decote-v-com-franzido-nude-239127/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/214686/VESTIDO-MIDI-DECOTE-V-COM-FRANZIDO---ES-NUDE---P.jpg?v=637378576409800000"
+            title="Vestido Zinco Midi Decote V Com Franzido Nude"
+            alt="Vestido Zinco Midi Decote V Com Franzido Nude" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Zinco Midi<br> Decote V Com Franzido<br> Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 57,12
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 399,90
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-midi-decote-v-com-franzido-nude-239127/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-zinco-flare-cadarco-cintura-rosa-234947/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/213160/SHORTS-FLARE-CADARCO-CINTURA---ES-PINK---36.jpg?v=637327763764870000"
+            title="Shorts Zinco Flare Cadarço Cintura Rosa"
+            alt="Shorts Zinco Flare Cadarço Cintura Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Zinco Flare<br> Cadarço Cintura<br> Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 249,90
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/shorts-zinco-flare-cadarco-cintura-rosa-234947/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/blusas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_15-12_Cores-do-Verao/MV_EmailMkt_03-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/calcas?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_15-12_Cores-do-Verao/MV_EmailMkt_03-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/feminino/vestidos?map=c,c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dezembro/ZIN_15-12_Cores-do-Verao/MV_EmailMkt_03-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

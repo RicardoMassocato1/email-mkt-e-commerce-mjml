@@ -1,0 +1,413 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iodice</mj-title>
+    <mj-preview>Iodice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 30px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=230"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Agosto/IOD_25-08_O-Linho-em-Diversos-Modos/Email-mkt2004-02-topo.jpg" 
+          alt="O Linho em Diversos Modos"
+          title="O Linho em Diversos Modos"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column>
+          <mj-image
+            align="left"
+            padding="0px 0px 10px 20px"
+            width="600px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=230"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Agosto/IOD_25-08_O-Linho-em-Diversos-Modos/Email-mkt2004-02-foto.jpg"
+            title="NO PINK"
+            alt="NO PINK"/>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#1d1d1b"
+              font-size="23px"
+              padding="45px 10px 10px 20px"
+              align="left"
+              font-weight="300"
+              line-height="25px"
+              letter-spacing="1px">
+              NO<br>PINK
+            </mj-text>
+
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#1d1d1b"
+              font-size="10px"
+              padding="7px 10px 15px 20px"
+              align="left"
+              line-height="11px"
+              font-weight="500">
+              Em versões pink, a matéria-prima surge estonada, com leve brilho e um mood praiano.
+            </mj-text>
+
+            <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=230" text-decoration="none" text-transform="uppercase" inner-padding="5px 12px" align="left" font-weight="400" font-size="11px" padding="0px 20px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-midi-decote-v-com-recorte-rosa-234382"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174837/VESTIDO-MIDI-DECOTE-V-COM-RECORTE---LI-PINK---P.jpg?v=637327686642200000"
+            title="VESTIDO MIDI DECOTE V COM RECORTE ROSA"
+            alt="VESTIDO MIDI DECOTE V COM RECORTE ROSA" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi Decote V<br> com Recorte Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            10x de R$ 105,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 1.059,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-midi-decote-v-com-recorte-rosa-234382" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-cenoura-cos-alto-detalhe-pesponto-rosa-234386"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174866/CALCA-CENOURA-COS-ALTO-DETALHE-PESPONTO---LI-PINK---36.jpg?v=637327687089200000"
+            title="CALCA CENOURA COS ALTO DETALHE PESPONTO ROSA"
+            alt="CALCA CENOURA COS ALTO DETALHE PESPONTO ROSA" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Cenoura Cos Alto<br> Detalhe Pesponto Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 99,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 599,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-cenoura-cos-alto-detalhe-pesponto-rosa-234386" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#1d1d1b"
+              font-size="23px"
+              padding="25px 10px 10px 20px"
+              align="left"
+              font-weight="300"
+              line-height="25px"
+              letter-spacing="0.5px">
+              TONS<br> TERROSOS
+            </mj-text>
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#1d1d1b"
+              font-size="10px"
+              padding="7px 10px 15px 20px"
+              align="left"
+              line-height="11px"
+              font-weight="500">
+              Já na cor telha, as fibra se mistura com a viscose, 
+              deixando os looks mais leves e exclusivos, graças 
+              também à corrente de tartaruga usada no detalhe.
+            </mj-text>
+
+            <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=230" text-decoration="none" text-transform="uppercase" inner-padding="5px 12px" align="left" font-weight="400" font-size="11px" padding="0px 20px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image
+            align="right"
+            padding="0px 20px 10px 0px"
+            width="600px"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=230"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Agosto/IOD_25-08_O-Linho-em-Diversos-Modos/Email-mkt2004-02-foto02.jpg"
+            title="TONS TERROSOS"
+            alt="TONS TERROSOS"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-midi-decote-quadrado-com-faixa-salmao-234536"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175288/VESTIDO-MIDI-DECOTE-QUADRADO-COM-FAIXA---LI-SALMAO---P.jpg?v=637327699926630000"
+            title="VESTIDO MIDI DECOTE QUADRADO COM FAIXA SALMÃO"
+            alt="VESTIDO MIDI DECOTE QUADRADO COM FAIXA SALMÃO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi Decote<br> Quadrado com Faixa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            9x de R$ 102,21
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 919,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-midi-decote-quadrado-com-faixa-salmao-234536" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-midi-evase-com-faixa-salmao-234534"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175272/SAIA-MIDI-EVASE-COM-FAIXA---LI-SALMAO---36.jpg?v=637327699098300000"
+            title="SAIA MIDI EVASE COM FAIXA SALMÃO"
+            alt="SAIA MIDI EVASE COM FAIXA SALMÃO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Midi Evase<br> com Faixa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 88,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 529,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/saia-midi-evase-com-faixa-salmao-234534" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          font-family= "Poppins, sans-serif"
+          color="#1d1d1b"
+          font-size="21px"
+          padding="40px 0px 15px 20px"
+          align="left"
+          line-height="11px"
+          font-weight="500">
+          SUGESTÕES PARA VOCÊ
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-boot-cut-cos-alto-com-nervuras-jeans-234638"
+              src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175860/CALCA-BOOT-CUT-COS-ALTO-COM-NERVURAS---LI-JEANS-MEDIO---36.jpg?v=637327713917530000"
+              title="CALCA BOOT CUT COS ALTO COM NERVURAS JEANS"
+              alt="CALCA BOOT CUT COS ALTO COM NERVURAS JEANS" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Boot Cut<br> Cos Alto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 81,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-boot-cut-cos-alto-com-nervuras-jeans-234638" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/t-shirt-decote-redondo-abertura-lateral-off-white-marinho-234179"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174747/T-SHIRT-DECOTE-REDONDO-ABERTURA-LATERAL---LT-AZUL-MARINHO-OFF-WHITE---P.jpg?v=637327684518030000"
+            title="T-SHIRT DECOTE REDONDO ABERTURA LATERAL OFF-WHITE/MARINHO"
+            alt="T-SHIRT DECOTE REDONDO ABERTURA LATERAL OFF-WHITE/MARINHO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Decote<br> Redondo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x R$ 53,30
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/t-shirt-decote-redondo-abertura-lateral-off-white-marinho-234179" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-midi-evase-bolso-faca-preto-235638"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175681/SAIA-MIDI-EVASE-BOLSO-FACA---LI-PRETO---38.jpg?v=637327710678970000"
+            title="SAIA MIDI EVASE BOLSO FACA PRETO"
+            alt="SAIA MIDI EVASE BOLSO FACA PRETO" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Midi Evase<br> Bolso Faca
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 99,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 599,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/saia-midi-evase-bolso-faca-preto-235638" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blusa-decote-redondo-cavada-ponto-ajour-rosa-234070"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174529/BLUSA-DECOTE-REDONDO-CAVADA-PONTO-AJOUR---LI-ROSE---P.jpg?v=637327680337500000"
+            title="BLUSA DECOTE REDONDO CAVADA PONTO AJOUR ROSA"
+            alt="BLUSA DECOTE REDONDO CAVADA PONTO AJOUR ROSA" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Decote<br> Redondo Cavada
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 58,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 349,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/blusa-decote-redondo-cavada-ponto-ajour-rosa-234070" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-assimetrico-decote-transpassado-com-franzido-marrom-233953"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174466/VESTIDO-ASSIMETRICO-DECOTE-TRANSPASSADO-COM-FRANZIDO---ES-MARROM-AZUL---P.jpg?v=637327679563300000"
+            title="VESTIDO ASSIMETRICO DECOTE TRANSPASSADO COM FRANZIDO MARROM"
+            alt="VESTIDO ASSIMETRICO DECOTE TRANSPASSADO COM FRANZIDO MARROM" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido<br> Assimetrico
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 114,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 689,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-assimetrico-decote-transpassado-com-franzido-marrom-233953" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-boxer-bolso-faca-verde-235239"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175536/SHORTS-BOXER-BOLSO-FACA---ES-VERDE---38.jpg?v=637327707760200000"
+            title="SHORTS BOXER BOLSO FACA VERDE"
+            alt="SHORTS BOXER BOLSO FACA VERDE" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Boxer<br> Faca Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x R$ 61,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/shorts-boxer-bolso-faca-verde-235239" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

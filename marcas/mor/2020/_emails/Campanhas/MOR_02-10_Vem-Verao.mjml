@@ -1,0 +1,186 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/praia?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_02-10_Vem-Verao/Compre-e-Ganhe-E-mail-01-topo.jpg"
+          alt="Vem Verão 2020"
+          title="Vem Verão 2020" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#e8eadf">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#9ea57b" font-size="25px" padding="20px 0px 0px 0px" align="center" font-weight="500" line-height="23px" letter-spacing="3px">
+          vem verão
+        </mj-text>
+        <mj-text font-family="Roboto, serif" color="#303e2f" font-size="13.5px" padding="15px 0px 30px 0px" align="center" font-weight="400" line-height="18px" letter-spacing="1.8px">
+          Na compra de qualquer peça da<br> linha MR Beach ganhe uma <strong>canga<br> esclusiva</strong> para curtir o verão!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#e8eadf">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-gola-alta-cavado-basico-verde-227131"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/343305/BODY-GOLA-ALTA-CAVADO-BASICO---ES-PRETO-VERDE---P.jpg?v=637238615197870000"
+            title="Body Gola Alta Cavado Basico Verde"
+            alt="Body Gola Alta Cavado Basico Verde" />
+
+          <mj-text align="center" color="#303e2f" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Gola Alta Cavado<br> Basico Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#303e2f" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 64,98
+          </mj-text>
+
+          <mj-text color="#303e2f" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 389,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/body-gola-alta-cavado-basico-verde-227131" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#303e2f" color="#e8eadf" border-radius="0px" border= "1.2px solid #303e2f" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-meia-taca-torcido-basico-preto-228163"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/342533/BIQUINI-MEIA-TACA-TORCIDO-BASICO---ES-PRETO-OFF-WHITE---P.jpg?v=637238600657700000"
+            title="Biquini Meia Taca Torcido Basico Preto"
+            alt="Biquini Meia Taca Torcido Basico Preto" />
+
+          <mj-text align="center" color="#303e2f" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquini Meia Taca Torcido<br> Basico Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#303e2f" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#303e2f" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/biquini-meia-taca-torcido-basico-preto-228163" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#303e2f" color="#e8eadf" border-radius="0px" border= "1.2px solid #303e2f" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#e8eadf">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-cortininha-detalhe-elastico-preto-229251"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/342808/BIQUINI-CORTININHA-DETALHE-ELASTICO---ES-PRETO-OFF-WHITE---P.jpg?v=637238605536100000"
+            title="Biquini Cortininha Detalhe Elastico Preto"
+            alt="Biquini Cortininha Detalhe Elastico Preto" />
+
+          <mj-text align="center" color="#303e2f" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquini Cortininha Detalhe<br> Elastico Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#303e2f" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#303e2f" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/biquini-cortininha-detalhe-elastico-preto-229251" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#303e2f" color="#e8eadf" border-radius="0px" border= "1.2px solid #303e2f" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/biquini-cortininha-aviamento-lateral-verde-229454"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/342832/BIQUINI-CORTININHA-AVIAMENTO-LATERAL---LI-VERDE---P.jpg?v=637238605890930000"
+            title="Biquini Cortininha Aviamento Lateral Verde"
+            alt="Biquini Cortininha Aviamento Lateral Verde" />
+
+          <mj-text align="center" color="#303e2f" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Biquini Cortininha<br> Aviamento Lateral Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#303e2f" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#303e2f" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/biquini-cortininha-aviamento-lateral-verde-229454" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#303e2f" color="#e8eadf" border-radius="0px" border= "1.2px solid #303e2f" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#e8eadf">
+      <mj-column>
+        <mj-image
+          padding="30px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/praia/biquinis?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_02-10_Vem-Verao/Compre-e-Ganhe-E-mail-01-biquini.jpg"
+          alt="Biquíni"
+          title="Biquíni" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#e8eadf">
+      <mj-column>
+        <mj-image
+          padding="15px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/praia/maios?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_02-10_Vem-Verao/Compre-e-Ganhe-E-mail-01-maio.jpg"
+          alt="Maiô"
+          title="Maiô" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#e8eadf">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/praia/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Outubro/MOR_02-10_Vem-Verao/Compre-e-Ganhe-E-mail-01-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

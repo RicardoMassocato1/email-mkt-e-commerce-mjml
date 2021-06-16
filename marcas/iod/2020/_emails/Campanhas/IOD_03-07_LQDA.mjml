@@ -1,0 +1,297 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 15px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=LQDA&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_03-07_LQDA/iod-01-topo.jpg" 
+              alt="LQDA"
+              title="LQDA"/>
+              
+            <mj-divider padding="20px 30%" border-width="1.2px" border-style="solid" border-color="#b61622" />
+           
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#b61622"
+              font-size="17px"
+              padding="0px 0px 30px 0px"
+              align="center"
+              font-weight="400"
+              line-height="0px">
+              CONFIRA NOSSA SELEÇÃO ESPECIAL
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-reta-cos-alto-bolso-cargo-bege-223746"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_03-07_LQDA/CALCA%20RETA%20COS%20ALTO%20BOLSO%20CARGO%20BEGE.jpg"
+              title="CALCA RETA COS ALTO BOLSO CARGO BEGE"
+              alt="CALCA RETA COS ALTO BOLSO CARGO BEGE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Reta Cos Alto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 699,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 419,94</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 69,99</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/calca-reta-cos-alto-bolso-cargo-bege-223746"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/blusa-decote-redondo-cava-francesa-abertura-costas-ouro-velho-224908"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_03-07_LQDA/BLUSA%20DECOTE%20REDONDO%20CAVA%20FRANCESA%20ABERTURA%20COSTAS%20OURO%20VELHO.jpg"
+              title="BLUSA DECOTE REDONDO CAVA FRANCESA ABERTURA COSTAS OURO VELHO"
+              alt="BLUSA DECOTE REDONDO CAVA FRANCESA ABERTURA COSTAS OURO VELHO" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blusa Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 499,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 299,94</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 5x R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/blusa-decote-redondo-cava-francesa-abertura-costas-ouro-velho-224908"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/vestido-curto-decote-v-com-faixa-verde-223709"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_03-07_LQDA/VESTIDO%20CURTO%20DECOTE%20V%20COM%20FAIXA%20VERDE.jpg"
+              title="VESTIDO CURTO DECOTE V COM FAIXA VERDE"
+              alt="VESTIDO CURTO DECOTE V COM FAIXA VERDE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Curto Decote V
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 819,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 491,94</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 81,99</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/vestido-curto-decote-v-com-faixa-verde-223709"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/vestido-midi-decote-v-compose-de-tecidos-bege-224898"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_03-07_LQDA/VESTIDO%20MIDI%20DECOTE%20V%20COMPOSE%20DE%20TECIDOS%20BEGE.jpg"
+              title="VESTIDO MIDI DECOTE V COMPOSE DE TECIDOS BEGE"
+              alt="VESTIDO MIDI DECOTE V COMPOSE DE TECIDOS BEGE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Midi Decote V
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 729,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 449,94</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 74,99</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/vestido-midi-decote-v-compose-de-tecidos-bege-224898"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0px 0px" width="100%">
+            <mj-image
+              padding="40px 0px 0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?p=6&_t=LQDA&pwaf_productClusterIds=195"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_03-07_LQDA/iod-01-blusas.jpg" 
+              alt="Blusas"
+              title="Blusas"/>
+            <mj-image
+              padding="0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?p=6&_t=LQDA&pwaf_productClusterIds=196"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_03-07_LQDA/iod-01-calcas.jpg" 
+              alt="Calças"
+              title="Calças"/>
+            <mj-image
+              padding="0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?p=6&_t=LQDA&pwaf_productClusterIds=211"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_03-07_LQDA/iod-01-vestidos.jpg" 
+              alt="Vestidos"
+              title="Vestidos"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

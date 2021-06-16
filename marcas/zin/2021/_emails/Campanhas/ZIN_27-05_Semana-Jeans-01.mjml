@@ -1,0 +1,160 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Jeans&pwaf_productClusterIds=221"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_27-05_Semana-Jeans-01/-_Semana%20do%20jeans_email-01-topo.jpg"
+          alt="Semana denim"
+          title="Semana denim" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ea8080">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="none" color="#fff" font-size="15px" padding="30px 10px 30px 10px" align="center" font-weight="400" line-height="20px" letter-spacing="0.60px">
+          Vocês pediram e a<br> <strong>Semana do Jeans foi prorrogada!</strong> <br><br>
+          Aproveite a <strong>última chance</strong> de garantir seus looks jeans super cool e com <strong>Frete Grátis</strong>! <br><br>
+          <strong>Corre que ainda dá tempo!!!</storng>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0 0 0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <!--prod 1 -->
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/colete-zinco-alongado-com-bolsos-verde-oliva-251935/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_27-05_Semana-Jeans-01/-_Semana%20do%20jeans_email-01-01.jpg"
+            title="Colete Zinco Alongado Com Bolsos Verde Oliva"
+            alt="Colete Zinco Alongado Com Bolsos Verde Oliva" />
+          
+          <!--prod 2 -->
+          <mj-text font-family="Roboto" align="right" color="#314a80" font-weight="500" font-size="16px" padding="60px 0 5px 0">
+            Macaquinho Zinco Gola<br> Lapela Com Cinto Verde Oliva
+          </mj-text>
+
+          <mj-text font-family="Roboto" color="#314a80" font-weight="400" font-size="15px" align="right" padding="5px 0">
+            12x R$ 51,65
+          </mj-text>
+
+          <mj-text font-family="Roboto" color="#314a80" font-weight="400" font-size="15px" align="right" padding="0">
+            por: R$ <span style="font-size:25px; font-weight:900;">619,90</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/macaquinho-zinco-gola-lapela-com-cinto-verde-oliva-251900/p" text-decoration="none" text-transform="none" inner-padding="5px 17px" align="right" font-weight="500" font-size="17px" padding="15px 0px 15px 0px"  background-color="#ea8080" color="#fff" border-radius="0px" border= "1px solid #ea8080" target="_blank">comprar</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <!--prod 1 -->
+          <mj-text font-family="Roboto" align="left" color="#314a80" font-weight="500" font-size="16px" padding="20px 0 5px 0">
+            Colete Zinco Alongado<br> Com Bolsos Verde Oliva
+          </mj-text>
+
+          <mj-text font-family="Roboto" color="#314a80" font-weight="400" font-size="15px" align="left" padding="5px 0">
+            10x R$ 52,99
+          </mj-text>
+
+          <mj-text font-family="Roboto" color="#314a80" font-weight="400" font-size="15px" align="left" padding="0">
+            por: R$ <span style="font-size:25px; font-weight:900;">529,90</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/colete-zinco-alongado-com-bolsos-verde-oliva-251935/p" text-decoration="none" text-transform="none" inner-padding="5px 17px" align="left" font-weight="500" font-size="17px" padding="15px 0px 55px 0px" background-color="#ea8080" color="#fff" border-radius="0px" border= "1px solid #ea8080" target="_blank">comprar</mj-button>
+        
+          <!--prod 2 -->
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macaquinho-zinco-gola-lapela-com-cinto-verde-oliva-251900/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_27-05_Semana-Jeans-01/-_Semana%20do%20jeans_email-01-02.jpg"
+            title="Macaquinho Zinco Gola Lapela Com Cinto Verde Oliva"
+            alt="Macaquinho Zinco Gola Lapela Com Cinto Verde Oliva" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="20px 0 0 0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <!--prod 1 -->
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/camisa-zinco-manga-longa-tinturada-verde-oliva-254047/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_27-05_Semana-Jeans-01/-_Semana%20do%20jeans_email-01-03.jpg"
+            title="Camisa Zinco Manga Longa Tinturada Verde Oliva"
+            alt="Camisa Zinco Manga Longa Tinturada Verde Oliva" />
+          
+          <!--prod 2 -->
+          <mj-text font-family="Roboto" align="right" color="#314a80" font-weight="500" font-size="16px" padding="50px 0 5px 0">
+            Saia Zinco Curta Five Pockets Com Faixa Verde Oliva
+          </mj-text>
+
+          <mj-text font-family="Roboto" color="#314a80" font-weight="400" font-size="15px" align="right" padding="5px 0">
+            7x R$ 52,84
+          </mj-text>
+
+          <mj-text font-family="Roboto" color="#314a80" font-weight="400" font-size="15px" align="right" padding="0">
+            por: R$ <span style="font-size:25px; font-weight:900;">369,90</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/saia-zinco-curta-five-pockets-com-faixa-verde-oliva-253851/p" text-decoration="none" text-transform="none" inner-padding="5px 17px" align="right" font-weight="500" font-size="17px" padding="15px 0px 15px 0px"  background-color="#ea8080" color="#fff" border-radius="0px" border= "1px solid #ea8080" target="_blank">comprar</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <!--prod 1 -->
+          <mj-text font-family="Roboto" align="left" color="#314a80" font-weight="500" font-size="16px" padding="20px 0 5px 0">
+            Camisa Zinco Manga<br> Longa Tinturada Verde Oliva
+          </mj-text>
+
+          <mj-text font-family="Roboto" color="#314a80" font-weight="400" font-size="15px" align="left" padding="5px 0">
+            7x R$ 57,12
+          </mj-text>
+
+          <mj-text font-family="Roboto" color="#314a80" font-weight="400" font-size="15px" align="left" padding="0">
+            por: R$ <span style="font-size:25px; font-weight:900;">399,90</span>
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/camisa-zinco-manga-longa-tinturada-verde-oliva-254047/p" text-decoration="none" text-transform="none" inner-padding="5px 17px" align="left" font-weight="500" font-size="17px" padding="15px 0px 55px 0px" background-color="#ea8080" color="#fff" border-radius="0px" border= "1px solid #ea8080" target="_blank">comprar</mj-button>
+        
+          <!--prod 2 -->
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-zinco-curta-five-pockets-com-faixa-verde-oliva-253851/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Maio/ZIN_27-05_Semana-Jeans-01/-_Semana%20do%20jeans_email-01-04.jpg"
+            title="Saia Zinco Curta Five Pockets Com Faixa Verde Oliva"
+            alt="Saia Zinco Curta Five Pockets Com Faixa Verde Oliva" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+
+
+    <mj-section padding="20px 0px" background-color="#ea8080">
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

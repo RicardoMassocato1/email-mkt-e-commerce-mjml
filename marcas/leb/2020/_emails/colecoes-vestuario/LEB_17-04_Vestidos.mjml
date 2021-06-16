@@ -1,0 +1,265 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lancamento"
+            width="600px"
+            padding="0"
+            alt="Mudança de atitude"
+            title="Mudança de atitude"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_17-04_Vestidos/07-EmailMKT-vestidos-topo.jpg" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-group>
+          <mj-column width="55%">
+            <mj-image
+              href="https://www.leboh.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+              width="600px"
+              padding="0"
+              alt="Vestidos"
+              title="Vestidos"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_17-04_Vestidos/07-EmailMKT-vestidos-imagem.jpg" />
+          </mj-column>
+          <mj-column width="45%">
+            <mj-text
+              font-family= "Brandon Text, sans-serif"
+              color="#000000"
+              font-size="20px"
+              padding="0px 20px 0px 20px"
+              align="left"
+              line-height="1"
+              font-weight="600">
+              vestidos<br>-
+            </mj-text>
+            <mj-text
+              font-family= "Brandon Text, sans-serif"
+              color="#000000"
+              font-size="12.3px"
+              padding="0px 20px 20px 20px"
+              align="left"
+              line-height="1.1"
+              font-weight="400">
+              versáteis, os vestidos são ótimas opções para resolver o look no ato, com estilo e praticidade.
+            </mj-text>
+            <mj-text align="left">
+                <a
+                  style="letter-spacing:1px;text-decoration: none; font-weight:600; font-size: 11px; color: #000000; display: inline-block; padding: 4px 8px; border: 1px solid #000000;"
+                  href="https://www.leboh.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+                  title="shop now">
+                  shop now
+                </a>
+              </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+
+      <mj-section padding="20px 0px">
+        <mj-group>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/vestido-curto-gola-polo-com-bolso-preto-224011/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_17-04_Vestidos/Vestido%20Curto%20Gola%20Polo%20Com%20Bolso%20Preto.jpg"
+              title="Vestido Curto Gola Polo Com Bolso Preto"
+              alt="Vestido Curto Gola Polo Com Bolso Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Curto Gola Polo Com Bolso
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 569,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">11x de R$ 51,80</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/vestido-curto-gola-polo-com-bolso-preto-224011/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/vestido-midi-decote-redondo-abertura-frente-preto-225241/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_17-04_Vestidos/Vestido%20Midi%20Decote%20Redondo%20Abertura%20Frente%20Preto.jpg"
+              title="Vestido Midi Decote Redondo Abertura Frente Preto"
+              alt="Vestido Midi Decote Redondo Abertura Frente Preto" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Midi Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 279,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">5x de R$ 55,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/vestido-midi-decote-redondo-abertura-frente-preto-225241/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/vestido-midi-gola-polo-bicolor-verde-223742/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_17-04_Vestidos/Vestido%20Midi%20Gola%20Polo%20Bicolor%20Verde.jpg"
+              title="Vestido Midi Gola Polo Bicolor Verde"
+              alt="Vestido Midi Gola Polo Bicolor Verde" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Midi Gola Polo Bicolor
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 529,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">10x de R$ 52,99</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/vestido-midi-gola-polo-bicolor-verde-223742/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.leboh.com.br/vestido-assimetrico-decote-redondo-com-amarracao-bege-223723/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_17-04_Vestidos/Vestido%20Assimetrico%20Decote%20Redondo%20Com%20Amarracao%20Bege.jpg"
+              title="Vestido Assimetrico Decote Redondo Com Amarracao Bege"
+              alt="Vestido Assimetrico Decote Redondo Com Amarracao Bege" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Vestido Assimetrico Decote Redondo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#999999"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 439,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#999999"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">8x de R$ 54,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+                href="https://www.leboh.com.br/vestido-assimetrico-decote-redondo-com-amarracao-bege-223723/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

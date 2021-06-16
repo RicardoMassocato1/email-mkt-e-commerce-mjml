@@ -1,0 +1,51 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\leb\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_08-04_Bem-Vinda/leboh-topo.jpg"
+              alt="LEBOH" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section>
+        <mj-column width="100%">
+          <mj-text font-family= "Roboto, sans-serif" font-weight="400" padding="0px 50px 30px 50px" color="#585858" font-size="15px" align="center" line-height= "1.5" letter-spacing= "1.2px">obrigada por se cadastrar!</mj-text>
+          <mj-text font-family= "Roboto, sans-serif" font-weight="400" padding="0px 50px 2px 50px" color="#585858" font-size="15px" align="center" line-height= "1.5" letter-spacing= "1.2px">você ganhou 10% OFF em sua primeira compra!<br><br>use o cupom:</mj-text>
+          <mj-text align="center">
+            <a
+              style="font-family:Roboto, sans-serif; font-weight:700; text-decoration: none; background-color:#67473c; letter-spacing: 1.6px; font-size: 20px; color: #ffffff; display: inline-block; padding: 12px 16px;"
+              href="https://www.leboh.com.br/"
+              title="Código: MYFIRSTLBH">
+              MYFIRSTLBH
+            </a>
+          </mj-text>
+          <mj-text align="center">
+            <a
+              style="font-family:Roboto, sans-serif; font-weight:500; text-decoration: none; background-color:#ffffff; letter-spacing: 1px; font-size: 12px; color: #67473c; display: inline-block; margin-top: 15px; padding: 12px 16px; border: 1.1px solid #67473c;"
+              href="https://www.leboh.com.br/"
+              title="shop now">
+              SHOP NOW >
+            </a>
+          </mj-text>
+          <mj-text font-family= "Roboto, sans-serif" font-weight="400" padding="30px 50px 0px 50px" color="#585858" font-size="12.7px" align="center" line-height= "2" letter-spacing= "0.2px">sentiu dificuldade para finalizar sua compra?<br>caso precise, estamos disponíveis pelo chat, por email, ou <a href="https://api.whatsapp.com/send?phone=554433515000" style="color: #585858;" title="WhatsApp"><strong>clique aqui</strong></a> para falar pelo whatsapp!</mj-text>
+        </mj-column>
+      </mj-section>
+    <!--main-->
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\leb\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

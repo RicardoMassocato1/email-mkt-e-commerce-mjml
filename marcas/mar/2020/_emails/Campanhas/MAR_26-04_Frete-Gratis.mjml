@@ -1,0 +1,224 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Campanha-Frete-Gratis/MAR_26-04_Frete-Gratis/EmailMkt_Frete01-topo.jpg"
+              title="Prepare-se"
+              alt="Prepare-se" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="10px 5px 0 5px">
+      <mj-group>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/blusa-decote-v-cavada-com-amarracao-preto-221115/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Campanha-Frete-Gratis/MAR_26-04_Frete-Gratis/Blusa%20Decote%20V%20Cavada%20Com%20Amarracao%20Preto.jpg"
+            title="Blusa Decote V Cavada Com Amarracao Preto"
+            alt="Blusa Decote V Cavada Com Amarracao Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V Cavada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 369,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 52,84</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #000000;"
+              href="https://www.mariavalentina.com.br/blusa-decote-v-cavada-com-amarracao-preto-221115/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/calca-reta-cos-intermediario-basica-verde-223129/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Campanha-Frete-Gratis/MAR_26-04_Frete-Gratis/Calca%20Reta%20Cos%20Intermediario%20Basica%20Verde.jpg"
+            title="Calca Reta Cos Intermediario Basica Verde"
+            alt="Calca Reta Cos Intermediario Basica Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Reta Cos  Basica
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 579,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 57,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #000000;"
+              href="https://www.mariavalentina.com.br/calca-reta-cos-intermediario-basica-verde-223129/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-midi-decote-v-detalhe-ziper-preto-221350/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Campanha-Frete-Gratis/MAR_26-04_Frete-Gratis/Vestido%20Midi%20Decote%20V%20Detalhe%20Ziper%20Preto.jpg"
+            title="Vestido Midi Decote V Detalhe Ziper Preto"
+            alt="Vestido Midi Decote V Detalhe Ziper Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 579,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 57,99</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style=" text-decoration: none; text-transform: uppercase; font-size: 12px; color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #000000;"
+              href="https://www.mariavalentina.com.br/vestido-midi-decote-v-detalhe-ziper-preto-221350/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+    <!--main-->
+
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="30px 0 20px 50px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/blusas?map=c&O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Campanha-Frete-Gratis/MAR_26-04_Frete-Gratis/EmailMkt_Frete01-blusas.jpg"
+              title="Blusas"
+              alt="Blusas" />
+      </mj-column>  
+    
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="0 50px 0px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Campanha-Frete-Gratis/MAR_26-04_Frete-Gratis/EmailMkt_Frete01-calcas.jpg"
+              title="Calças"
+              alt="Calças" />
+      </mj-column>  
+   
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="20px 0 0 50px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Campanha-Frete-Gratis/MAR_26-04_Frete-Gratis/EmailMkt_Frete01-vestidos.jpg"
+              title="Vestidos"
+              alt="Vestidos" />
+      </mj-column>  
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="20px 0 10px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Campanha-Frete-Gratis/MAR_26-04_Frete-Gratis/EmailMkt_Frete01-rodape.jpg"
+              title="Frete Grátis"
+              alt="Frete Grátis" />
+      </mj-column>    
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

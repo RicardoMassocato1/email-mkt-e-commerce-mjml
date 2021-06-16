@@ -1,0 +1,291 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="0px 0px 20px 0px" background-color="#f5e9dd">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=171"
+            title="Progressiva até 70% OFF"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_17-06_Progressiva_Junho/mr-E-mail%20Mkt%20-%20Progressivos-05-topo.jpg" />
+        </mj-column>
+        <mj-column padding="20px 15px 10px 15px" width="100%">
+          <mj-text font-family="Poppins, serif" color="#e64f44" font-size="13px" align="center" font-weight="400" line-height="25px" letter-spacing="1.5px" text-transform="uppercase">
+            Aproveite os descontos até <strong>70% off</strong> e leve seu look desejo para casa!
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-minha-morena-nude-219659"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_17-06_Progressiva_Junho/Blusa%20Decote%20Redondo%20Manga%20Curta%20Minha%20Morena%20Nude.jpg"
+            title="Blusa Decote Redondo Manga Curta Minha Morena Nude"
+            alt="Blusa Decote Redondo Manga Curta Minha Morena Nude" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #e64f44; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo Manga Curta
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#e64f44" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 209,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 4x R$ 52,48</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e64f44;"
+              href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-minha-morena-nude-219659"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantalona-cos-alto-basica------------------------------verde-219440"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_17-06_Progressiva_Junho/Calca%20Pantalona%20Cos%20Alto%20Basica%20Verde.jpg"
+            title="Calca Pantalona Cos Alto Basica Verde"
+            alt="Calca Pantalona Cos Alto Basica Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #e64f44; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantalona Cos Alto Basica Verde
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#e64f44" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 399,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 279,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 5x R$ 55,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e64f44;"
+              href="https://www.morenarosa.com.br/calca-pantalona-cos-alto-basica------------------------------verde-219440"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-transpassado-com-amarracao-preto--212381"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_17-06_Progressiva_Junho/Vestido%20Midi%20Decote%20Transpassado%20Com%20Amarracao%20Preto.jpg"
+            title="Vestido Midi Decote Transpassado Com Amarracao Preto"
+            alt="Vestido Midi Decote Transpassado Com Amarracao Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #e64f44; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Midi Decote Transpassado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#e64f44" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 759,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 531,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 88,65</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e64f44;"
+              href="https://www.morenarosa.com.br/vestido-midi-decote-transpassado-com-amarracao-preto--212381"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-pantacourt-com-bolso-verde-212536"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_17-06_Progressiva_Junho/Macacao%20Pantacourt%20Com%20Bolso%20Verde.jpg"
+            title="Macacao Pantacourt Com Bolso Verde"
+            alt="Macacao Pantacourt Com Bolso Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #e64f44; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Pantacourt Com Bolso Verde
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#e64f44" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 649,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 454,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#e64f44"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">ou 6x R$ 75,82</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #e64f44; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #e64f44;"
+              href="https://www.morenarosa.com.br/macacao-pantacourt-com-bolso-verde-212536"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0 0 30px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px" width="33.33339%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?_t=Lqda%2520Vestu%2525C3%2525A1rio&pwaf_productClusterIds=171"
+            alt="Blusas"
+            title="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_17-06_Progressiva_Junho/mr-E-mail%20Mkt%20-%20Progressivos-05-blusas-01.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="33.33339%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%252520Jeans&pwaf_productClusterIds=198"
+            alt="Jeans"
+            title="Jeans"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_17-06_Progressiva_Junho/mr-E-mail%20Mkt%20-%20Progressivos-05-jeans.jpg" />
+        </mj-column>
+        <mj-column padding="0px 0px" width="33.33339%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?_t=Progressivos%252520Cal%25C3%25A7ados&pwaf_productClusterIds=172"
+            alt="Shoes"
+            title="Shoes"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Progressiva_Junho/MOR_17-06_Progressiva_Junho/mr-E-mail%20Mkt%20-%20Progressivos-05-shoes-01.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

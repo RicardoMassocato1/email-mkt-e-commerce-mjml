@@ -1,0 +1,283 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px 40px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px 30px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="LQDA Progressivo"
+            title="LQDA Progressivo"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-02/_02-EmailMKT-topo.jpg" />
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-cenoura-cos-clochard-bolso-cargo-rosa-223755/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-02/Calca%20Cenoura%20Cos%20Clochard%20Bolso%20Cargo%20Rosa.jpg"
+            title="Calca Cenoura Cos Clochard Bolso Cargo Rosa"
+            alt="Calca Cenoura Cos Clochard Bolso Cargo Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Cenoura Cos<br> Clochard Bolso Cargo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 351,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$50,27</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #b52034; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b52034;"
+              href="https://www.leboh.com.br/calca-cenoura-cos-clochard-bolso-cargo-rosa-223755/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="105px 5px 25px 5px" width="50%">
+          <mj-text font-family="Ubuntu, sans-serif" color="#cf1930" font-size="18px" padding="5px 10px" align="left" font-weight="600" line-height="18px" letter-spacing="1px">
+            -<br>textutas que<br> amamos
+          </mj-text>
+          <mj-text font-family="Ubuntu, sans-serif" color="#cf1930" font-size="12px" padding="10px 10px" align="left" font-weight="400" line-height="16px" letter-spacing="0.4px">
+            análoga ao couro, a textura mais charmosa da temporada traz uma nova cor: o rosê. barras assimétricas, volumes confortáveis e bolsos cargos deixam as peças ainda mais atuais.
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/saia-curta-assimetrica-com-transpasse-rosa-223778/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-02/Saia%20Curta%20Assimetrica%20Com%20Transpasse%20Rosa.jpg"
+            title="Saia Curta Assimetrica Com Transpasse Rosa"
+            alt="Saia Curta Assimetrica Com Transpasse Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Assimetrica<br> Com Transpasse Rosa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 255,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$51,18</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #b52034; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b52034;"
+              href="https://www.leboh.com.br/saia-curta-assimetrica-com-transpasse-rosa-223778/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-gola-polo-manga-curta-detalhe-ziper-rosa-223479/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-02/Blusa%20Gola%20Polo%20Manga%20Curta%20Detalhe%20Ziper%20Rosa.jpg"
+            title="Blusa Gola Polo Manga Curta Detalhe Ziper Rosa"
+            alt="Blusa Gola Polo Manga Curta Detalhe Ziper Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Gola Polo Manga<br> Curta Detalhe Ziper Rosa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            text-decoration="line-through"
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-top: 10px">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 183,92</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$61,30</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #b52034; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #b52034;"
+              href="https://www.leboh.com.br/blusa-gola-polo-manga-curta-detalhe-ziper-rosa-223479/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 15px 0px" background-color="#efe7da">
+      <mj-group> 
+        <mj-column width="20%">
+          <mj-image
+            align="right"
+            width="75px"
+            padding="20px 0px 0px 15px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-01/_01-EmailMKT-log.jpg" />
+        </mj-column>
+        <mj-column width="60%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="13px"
+            padding="20px 0px 0px 80px"
+            align="left"
+            line-height="15px"
+            font-weight="500">
+            dia do amigo<br><strong>-</strong>
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#5d60ca"
+            font-size="37px"
+            padding="30px 0px 30px 0px"
+            align="center"
+            line-height="32px"
+            font-weight="300">
+            olhar para<br> o&nbsp; &nbsp; &nbsp; outro
+          </mj-text>
+          <mj-text align="center">
+            <a
+              style="text-decoration: none; font-weight:500; font-size: 11px; color: #ffffff; background-color: #5d60ca; display: inline-block; padding: 6px 15px; border: 1px solid #5d60ca; letter-spacing:1px"
+              href="https://www.leboh.com.br/lancamento?O=OrderByReleaseDateDESC"
+              title="shop now">
+              shop now
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image
+            align="right"
+            width="600px"
+            padding="0"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-01/EMAILmkt-icone2.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-02/_02-EmailMKT-blusas.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas"
+            width="600px"
+            padding="0"
+            alt="Calças"
+            title="Calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_21-07_LQDA-02/_02-EmailMKT-calcas.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

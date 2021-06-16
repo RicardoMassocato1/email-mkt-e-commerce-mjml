@@ -1,0 +1,188 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 55px 20px 30px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=331&_t=Lan%C3%A7amento"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_mar-Azul-Lancamento/E-mails-mkt%202006-04-topo.jpg"
+          alt="Coleção - Mar Azul"
+          title="Coleção - Mar Azul" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 25px 30px 25px" background-color="#fff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#5e3016" font-size="13.5px" padding="0px 0px 0px 0px" align="center" font-weight="500" line-height="20px" letter-spacing="2px">
+          O estilo Náutico que é a cara do verão aparece renovado na tampotada. 
+          A trend vem com as cores braco e azul, em combinações lisas ou 
+          com estampas para todos os gostos.
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-morena-rosa-pantalona-amarracao-frontal-azul-244005"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/364601/MACACAO-PANTALONA-AMARRACAO-FRONTAL---ES-AZUL-MARINHO---P.jpg?v=637425160019200000"
+            title="Macacão Morena Rosa Pantalona Amarração Frontal Azul"
+            alt="Macacão Morena Rosa Pantalona Amarração Frontal Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacão Morena Rosa<br> Pantalona Amarração<br> Frontal Azul
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 108,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 649,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/macacao-morena-rosa-pantalona-amarracao-frontal-azul-244005" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/top-morena-rosa-cropped-manga-bufante-detalhe-torcao-branco-244185"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/364777/TOP-CROPPED-MANGA-BUFANTE-DETALHE-TORCAO---LI-BRANCO---P.jpg?v=637425162552300000"
+            title="Top Morena Rosa Cropped Manga Bufante Detalhe Torção Branco"
+            alt="Top Morena Rosa Cropped Manga Bufante Detalhe Torção Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Morena Rosa Cropped<br> Manga Bufante Detalhe<br> Torção Branco
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x6de R$ 66,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 399,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/top-morena-rosa-cropped-manga-bufante-detalhe-torcao-branco-244185" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-pantacourt-cos-alto-barra-larga-azul-243512"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/364049/CALCA-PANTACOURT-COS-ALTO-BARRA-LARGA---ES-CRU-AZUL---36.jpg?v=637425152495530000"
+            title="Calça Morena Rosa Pantacourt Cós Alto Barra Larga Azul"
+            alt="Calça Morena Rosa Pantacourt Cós Alto Barra Larga Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa<br> Pantacourt Cós Alto<br> Barra Larga Azul
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 79,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 479,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-pantacourt-cos-alto-barra-larga-azul-243512" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blazer-morena-rosa-alongado-azul-245114"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/365027/BLAZER-ALONGADO---CO-CRU-AZUL-MARINHO---P.jpg?v=637425166101270000"
+            title="Blazer Morena Rosa Alongado Azul"
+            alt="Blazer Morena Rosa Alongado Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blazer Morena Rosa Alongado Azul
+          </mj-text>
+
+          <mj-divider padding="5px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="23.5px 0 10px 0">
+            6x de R$ 116,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 699,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/blazer-morena-rosa-alongado-azul-245114" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fff" color="#000" border-radius="0px" border= "1.2px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 15px 0px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_mar-Azul-Lancamento/E-mails-mkt%202006-04-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="15px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_mar-Azul-Lancamento/E-mails-mkt%202006-04-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 15px 30px 15px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Dezembro/MOR_14-12_mar-Azul-Lancamento/E-mails-mkt%202006-04-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

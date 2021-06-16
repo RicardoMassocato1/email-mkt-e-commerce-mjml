@@ -1,0 +1,267 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=227&_t=Sand%C3%A1lias&p=2"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_01-11_Shoes-Sandalias/Prancheta%209%20c%C3%B3pia-topo.jpg"
+          alt="2 sandálias por R$339,90"
+          title="2 sandálias por R$339,90" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#326B95">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#ffffff" font-size="13.5px" padding="20px 0px 10px 0px" align="center" font-weight="300" line-height="21px" letter-spacing="1.5px">
+          Que tal se preparar para o verão e renovar<br> seu closet?
+          Confira as sandálias da nossa<br> seleção 
+          e leve <strong>dois pares por R$339,90.</strong>
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=227&_t=Sand%C3%A1lias&p=2" text-decoration="none" text-transform="uppercase" inner-padding="9px 20px" align="center" font-weight="500" font-size="13px" padding="15px 0px 40px 0px" background-color="#ffffff" color="#326B95" border-radius="0px" border= "0px solid #ffffff" target="_blank"><span style="letter-spacing:1.2px">DESCUBRA</pan></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="hhttps://www.morenarosa.com.br/sandalia-salto-alto-ziper-traseiro-preto-195726"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/289282/SANDALIA-SALTO-ALTO-ZIPER-TRASEIRO---LI-PRETO---34.jpg?v=636915421633200000"
+            title="Sandalia Salto Alto Ziper Traseiro Preto"
+            alt="Sandalia Salto Alto Ziper Traseiro Preto" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#326B95" font-weight="400" font-size="15px" padding="10px 0 10px 0">
+            Sandalia Salto Alto<br> Ziper Traseiro Preto
+          </mj-text>
+
+          <mj-text color="#326B95" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 329,90</text>
+          </mj-text>
+
+          <mj-text color="#326B95" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            2x de R$ 65,98
+          </mj-text>
+
+          <mj-text color="#326B95" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 131,96
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sandalia-salto-alto-ziper-traseiro-preto-195726" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#326B95" color="#f7eee9" border-radius="0px" border= "1.2px solid #326B95" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#326B95" font-weight="400" font-size="15px" padding="10px 0 10px 0">
+            Sandalia Anabela<br> Fivela Forrada
+          </mj-text>
+
+          <mj-text color="#326B95" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 369,90</text>
+          </mj-text>
+
+          <mj-text color="#326B95" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            2x de R$ 73,98
+          </mj-text>
+
+          <mj-text color="#326B95" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 147,96
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sandalia-anabela-fivela-forrada-vermelho-226224" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#326B95" color="#f7eee9" border-radius="0px" border= "1.2px solid #326B95" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-anabela-fivela-forrada-vermelho-226224"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/338427/SANDALIA-ANABELA-FIVELA-FORRADA---LI-CABERNET---38.jpg?v=637172572731900000"
+            title="Sandalia Anabela Fivela Forrada Vermelho"
+            alt="Sandalia Anabela Fivela Forrada Vermelho" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#fff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/sandalia-salto-alto-lisa-dourado-195917"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/292382/SANDALIA-SALTO-ALTO-LISA---LI-OURO---34.jpg?v=636931005407200000"
+            title="Sandalia Salto Alto Lisa Dourado"
+            alt="Sandalia Salto Alto Lisa Dourado" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#326B95" font-weight="400" font-size="15px" padding="10px 0 10px 0">
+            Sandalia Salto Alto<br> Lisa Dourado
+          </mj-text>
+
+          <mj-text color="#326B95" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 269,90</text>
+          </mj-text>
+
+          <mj-text color="#326B95" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            2x de R$ 53,98
+          </mj-text>
+
+          <mj-text color="#326B95" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 107,96
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/sandalia-salto-alto-lisa-dourado-195917" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#326B95" color="#f7eee9" border-radius="0px" border= "1.2px solid #326B95" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#326B95">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#ffffff" font-size="14.5px" padding="11px 0px" align="center" font-weight="300" line-height="21px" letter-spacing="1.5px">
+          Combine com:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantalona-cos-alto-recorte-lateral-azul-242669"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/363072/CALCA-PANTALONA-COS-ALTO-RECORTE-LATERAL---ES-AZUL-OFF-WHITE---36.jpg?v=637388008913800000"
+            title="Calca Pantalona Cos Alto Recorte Lateral Azul"
+            alt="Calca Pantalona Cos Alto Recorte Lateral Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Pantalona Cos Alto<br> Recorte Lateral Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-pantalona-cos-alto-recorte-lateral-azul-242669" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/macacao-comfort-com-recorte-rosa-241522"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/362922/MACACAO-COMFORT-COM-RECORTE---LI-PINK---P.jpg?v=637388001001070000"
+            title="Macacao Comfort Com Recorte Rosa"
+            alt="Macacao Comfort Com Recorte Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macacao Comfort Com<br> Recorte Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/macacao-comfort-com-recorte-rosa-241522" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-midi-decote-redondo-bicolor-preto-branco-241452"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/362779/VESTIDO-MIDI-DECOTE-REDONDO-BICOLOR---CO-PRETO-BRANCO---P.jpg?v=637387992575570000"
+            title="Vestido Midi Decote Redondo Bicolor Preto/Branco"
+            alt="Vestido Midi Decote Redondo Bicolor Preto/Branco" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Midi Decote<br> Redondo Bicolor
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 63,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 379,90
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/vestido-midi-decote-redondo-bicolor-preto-branco-241452" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-canoa-manga-morcego-abertura-manga-rosa-239944"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/358668/BLUSA-DECOTE-CANOA-MANGA-MORCEGO-ABERTURA-MANGA---ES-PINK-PRETO---P.jpg?v=637378040142600000"
+            title="Blusa Decote Canoa Manga Morcego Abertura Manga Rosa"
+            alt="Blusa Decote Canoa Manga Morcego Abertura Manga Rosa" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Decote Canoa<br> Manga Morcego
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/blusa-decote-canoa-manga-morcego-abertura-manga-rosa-239944" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

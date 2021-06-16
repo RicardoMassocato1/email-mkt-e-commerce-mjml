@@ -1,0 +1,186 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Fashion Feeling"
+            title="Fashion Feeling"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_18-11_Fashion-Feelings/Artboard%201%20copy-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="25px 0px 30px 0px">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#000"
+            font-size="25px"
+            padding="15px 100px 0px 0px"
+            align="right"
+            line-height="15px"
+            font-weight="700">
+            -
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#000"
+            font-size="15px"
+            padding="5px 100px 20px 0px"
+            align="right"
+            line-height="17px"
+            letter-spacing="0.5px"
+            font-weight="400">
+            renove o closet com<br>
+            vestidos até 70% OFF!
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda/vestidos?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 19px" align="right" font-weight="400" font-size="14px" padding="10px 140px 15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-transpassado-bicolor-marrom-225243/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186454/22000102034000451-0-.jpg?v=637190967269470000"
+            title="Vestido Lebôh Midi Decote Transpassado Bicolor Marrom"
+            alt="Vestido Lebôh Midi Decote Transpassado Bicolor Marrom" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="left" color="#000" font-weight="300" font-size="15px" padding="140px 0 10px 0">
+            Vestido Lebôh Midi<br> Decote Transpassado<br> Bicolor Marrom
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            6x de R$ 51,32
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 307,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-transpassado-bicolor-marrom-225243/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="right" color="#000" font-weight="300" font-size="15px" padding="140px 0 10px 0">
+            Vestido Lebôh Curto<br> Gola Esporte Com<br> Faixa Tijolo/Verde
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="right" padding="10px 0">
+            6x de R$ 58,32
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 349,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-curto-gola-esporte-com-faixa-tijolo-verde-231134/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="right" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-curto-gola-esporte-com-faixa-tijolo-verde-231134/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187567/VESTIDO-CURTO-GOLA-ESPORTE-COM-FAIXA---ES-VERDE-FERRUGEM---PP.jpg?v=637250795067300000"
+            title="Vestido Lebôh Curto Gola Esporte Com Faixa Tijolo/Verde"
+            alt="Vestido Lebôh Curto Gola Esporte Com Faixa Tijolo/Verde" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-transpassado-com-faixa-azul-220282/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/183965/VESTIDO-MIDI-DECOTE-TRANSPASSADO-COM-FAIXA---ES-AZUL---PP.jpg?v=637111569614830000"
+            title="Vestido Lebôh Midi Decote Transpassado Com Faixa Azul"
+            alt="Vestido Lebôh Midi Decote Transpassado Com Faixa Azul" />
+        </mj-column>
+        <mj-column padding="10px 5px 10px 5px">
+
+          <mj-text align="left" color="#000" font-weight="300" font-size="15px" padding="140px 0 10px 0">
+            Vestido Lebôh Midi<br> Decote Transpassado<br> Com Faixa Azul
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 369,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="left" padding="10px 0">
+            5x de R$ 51,78
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 258,93
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-transpassado-com-faixa-azul-220282/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="left" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" border=" 1.2px solid #fff" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.leboh.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_18-11_Fashion-Feelings/Artboard%201%20copy-blusas.jpg" 
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.leboh.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_18-11_Fashion-Feelings/Artboard%201%20copy-calcas.jpg" 
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

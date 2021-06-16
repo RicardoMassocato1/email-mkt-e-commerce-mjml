@@ -1,0 +1,139 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section background-color="#e7e7e7">
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Dia%2520Das%2520M%25C3%25A3es&pwaf_productClusterIds=221"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_06-05_Dia-das-Maes/ID-DiadasMaes-EmailMKT-topo.jpg" 
+            alt="Dia das Mães"
+            title="Dia das Mães"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#e7e7e7">
+        <mj-column padding="0 68px 10px 68px" >
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#ec4012"
+            font-size="15px"
+            padding="7px 30px 0px 30px"
+            align="center"
+            font-weight="300"
+            letter-spacing="0.2px"
+            line-height="19px">
+            Presentes que ficam na memória e por gerações.
+          </mj-text>
+          <mj-text
+            font-family= "Poppins, sans-serif"
+            color="#ec4012"
+            font-size="15px"
+            padding="15px 0px 0px 0px"
+            align="center"
+            font-weight="300"
+            letter-spacing="0.2px"
+            line-height="19px">
+            Confira os looks que a Maya Marx escolheu para compartilhar com sua mãe.
+          </mj-text>
+          <mj-text align="center" padding="0">
+            <a
+              style="font-weight:300; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color:#ec4012; display: inline-block; margin: 0px; margin-top: 15px; padding: 8px 18px;"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Dia%2520Das%2520M%25C3%25A3es&pwaf_productClusterIds=221"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding="40px 70px 20px 70px" background-color="#e7e7e7">
+        <mj-column width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/vestido-midi-gola-alta-compose-de-tecidos-preto-222842"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_06-05_Dia-das-Maes/ID-DiadasMaes-EmailMKT-01.jpg" 
+            alt="Vestido"
+            title="Vestido"/>
+          <mj-text align="center" padding="0">
+            <a
+              style="font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 12.3px; color: #ec4012; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 70px 20px 70px" background-color="#e7e7e7">
+        <mj-column width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/macacao-comfort-com-bolso-laranja-222553"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_06-05_Dia-das-Maes/ID-DiadasMaes-EmailMKT-02.jpg" 
+            alt="Macacão"
+            title="Macacão"/>
+          <mj-text align="center" padding="0">
+            <a
+              style="font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 12.3px; color: #ec4012; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 70px 0px 70px" background-color="#e7e7e7">
+        <mj-group>
+          <mj-column padding="0" width="50.17%">
+            <mj-image
+              title="Calça"
+              padding="0"
+              align="center"
+              href="https://www.iodice.com.br/calca-reta-cos-intermediario-com-recorte-preto-224392"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_06-05_Dia-das-Maes/ID-DiadasMaes-EmailMKT-03-01.jpg" />
+          </mj-column>
+          <mj-column  padding="0" width="49.84%">
+            <mj-image
+              title="Blusa"
+              padding="0"
+              align="center"
+              href="https://www.iodice.com.br/camisa-manga-longa-alongada-off-white-223232"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_06-05_Dia-das-Maes/ID-DiadasMaes-EmailMKT-03-02.jpg" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px 70px 40px 70px" background-color="#e7e7e7">
+        <mj-column width="100%">
+          <mj-text align="center" padding="0">
+            <a
+              style="font-weight: 500; text-decoration: none; text-transform: uppercase; font-size: 12.3px; color: #ec4012; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

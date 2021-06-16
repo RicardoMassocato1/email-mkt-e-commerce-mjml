@@ -1,0 +1,75 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lancamento?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_12-05_Xadrez/Xadrez-01-min.jpg"
+            alt="neon green"
+            title="neon green" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#7b8c82"> 
+      <mj-column padding="30px 0px 30px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="14.3px" padding="0px 30px 0px 30px" align= "center" font-weight="300" line-height="17px" letter-spacing="2px">
+          Xadrez Vichy é um clássico da moda, e voltou com tudo nessa temporada. Aqui na Lebôh ele aparece com tons terrosos com azul e deixa o visual super moderno!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="15px 0px" background-color="#4f5f55">
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/blusa-leboh-gola-alta-manga-curta-basica-verde-261130/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_12-05_Xadrez/Xadrez-02-min.jpg"
+            alt="Blusa Lebôh Gola Alta Manga Curta Básica Verde"
+            title="Blusa Lebôh Gola Alta Manga Curta Básica Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/saia-leboh-curta-reta-com-recorte-verde-261126/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_12-05_Xadrez/Xadrez-03-min.jpg"
+            alt="Saia Lebôh Curta Reta Com Recorte Verde"
+            title="Saia Lebôh Curta Reta Com Recorte Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/blazer-leboh-com-recorte-verde-261121/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LBH_Maio/LEB_12-05_Xadrez/Xadrez-04-min.jpg"
+            alt="Blazer Lebôh Com Recorte Verde"
+            title="Blazer Lebôh Com Recorte Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px" background-color="#4f5f55">
+    </mj-section>
+  
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

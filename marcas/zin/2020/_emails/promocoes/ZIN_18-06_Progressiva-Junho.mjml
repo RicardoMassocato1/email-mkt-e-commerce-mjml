@@ -1,0 +1,327 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="20px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 20px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/lqda/"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_18-06_Progressiva-Junho/Email%20mkt-02%5B1%5D-topo.jpg"
+              title="Desconto Progressivo"
+              alt="Desconto Progressivo" />
+          </mj-column>  
+          <mj-column padding="0" width="100%">
+            <mj-text 
+              font-family= "Poppins, sans-serif" 
+              font-weight="700" 
+              padding="30px 10px 0px 30px" 
+              color="#000000" 
+              font-size="22px" 
+              align="left" 
+              line-height= "19px" 
+              letter-spacing= "3px"
+              text-transform="uppercase">
+                jeans jeans jeans!
+            </mj-text>
+            <mj-text 
+              font-family= "Poppins, sans-serif" 
+              font-weight="700" 
+              padding="15px 10px 0px 30px" 
+              color="#000000" 
+              font-size="14px" 
+              align="left" 
+              line-height= "19px" 
+              letter-spacing= "3px"
+              text-transform="uppercase">
+                O comfort look que você<br> queria está aqui! leve tudo<br> com até 70% off.
+            </mj-text>
+            <mj-text align="left" padding="15px 0px 30px 30px">
+              <a
+                style="background-color:#f9a717; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/lqda/"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/chemise-curto-com-abotoamento-marinho-218052/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_18-06_Progressiva-Junho/Chemise%20Curto%20Com%20Abotoamento%20Marinho.jpg"
+              title="Chemise Curto Com Abotoamento Marinho"
+              alt="Chemise Curto Com Abotoamento Marinho" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Chemise Curto Com Abotoamento
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 599,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 419,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">8x de R$ 52,49</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #0021ff; background-color:#c4e8da; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #f9a717; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/chemise-curto-com-abotoamento-marinho-218052/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/bermuda-reta-com-laser-jeans-219804/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_18-06_Progressiva-Junho/Bermuda%20Reta%20Com%20Laser%20Jeans.jpg"
+              title="Bermuda Reta Com Laser Jeans"
+              alt="Bermuda Reta Com Laser Jeans" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Bermuda Reta Com Laser Jeans
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 319,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 223,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">4x de R$ 55,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #0021ff; background-color:#c4e8da; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #f9a717; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/bermuda-reta-com-laser-jeans-219804/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/t-shirt-decote-redondo-com-silk-azul-219800/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_18-06_Progressiva-Junho/T-Shirt%20Decote%20Redondo%20Com%20Silk%20Azul.jpg"
+              title="T-Shirt Decote Redondo Com Silk Azul"
+              alt="T-Shirt Decote Redondo Com Silk Azul" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                T-Shirt Decote Redondo Com Silk
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 209,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">4x de R$ 52,48</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #0021ff; background-color:#c4e8da; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #f9a717; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/t-shirt-decote-redondo-com-silk-azul-219800/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.zinco.com.br/calca-mom-cos-alto-com-puidos-jeans-218129/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_18-06_Progressiva-Junho/Calca%20Mom%20Cos%20Alto%20Com%20Puidos%20Jeans.jpg"
+              title="Calca Mom Cos Alto Com Puidos Jeans"
+              alt="Calca Mom Cos Alto Com Puidos Jeans" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #2014ce; font-weight: 500; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Mom Cos Alto Com Puidos
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 349,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 244,93</span>
+            </mj-text>
+
+            <mj-text
+              color="#2014ce"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">4x de R$ 61,23</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-shadow: 1px 1px #0021ff; background-color:#c4e8da; text-decoration: none; text-transform: uppercase; font-weight: 600; font-size: 12px; color: #f9a717; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 13px;"
+                href="https://www.zinco.com.br/calca-mom-cos-alto-com-puidos-jeans-218129/p"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="25px 0 50px 0px" width="100%">
+            <mj-image
+              padding="0"
+              align="left"
+              href="https://www.zinco.com.br/lqda/feminino"
+              alt="Feminino"
+              title="Feminino"
+              width="400px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_18-06_Progressiva-Junho/Email%20mkt-02%5B1%5D-feminino.jpg" />
+          </mj-column>
+          <mj-column padding="0px 0px" width="100%">
+            <mj-image
+              padding="0"
+              align="right"
+              href="https://www.zinco.com.br/lqda/masculino"
+              alt="Masculino"
+              title="Masculino"
+              width="400px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_18-06_Progressiva-Junho/Email%20mkt-02%5B1%5D-masculino.jpg" />
+          </mj-column>
+          <mj-column padding="65px 0 0px 0px" width="100%">
+            <mj-image
+              padding="0"
+              href="https://www.zinco.com.br/lqda/"
+              alt="Desconto Progressivo"
+              title="Desconto Progressivo"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Progressiva-Junho/ZIN_18-06_Progressiva-Junho/Email%20mkt-02%5B1%5D-rodape.jpg" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

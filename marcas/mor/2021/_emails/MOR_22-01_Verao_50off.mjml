@@ -1,0 +1,199 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_22-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%203-topo.jpg"
+          alt="Verão 50% OFF"
+          title="Verão 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/saia-morena-rosa-midi-assimetrica-com-babado-laranja-235478"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355574/SAIA-MIDI-ASSIMETRICA-COM-BABADO---ES-LARANJA-PINK---38.jpg?v=637327743990900000"
+            title="Saia Morena Rosa Midi Assimétrica Com Babado Laranja"
+            alt="Saia Morena Rosa Midi Assimétrica Com Babado Laranja" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Morena Rosa Midi<br> Assimétrica Com Babado<br> Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 649,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 54,15
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 324,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/saia-morena-rosa-midi-assimetrica-com-babado-laranja-235478" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/t-shirt-morena-rosa-gola-redonda-bordada-manual-branco-234716"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355694/T-SHIRT-GOLA-REDONDA-BORDADA-MANUAL---LI-BRANCO---P.jpg?v=637327748425170000"
+            title="T-Shirt Morena Rosa Gola Redonda Bordada Manual Branco"
+            alt="T-Shirt Morena Rosa Gola Redonda Bordada Manual Branco" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Morena Rosa<br> Gola Redonda Bordada<br> Manual Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/t-shirt-morena-rosa-gola-redonda-bordada-manual-branco-234716" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-pantalona-cos-intermediario-bolso-faca-rosa-234205"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352074/CALCA-PANTALONA-COS-INTERMEDIARIO-BOLSO-FACA---LT-PINK---36.jpg?v=637326621616200000"
+            title="Calça Morena Rosa Pantalona Cós Intermediário Bolso Faca Rosa"
+            alt="Calça Morena Rosa Pantalona Cós Intermediário Bolso Faca Rosa" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa<br> Pantalona Cós<br> Intermediário Bolso<br> Faca Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 529,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 52,99
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 264,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-pantalona-cos-intermediario-bolso-faca-rosa-234205" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-transpassado-amarracao-cintura-branco-235407"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/354387/VESTIDO-MIDI-DECOTE-TRANSPASSADO-AMARRACAO-CINTURA---LI-BRANCO---P.jpg?v=637326670704270000"
+            title="Vestido Morena Rosa Midi Decote Transpassado Amarração Cintura Branco"
+            alt="Vestido Morena Rosa Midi Decote Transpassado Amarração Cintura Branco" />
+
+          <mj-text align="center" color="#d9384a" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Morena Rosa<br> Midi Decote Transpassado Amarração Cintura<br> Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#d9384a" />
+
+          <mj-text color="#d9384a" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 869,90</text>
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 72,49
+          </mj-text>
+
+          <mj-text color="#d9384a" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 434,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-morena-rosa-midi-decote-transpassado-amarracao-cintura-branco-235407" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#d9384a" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0px 0px 0px 0px" background-color="linear-gradient(to right, #d97923 , #d54060)">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#fff" font-size="13.5px" padding="50px 0px 50px 0px" align="center" font-weight="600" line-height="21px" letter-spacing="3.5px">
+          Compre também
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Blusas&pwaf_productClusterIds=234"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_22-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%203-blusas.jpg"
+            alt="Blusas"
+            title="Blusas" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestidos&pwaf_productClusterIds=244"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_22-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%203-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=160"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_22-01_Verao_50off/Ver%C3%A3o%2050%20OFF_Email%20MKT%203-calcas.jpg"
+            alt="Calças"
+            title="Calças" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

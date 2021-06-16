@@ -1,0 +1,190 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lancamento?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_10-12_Toque-Fresco/MV_EmailMkt_02-topo.jpg"
+          alt="Toque Fresco"
+          title="Toque Fresco" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#000000" font-size="13px" padding="30px 20px 0px 20px" align="center" font-weight="500" line-height="20px" letter-spacing="1.1px">
+          Looks em tecidos levíssimos ganham babados e estampas botânicas 
+          em um momento romântico da coleção. Pitadas esportivas aparecem 
+          em looks feitos em linho que ganham ainda mais beleza com detalhes 
+          de cores fortes, como laranja e o pink. Por falar em cor, o lilás 
+          aparece como uma das  tendências desejo da estação. 
+        </mj-text>
+
+        <mj-button href="https://www.mariavalentina.com.br/lancamento?O=OrderByReleaseDateDESC" text-decoration="underline" font-family="'Roboto', sans-serif" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="500" font-size="14px" padding="15px 0px" background-color="#ffffff" color="#000000" border="0px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">ver coleção</span></mj-button>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-maria-valentina-longo-decote-transpassado-com-fenda-roxo-242535/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/235518/VESTIDO-LONGO-DECOTE-TRANSPASSADO-COM-FENDA---ES-LILAS-VERDE---PP.jpg?v=637425242254470000"
+            title="Vestido Maria.Valentina Longo Decote Transpassado Com Fenda Roxo"
+            alt="Vestido Maria.Valentina Longo Decote Transpassado Com Fenda Roxo" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Maria.Valentina<br> Longo Decote<br> Transpassado Com<br> Fenda Roxo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            10x de R$ 79,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 799,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/vestido-maria-valentina-longo-decote-transpassado-com-fenda-roxo-242535/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/chemise-maria-valentina-midi-com-abotoamento-roxo-242896/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/235717/CHEMISE-MIDI-COM-ABOTOAMENTO---ES-LILAS-VERDE---PP.jpg?v=637425245155800000"
+            title="Chemise Maria.Valentina Midi Com Abotoamento Roxo"
+            alt="Chemise Maria.Valentina Midi Com Abotoamento Roxo" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Maria.Valentina<br> Boxer Bolso Faca<br> Vermelho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="23.5px 0 10px 0">
+            10x de R$ 68,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 689,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/chemise-maria-valentina-midi-com-abotoamento-roxo-242896/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 10px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-redondo-detalhe-macrame-rosa-245253/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/235613/VESTIDO-MIDI-DECOTE-REDONDO-DETALHE-MACRAME---CO-ROSE-LARANJA-VERDE---PP.jpg?v=637425243480600000"
+            title="Vestido Maria.Valentina Midi Decote Redondo Detalhe Macramê Rosa"
+            alt="Vestido Maria.Valentina Midi Decote Redondo Detalhe Macramê Rosa" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Maria.Valentina<br> Midi Decote Redondo<br> Detalhe Macramê Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            10x de R$ 57,99
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 579,90
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/vestido-maria-valentina-midi-decote-redondo-detalhe-macrame-rosa-245253/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/shorts-maria-valentina-boxer-bolso-faca-vermelho-245402/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/235276/SHORTS-BOXER-BOLSO-FACA---ES-VERMELHO-LARANJA---36.jpg?v=637425144071130000"
+            title="Shorts Maria.Valentina Boxer Bolso Faca Vermelho"
+            alt="Shorts Maria.Valentina Boxer Bolso Faca Vermelho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Maria.Valentina<br> Boxer Bolso Faca<br> Vermelho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            7x de R$ 52,84
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/shorts-maria-valentina-boxer-bolso-faca-vermelho-245402/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/blusas?map=c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_10-12_Toque-Fresco/MV_EmailMkt_02-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_10-12_Toque-Fresco/MV_EmailMkt_02-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/shorts?map=c&O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_10-12_Toque-Fresco/MV_EmailMkt_02-shorts.jpg"
+          alt="Shorts"
+          title="Shorts" />
+      </mj-column>
+    </mj-section>
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

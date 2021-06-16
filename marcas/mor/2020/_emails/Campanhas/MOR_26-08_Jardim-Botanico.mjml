@@ -1,0 +1,576 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-column padding="0" width="100%">
+      <mj-image
+        padding="0px 0px 0px 0px"
+        width="600px"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-topo.jpg"
+        title="jardim botânico"
+        alt="jardim botânico" />
+    </mj-column>
+
+    <mj-section padding="10px 0px 20px 0px" background-url="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-02.jpg" background-size="110%" background-repeat="no-repeat">
+      <mj-group>
+        
+        <mj-column padding="0px 0px 0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#634731" font-size="11.5px" padding="0px 30px 0px 22px" align="left" font-weight="400" line-height="21px" letter-spacing="1.4px">
+            Nas estações de primavera e verão, as estampas<br>
+            florais são a grande pedida! Dessa vez, os prints<br>
+            vêm em versões mais abstratas, com pontos de<br>
+            cor iluminados e muita feminilidade!
+          </mj-text>
+          <mj-text align="left" padding="10px 0px 0px 25px">
+            <a
+              style="font-family:Roboto, serif; font-weight: 400; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #fef2e6; background-color: #634731; display: inline-block; margin: 0px; padding: 7px 13px; letter-spacing: 1.2px; "
+              href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+              title="SHOP NOW"
+              alt="SHOP NOW">
+              SHOP NOW >
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-section>
+      <mj-group>    
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-decote-v-alca-com-recortes-verde-233278"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/354980/BODY-DECOTE-V-ALCA-COM-RECORTES---CO-VERDE-LIMA-BRANCO-PRETO---PP.jpg?v=637326716514700000"
+            title="Body Decote V Alca Com Recortes Verde"
+            alt="Body Decote V Alca Com Recortes Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Body Decote V<br> com Alca
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">4x de R$57,47</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$229,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/body-decote-v-alca-com-recortes-verde-233278"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-jogger-cos-elastico-com-recorte-preto-233515"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355027/CALCA-JOGGER-COS-ELASTICO-COM-RECORTE---CO-PRETO-VERDE-LIMA-OFF-WHITE---38.jpg?v=637326717876670000"
+            title="Calca Jogger Cos Elastico Com Recorte Preto"
+            alt="Calca Jogger Cos Elastico Com Recorte Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Jogger Cos<br> Elastico
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$76,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$459,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/calca-jogger-cos-elastico-com-recorte-preto-233515"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-boxer-detalhe-lateral-azul-233503"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/354996/SHORTS-BOXER-DETALHE-LATERAL---CO-AZUL-OFF-WHITE-VERDE-LIMA---36.jpg?v=637326717156800000"
+            title="Shorts Boxer Detalhe Lateral Azul"
+            alt="Shorts Boxer Detalhe Lateral Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Boxer <br>D/ Lateral
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">4x de R$62,47</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$249,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/shorts-boxer-detalhe-lateral-azul-233503"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-url="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-banner-02.jpg" background-size="100%" background-repeat="no-repeat">
+      <mj-group>    
+        <mj-column padding="0" width="50%">
+          <mj-image
+            padding="0px 0px 0px 0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Primavera%20Ver%C3%A3o&pwaf_productClusterIds=291"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-banner-01.jpg"
+            title="URBAN TOUCH As peças ainda trazem inspiração esportiva, tanto no tecido, quanto no shape. Ótima pedida para os looks urbanos da estação! Use com tênis para momentos casuais e salto para eventos e festas."
+            alt="jardim botânico" />
+        </mj-column>
+          
+        <mj-column padding="50px 0px 0px 0px" width="50%">
+          <mj-text font-family="Roboto, serif" color="#634731" font-size="14px" padding="15px 0px 0px 15px" align="left" font-weight="400" line-height="21px" letter-spacing="1.4px">
+            URBAN<br> <strong>TOUCH</strong>
+          </mj-text>
+          <mj-text font-family="Roboto, serif" color="#634731" font-size="11px" padding="10px 10px 0px 15px" align="left" font-weight="400" line-height="21px" letter-spacing="1.4px">
+            As peças ainda trazem inspiração esportiva, tanto no tecido, quanto no shape. Ótima pedida para os looks urbanos da estação! Use com tênis para momentos casuais e salto para eventos e festas.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>  
+
+    <mj-section>
+      <mj-group>  
+        <mj-column padding="20px 5px 30px 40px" width="100%">
+          <mj-text align="left" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-weight:400; letter-spacing: 2px; font-size: 14px; color: #674633; background-color: #fdf2ec; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              target="_blank"
+              title="COMBINE COM"
+              alt="COMBINE COM">
+              COMBINE COM
+            </a>
+          </mj-text>
+        </mj-column>  
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tenis-classico-com-recorte-off-white-220433"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/335603/TENIS-CLASSICO-COM-RECORTE---LI-OFF-WHITE---34.jpg?v=637172527944370000"
+            title="Tenis Classico Com Recorte Off White"
+            alt="Tenis Classico Com Recorte Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Tenis Classico<br> Com Recorte
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">5x de R$55,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$279,93</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/tenis-classico-com-recorte-off-white-220433"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tenis-classico-com-recorte-branco-225946"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/336779/TENIS-CLASSICO-COM-RECORTE---LI-BRANCO---34.jpg?v=637172545907430000"
+            title="Tenis Classico Com Recorte Branco"
+            alt="Tenis Classico Com Recorte Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Tenis Classico<br> Com Recorte
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 32px 0 10px 0">6x de R$56,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$339,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/tenis-classico-com-recorte-branco-225946"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tenis-classico-com-recorte-----------------------------------preto-220434"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/324211/TENIS-CLASSICO-COM-RECORTE---LI-PRETO---34.jpg?v=637098143841500000"
+            title="Tenis Classico Com Recorte Preto"
+            alt="Tenis Classico Com Recorte Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Tenis Classico<br> Com Recorte
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="13px"
+            align="center"
+            padding="10px 0px 0px 0px">
+            De: <text style="text-decoration: line-through;">R$ 399,90</text>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">5x de R$55,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$279,93</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/tenis-classico-com-recorte-----------------------------------preto-220434"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="10px 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tenis-cano-medio-etiqueta-emborrachada-branco-225855"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/336347/TENIS-CANO-MEDIO-ETIQUETA-EMBORRACHADA---LI-BRANCO---34.jpg?v=637172539155300000"
+            title="Tenis Cano Medio Etiqueta Emborrachada Branco"
+            alt="Tenis Cano Medio Etiqueta Emborrachada Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Tenis Cano Medio<br> Etiqueta
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$73,31</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$439,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/tenis-cano-medio-etiqueta-emborrachada-branco-225855"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tenis-classico-com-bordado-personalizado-nude-230998"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/345959/TENIS-CLASSICO-COM-BORDADO-PERSONALIZADO---LI-PESSEGO---34.jpg?v=637238798324000000"
+            title="Tenis Classico Com Bordado Personalizado Nude"
+            alt="Tenis Classico Com Bordado Personalizado Nude" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Tenis Classico<br> Com Bordado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$66,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$399,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/tenis-classico-com-bordado-personalizado-nude-230998"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/tenis-classico-detalhe-laser-branco-230980"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/345767/TENIS-CLASSICO-DETALHE-LASER---LI-BRANCO---34.jpg?v=637238795674930000"
+            title="Tenis Classico Detalhe Laser Branco"
+            alt="Tenis Classico Detalhe Laser Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Tenis Classico<br> Detalhe Laser
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$64,98</span>
+          </mj-text>
+
+          <mj-text
+            color="#000000"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$389,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/tenis-classico-detalhe-laser-branco-230980"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="50px 20px 10px 20px" width="100%">
+          <mj-image
+            padding="0"
+            href="https://www.morenarosa.com.br/vestuario/blusas?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Blusas"
+            alt="Blusas"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-blusas.jpg" />
+          <mj-image
+            padding="25px 0px"
+            href="https://www.morenarosa.com.br/vestuario/calcas?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Calças"
+            alt="Calças"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-calcas.jpg" />
+          <mj-image
+            padding="0px 0px 0px 0px"
+            href="https://www.morenarosa.com.br/vestuario/vestidos?pwaf_OrderByReleaseDateDESC=%2B"
+            title="Vestidos"
+            alt="Vestidos"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Lancamento-Agosto/MOR_26-08_Casa-de-Cam/E-mail%20mkt%202004-03_1-vestidos.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section> 
+      
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

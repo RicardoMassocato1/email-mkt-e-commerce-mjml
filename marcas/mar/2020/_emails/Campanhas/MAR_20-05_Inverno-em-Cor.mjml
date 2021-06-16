@@ -1,0 +1,221 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Inverno-em-Cor/EmailMkt_Mae_0201-topo.png"
+              title="Inverno em Cor"
+              alt="Inverno em Cor" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/t-shirt-decote-v-com-colar-azul-223540/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Inverno-em-Cor/T-Shirt%20Decote%20V%20Com%20Colar%20Azul.jpg" 
+            title="T-Shirt Decote V Com Colar Azul" 
+            alt="T-Shirt Decote V Com Colar Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote V Com Colar
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/t-shirt-decote-v-com-colar-azul-223540/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px"
+            href="https://www.mariavalentina.com.br/vestido-curto-decote-transpassado-com-amarracao-preto-225917/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Inverno-em-Cor/Vestido%20Curto%20Decote%20Transpassado%20Com%20Amarracao%20Preto.jpg" 
+            title="Vestido Curto Decote Transpassado Com Amarracao Preto" 
+            alt="Vestido Curto Decote Transpassado Com Amarracao Preto" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Decote
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 759,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">10x de R$ 75,99</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/vestido-curto-decote-transpassado-com-amarracao-preto-225917/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/jaqueta-classica-barra-desfiada-vermelho-221360/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Inverno-em-Cor/Jaqueta%20Classica%20Barra%20Desfiada%20Vermelho.jpg" 
+            title="Jaqueta Classica Barra Desfiada Vermelho" 
+            alt="Jaqueta Classica Barra Desfiada Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Jaqueta Classica Barra Desfiada
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">8x de R$ 54,98</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/jaqueta-classica-barra-desfiada-vermelho-221360/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/calca-jegging-m--isis-cos-alto-vivo-metalizado-azul-221836/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Inverno-em-Cor/Calca%20Jegging%20M.%20Isis%20Cos%20Alto%20Vivo%20Metalizado%20Azul.jpg" 
+            title="Calca Jegging M. Isis Cos Alto Vivo Metalizado Azul" 
+            alt="Calca Jegging M. Isis Cos Alto Vivo Metalizado Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Jegging M. Isis Cos Alto Vivo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#999999" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text color="#999999" font-weight="300" font-size="12px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">7x de R$ 55,70</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-weight: 400; font-size: 12.5px; background-color:#606158; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 6px 10px; border: 1px solid #606158;" 
+              href="https://www.mariavalentina.com.br/calca-jegging-m--isis-cos-alto-vivo-metalizado-azul-221836/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="0px 0px 20px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento/blusas?O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Inverno-em-Cor/EmailMkt_Mae_0202-blusa.png"
+              title="Blusas"
+              alt="Blusas" />
+      </mj-column>  
+    
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="0 0px 0px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Inverno-em-Cor/EmailMkt_Mae_0203-calca.png"
+              title="Calças"
+              alt="Calças" />
+      </mj-column>  
+   
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="20px 0px 0 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento/vestidos?O=OrderByReleaseDateDESC"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Inverno-em-Cor/EmailMkt_Mae_0204-vestido.png"
+              title="Vestidos"
+              alt="Vestidos" />
+      </mj-column>  
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+              padding="20px 0 10px 0px"
+              width="600px"
+              href="https://www.mariavalentina.com.br/lancamento"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_20-05_Lancamento/MAR_20-05_Inverno-em-Cor/EmailMkt_Mae_0205-rodape.png"
+              title="Inverno em Cor"
+              alt="Inverno em Cor" />
+      </mj-column>    
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

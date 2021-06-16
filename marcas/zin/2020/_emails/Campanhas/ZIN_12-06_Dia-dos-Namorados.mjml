@@ -1,0 +1,358 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <mj-section padding="0px 0px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            padding="10px 0px 0px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/dia-dos-namorados?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/EmailMkt_01.png"
+            title="Dia dos Namorados"
+            alt="Dia dos Namorados" />
+        </mj-column> 
+
+        <mj-column width="100%">
+          <mj-image
+            padding="50px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/feminino"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/EmailMkt_02.png"
+            title="Feminino"
+            alt="Feminino" />
+        </mj-column> 
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #6565dd"
+            href="https://www.zinco.com.br/t-shirt-decote-redondo-compose-tecidos-azul-227610/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/T-Shirt%20Decote%20Redondo%20Compose%20Tecidos%20Azul.jpg"
+            title="T-Shirt Decote Redondo Compose Tecidos Azul"
+            alt="T-Shirt Decote Redondo Compose Tecidos Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6565dd; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              T-Shirt Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6565dd"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 299,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6565dd"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 59,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#6565dd; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/t-shirt-decote-redondo-compose-tecidos-azul-227610/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #6565dd"
+            href="https://www.zinco.com.br/calca-pantacourt-cos-alto-com-faixa-bege-227515/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/Calca%20Pantacourt%20Cos%20Alto%20Com%20Faixa%20Bege.jpg"
+            title="Calca Pantacourt Cos Alto Com Faixa Bege"
+            alt="Calca Pantacourt Cos Alto Com Faixa Bege" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6565dd; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantacourt Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6565dd"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6565dd"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#6565dd; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/calca-pantacourt-cos-alto-com-faixa-bege-227515/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #6565dd"
+            href="https://www.zinco.com.br/vestido-curto-decote-redondo-detalhe-ziper-marinho-227143/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/Vestido%20Curto%20Decote%20Redondo%20Detalhe%20Ziper%20Marinho.jpg"
+            title="Vestido Curto Decote Redondo Detalhe Ziper Marinho"
+            alt="Vestido Curto Decote Redondo Detalhe Ziper Marinho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6565dd; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto Decote R.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6565dd"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6565dd"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#6565dd; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/vestido-curto-decote-redondo-detalhe-ziper-marinho-227143/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+                padding="35px 0px 20px 0px"
+                width="600px"
+                href="https://www.zinco.com.br/masculino"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/EmailMkt_03.png"
+                title="Masculino"
+                alt="Masculino" />
+        </mj-column>  
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #6565dd"
+            href="https://www.zinco.com.br/camisa-manga-curta-com-recortes-azul-224610/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/Camisa%20Manga%20Curta%20Com%20Recortes%20Azul.jpg"
+            title="Camisa Manga Curta Com Recortes Azul"
+            alt="Camisa Manga Curta Com Recortes Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6565dd; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Curta
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6565dd"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 259,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6565dd"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 51,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#6565dd; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/camisa-manga-curta-com-recortes-azul-224610/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #6565dd"
+            href="https://www.zinco.com.br/camisa-manga-longa-com-botoes-off-white-224310/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/Camisa%20Manga%20Longa%20Com%20Botoes%20Off%20White.jpg"
+            title="Camisa Manga Longa Com Botoes Off White"
+            alt="Camisa Manga Longa Com Botoes Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6565dd; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6565dd"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 289,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6565dd"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 57,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#6565dd; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/camisa-manga-longa-com-botoes-off-white-224310/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            border="1px solid #6565dd"
+            href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-trico-cinza-224695/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/Blusa%20Decote%20Redondo%20Manga%20Longa%20Trico%20Cinza.jpg"
+            title="Blusa Decote Redondo Manga Longa Trico Cinza"
+            alt="Blusa Decote Redondo Manga Longa Trico Cinza" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #6565dd; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#6565dd"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding: 10px 0">R$ 329,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#6565dd"
+            font-weight="300"
+            font-size="12px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 54,98</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="background-color:#6565dd; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 8px; border: 1px solid #ffffff;"
+              href="https://www.zinco.com.br/blusa-decote-redondo-manga-longa-trico-cinza-224695/p"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-image
+            padding="40px 0px 20px 0px"
+            width="600px"
+            href="https://www.zinco.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Dia-dos-Namorados/ZIN_12-06_Dia-dos-Namorados/EmailMkt_05.png"
+            title="Lançamento"
+            alt="Lançamento" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

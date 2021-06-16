@@ -1,0 +1,202 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=238&_t=COMFY"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_13-01_Comfy-LQDA/Artboard%201%20copy%205-topo.jpg"
+          alt="LQDA até 50% off"
+          title="LQDA até 50% off" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+      <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#AB1622" font-size="23px" padding="30px 0px 10px 0px" align="center" font-weight="700" line-height="21px" letter-spacing="0.2px">
+          Looks comfy com até<br> 50% off
+        </mj-text>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="14px" padding="0px 0px 40px 0px" align="center" font-weight="400" line-height="18px">
+          Para curtir os dias com conforto<br> e estilo!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/regata-iodice-decote-u-basica-laranja-223066"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/169079/REGATA-DECOTE-U-BASICA---ES-LARANJA---P.jpg?v=637187617390300000"
+            title="REGATA IÓDICE DECOTE U BÁSICA LARANJA"
+            alt="REGATA IÓDICE DECOTE U BÁSICA LARANJA" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Iódice Decote U<br> Básica Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/regata-iodice-decote-u-basica-laranja-223066" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-iodice-alfaiataria-bolso-frontal-bege-209805"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/162380/SHORTS-ALFAIATARIA-BOLSO-FRONTAL---LT-PESSEGO-PRETO---36.jpg?v=637027112519270000"
+            title="SHORTS IÓDICE ALFAIATARIA BOLSO FRONTAL BEGE"
+            alt="SHORTS IÓDICE ALFAIATARIA BOLSO FRONTAL BEGE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="26px 0 10px 0">
+            Shorts Iódice Alfaiataria<br> Bolso Frontal Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 174,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-iodice-alfaiataria-bolso-frontal-bege-209805" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/t-shirt-iodice-decote-redondo-abertura-lateral-off-white-marinho-234179"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174747/T-SHIRT-DECOTE-REDONDO-ABERTURA-LATERAL---LT-AZUL-MARINHO-OFF-WHITE---P.jpg?v=637327684518030000"
+            title="T-SHIRT IÓDICE DECOTE REDONDO ABERTURA LATERAL OFF-WHITE/MARINHO"
+            alt="T-SHIRT IÓDICE DECOTE REDONDO ABERTURA LATERAL OFF-WHITE/MARINHO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            T-Shirt Iódice Decote<br> Redondo Abertura Lateral<br> Off-White/Marinho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="23px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 159,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 95,94
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/t-shirt-iodice-decote-redondo-abertura-lateral-off-white-marinho-234179" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-cenoura-clochard-cos-clochard-com-faixa-preto-208588"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/161874/CALCA-CENOURA-CLOCHARD-COS-CLOCHARD-COM-FAIXA---LI-PRETO---36.jpg?v=637003573520970000"
+            title="CALÇA IÓDICE CENOURA CLOCHARD CÓS CLOCHARD COM FAIXA PRETO"
+            alt="CALÇA IÓDICE CENOURA CLOCHARD CÓS CLOCHARD COM FAIXA PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="19px 0 10px 0">
+            Calça Iódice Cenoura<br> Clochard Cós Clochard<br> Com Faixa Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="11px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 649,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 54,15
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 324,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-cenoura-clochard-cos-clochard-com-faixa-preto-208588" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Vestidos&pwaf_productClusterIds=211"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_13-01_Comfy-LQDA/Artboard%201-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Blusas&pwaf_productClusterIds=195"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_13-01_Comfy-LQDA/Artboard%201-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=260"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_13-01_Comfy-LQDA/Artboard%201-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

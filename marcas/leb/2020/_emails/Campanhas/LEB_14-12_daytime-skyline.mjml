@@ -1,0 +1,162 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#DFA037">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/daytime-skyline?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dezembro/LEB_14-12_daytime-skyline/Artboard%201%20copy-topo.jpg"
+            width="600px"
+            padding="0"
+            alt="skyline daytine"
+            title="skyline daytine" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#DFA037">
+      <mj-group> 
+        <mj-column padding="40px 0px 15px 0px">
+          <mj-text font-family="Work Sans, sans-serif" color="#FBE2D2" font-size="40px" align= "right" font-weight="500" padding="0px 50px 0px 0px" line-height="39px" letter-spacing="0.4px">
+            <span style="font-weight:200;">daytine<br></span>skyline
+          </mj-text>
+          <mj-text font-family="Work Sans, sans-serif" color="#FBE2D2" font-size="13.5px" align= "left" font-weight="300" padding="30px 0px 0px 50px" line-height="16px" letter-spacing="0px">
+            o céu do verão trouxe os tons<br> 
+            amarelados do sol para a nova<br> 
+            coleção da Lebôh. as tardes quentes<br>
+            se tornam especiais e os momentos<br>
+            agradavéis. take a look at the<br>
+            <span style="font-weight:500; font-style:italic;">daytine skyline</span>
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/daytime-skyline?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 17px" align="left" font-weight="400" font-size="12px" padding="20px 0px 40px 50px" background-color="#FBE2D2" color="#DFA037" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>  
+    </mj-section>
+    
+
+    <mj-section padding="0" background-color="#DFA037">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macacao-leboh-pantalona-com-franzidos-amarelo-243946/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190427/MACACAO-PANTALONA-COM-FRANZIDOS---LI-AMARELO---PP.jpg?v=637425953828900000"
+            title="Macacão Lebôh Pantalona Com Franzidos Amarelo"
+            alt="Macacão Lebôh Pantalona Com Franzidos Amarelo" />
+
+          <mj-text align="center" color="#FBE2D2" font-weight="300" font-size="14px" padding="21px 0 10px 0">
+            Macacão Lebôh Pantalona<br> Com Franzidos Amarelo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#FBE2D2" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#FBE2D2" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/macacao-leboh-pantalona-com-franzidos-amarelo-243946/p" text-decoration="none" inner-padding="7px 16px" align="center" font-weight="500" font-size="13px" padding="20px 0px" background-color="#DFA037" color="#FBE2D2" border= "1.1px solid #FBE2D2" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/top-leboh-cropped-alca-com-amarracao-azul-243950/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190459/TOP-CROPPED-ALCA-COM-AMARRACAO---LI-AZUL-MARINHO---PP.jpg?v=637425954425100000"
+            title="Top Lebôh Cropped Alca Com Amarração Azul"
+            alt="Top Lebôh Cropped Alca Com Amarração Azul" />
+
+          <mj-text align="center" color="#FBE2D2" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Top Lebôh Cropped Alca<br> Com Amarração Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#FBE2D2" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 69,95
+          </mj-text>
+
+          <mj-text color="#FBE2D2" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 139,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/top-leboh-cropped-alca-com-amarracao-azul-243950/p" text-decoration="none" inner-padding="7px 16px" align="center" font-weight="500" font-size="13px" padding="20px 0px" background-color="#DFA037" color="#FBE2D2" border= "1.1px solid #FBE2D2" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#DFA037">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/shorts-leboh-comfort-detalhe-vies-preto-amarelo-244010/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190483/SHORTS-COMFORT-DETALHE-VIES---LT-PRETO-AMARELO---36.jpg?v=637425954714530000"
+            title="Shorts Lebôh Comfort Detalhe Viés Preto/Amarelo"
+            alt="Shorts Lebôh Comfort Detalhe Viés Preto/Amarelo" />
+
+          <mj-text align="center" color="#FBE2D2" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Lebôh Comfort<br> Detalhe Viés<br> Preto/Amarelo
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#FBE2D2" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 59,95
+          </mj-text>
+
+          <mj-text color="#FBE2D2" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 119,90
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/shorts-leboh-comfort-detalhe-vies-preto-amarelo-244010/p" text-decoration="none" inner-padding="7px 16px" align="center" font-weight="500" font-size="13px" padding="20px 0px" background-color="#DFA037" color="#FBE2D2" border= "1.1px solid #FBE2D2" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-reta-cos-elastico-com-amarracao-estampado-245236/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/190579/CALCA-RETA-COS-ELASTICO-COM-AMARRACAO---ES-BEGE-PRETO---36.jpg?v=637426009006900000"
+            title="Calça Lebôh Reta Cós Elástico Com Amarração Estampado"
+            alt="Calça Lebôh Reta Cós Elástico Com Amarração Estampado" />
+
+          <mj-text align="center" color="#FBE2D2" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Reta Cós<br> Elástico Com Amarração<br> Estampado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#FBE2D2" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#FBE2D2" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 279,90
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/calca-leboh-reta-cos-elastico-com-amarracao-estampado-245236/p" text-decoration="none" inner-padding="7px 16px" align="center" font-weight="500" font-size="13px" padding="20px 0px" background-color="#DFA037" color="#FBE2D2" border= "1.1px solid #FBE2D2" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

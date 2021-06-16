@@ -1,0 +1,244 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="LQDA"
+            title="LQDA"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_02-07_LQDA/lbh-01-topo.jpg" />
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#b52034"
+            font-size="19px"
+            padding="20px 0px 0px 25px"
+            align="left"
+            line-height="22px"
+            font-weight="500">
+            começou! confira nossa<br> seleção de looks pra você:
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #b52034; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Vestido Assimetrico<br> Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 5px 0">R$ 263,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">5x de R$ 52,78</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/vestido-assimetrico-decote-redondo-com-amarracao-bege-223723/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-assimetrico-decote-redondo-com-amarracao-bege-223723/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_02-07_LQDA/Vestido%20Assimetrico%20Decote%20Redondo%20Com%20Amarracao%20Bege.jpg"
+            title="Vestido Assimetrico Decote Redondo Com Amarracao Bege"
+            alt="Vestido Assimetrico Decote Redondo Com Amarracao Bege" />
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/jaqueta-over-com-tweed-jeans-224007/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_02-07_LQDA/Jaqueta%20Over%20Com%20Tweed%20Jeans.jpg"
+            title="Jaqueta Over Com Tweed Jeans"
+            alt="Jaqueta Over Com Tweed Jeans" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #b52034; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Jaqueta Over Com<br> Tweed Jeans
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 5px 0">R$ 233,94</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 58,48</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/jaqueta-over-com-tweed-jeans-224007/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Ubuntu, sans-serif; color: #b52034; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Blusa Decote Redondo<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Ubuntu, sans-serif; display: block; padding: 5px 0">R$ 160,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#b52034"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">3x de R$ 53,64</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Ubuntu, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 13px; background-color: #b52034; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #b52034;"
+              href="https://www.leboh.com.br/blusa-decote-redondo-manga-longa-com-silk-branco-225422/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-decote-redondo-manga-longa-com-silk-branco-225422/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_02-07_LQDA/Blusa%20Decote%20Redondo%20Manga%20Longa%20Com%20Silk%20Branco.jpg"
+            title="Blusa Decote Redondo Manga Longa Com Silk Branco"
+            alt="Blusa Decote Redondo Manga Longa Com Silk Branco" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0px 30px 0px">
+      <mj-group>
+      <mj-column width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_02-07_LQDA/lbh-01-blusas.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos"
+            width="600px"
+            padding="15px 0px"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_02-07_LQDA/lbh-01-vestidos.jpg" />
+          <mj-image
+            href="https://www.leboh.com.br/lqda/calcas"
+            width="600px"
+            padding="0"
+            alt="Calças"
+            title="Calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_LQDA/LEB_02-07_LQDA/lbh-01-calcas.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

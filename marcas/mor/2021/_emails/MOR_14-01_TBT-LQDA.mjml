@@ -1,0 +1,206 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_productClusterIds=171&pwaf_OrderByTopSaleDESC=%2B&_t=LQDA%20Vestu%C3%A1rio"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_14-01_TBT-LQDA/email%204.gif"
+          alt="LQDA com até 50% OFF"
+          title="LQDA com até 50% OFF" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#e5ddd2">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#e2442b" font-size="15px" padding="30px 10px 0px 10px" align="center" font-weight="600" line-height="20px" letter-spacing="2px">
+          #TBT os looks mais acessados<br> da temporada para você!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#e5ddd2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-morena-rosa-saia-detalhe-vivo-off-white-234196"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355927/10000109246000133-0-.jpg?v=637341485133670000"
+            title="Shorts Morena Rosa Saia Detalhe Vivo Off White"
+            alt="Shorts Morena Rosa Saia Detalhe Vivo Off White" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Morena Rosa<br> Saia Detalhe Vivo Off<br> White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 174,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/shorts-morena-rosa-saia-detalhe-vivo-off-white-234196" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-morena-rosa-slim-isabelli-cos-alto-barra-virada-jeans-234706"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355607/CALCA-SLIM-ISABELLI-COS-ALTO-BARRA-VIRADA---LI-JEANS-MEDIO---34.jpg?v=637327744533030000"
+            title="Calça Morena Rosa Slim Isabelli Cós Alto Barra Virada Jeans"
+            alt="Calça Morena Rosa Slim Isabelli Cós Alto Barra Virada Jeans" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Morena Rosa Slim<br> Isabelli Cós Alto Barra<br> Virada Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 54,98
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 219,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/calca-morena-rosa-slim-isabelli-cos-alto-barra-virada-jeans-234706" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#e5ddd2">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-com-no-manga-ampla-compose-de-tecidos-laranja-rosa-235332"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355367/BLUSA-DECOTE-COM-NO-MANGA-AMPLA-COMPOSE-DE-TECIDOS---CO-LARANJA-ROSA---PP.jpg?v=637327739795500000"
+            title="Blusa Morena Rosa Decote Com No Manga Ampla Composê De Tecidos Laranja/Rosa"
+            alt="Blusa Morena Rosa Decote Com No Manga Ampla Composê De Tecidos Laranja/Rosa" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Morena Rosa Decote<br> Com No Manga Ampla<br> Composê De Tecidos...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/blusa-morena-rosa-decote-com-no-manga-ampla-compose-de-tecidos-laranja-rosa-235332" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/body-morena-rosa-decote-u-cavado-tricot-laranja-236055"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355248/BODY-DECOTE-U-CAVADO-TRICOT---CO-LARANJA-PINK---P.jpg?v=637326728901270000"
+            title="Body Morena Rosa Decote U Cavado Tricot Laranja"
+            alt="Body Morena Rosa Decote U Cavado Tricot Laranja" />
+
+          <mj-text align="center" color="#e2442b" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Body Morena Rosa Decote<br> U Cavado Tricot<br> Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#e2442b" />
+
+          <mj-text color="#e2442b" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 57,48
+          </mj-text>
+
+          <mj-text color="#e2442b" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 229,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/body-morena-rosa-decote-u-cavado-tricot-laranja-236055" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#e2442b" color="#e5ddd2" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#e5ddd2">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#e2442b" font-size="14px" padding="20px 0px 10px 0px" align="center" font-weight="800" line-height="21px" letter-spacing="2.5px">
+          Compre por<br> categoria
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#e5ddd2">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%20&pwaf_productClusterIds=234&pwaf_OrderByTopSaleDESC=%2B&_t=LQDA%20Vestu%C3%A1rio"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_06-01_LQDA/Email%201-blusas.jpg"
+            alt="Blusas"
+            title="Blusas" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%20&pwaf_productClusterIds=160&pwaf_OrderByTopSaleDESC=%2B&_t=LQDA%20Vestu%C3%A1rio"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_06-01_LQDA/Email%201-calcas.jpg"
+            alt="Calças"
+            title="Calças" />
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%20&pwaf_productClusterIds=244&pwaf_OrderByTopSaleDESC=%2B&_t=LQDA%20Vestu%C3%A1rio"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Janeiro/MOR_06-01_LQDA/Email%201-vestidos.jpg"
+            alt="Vestidos"
+            title="Vestidos" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

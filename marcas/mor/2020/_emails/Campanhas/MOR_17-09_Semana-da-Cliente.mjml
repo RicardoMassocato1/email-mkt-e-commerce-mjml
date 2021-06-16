@@ -1,0 +1,155 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_17-09_Semana-da-Cliente/Banner%20home-06-topo.jpg"
+          alt="Semana da Cliente"
+          title="Semana da Cliente" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#734627" font-size="14px" padding="0px 0px 0px 0px" align="center" font-weight="400" line-height="22px" letter-spacing="2px">
+          Aproveite para renovar seu look<br>
+          para a nova estação com até <strong>70% OFF</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-longo-decote-transpassado-com-cinto-verde-vermelho-222114"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/330365/VESTIDO-LONGO-DECOTE-TRANSPASSADO-COM-CINTO---ES-VERDE-VERMELHO-CEREJA---P.jpg?v=637172392748500000"
+            title="Vestido Longo Decote Transpassado Com Cinto Verde/Vermelho"
+            alt="Vestido Longo Decote Transpassado Com Cinto Verde/Vermelho" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#694330" font-weight="400" font-size="15px" padding="160px 0 10px 0">
+            Vestido Longo Decote<br> Transpassado
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 999,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            6x de R$ 116,65
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 699,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-longo-decote-transpassado-com-cinto-verde-vermelho-222114" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="right" color="#694330" font-weight="400" font-size="15px" padding="160px 0 10px 0">
+            Vestido Curto Decote<br> Redondo Abertura
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="right" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 439,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="right" padding="7px 0">
+            6x de R$ 51,32
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="right" padding="0">
+            Por: R$ 307,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-curto-decote-redondo-abertura-frente-vermelho-azul-222489" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="right" font-weight="400" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-decote-redondo-abertura-frente-vermelho-azul-222489"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/331076/VESTIDO-CURTO-DECOTE-REDONDO-ABERTURA-FRENTE---ES-VERMELHO-AZUL---P.jpg?v=637172404757470000"
+            title="Vestido Curto Decote Redondo Abertura Frente Vermelho/Azul"
+            alt="Vestido Curto Decote Redondo Abertura Frente Vermelho/Azul" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 30px 5px">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-curto-decote-v-barra-assimetrica-preto-222094"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/330302/VESTIDO-CURTO-DECOTE-V-BARRA-ASSIMETRICA---ES-PRETO-OFF-WHITE---P.jpg?v=637172391862630000"
+            title="Vestido Curto Decote V Barra Assimetrica Preto"
+            alt="Vestido Curto Decote V Barra Assimetrica Preto" />
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-text font-family= "Poppins, sans-serif" align="left" color="#694330" font-weight="400" font-size="15px" padding="160px 0 10px 0">
+            Vestido Curto Decote<br> V Barra Assimetrica
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="13px" align="left" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 599,90</text>
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="700" font-size="16px" align="left" padding="7px 0">
+            6x de R$ 69,98
+          </mj-text>
+
+          <mj-text color="#694330" font-weight="300" font-size="14px" align="left" padding="0">
+            Por: R$ 419,93
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/vestido-curto-decote-v-barra-assimetrica-preto-222094" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="left" font-weight="400" font-size="12px" padding="15px 0px" background-color="#634731" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="20px 0px 0px 0px"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Semana-da-Cliente/MOR_17-09_Semana-da-Cliente/Banner%20home-06-banner.jpg"
+          alt="30% 1 peça, 40% 2 peças, 50% 3 peças, 60% 4 peças, 70% 5 peças"
+          title="Banner progressiva" />
+
+          <mj-button href="https://www.morenarosa.com.br/vestuario/vestidos/?pwaf_OrderByReleaseDateDESC=%2B&_t=LQDA%20Vestu%C3%A1rio&pwaf_productClusterIds=171" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="400" font-size="12.5px" padding="25px 0px" background-color="#ffffff" color="#734627" border-radius="0px" border= "1.1px solid #694330" target="_blank">Eu Quero</mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,58 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+    <mj-image
+      align="center"
+      padding="0"
+      width="200px"
+      href="PRODUTO_LINK"
+      src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/sem-imagem.jpg"
+      title="PRODUTO_NOME"
+      alt="PRODUTO_NOME" />
+
+    <mj-text align="center" padding="0">
+      <h1
+        style="color: #999999; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+        PRODUTO_NOME
+      </h1>
+    </mj-text>
+
+    <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+    <mj-text
+      text-decoration="line-through"
+      color="#999999"
+      font-weight="300"
+      font-size="12px"
+      align="center"
+      padding="0">
+      <span style="display: block; padding-top: 10px">R$ 00,00</span>
+    </mj-text>
+
+    <mj-text
+      color="#999999"
+      font-weight="700"
+      font-size="16px"
+      align="center"
+      padding="0">
+      <span style="display: block; padding: 20px 0">R$ 000,00</span>
+    </mj-text>
+
+    <mj-text
+      color="#999999"
+      font-weight="300"
+      font-size="12px"
+      align="center"
+      padding="0">
+      <span style="display: block; padding-bottom: 10px">ou 0x R$ 00,00</span>
+    </mj-text>
+
+    <mj-text align="center">
+      <a
+        style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #606158; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 10px; border: 1px solid #606158;"
+        href="PRODUTO_LINK"
+        title="Shop now">
+        Shop now
+      </a>
+    </mj-text>
+  </mj-body>
+</mjml>

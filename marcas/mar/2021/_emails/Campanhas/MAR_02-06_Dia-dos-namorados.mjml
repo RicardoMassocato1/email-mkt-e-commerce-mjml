@@ -1,0 +1,74 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Live%20Dia%20dos%20Namorados&pwaf_productClusterIds=264"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_02-06_Dia-dos-namorados/Prancheta%201-topo-min.jpg"
+          alt="Dia dos Namorados"
+          title="Dia dos Namorados" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#d4cec0"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#3c3835" font-size="13.5px" padding="25px 20px 25px 20px" align="center" font-weight="400" line-height="20px" letter-spacing="1.5px">
+          Venha conhecer nossas peças escolhidas para ficar linda no dia dos namorados. O new xadrez veio com tudo e traz charme e elegância para seus looks. Aposte!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/camisa-maria-valentina-manga-longa-abertura-lateral-branco-251509"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_02-06_Dia-dos-namorados/Prancheta%201-01-min.jpg"
+          alt="Camisa Maria.Valentina Manga Longa Abertura Lateral Branco"
+          title="Camisa Maria.Valentina Manga Longa Abertura Lateral Branco" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/blusa-maria-valentina-decote-redondo-manga-longa-bicolor-nude-253589"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_02-06_Dia-dos-namorados/Prancheta%201-02-min.jpg"
+          alt="Blusa Maria.Valentina Decote Redondo Manga Longa Bicolor Nude"
+          title="Blusa Maria.Valentina Decote Redondo Manga Longa Bicolor Nude" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/blusa-maria-valentina-decote-v-manga-raglan-7-8-compose-de-tecidos-xadrez-marinho-253175"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_02-06_Dia-dos-namorados/Prancheta%201-03-min.jpg"
+          alt="Blusa Maria.Valentina Decote V Manga Raglan 7/8 Composê De Tecidos Xadrez Marinho"
+          title="Blusa Maria.Valentina Decote V Manga Raglan 7/8 Composê De Tecidos Xadrez Marinho" />
+      </mj-column>
+    </mj-section>
+  
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,234 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="15px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 20px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lqda"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_17-08_LQDA/EmailMkt_Lqda04-topo-02.jpg"
+            title="LQDA"
+            alt="LQDA" />
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="12px" padding="10px 0px" align="center" font-weight="400" line-height="17px" letter-spacing="1.2px" text-transform="uppercase">
+            Aproveite os últimos dias para comprar<br> a sua peça na LQDA.
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/regata-decote-v-detalhe-ombro-jeans-218862/p" 
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/219842/REGATA-DECOTE-V-DETALHE-OMBRO---LI-JEANS-MEDIO---PP.jpg?v=637099211213330000" 
+            title="Regata Decote V Detalhe Ombro Jeans" 
+            alt="Regata Decote V Detalhe Ombro Jeans" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Regata Decote V Detalhe<br> Ombro Jeans
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">3x de R$ 53,31</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 159,95</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/regata-decote-v-detalhe-ombro-jeans-218862/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/blusa-decote-ribana-manga-longa-fio-metalizado-marrom-220866/p" 
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/224619/BLUSA-DECOTE-RIBANA-MANGA-LONGA-FIO-METALIZADO---LI-BROWN---PP.jpg?v=637172343500800000" 
+            title="Blusa Decote Ribana Manga Longa Fio Metalizado Marrom" 
+            alt="Blusa Decote Ribana Manga Longa Fio Metalizado Marrom" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote Ribana<br> Manga Longa
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">R$ 95,97</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 6px 0"></span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-ribana-manga-longa-fio-metalizado-marrom-220866/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/shorts-alfaiataria-com-cinto-branco-218847/p" 
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/223776/SHORTS-ALFAIATARIA-COM-CINTO---LI-BRANCO---34.jpg?v=637114973298400000" 
+            title="Shorts Alfaiataria Com Cinto Branco" 
+            alt="Shorts Alfaiataria Com Cinto Branco" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Alfaiataria Com<br> Cinto Branco
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 349,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">3x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 174,95</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/shorts-alfaiataria-com-cinto-branco-218847/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/calca-comfort-m-eduarda-cos-alto-abertura-barra-azul-223563/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_17-08_LQDA/Calca%20Comfort%20M.Eduarda%20Cos%20Alto%20Abertura%20Barra%20Azul.jpg" 
+            title="Calca Comfort M.Eduarda Cos Alto Abertura Barra Azul" 
+            alt="Calca Comfort M.Eduarda Cos Alto Abertura Barra Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Comfort M.<br>Eduarda Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 459,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">2x de R$ 68,98</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 137,97</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/calca-comfort-m-eduarda-cos-alto-abertura-barra-azul-223563/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_17-08_LQDA/EmailMkt_Lqda06-vestidos.jpg"
+          title="Vestidos"
+          alt="Vestidos" />
+        <mj-image
+          padding="30px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_17-08_LQDA/EmailMkt_Lqda06-blusas.jpg"
+          title="Blusas"
+          alt="Blusas" />
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/LQDA/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_17-08_LQDA/EmailMkt_Lqda06-calcas.jpg"
+          title="Calças"
+          alt="Calças" />
+      </mj-column>    
+
+      <mj-column padding="0" width="100%">
+        <mj-image
+          padding="60px 0px 10px 0px"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_LQDA/MAR_17-08_LQDA/EmailMkt_Lqda04-rodape.jpg"
+          title="LQDA com até 50% OFF"
+          alt="LQDA com até 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

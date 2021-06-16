@@ -1,0 +1,154 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=273"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Abril/IOD_27-04_Frete-Gratis-02/EMAIL2-topo.jpg"
+          alt="Frete Grátis"
+          title="Frete Grátis" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="15px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-divider padding="10px 40px" border-width="2px" border-style="solid" border-color="#156d77" />
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#156d77" font-size="12.5px" padding="0px 40px 30px 40px" align="left" font-weight="400" line-height="18px">
+          Aproveite a semana do frete grátis e<br> escolha seus looks favoritos!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/macaquinho-iodice-gola-polo-com-tie-dye-azul-248956"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/181660/MACAQUINHO-GOLA-POLO-COM-TIE-DYE---LI-AZUL-CLARO---P.jpg?v=637544861100900000"
+            title="MACAQUINHO IÓDICE GOLA POLO COM TIE DYE AZUL"
+            alt="MACAQUINHO IÓDICE GOLA POLO COM TIE DYE AZUL" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macaquinho Iódice Gola<br> Polo com Tie Dye Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            7x de R$ 108,55
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 759,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/macaquinho-iodice-gola-polo-com-tie-dye-azul-248956" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-iodice-linha-a-com-desfiados-jeans-248945"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/181570/SHORTS-LINHA-A-COM-DESFIADOS---LI-JEANS-CLARO---36.jpg?v=637544859852870000"
+            title="SHORTS IÓDICE LINHA A COM DESFIADOS JEANS"
+            alt="SHORTS IÓDICE LINHA A COM DESFIADOS JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Iódice Linha A<br> com Desfiados Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-iodice-linha-a-com-desfiados-jeans-248945" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-iodice-manga-longa-tie-dye-azul-248953"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/181626/CAMISA-MANGA-LONGA-TIE-DYE---LI-AZUL-CLARO---P.jpg?v=637544860608170000"
+            title="CAMISA IÓDICE MANGA LONGA TIE DYE AZUL"
+            alt="CAMISA IÓDICE MANGA LONGA TIE DYE AZUL" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Iódice Manga<br> Longa Tie Dye Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 99,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 599,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/camisa-iodice-manga-longa-tie-dye-azul-248953" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-mom-cos-intermediario-com-tie-dye-azul-248954"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/181640/CALCA-MOM-COS-INTERMEDIARIO-COM-TIE-DYE---LI-AZUL-CLARO---36.jpg?v=637544860823170000"
+            title="CALÇA IÓDICE MOM CÓS INTERMEDIÁRIO COM TIE DYE AZUL"
+            alt="CALÇA IÓDICE MOM CÓS INTERMEDIÁRIO COM TIE DYE AZUL" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Mom Cós<br> Intermediário com T...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 79,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 479,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-mom-cos-intermediario-com-tie-dye-azul-248954" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

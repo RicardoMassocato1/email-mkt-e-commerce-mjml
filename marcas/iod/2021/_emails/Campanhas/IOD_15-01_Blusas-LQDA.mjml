@@ -1,0 +1,292 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=207"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_15-01_Blusas-LQDA/Artboard%201-topo-01.jpg"
+          alt="LQDA até 50% off"
+          title="LQDA até 50% off" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Blusas&pwaf_productClusterIds=195"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_15-01_Blusas-LQDA/Artboard%201.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+      <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#AB1622" font-size="21px" padding="30px 0px 40px 0px" align="center" font-weight="700" line-height="20px" letter-spacing="0.2px">
+          Para todas as ocasiões
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-iodice-manga-longa-com-top-nude-234449"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175096/CAMISA-MANGA-LONGA-COM-TOP---LI-NUDE---P.jpg?v=637327693834730000"
+            title="CAMISA IÓDICE MANGA LONGA COM TOP NUDE"
+            alt="CAMISA IÓDICE MANGA LONGA COM TOP NUDE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Iódice Manga<br> Longa Com Top<br> Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 899,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 74,99
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 449,95
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/camisa-iodice-manga-longa-com-top-nude-234449" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blusa-iodice-decote-redondo-cavada-ponto-ajour-rosa-234070"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174529/BLUSA-DECOTE-REDONDO-CAVADA-PONTO-AJOUR---LI-ROSE---P.jpg?v=637327680337500000"
+            title="BLUSA IÓDICE DECOTE REDONDO CAVADA PONTO AJOUR ROSA"
+            alt="BLUSA IÓDICE DECOTE REDONDO CAVADA PONTO AJOUR ROSA" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Iódice Decote<br> Redondo Cavada Ponto<br> Ajour Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 349,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 58,31
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 174,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/blusa-iodice-decote-redondo-cavada-ponto-ajour-rosa-234070" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-iodice-manga-longa-vista-sobreposta-branco-234601"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175328/CAMISA-MANGA-LONGA-VISTA-SOBREPOSTA---LI-BRANCO---P.jpg?v=637327700561930000"
+            title="CAMISA IÓDICE MANGA LONGA VISTA SOBREPOSTA BRANCO"
+            alt="CAMISA IÓDICE MANGA LONGA VISTA SOBREPOSTA BRANCO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Iódice Manga<br> Longa Vista Sobreposta<br> Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 62,48
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 249,95
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/camisa-iodice-manga-longa-vista-sobreposta-branco-234601" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/regata-iodice-decote-v-abertura-lateral-verde-234027"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174503/REGATA-DECOTE-V-ABERTURA-LATERAL---LI-VERDE---M.jpg?v=637327680032370000"
+            title="REGATA IÓDICE DECOTE V ABERTURA LATERAL VERDE"
+            alt="REGATA IÓDICE DECOTE V ABERTURA LATERAL VERDE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Iódice V<br> Abertura Lateral<br> Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="23px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 139,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 69,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/regata-iodice-decote-v-abertura-lateral-verde-234027" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+      <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#AB1622" font-size="20px" padding="30px 0px 0px 25px" align="left" font-weight="300" line-height="20px" letter-spacing="0.2px">
+          Combine com:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 20px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=260"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_06-01_LQDA/Artboard%201-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-flare-cos-embutido-abertura-barra-preto-234524"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175245/CALCA-FLARE-COS-EMBUTIDO-ABERTURA-BARRA---CO-PRETO-OFF-WHITE---38.jpg?v=637327697843670000"
+            title="CALÇA IÓDICE FLARE CÓS EMBUTIDO ABERTURA BARRA PRETO"
+            alt="CALÇA IÓDICE FLARE CÓS EMBUTIDO ABERTURA BARRA PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Flare Cós Embutido Aberetura Barra Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 849,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 70,82
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 424,95
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-flare-cos-embutido-abertura-barra-preto-234524" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-skinny-cos-alto-basica-branco-235914"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/176472/CALCA-SKINNY-COS-ALTO-BASICA---LI-BRANCO---34.jpg?v=637327726906370000"
+            title="CALÇA IÓDICE SKINNY CÓS ALTO BÁSICA BRANCO"
+            alt="CALÇA IÓDICE SKINNY CÓS ALTO BÁSICA BRANCO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Skinny Cós Alto Básica Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 299,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 74,97
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 149,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-skinny-cos-alto-basica-branco-235914" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-cenoura-cos-largo-listrada-estampado-235618"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175649/CALCA-CENOURA-COS-LARGO-LISTRADA---LT-OFF-WHITE-VERDE---38.jpg?v=637327709848830000"
+            title="CALÇA IÓDICE CENOURA CÓS LARGO LISTRADA ESTAMPADO"
+            alt="CALÇA IÓDICE CENOURA CÓS LARGO LISTRADA ESTAMPADO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Cenoura Cós Largo Listrada Estampado
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 829,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 69,15
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 414,95
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-cenoura-cos-largo-listrada-estampado-235618" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

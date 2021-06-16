@@ -1,0 +1,93 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=381&_t=Dia%20dos%20Namorados"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_10-06_Dia-dos-Namorados/Prancheta%201hdpi-01.jpg"
+          alt="Dia dos Namorados"
+          title="Dia dos Namorados" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/blusa-morena-rosa-gola-alta-manga-assimetrica-amarracao-costas-rosa-253063"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_10-06_Dia-dos-Namorados/Prancheta%201hdpi-02.jpg"
+          alt="Blusa Morena Rosa Gola Alta Manga Assimétrica Amarração Costas Rosa"
+          title="Blusa Morena Rosa Gola Alta Manga Assimétrica Amarração Costas Rosa" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/calca-morena-rosa-clochard-cos-alto-com-faixa-rosa-252644"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_10-06_Dia-dos-Namorados/Prancheta%201hdpi-03.jpg"
+          alt="Calça Morena Rosa Clochard Cós Alto Com Faixa Rosa"
+          title="Calça Morena Rosa Clochard Cós Alto Com Faixa Rosa" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/vestido-morena-rosa-altura-do-joelho-decote-v-com-faixa-rosa-253075"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_10-06_Dia-dos-Namorados/Prancheta%201hdpi-04.jpg"
+          alt="Vestido Morena Rosa Altura Do Joelho Decote V Com Faixa Rosa"
+          title="Vestido Morena Rosa Altura Do Joelho Decote V Com Faixa Rosa" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 10px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/lingerie?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_10-06_Dia-dos-Namorados/Prancheta%201hdpi-05.jpg"
+            alt="Intimates"
+            title="Intimates" />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/jeans?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_10-06_Dia-dos-Namorados/Prancheta%201hdpi-06.jpg"
+            alt="Jeans"
+            title="Jeans" />
+          <mj-image
+            padding="0px"
+            width="600px"
+            href="https://www.morenarosa.com.br/praia?pwaf_OrderByReleaseDateDESC=%2B"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_10-06_Dia-dos-Namorados/Prancheta%201hdpi-07.jpg"
+            alt="Beach"
+            title="Beach" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,154 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=273"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Abril/IOD_27-04_Frete-Gratis/EMAIL%201-topo.jpg"
+          alt="Frete Grátis"
+          title="Frete Grátis" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="15px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-divider padding="10px 40px" border-width="2px" border-style="solid" border-color="#156d77" />
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#156d77" font-size="12.5px" padding="0px 40px 30px 40px" align="left" font-weight="400" line-height="18px">
+          A semana do frete grátis está chegando ao fim! e você? já garantiu o seu look?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-mom-cos-alto-com-faixa-jeans-248961"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/181695/CALCA-MOM-COS-ALTO-COM-FAIXA---LI-JEANS-MEDIO---36.jpg?v=637544861592800000"
+            title="CALÇA IÓDICE MOM CÓS ALTO COM FAIXA JEANS"
+            alt="CALÇA IÓDICE MOM CÓS ALTO COM FAIXA JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Mom Alto<br> com Faixa Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 73,31
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 439,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-mom-cos-alto-com-faixa-jeans-248961" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-iodice-linha-a-com-faixa-jeans-248960"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/181675/SHORTS-LINHA-A-COM-FAIXA---LI-JEANS-MEDIO---36.jpg?v=637544861282070000"
+            title="SHORTS IÓDICE LINHA A COM FAIXA JEANS"
+            alt="SHORTS IÓDICE LINHA A COM FAIXA JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Iódice Linha A<br> com Faixa Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-iodice-linha-a-com-faixa-jeans-248960" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/jaqueta-iodice-quadrada-bolso-frente-jeans-248825"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/181558/JAQUETA-QUADRADA-BOLSO-FRENTE---LI-JEANS-MEDIO---P.jpg?v=637544859617030000"
+            title="JAQUETA IÓDICE QUADRADA BOLSO FRENTE JEANS"
+            alt="JAQUETA IÓDICE QUADRADA BOLSO FRENTE JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Iódice Quadrada<br> Bolso Frente Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 96,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 579,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/jaqueta-iodice-quadrada-bolso-frente-jeans-248825" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-skinny-cos-intermediario-bolso-bordado-jeans-248795"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/181438/CALCA-SKINNY-COS-INTERMEDIARIO-BOLSO-BORDADO---LI-JEANS-ESCURO---36.jpg?v=637544857888300000"
+            title="CALÇA IÓDICE SKINNY CÓS INTERMEDIÁRIO BOLSO BORDADO JEANS"
+            alt="CALÇA IÓDICE SKINNY CÓS INTERMEDIÁRIO BOLSO BORDADO JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Skinny Cós<br> Intermediário Bolso ...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 319,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-skinny-cos-intermediario-bolso-bordado-jeans-248795" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

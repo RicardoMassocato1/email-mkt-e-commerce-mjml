@@ -1,0 +1,171 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/lqda/feminino?O=OrderByTopSaleDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Janeiro/ZIN_14-01_TBT-LQDA/MV_EmailMkt_04-topo.jpg"
+          alt="LQDA até 50% OFF"
+          title="LQDA até 50% OFF" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="70px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#908683" font-size="100px" padding="0px 0px 0px 0px" align="center" font-weight="800" line-height="20px" letter-spacing="10px">
+          #tbt
+        </mj-text>
+        <mj-text font-family="Poppins, serif" text-transform="uppercase" color="#000000" font-size="13px" padding="50px 0px 30px 0px" align="center" font-weight="400" line-height="20px" letter-spacing="0.5px">
+           os looks mais acessados da<br> temporada para você!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/chemise-zinco-midi-compose-tecido-azul-227637/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/209758/CHEMISE-MIDI-COMPOSE-TECIDO---ES-AZUL-BRANCO---PP.jpg?v=637250846891700000"
+            title="Chemise Zinco Midi Composê Tecido Azul"
+            alt="Chemise Zinco Midi Composê Tecido Azul" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Chemise Zinco Midi<br> Composê Tecido Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 599,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,99
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 299,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/chemise-zinco-midi-compose-tecido-azul-227637/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-zinco-curta-clochard-com-metal-preto-186246/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/173465/SAIA-CURTA-CLOCHARD-COM-METAL---LISTRADO-PT-BC---38.jpg?v=636725614154430000"
+            title="Saia Zinco Curta Clochard Com Metal Preto"
+            alt="Saia Zinco Curta Clochard Com Metal Preto" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Zinco Curta Clochard<br> Com Metal Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 269,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 67,47
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0px 0px">
+            Por: R$ 134,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/saia-zinco-curta-clochard-com-metal-preto-186246/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-lilly-cos-intermediario-bordado-industrial-laranja-227524/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/209530/CALCA-LILLY-COS-INTERMEDIARIO-BORDADO-INDUSTRIAL---LI-TELHA---34.jpg?v=637250843780000000"
+            title="Calça Zinco Lilly Cós Intermediário Bordado Industrial Laranja"
+            alt="Calça Zinco Lilly Cós Intermediário Bordado Industrial Laranja" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Zinco Lilly Cós<br> Intermediário Bordado<br> Industrial Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 319,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,31
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 159,95
+          </mj-text>
+
+          <mj-button href="https://www.zinco.com.br/calca-zinco-lilly-cos-intermediario-bordado-industrial-laranja-227524/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-high-waist-cos-alto-bolso-faca-marinho-227203/p"
+            src="https://zinco.vteximg.com.br/arquivos/ids/209128/CALCA-HIGH-WAIST-COS-ALTO-BOLSO-FACA---LT-AZUL-MARINHO-BRANCO---34.jpg?v=637250838458130000"
+            title="Calça Zinco High Waist Cós Alto Bolso Faca Marinho"
+            alt="Calça Zinco High Waist Cós Alto Bolso Faca Marinho" />
+
+          <mj-text align="center" color="#000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Zinco High Waist<br> Cós Alto Bolso Faca<br> Marinho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 369,90</text>
+          </mj-text>
+
+          <mj-text color="#000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 184,95
+          </mj-text>
+          
+          <mj-button href="https://www.zinco.com.br/calca-zinco-high-waist-cos-alto-bolso-faca-marinho-227203/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 15px" align="center" font-weight="800" font-size="12px" padding="15px 0px" background-color="#000" color="#fff" border-radius="0px" border= "1px solid #000" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

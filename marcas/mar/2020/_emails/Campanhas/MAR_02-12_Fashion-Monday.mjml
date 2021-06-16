@@ -1,0 +1,203 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/black-friday/ofertas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_02-12_Fashion-Monday/MV_EmailMkt_02-topo.jpg"
+          alt="Fashion Monday"
+          title="Fashion Monday" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#000000" text-transform="uppercase" font-size="13.5px" padding="30px 30px 0px 30px" align="center" font-weight="400" line-height="20px" letter-spacing="1px">
+          Regatas para curtir o verão
+        </mj-text>
+        <mj-text font-family="'Roboto', sans-serif" color="#000000" text-transform="uppercase" font-size="13.5px" padding="0px 0px 10px 0px" align="center" font-weight="600" line-height="20px" letter-spacing="1px">
+          com até 70% OFF!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+  
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-detalhe-ombro-jeans-218862/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/219842/REGATA-DECOTE-V-DETALHE-OMBRO---LI-JEANS-MEDIO---PP.jpg?v=637099211213330000"
+            title="Regata Maria.Valentina Decote V Detalhe Ombro Jeans"
+            alt="Regata Maria.Valentina Decote V Detalhe Ombro Jeans" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Maria.Valentina<br> Decote V Detalhe<br> Ombro Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 55,98
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 95,97<br><span style="font-size:10.3px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-detalhe-ombro-jeans-218862/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-fio-metalizado-cobre-224565/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/226097/REGATA-DECOTE-V-FIO-METALIZADO---CO-PRETO-COBRE---PP.jpg?v=637172364280800000"
+            title="Regata Maria.Valentina Decote V Fio Metalizado Cobre"
+            alt="Regata Maria.Valentina Decote V Fio Metalizado Cobre" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="26px 0 10px 0">
+            Regata Maria.Valentina<br> Decote V Fio Metalizado<br> Cobre
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 389,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 54,58
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 116,97<br><span style="font-size:10.3px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-fio-metalizado-cobre-224565/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 10px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-basica-rosa-223087/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/213798/REGATA-DECOTE-V-BASICA---LI-ROSE---PP.jpg?v=637099012811930000"
+            title="Regata Maria.Valentina Decote V Básica Rosa"
+            alt="Regata Maria.Valentina Decote V Básica Rosa" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Maria.Valentina<br> Decote V Básica<br> Rosa
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 619,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            8x de R$ 54,24
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 185,97<br><span style="font-size:10.3px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-basica-rosa-223087/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-duo-color-verde-217760/p"
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/213058/REGATA-DECOTE-V-DUO-COLOR---CO-VERDE-CRU---PP.jpg?v=637098991305870000"
+            title="Regata Maria.Valentina Decote V Duo Color Verde"
+            alt="Regata Maria.Valentina Decote V Duo Color Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Regata Maria.Valentina<br> Decote V Duo Color<br> Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <span style="text-decoration: line-through;">R$ 229,90</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 53,64
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 68,97<br><span style="font-size:10.3px; line-height:20px">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-v-duo-color-verde-217760/p" text-decoration="none" text-transform="uppercase" inner-padding="7px 17px" align="center" font-weight="600" font-size="12px" padding="15px 0px" background-color="#ffffff" color="#000000" border="1.2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:2px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_02-12_Fashion-Monday/MV_EmailMkt_02-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_02-12_Fashion-Monday/MV_EmailMkt_02-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Dezembro/MAR_02-12_Fashion-Monday/MV_EmailMkt_02-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

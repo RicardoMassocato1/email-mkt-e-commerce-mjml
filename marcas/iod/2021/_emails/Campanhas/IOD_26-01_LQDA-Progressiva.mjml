@@ -1,0 +1,192 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Progressiva&pwaf_productClusterIds=207"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_26-01_LQDA-Progressiva/Artboard%201-topo.jpg"
+          alt="LQDA progressiva"
+          title="LQDA progressiva" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+      <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#AB1622" font-size="23px" padding="30px 0px 10px 0px" align="center" font-weight="700" line-height="20px" letter-spacing="0.2px">
+          Até 50% off
+        </mj-text>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="15px" padding="0px 0px 40px 0px" align="center" font-weight="400" line-height="18px">
+          Mais descontos a cada peça!<br> 
+          Aproveite a progressiva e garanta<br> 
+          seu look para a estação!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-montaria-cos-alto-detalhe-vivo-preto-228639"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174367/03-12-2019--ECOM-IODICE-20028923.jpg?v=637249041265300000"
+            title="CALÇA IÓDICE MONTARIA CÓS ALTO DETALHE VIVO PRETO"
+            alt="CALÇA IÓDICE MONTARIA CÓS ALTO DETALHE VIVO PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Montaria<br> Cós Alto Detal...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 749,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 374,95<br><span style="font-weight:300;font-size:10.2px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-iodice-montaria-cos-alto-detalhe-vivo-preto-228639" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-iodice-boxer-com-cordao-azul-228501"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/174322/03-12-2019--ECOM-IODICE-20027798.jpg?v=637242868144000000"
+            title="SHORTS IÓDICE BOXER COM CORDÃO AZUL"
+            alt="SHORTS IÓDICE BOXER COM CORDÃO AZUL" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Iódice Boxer<br> Com Cordão Azul
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 419,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 209,95<br><span style="font-weight:300;font-size:10.2px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/shorts-iodice-boxer-com-cordao-azul-228501" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/vestido-iodice-midi-decote-v-com-faixa-off-white-235674"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175713/VESTIDO-MIDI-DECOTE-V-COM-FAIXA---LI-OFF-WHITE---P.jpg?v=637327711184130000"
+            title="VESTIDO IÓDICE MIDI DECOTE V COM FAIXA OFF WHITE"
+            alt="VESTIDO IÓDICE MIDI DECOTE V COM FAIXA OFF WHITE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Iódice Midi<br> Decote V Com Faixa<br> Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 919,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 459,95<br><span style="font-weight:300;font-size:10.2px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/vestido-iodice-midi-decote-v-com-faixa-off-white-235674" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/blusa-iodice-decote-redondo-manga-curta-detalhe-renda-preto-234615"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175359/BLUSA-DECOTE-REDONDO-MANGA-CURTA-DETALHE-RENDA---LI-PRETO---P.jpg?v=637327700982600000"
+            title="BLUSA IÓDICE DECOTE REDONDO MANGA CURTA DETALHE RENDA PRETO"
+            alt="BLUSA IÓDICE DECOTE REDONDO MANGA CURTA DETALHE RENDA PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Iódice Decote<br> Redondo Manga Curta<br> Detalhe Renda Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 229,95<br><span style="font-weight:300;font-size:10.2px; line-height:10px">(na compra de 3 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/blusa-iodice-decote-redondo-manga-curta-detalhe-renda-preto-234615" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#AB1622" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Vestidos&pwaf_productClusterIds=211"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_26-01_LQDA-Progressiva/Artboard%201-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Blusas&pwaf_productClusterIds=195"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_26-01_LQDA-Progressiva/Artboard%201-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Cal%C3%A7as&pwaf_productClusterIds=260"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Janeiro/IOD_26-01_LQDA-Progressiva/Artboard%201-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

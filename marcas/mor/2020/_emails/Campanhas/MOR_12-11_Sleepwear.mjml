@@ -1,0 +1,161 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Sleepwear%20&pwaf_productClusterIds=322"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Novembro/MOR_12-11_Sleepwear/Prancheta%2034%20c%C3%B3pia%204-topo.jpg"
+          alt="Sleepwear a partir de R$69,90"
+          title="Sleepwear a partir de R$69,90" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px" background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" color="#a0af71" font-size="14px" padding="30px 0px 10px 0px" align="center" font-weight="300" line-height="21px" letter-spacing="1.5px">
+          <strong>O mood é aproveitar o dia em casa!</strong><br>
+          Sleepwear a partir de R$69,90.
+        </mj-text>
+        <mj-button href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Sleepwear%20&pwaf_productClusterIds=322" text-decoration="none" text-transform="uppercase" inner-padding="9px 25px" align="center" font-weight="300" font-size="14px" padding="15px 0px 40px 0px" background-color="#a0af71" color="#fff" border-radius="0px" border= "0px solid #ffffff" target="_blank"><span style="letter-spacing:3px">CONFIRA</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="40px 0px 0px 0px" background-color="#a0af71">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/chemise-curto-detalhe-botao-marinho-laranja-224548"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/344240/CHEMISE-CURTO-DETALHE-BOTAO---ES-AZUL-CAMEL---M.jpg?v=637238769030070000"
+            title="Chemise Curto Detalhe Botao Marinho/Laranja"
+            alt="Chemise Curto Detalhe Botao Marinho/Laranja" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Chemise Curto Detalhe<br> Botao Marinho/Laranja
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 379,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 63,31
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 189,95
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/chemise-curto-detalhe-botao-marinho-laranja-224548" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#fff" color="#a0af71" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/kaftan-curto-abertura-lateral-vinho-224535"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/344128/KAFTAN-CURTO-ABERTURA-LATERAL---LT-TERRACOTA-PRETO---P.jpg?v=637238767512300000"
+            title="Kaftan Curto Abertura Lateral Vinho"
+            alt="Kaftan Curto Abertura Lateral Vinho" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Kaftan Curto Abertura<br> Lateral Vinho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 329,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            3x de R$ 54,98
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 164,95
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/kaftan-curto-abertura-lateral-vinho-224535" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#fff" color="#a0af71" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 0px 20px 0px" background-color="#a0af71">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/camisola-curta-detalhe-renda-preto-184049"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/260640/CAMISOLA-CURTA-DETALHE-RENDA---LI-PRETO---P.jpg?v=636728179458800000"
+            title="Camisola Curta Detalhe Renda Preto"
+            alt="Camisola Curta Detalhe Renda Preto" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisola Curta Detalhe<br> Renda Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 219,90</text>
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            Por: R$ 87,96
+          </mj-text>
+
+          <mj-button href="https://www.morenarosa.com.br/camisola-curta-detalhe-renda-preto-184049" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#fff" color="#a0af71" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-doll-alca-detalhe-renda-vermelho-226050"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/344785/SHORTS-DOLL-ALCA-DETALHE-RENDA---LI-VERMELHO-GRANADA---P.jpg?v=637238776789870000"
+            title="Shorts Doll Alca Detalhe Renda Vermelho"
+            alt="Shorts Doll Alca Detalhe Renda Vermelho" />
+
+          <mj-text align="center" color="#fff" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Doll Alca Detalhe<br> Renda Vermelho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#fff" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            5x de R$ 59,98
+          </mj-text>
+
+          <mj-text color="#fff" font-weight="300" font-size="14px" align="center" padding="0px 0 10px 0">
+            Por: R$ 299,90
+          </mj-text>
+          
+          <mj-button href="https://www.morenarosa.com.br/shorts-doll-alca-detalhe-renda-vermelho-226050" text-decoration="none" text-transform="uppercase" inner-padding="8px 14px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#fff" color="#a0af71" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

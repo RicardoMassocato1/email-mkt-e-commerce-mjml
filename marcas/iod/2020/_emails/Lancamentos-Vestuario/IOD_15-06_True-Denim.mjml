@@ -1,0 +1,226 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            padding="0"
+            href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Preview&pwaf_productClusterIds=222"
+            width="600px"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Iodice-2002/IOD_15-06_True-Denim/Artboard%201%20copy%204-8.png" 
+            alt="Lançamento True Denim"
+            title="Lançamento True Denim"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="20px 0px 0px 0px">
+        <mj-group>
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/shorts-boyfriend-compose-de-tecidos-jeans-228914"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Iodice-2002/IOD_15-06_True-Denim/SHORTS%20BOYFRIEND%20COMPOSE%20DE%20TECIDOS%20JEANS.jpg"
+              title="SHORTS BOYFRIEND COMPOSE DE TECIDOS JEANS"
+              alt="SHORTS BOYFRIEND COMPOSE DE TECIDOS JEANS" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Boyfriend Compose
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 479,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 79,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 300; color: #ffffff; background-color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 20px; border: 1px solid #000000;"
+                href="https://www.iodice.com.br/shorts-boyfriend-compose-de-tecidos-jeans-228914"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-cigarrete-cos-intermediario-barra-diferenciada-jeans-228852"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Iodice-2002/IOD_15-06_True-Denim/CALCA%20CIGARRETE%20COS%20INTERMEDIARIO%20BARRA%20DIFERENCIADA%20JEANS.jpg"
+              title="CALCA CIGARRETE COS INTERMEDIARIO BARRA DIFERENCIADA JEANS"
+              alt="CALCA CIGARRETE COS INTERMEDIARIO BARRA DIFERENCIADA JEANS" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Cigarrete Cos Interm.
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 369,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 61,65</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 300; color: #ffffff; background-color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 20px; border: 1px solid #000000;"
+                href="https://www.iodice.com.br/calca-cigarrete-cos-intermediario-barra-diferenciada-jeans-228852"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-cigarrete-cos-intermediario-com-laser-verde-228836"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Iodice-2002/IOD_15-06_True-Denim/CALCA%20CIGARRETE%20COS%20INTERMEDIARIO%20COM%20LASER%20VERDE.jpg"
+              title="CALCA CIGARRETE COS INTERMEDIARIO COM LASER VERDE"
+              alt="CALCA CIGARRETE COS INTERMEDIARIO COM LASER VERDE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Cigarrete Cos Interm.
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 449,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 74,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 300; color: #ffffff; background-color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 20px; border: 1px solid #000000;"
+                href="https://www.iodice.com.br/calca-cigarrete-cos-intermediario-com-laser-verde-228836"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/shorts-linha-a-com-laser-verde-228830"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Lan%C3%A7amento-Iodice-2002/IOD_15-06_True-Denim/SHORTS%20LINHA%20A%20COM%20LASER%20VERDE.jpg"
+              title="SHORTS LINHA A COM LASER VERDE"
+              alt="SHORTS LINHA A COM LASER VERDE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Shorts Linha A com Laser
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#000000"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 349,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#000000"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 58,31</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 300; color: #ffffff; background-color: #000000; display: inline-block; margin: 0px; margin-top: 10px; padding: 5px 20px; border: 1px solid #000000;"
+                href="https://www.iodice.com.br/shorts-linha-a-com-laser-verde-228830"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

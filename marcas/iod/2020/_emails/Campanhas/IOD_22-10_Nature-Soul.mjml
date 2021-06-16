@@ -1,0 +1,200 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=239"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Outubro/IOD_22-10_Nature-Soul/Artboard%201%20copy%204-topo.jpg"
+          alt="Nature Soul"
+          title="Nature Soul" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="40px 20px 0px 20px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=239"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Outubro/IOD_22-10_Nature-Soul/Artboard%201%20copy%204-foto.jpg"
+          alt="Nature Soul"
+          title="Nature Soul" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" color="#000" font-size="13.5px" padding="20px 0px 10px 0px" align="center" font-weight="400" line-height="19px">
+          Para viver os bons momentos, texturas<br> 
+          naturais, prints abstratos e superfícies<br> 
+          brilhantes aparecem em looks fáceis de<br> 
+          vestir, revelando um novo olhar sobre a<br> moda noturna. Confira:
+        </mj-text>
+         <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=239" text-decoration="none" text-transform="uppercase" inner-padding="7px 20px" align="center" font-weight="400" font-size="12px" padding="0px 0px 20px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-pantalona-cos-largo-bolso-faca-nude-237889"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/177776/CALCA-PANTALONA-COS-LARGO-BOLSO-FACA---ES-CAQUI-OFF-WHITE---38.jpg?v=637378466247670000"
+            title="CALCA PANTALONA COS LARGO BOLSO FACA NUDE"
+            alt="CALCA PANTALONA COS LARGO BOLSO FACA NUDE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Pantalona Cos Largo<br> Bolso Faca Nude
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 91,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-pantalona-cos-largo-bolso-faca-nude-237889" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-clochard-cos-alto-com-cinto-verde-237598"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178432/CALCA-CLOCHARD-COS-ALTO-COM-CINTO---LI-VERDE---38.jpg?v=637378479610930000"
+            title="CALCA CLOCHARD COS ALTO COM CINTO VERDE"
+            alt="CALCA CLOCHARD COS ALTO COM CINTO VERDE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Clochard Cos Alto<br> Com Cinto Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 73,31
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 439,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-clochard-cos-alto-com-cinto-verde-237598" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-reta-cos-alto-detalhe-sobreposicao-bege-241179"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178254/CALCA-RETA-COS-ALTO-DETALHE-SOBREPOSICAO---ES-CAQUI---40.jpg?v=637378477484930000"
+            title="CALCA RETA COS ALTO DETALHE SOBREPOSICAO BEGE"
+            alt="CALCA RETA COS ALTO DETALHE SOBREPOSICAO BEGE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Reta Cos Alto Detalhe<br> Sobreposição Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 91,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 549,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/calca-reta-cos-alto-detalhe-sobreposicao-bege-241179" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/camisa-manga-longa-com-amarracao-bege-238677"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/178011/CAMISA-MANGA-LONGA-COM-AMARRACAO---ES-CAQUI---M.jpg?v=637378470347430000"
+            title="CAMISA MANGA LONGA COM AMARRACAO BEGE"
+            alt="CAMISA MANGA LONGA COM AMARRACAO BEGE" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Manga Longa Com Amarração Bege
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            6x de R$ 83,31
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 499,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/camisa-manga-longa-com-amarracao-bege-238677" text-decoration="none" text-transform="uppercase" inner-padding="7px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/blusas?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Outubro/IOD_22-10_Nature-Soul/Artboard%201%20copy%204-blusas.jpg"
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/vestidos?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Outubro/IOD_22-10_Nature-Soul/Artboard%201%20copy%204-vestidos.jpg"
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>  
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/calcas?pwaf_releaseDate=-"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Outubro/IOD_22-10_Nature-Soul/Artboard%201%20copy%204-calcas.jpg"
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section> 
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

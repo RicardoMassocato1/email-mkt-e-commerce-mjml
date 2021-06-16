@@ -1,0 +1,243 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\header\_header.mjml" />
+
+    <!--main-->
+    <mj-section>
+      <mj-column>
+        <mj-image
+              padding="0px 0px 0px 0px"
+              width="600px"
+              href="https://www.zinco.com.br/lancamento"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_09-04_Malas-Prontas/zinco-topo.jpg"
+              title="Malas Prontas"
+              alt="Malas Prontas" />
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 0px">
+        <mj-group>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #441329"
+              href="https://www.zinco.com.br/blazer-detalhe-vivo-bordo-221559/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_09-04_Malas-Prontas/Blazer%20Detalhe%20Vivo%20Bord%C3%B4.jpg"
+              title="Blazer Detalhe Vivo Bordô"
+              alt="Blazer Detalhe Vivo Bordô" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #441329; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Blazer Detalhe Vivo
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#441329"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 459,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#441329"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 9x R$ 51,10</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="background-color:#441329; text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 15px;"
+                href="https://www.zinco.com.br/blazer-detalhe-vivo-bordo-221559/p"
+                title="Shop now">
+                EU QUERO!
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #441329"
+              href="https://www.zinco.com.br/cropped-decote-redondo-detalhe-retilinea-azul-221646/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_09-04_Malas-Prontas/Cropped%20Decote%20Redondo%20Detalhe%20Retilinea%20Azul.jpg"
+              title="Cropped Decote Redondo Detalhe Retilinea Azul"
+              alt="Cropped Decote Redondo Detalhe Retilinea Azul" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #441329; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Cropped Decote
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#441329"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 299,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#441329"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 5x R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="background-color:#441329; text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 15px;"
+                href="https://www.zinco.com.br/cropped-decote-redondo-detalhe-retilinea-azul-221646/p"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 15px 25px 25px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #441329"
+              href="https://www.zinco.com.br/jaqueta-bomber-detalhe-retilinea-azul-221659/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_09-04_Malas-Prontas/Jaqueta%20Bomber%20Detalhe%20Retilinea%20Azul.jpg"
+              title="Jaqueta Bomber Detalhe Retilinea Azul"
+              alt="Jaqueta Bomber Detalhe Retilinea Azul" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #441329; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Jaqueta Bomber
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#441329"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 649,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#441329"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 12x R$ 54,15</span>
+            </mj-text>
+            
+            <mj-text align="center">
+              <a
+                style="background-color:#441329; text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 30px;"
+                href="https://www.zinco.com.br/jaqueta-bomber-detalhe-retilinea-azul-221659/p"
+                title="Shop now">
+                VER!
+              </a>
+            </mj-text>
+          </mj-column>
+
+
+          <mj-column padding="0 25px 25px 15px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              border="1px solid #441329"
+              href="https://www.zinco.com.br/calca-cenoura-cos-alto-com-amarracao-bordo-221603/p"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_09-04_Malas-Prontas/Calca%20Cenoura%20Cos%20Alto%20Com%20Amarracao%20Bord%C3%B4.jpg"
+              title="Calca Cenoura Cos Alto Com Amarracao Bordô"
+              alt="Calca Cenoura Cos Alto Com Amarracao Bordô" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #441329; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                Calca Cenoura Cos Alto
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="5px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              color="#441329"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 439,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#441329"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 10px">ou 8x R$ 54,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="background-color:#441329; text-decoration: none; text-transform: uppercase; font-size: 10px; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 6px 28px;"
+                href="https://www.zinco.com.br/calca-cenoura-cos-alto-com-amarracao-bordo-221603/p"
+                title="Shop now">
+                AMEI!
+              </a>
+            </mj-text>
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+                padding="0px 0px 0px 0px"
+                width="600px"
+                href="https://www.zinco.com.br"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_09-04_Malas-Prontas/zinco-footer.jpg"
+                title="ZINCO"
+                alt="ZINCO"/>
+        </mj-column>  
+      </mj-section>
+    <!--main-->
+
+    
+    <mj-include path="C:\Users\Massocato\Downloads\email-mkt-e-commerce-mjml\marcas\zin\2020\footer\_footer.mjml" />
+  </mj-body>
+</mjml>

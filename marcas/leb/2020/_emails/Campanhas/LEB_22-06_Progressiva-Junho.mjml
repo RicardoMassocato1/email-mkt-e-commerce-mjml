@@ -1,0 +1,273 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Brandon Text" href="https://fonts.googleapis.com/css?family=Brandon+Text:300,400,500,700&display=swap"/>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    <mj-section padding="20px 0px">
+      <mj-group>
+        <mj-column padding="0px 0px 20px 0px" width="100%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/"
+            width="600px"
+            padding="0"
+            alt="descontos progressivos"
+            title="descontos progressivos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_22-06_Progressiva-Junho/03-Email-MKT-topo.jpg" />
+        </mj-column>
+
+        <mj-column width="55%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos"
+            width="600px"
+            padding="0"
+            alt="vestidos"
+            title="vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_22-06_Progressiva-Junho/03-Email-MKT-img.jpg" />
+        </mj-column>
+        <mj-column width="45%">
+          <mj-text
+            font-family= "Brandon Text, sans-serif"
+            color="#8900ee"
+            font-size="22px"
+            padding="35px 20px 0px 20px"
+            align="left"
+            line-height="16px"
+            font-weight="500">
+            back<br> to black<br>-
+          </mj-text>
+          <mj-text
+            font-family= "Brandon Text, sans-serif"
+            color="#8900ee"
+            font-size="13px"
+            padding="0px 0px 8px 20px"
+            align="left"
+            line-height="15px"
+            font-weight="400">
+            a cor mais versátil da<br> moda está entre nossas<br> peças-desejo!
+          </mj-text>
+          <mj-text align="left" padding="8px 0px 0px 20px">
+              <a
+                style="letter-spacing:1px; text-decoration: none; font-weight:500; font-size: 12px; color: #ffffff; background-color: #8900ee; display: inline-block; padding: 5px 9px;"
+                href="https://www.leboh.com.br/lqda/vestidos"
+                title="shop now">
+                shop now
+              </a>
+            </mj-text>
+        </mj-column>
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Brandon Text, sans-serif; color: #8900ee; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Calca Flare Cos <br>Intermediario
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 319,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Brandon Text, sans-serif; display: block; padding: 5px 0">R$ 223,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">4x de R$ 55,98</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Brandon Text, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #8900ee; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #8900ee;"
+              href="https://www.leboh.com.br/calca-flare-cos-intermediario-com-babado-preto-173331/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="50px 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-flare-cos-intermediario-com-babado-preto-173331/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_22-06_Progressiva-Junho/Calca%20Flare%20Cos%20Intermediario%20Com%20Babado%20Preto.jpg"
+            title="Calca Flare Cos Intermediario Com Babado Preto"
+            alt="Calca Flare Cos Intermediario Com Babado Preto" />
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="right"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macacao-pantalona-com-faixa-preto-207022/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_22-06_Progressiva-Junho/Macacao%20Pantalona%20Com%20Faixa%20Preto.jpg"
+            title="Macacao Pantalona Com Faixa Preto"
+            alt="Macacao Pantalona Com Faixa Preto" />
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="left" padding="0">
+            <h1
+              style="font-family: Brandon Text, sans-serif; color: #8900ee; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Macacao Pantalona<br> Com Faixa Preto
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 439,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="700"
+            font-size="16px"
+            align="left"
+            padding="0">
+            <span style="font-family: Brandon Text, sans-serif; display: block; padding: 5px 0">R$ 307,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="left"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">6x de R$ 51,32</span>
+          </mj-text>
+
+          <mj-text align="left" padding="10px 0px">
+            <a
+              style="font-family: Brandon Text, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #8900ee; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #8900ee;"
+              href="https://www.leboh.com.br/macacao-pantalona-com-faixa-preto-207022/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-text align="right" padding="0">
+            <h1
+              style="font-family: Brandon Text, sans-serif; color: #8900ee; font-weight: 400; font-size: 15px; padding: 185px 0px 10px 0px; margin: 0px;">
+              Blusa Ombro So Cavada<br> Abertura Lateral
+            </h1>
+          </mj-text>
+
+          <mj-text
+            text-decoration="line-through"
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-top: 5px">R$ 209,90</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="700"
+            font-size="16px"
+            align="right"
+            padding="0">
+            <span style="font-family: Brandon Text, sans-serif; display: block; padding: 5px 0">R$ 146,93</span>
+          </mj-text>
+
+          <mj-text
+            color="#8900ee"
+            font-weight="300"
+            font-size="12px"
+            align="right"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px">2x de R$ 73,46</span>
+          </mj-text>
+
+          <mj-text align="right" padding="10px 0px">
+            <a
+              style="font-family: Brandon Text, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #8900ee; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #8900ee;"
+              href="https://www.leboh.com.br/blusa-ombro-so-cavada-abertura-lateral-preto-210139/p"
+              target="_blank"
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="50%">
+          <mj-image
+            align="left"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-ombro-so-cavada-abertura-lateral-preto-210139/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_22-06_Progressiva-Junho/Blusa%20Ombro%20So%20Cavada%20Abertura%20Lateral%20Preto.jpg"
+            title="Blusa Ombro So Cavada Abertura Lateral Preto"
+            alt="Blusa Ombro So Cavada Abertura Lateral Preto" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px 10px 30px 10px">
+      <mj-group>
+      <mj-column width="42%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_22-06_Progressiva-Junho/03-Email-MKT-vestidos.jpg" />
+        </mj-column>
+        <mj-column width="57.9%">
+          <mj-image
+            href="https://www.leboh.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_22-06_Progressiva-Junho/03-Email-MKT-blusas.jpg" />
+          <mj-image
+            href="http://leboh.com.br/lqda/jeans"
+            width="600px"
+            padding="0"
+            alt="Jeans"
+            title="Jeans"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Progressiva-Junho/LEB_22-06_Progressiva-Junho/03-Email-MKT-jeans.jpg" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

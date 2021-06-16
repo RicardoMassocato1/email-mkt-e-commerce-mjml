@@ -1,0 +1,231 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/halloween?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Fashionween"
+            title="Fashionween"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_03-11_Fashionween/Artboard%201-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="25px 0px 30px 0px">
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#de2d30"
+            font-size="25px"
+            padding="15px 80px 0px 0px"
+            align="right"
+            line-height="15px"
+            font-weight="700">
+            -
+          </mj-text>
+          <mj-text
+            font-family= "Ubuntu, sans-serif"
+            color="#de2d30"
+            font-size="15px"
+            padding="5px 80px 20px 0px"
+            align="right"
+            line-height="17px"
+            letter-spacing="0.5px"
+            font-weight="400">
+            que tal 50%off para<br>
+            você montar aquele look<br>
+            perfeito? vem aproveitar o<br>
+            fashionween da Lebôh!
+          </mj-text>
+          <mj-text align="right" padding="0px 130px 10px 0px">
+            <a
+              style="font-family:Ubuntu, sans-serif; font-weight: 400; text-decoration: none; background-color:#de2d30; font-size: 13px; color: #fff; display: inline-block; margin: 0px; padding: 6px 15px;"
+              href="https://www.leboh.com.br/halloween?O=OrderByReleaseDateDESC"
+              target="_blank"
+              title="comprar"
+              alt="comprar">
+              comprar
+            </a>
+          </mj-text>
+        </mj-column>  
+    </mj-section>
+
+    
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-gola-alta-cavada-detalhe-ziper-vermelho-230382/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187463/BLUSA-GOLA-ALTA-CAVADA-DETALHE-ZIPER---LI-VERMELHO---PP.jpg?v=637250793659430000"
+            title="Blusa Gola Alta Cavada Detalhe Ziper Vermelho"
+            alt="Blusa Gola Alta Cavada Detalhe Ziper Vermelho" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Gola Alta Cavada<br> Detalhe Ziper Vermelho
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 409,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 51,23
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 204,95
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/blusa-gola-alta-cavada-detalhe-ziper-vermelho-230382/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#de2d30" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/macaquinho-gola-esporte-detalhe-punho-preto-228919/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187139/MACAQUINHO-GOLA-ESPORTE-DETALHE-PUNHO---LI-PRETO---PP.jpg?v=637250788817370000"
+            title="Macaquinho Gola Esporte Detalhe Punho Preto"
+            alt="Macaquinho Gola Esporte Detalhe Punho Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Macaquinho Gola Esporte<br> Detalhe Punho Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 499,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            4x de R$ 62,48
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 249,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/macaquinho-gola-esporte-detalhe-punho-preto-228919/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#de2d30" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-boot-cut-gigi-cos-alto-bolso-faca-preto-224242/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/189808/CALCA-BOOT-CUT-GIGI-COS-ALTO-BOLSO-FACA---LI-PRETO---34.jpg?v=637358645611400000"
+            title="Calca Boot Cut Gigi Cos Alto Bolso Faca Preto"
+            alt="Calca Boot Cut Gigi Cos Alto Bolso Faca Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calca Boot Cut Gigi Cos<br> Alto Bolso Faca Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 249,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 124,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-boot-cut-gigi-cos-alto-bolso-faca-preto-224242/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#de2d30" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/saia-curta-clochard-com-transpasse-branco-221618/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/184842/SAIA-CURTA-CLOCHARD-COM-TRANSPASSE---LI-BRANCO---34.jpg?v=637111613834800000"
+            title="Saia Curta Clochard Com Transpasse Branco"
+            alt="Saia Curta Clochard Com Transpasse Branco" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Curta Clochard Com<br> Transpasse Branco
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="13px" align="center" padding="10px 0px 0px 0px">
+              De: <text style="text-decoration: line-through;">R$ 249,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="10px 0">
+            2x de R$ 62,47
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            Por: R$ 124,95
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/saia-curta-clochard-com-transpasse-branco-221618/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 16px" align="center" font-weight="400" font-size="12px" padding="15px 0px" background-color="#de2d30" color="#ffffff" border-radius="0px" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/vestidos?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Vestidos"
+            title="Vestidos"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_03-11_Fashionween/Artboard%201-vestidos.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/blusas?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Blusas"
+            title="Blusas"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_03-11_Fashionween/Artboard%201-blusas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/calcas?map=c&O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Calças"
+            title="Calças"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Novembro/LEB_03-11_Fashionween/Artboard%201-calcas.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

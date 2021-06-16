@@ -1,0 +1,50 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+
+    <mj-section padding="0px 0px 10px 0px">
+      <mj-group>
+        <mj-include path="../../../_shared/header/top-bar.mjml">
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#000000">
+      <mj-column>
+        <mj-navbar base-url="https://www.iodice.com.br">
+          <mj-navbar-link
+            padding="0px"
+            href=""
+            text-transform="lowercase"
+            font-size="12px"
+            color="#ffffff">
+            iodice.com.br
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="25px 0px">
+      <mj-column>
+        <mj-image
+          alt="Iócice"
+          title="Iócice"
+          href="https://www.iodice.com.br"
+          width="275px"
+          padding="0px 30px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/_images/header/logo/v1/iodice-black.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 25px 0px">
+      <mj-column>
+        <mj-navbar base-url="https://www.iodice.com.br">
+          <mj-navbar-link href="/blusas" padding="0px 15px" font-size="14px" color="#000">Blusas</mj-navbar-link>
+          <mj-navbar-link href="/casacos" padding="0px 15px" font-size="14px" color="#000">Casacos</mj-navbar-link>
+          <mj-navbar-link href="/saias" padding="0px 15px" font-size="14px" color="#000">Saias</mj-navbar-link>
+          <mj-navbar-link href="/catalogsearch/result/_todos?sort=-releaseDate&_t=LQDA&pwaf_productClusterIds=207" padding="0px 15px" font-size="14.5px" color="#000" font-weight="600">LQDA</mj-navbar-link>
+
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

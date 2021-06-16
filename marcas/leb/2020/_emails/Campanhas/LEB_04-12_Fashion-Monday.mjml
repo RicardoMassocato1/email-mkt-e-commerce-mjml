@@ -1,0 +1,217 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" />
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+        <mj-column>
+          <mj-image
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            width="600px"
+            padding="0"
+            alt="Fashion Monday"
+            title="Fashion Monday"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dezembro/LEB_04-12_Fashion-Monday/Artboard%201%20copy%203-topo.jpg" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#ffffff"> 
+        <mj-column padding="25px 0px 30px 0px">
+          <mj-text
+            font-family= "'Work Sans', sans-serif"
+            color="#3b80aa"
+            font-size="18px"
+            padding="5px 90px 0px 0px"
+            align="right"
+            line-height="17px"
+            letter-spacing="0px"
+            font-weight="700">
+            não aproveitou a fashion friday?
+          </mj-text>
+          <mj-text
+            font-family= "'Work Sans', sans-serif"
+            color="#3b80aa"
+            font-size="27px"
+            padding="0px 90px 0px 0px"
+            align="right"
+            line-height="15px"
+            font-weight="700">
+            -
+          </mj-text>
+          <mj-text
+            font-family= "'Work Sans', sans-serif"
+            color="#3b80aa"
+            font-size="15.5px"
+            padding="5px 90px 20px 0px"
+            align="right"
+            line-height="17px"
+            letter-spacing="0px"
+            font-weight="500">
+            últimos dias para garantir<br>
+            seu produto com desconto!
+          </mj-text>
+          <mj-button href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC" text-decoration="none" inner-padding="7px 19px" align="right" font-weight="400" font-size="14px" padding="10px 140px 15px 0px" background-color="#3b80aa" color="#ffffff" border-radius="0px" target="_blank">comprar</mj-button>
+        </mj-column>  
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/camisa-leboh-manga-longa-com-transpasse-verde-223501/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186416/22000101988001206-0-.jpg?v=637176241565430000"
+            title="Camisa Lebôh Manga Longa Com Transpasse Verde"
+            alt="Camisa Lebôh Manga Longa Com Transpasse Verde" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Camisa Lebôh Manga<br> Longa Com Transpasse<br> Verde
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 389,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 116,97<br><span style="font-size:11px; line-height:20px;font-weight:400;">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/camisa-leboh-manga-longa-com-transpasse-verde-223501/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="center" font-weight="500" font-size="13px" padding="15px 0px" background-color="#3b80aa" color="#ffffff" border-radius="0px" target="_blank">shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/calca-leboh-montaria-cos-alto-abertura-barra-preto-223775/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/186486/CALCA-MONTARIA-COS-ALTO-ABERTURA-BARRA---LI-PRETO---36.jpg?v=637197134774430000"
+            title="Calça Lebôh Montaria Cós Alto Abertura Barra Preto"
+            alt="Calça Lebôh Montaria Cós Alto Abertura Barra Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Lebôh Montaria<br> Cós Alto Abertura Barra<br> Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 409,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 122,97<br><span style="font-size:11px; line-height:20px;font-weight:400;">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/calca-leboh-montaria-cos-alto-abertura-barra-preto-223775/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="center" font-weight="500" font-size="13px" padding="15px 0px" background-color="#3b80aa" color="#ffffff" border-radius="0px" target="_blank">shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 20px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/vestido-leboh-midi-decote-transpassado-com-faixa-preto-228886/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187059/VESTIDO-MIDI-DECOTE-TRANSPASSADO-COM-FAIXA---ES-PRETO---PP.jpg?v=637250787337770000"
+            title="Vestido Lebôh Midi Decote Transpassado Com Faixa Preto"
+            alt="Vestido Lebôh Midi Decote Transpassado Com Faixa Preto" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Vestido Lebôh Midi Decote<br> Transpassado Com Faixa<br> Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 459,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 137,97<br><span style="font-size:11px; line-height:20px;font-weight:400;">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+          
+          <mj-button href="https://www.leboh.com.br/vestido-leboh-midi-decote-transpassado-com-faixa-preto-228886/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="center" font-weight="500" font-size="13px" padding="15px 0px" background-color="#3b80aa" color="#ffffff" border-radius="0px" target="_blank">shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.leboh.com.br/blusa-leboh-gola-alta-manga-raglan-longa-tricot-off-white-230371/p"
+            src="https://leboh.vteximg.com.br/arquivos/ids/187423/BLUSA-GOLA-ALTA-MANGA-RAGLAN-LONGA-TRICOT---LI-OFF-WHITE---PP.jpg?v=637250793137430000"
+            title="Blusa Lebôh Gola Alta Manga Raglan Longa Tricot Off White"
+            alt="Blusa Lebôh Gola Alta Manga Raglan Longa Tricot Off White" />
+
+          <mj-text align="center" color="#000000" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Blusa Lebôh Gola Alta<br> Manga Raglan Longa<br> Tricot Off White
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="10px 0px 10px 0px">
+              De: <text style="text-decoration: line-through;">R$ 389,90</text>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            Por: R$ 116,97<br><span style="font-size:11px; line-height:20px;font-weight:400;">(na compra de 5 pçs ou +)</span>
+          </mj-text>
+
+          <mj-button href="https://www.leboh.com.br/blusa-leboh-gola-alta-manga-raglan-longa-tricot-off-white-230371/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 19px" align="center" font-weight="500" font-size="13px" padding="15px 0px" background-color="#3b80aa" color="#ffffff" border-radius="0px" target="_blank">shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.leboh.com.br/lqda/vestidos?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dezembro/Artboard%201-vestidos.jpg" 
+          alt="Vestidos"
+          title="Vestidos" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.leboh.com.br/lqda/blusas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dezembro/Artboard%201-blusas.jpg" 
+          alt="Blusas"
+          title="Blusas" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 30px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.leboh.com.br/lqda/calcas?O=OrderByReleaseDateDESC"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Dezembro/Artboard%201-calcas.jpg" 
+          alt="Calças"
+          title="Calças" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

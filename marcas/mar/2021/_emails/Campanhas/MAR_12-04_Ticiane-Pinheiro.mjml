@@ -1,0 +1,82 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Ticiane%20Pinheiro&pwaf_productClusterIds=257"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_12-04_Ticiane-Pinheiro/Emails%20Mkt%20MV-topo.jpg"
+          alt="Ticiane Pinheiro e Maria Valentina"
+          title="Ticiane Pinheiro e Maria Valentina" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#7c7b79" font-size="13px" padding="15px 20px 25px 20px" align="center" font-weight="500" line-height="20px" letter-spacing="1.1px">
+          Inspirada na trajetória da Ticiane Pinheiro, a nossa collab traz peças sofisticadas e que buscam praticidade na hora de se vestir. Inspire-se!
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/calca-maria-valentina-comfort-cos-alto-bolso-faca-preto-246563"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_12-04_Ticiane-Pinheiro/Emails%20Mkt%20MV-01.jpg"
+          alt="Calça Maria.Valentina Comfort Cós Alto Bolso Faca Preto"
+          title="Calça Maria.Valentina Comfort Cós Alto Bolso Faca Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/vestido-maria-valentina-midi-decote-v-com-babado-preto-246562"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_12-04_Ticiane-Pinheiro/Emails%20Mkt%20MV-02.jpg"
+          alt="Vestido Maria.Valentina Midi Decote V Com Babado Preto"
+          title="Vestido Maria.Valentina Midi Decote V Com Babado Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://mariavalentina.com.br/camisa-maria-valentina-manga-3-4-com-abertura-preto-246560"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_12-04_Ticiane-Pinheiro/Emails%20Mkt%20MV-03.jpg"
+          alt="Camisa Maria.Valentina Manga 3/4 Com Abertura Preto"
+          title="Camisa Maria.Valentina Manga 3/4 Com Abertura Preto" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Abril/MAR_12-04_Ticiane-Pinheiro/Emails%20Mkt%20MV-rodape.jpg" />
+      </mj-column>
+    </mj-section>
+  
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

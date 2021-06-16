@@ -1,0 +1,265 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0px 0px 10px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_21-07_LQDA-01/01-Email-MKT-topo.jpg" 
+              alt="LQDA Progressiva"
+              title="LQDA Progressiva"/>
+              
+            <mj-divider padding="20px 30%" border-width="1.2px" border-style="solid" border-color="#b61622" />
+           
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#b61622"
+              font-size="17px"
+              padding="0px 0px 30px 0px"
+              align="center"
+              font-weight="400"
+              line-height="0px">
+              TENDÊNCIA COM ATÉ 50% OFF
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 25px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/macacao-alfaiataria-detalhe-cintura-bege-223851"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_21-07_LQDA-01/MACACAO%20ALFAIATARIA%20DETALHE%20CINTURA%20BEGE.jpg"
+              title="MACACAO ALFAIATARIA DETALHE CINTURA BEGE"
+              alt="MACACAO ALFAIATARIA DETALHE CINTURA BEGE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 400; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                MACACAO ALFAIATARIA<br> DETALHE CINTURA BEGE
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 949,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 759,92</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 7x R$ 108,56</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 8px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/macacao-alfaiataria-detalhe-cintura-bege-223851"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="155px 5px 25px 5px" width="50%">
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#b61622"
+              font-size="23px"
+              padding="0px 10px 0px 10px"
+              align="left"
+              font-weight="300"
+              line-height="25px"
+              letter-spacing="1px">
+              BICOLORES<br>ESPORTIVOS
+            </mj-text>
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#b61622"
+              font-size="12px"
+              padding="7px 0px 9px 10px"
+              align="left"
+              font-weight="300"
+              line-height="12px" >
+              Inspiradas pela tendência athleisure e esportiva, peças bicolores ganham a coleção em
+              peças casuais perfeitas para momentos em que uma dose de sofisticação é buscada.
+              Recortes inusitados deixam os looks ainda mais modernos.
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/calca-jogger-cos-intermediario-matizada-verde-208091"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_21-07_LQDA-01/CALCA%20JOGGER%20COS%20INTERMEDIARIO%20MATIZADA%20VERDE.jpg"
+              title="CALCA JOGGER COS INTERMEDIARIO MATIZADA VERDE"
+              alt="CALCA JOGGER COS INTERMEDIARIO MATIZADA VERDE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 400; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                CALCA JOGGER COS<br> INTERMEDIARIO
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 449,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 359,92</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 59,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 8px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/calca-jogger-cos-intermediario-matizada-verde-208091"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="0 5px 0px 5px" width="50%">
+            <mj-image
+              align="center"
+              padding="0"
+              width="200px"
+              href="https://www.iodice.com.br/macacao-pantacourt-detalhe-ziper-azul-bege-214606"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_21-07_LQDA-01/MACACAO%20PANTACOURT%20DETALHE%20ZIPER%20AZUL-BEGE.jpg"
+              title="MACACAO PANTACOURT DETALHE ZIPER AZUL/BEGE"
+              alt="MACACAO PANTACOURT DETALHE ZIPER AZUL/BEGE" />
+
+            <mj-text align="center" padding="0">
+              <h1
+                style="color: #b61622; font-weight: 400; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+                MACACAO PANTACOURT<br> DETALHE ZIPER
+              </h1>
+            </mj-text>
+
+            <mj-divider padding="0px 30%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+            <mj-text
+              text-decoration="line-through"
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-top: 10px">R$ 749,90</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="700"
+              font-size="16px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding: 10px 0">R$ 599,92</span>
+            </mj-text>
+
+            <mj-text
+              color="#b61622"
+              font-weight="300"
+              font-size="12px"
+              align="center"
+              padding="0">
+              <span style="display: block; padding-bottom: 0px">ou 6x R$ 99,98</span>
+            </mj-text>
+
+            <mj-text align="center">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 12px; background-color:#b61622; color: #ffffff; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 8px; border: 1px solid #b61622;"
+                href="https://www.iodice.com.br/macacao-pantacourt-detalhe-ziper-azul-bege-214606"
+                target="_blank"
+                title="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column padding="20px 0px 0px 0px" width="100%">
+            <mj-image
+              padding="20px 0px 0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=211"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_21-07_LQDA-01/01-Email-MKT-vestidos.jpg" 
+              alt="Vestidos"
+              title="Vestidos"/>
+            <mj-image
+              padding="0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=196"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_21-07_LQDA-01/01-Email-MKT-calcas.jpg" 
+              alt="Calças"
+              title="Calças"/>
+            <mj-image
+              padding="0px 0px"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA&pwaf_productClusterIds=195"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_LQDA/IOD_21-07_LQDA-01/01-Email-MKT-blusas.jpg" 
+              alt="Blusas"
+              title="Blusas"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

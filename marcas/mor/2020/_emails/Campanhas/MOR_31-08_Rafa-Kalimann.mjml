@@ -1,0 +1,443 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+    
+    <mj-column padding="0" width="100%">
+      <mj-image
+        padding="10px 30px 0px 0px"
+        width="600px"
+        href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&_t=Escolhas%20da%20Rafa&pwaf_productClusterIds=305"
+        src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_31-08_Rafa-Kaliman/E-mail%20mkt%202004-08_1-topo01.jpg"
+        alt="Escolhas da Rafa Kalimann"
+        title="Escolhas da Rafa Kalimann" />
+    </mj-column>
+    <mj-column padding="15px 0px 30px 0px" width="100%">
+      <mj-text font-family="Roboto, serif" color="#694330" font-size="13.2px" padding="0px 0px" align="center" font-weight="400" line-height="22px" letter-spacing="1.4px">
+        Descubra as peças favoritas da Rafa Kalimann<br> para a estação mais quante do ano:
+      </mj-text>
+    </mj-column>
+
+    <mj-section background-color="#694330">
+      <mj-group> 
+        <mj-column padding="20px 0px 10px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#ffffff" font-size="19px" padding="0px 0px 10px 30px" align="left" font-weight="500" line-height="22px" letter-spacing="1.4px">
+            COMPRE O LOOK:
+          </mj-text>
+        </mj-column>   
+
+        <mj-column padding="0 5px 20px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blazer-alfaiataria-off-white-233356"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355931/10000109167000133-0-.jpg?v=637341487484270000"
+            title="Blazer Alfaiataria Off White"
+            alt="Blazer Alfaiataria Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blazer Alfaiataria Off<br> White
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+          <mj-text
+            color="#ffffff"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">7x de R$ 114,27</span>
+          </mj-text>
+
+          <mj-text
+            color="#ffffff"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 799,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-weight: 500; font-size: 12.5px; color: #694330; background-color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 18px;"
+              href="https://www.morenarosa.com.br/blazer-alfaiataria-off-white-233356"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 20px 5px" width="50%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-saia-detalhe-vivo-off-white-234196"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355927/10000109246000133-0-.jpg?v=637341485133670000"
+            title="Shorts Saia Off White"
+            alt="Shorts Saia Off White" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #ffffff; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Saia Off<br> White
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#ffffff" />
+
+          <mj-text
+            color="#ffffff"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text
+            color="#ffffff"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 349,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-weight: 500; font-size: 12.5px; color: #694330; background-color: #ffffff; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 18px;"
+              href="https://www.morenarosa.com.br/shorts-saia-detalhe-vivo-off-white-234196"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-group>
+        <mj-column padding="30px 0px 0px 0px" width="100%">
+          <mj-text font-family="Roboto, serif" color="#694330" font-size="20px" padding="0px 0px 10px 30px" align="left" font-weight="500" line-height="22px" letter-spacing="1.4px">
+            Escolhas da Rafa:
+          </mj-text>
+        </mj-column> 
+        <mj-column padding="10px 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/camisa-manga-curta-com-bolso-laranja-234312"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355129/CAMISA-MANGA-CURTA-COM-BOLSO---ES-LARANJA-AREIA---M.jpg?v=637326725866500000"
+            title="Camisa Manga Curta Com Bolso Laranja"
+            alt="Camisa Manga Curta Com Bolso Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #694330; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Camisa Manga<br> Curta Com Bolso
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#694330"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$ 91,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#694330"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 549,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/camisa-manga-curta-com-bolso-laranja-234312"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantacourt-cos-alto-abertura-lateral-verde-227085"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355777/10001200691001126-0-.jpg?v=637335454292370000"
+            title="Calca Pantacourt Cos Alto Abertura Lateral Verde"
+            alt="Calca Pantacourt Cos Alto Abertura Lateral Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #694330; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantacourt<br> Cos Alto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#694330"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$ 61,65</span>
+          </mj-text>
+
+          <mj-text
+            color="#694330"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 369,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/calca-pantacourt-cos-alto-abertura-lateral-verde-227085"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/shorts-evase-barra-italiana-laranja-234340"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352183/SHORTS-EVASE-BARRA-ITALIANA---ES-LARANJA-PRETO---36.jpg?v=637326623450200000"
+            title="Shorts Evase Barra Italiana Laranja"
+            alt="Shorts Evase Barra Italiana Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #694330; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Shorts Evase<br> Barra Italiana
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          </mj-text>
+
+          <mj-text
+            color="#694330"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$ 88,31</span>
+          </mj-text>
+
+          <mj-text
+            color="#694330"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 529,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/shorts-evase-barra-italiana-laranja-234340"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/vestido-altura-do-joelho-decote-v-torcao-frente-vermelho-233366"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/355793/10000109172000023-0-.jpg?v=637340642109870000"
+            title="Vestido Altura Do Joelho Decote V Torcao Frente Vermelho"
+            alt="Vestido Altura Do Joelho Decote V Torcao Frente Vermelho" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #694330; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Altura Do <br>Joelho Decote V
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#694330"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$ 83,31</span>
+          </mj-text>
+
+          <mj-text
+            color="#694330"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 499,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/vestido-altura-do-joelho-decote-v-torcao-frente-vermelho-233366"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/calca-pantalona-cos-intermediario-bolso-faca-rosa-234205"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/352078/CALCA-PANTALONA-COS-INTERMEDIARIO-BOLSO-FACA---LT-PINK---38.jpg?v=637326621664800000"
+            title="Calca Pantalona Cos Intermediario Bolso Faca Rosa"
+            alt="Calca Pantalona Cos Intermediario Bolso Faca Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #694330; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Calca Pantalona Cos Interm.
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text
+            color="#694330"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">6x de R$ 88,31</span>
+          </mj-text>
+
+          <mj-text
+            color="#694330"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 529,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/calca-pantalona-cos-intermediario-bolso-faca-rosa-234205"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px" width="33.333%">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-minha-morena-rosa-234119"
+            src="https://morenarosa.vteximg.com.br/arquivos/ids/351972/BLUSA-DECOTE-REDONDO-MANGA-CURTA-MINHA-MORENA---LI-PINK---P.jpg?v=637326619961070000"
+            title="Blusa Decote Redondo Manga Curta Minha Morena Rosa"
+            alt="Blusa Decote Redondo Manga Curta Minha Morena Rosa" />
+
+          <mj-text align="center" padding="0">
+            <h1
+              style="color: #694330; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote R.<br> Manga Curta
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="0px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+          </mj-text>
+
+          <mj-text
+            color="#694330"
+            font-weight="700"
+            font-size="16px"
+            align="center"
+            padding="0">
+            <span style="display: block; padding-bottom: 0px; padding: 10px 0">2x de R$ 74,95</span>
+          </mj-text>
+
+          <mj-text
+            color="#694330"
+            font-weight="300"
+            font-size="14px"
+            align="center"
+            padding="0">
+            <span style="display: block;">Por: R$ 149,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; color: #ffffff; background-color: #634731; display: inline-block; margin: 0px; margin-top: 10px; padding: 8px 16px;"
+              href="https://www.morenarosa.com.br/blusa-decote-redondo-manga-curta-minha-morena-rosa-234119"
+              target="_blank"
+              title="Shop now"
+              alt="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

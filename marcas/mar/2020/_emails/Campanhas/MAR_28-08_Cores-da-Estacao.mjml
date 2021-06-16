@@ -1,0 +1,365 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,800,900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="10px 0px">
+      <mj-group>
+        <mj-column padding="0" width="100%">
+          <mj-image
+            padding="0px 0px 10px 0px"
+            width="600px"
+            href="https://www.mariavalentina.com.br/lancamento"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_28-08_Cores-da-Estacao/MV_EmailMkt_03-topo.jpg"
+            title="Cores da Estação"
+            alt="Cores da Estação" />
+        </mj-column>
+
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="14px" padding="10px 15px 0px 15px" align="center" font-weight="600" line-height="17px" letter-spacing="1.2px" text-transform="uppercase">
+            Azul e laranja
+          </mj-text>
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="13.5px" padding="5px 20px 40px 20px" align="center" font-weight="400" line-height="15px" letter-spacing="1px">
+            Estampas gráficas ganham uma roupagem alegre, 
+            graças ao uso de cores, num resultado urbano, mas de charme praiano.
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 0px 5px" width="50%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/vestido-longo-decote-quadrado-com-cinto-azul-234727/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_28-08_Cores-da-Estacao/MV_EmailMkt_03-01.jpg" 
+            title="Vestido Longo Decote Quadrado Com Cinto Azul" 
+            alt="Vestido Longo Decote Quadrado Com Cinto Azul" />
+        </mj-column>
+
+        <mj-column padding="100px 5px 25px 0px" width="50%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="14px" padding="15px 0px 5px 0px" align="justify" font-weight="400" line-height="15px" letter-spacing="1px">
+            <strong>Highlights:</strong> o contraste entre o azul 
+            e o laranja promete ser uma das trends mais vistas na estação.
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 0px" width="50%">
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 0px 0; margin: 0px;">
+              Vestido Longo Decote<br> Quadrado Com Cinto
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 5px 0">10x de R$ 69,99</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 699,90</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/vestido-longo-decote-quadrado-com-cinto-azul-234727/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0" width="50%"> </mj-column>
+
+
+
+        <mj-column padding="100px 0px 25px 5px" width="50%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="14px" padding="15px 0px 5px 0px" align="justify" font-weight="400" line-height="15px" letter-spacing="1px">
+            <strong>Dica Extra:</strong> flats em mood relax, tênis branco e sandálias com salto de madeira para a noite.
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px" width="50%">
+          <mj-image
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/body-decote-v-manga-curta-com-recortes-laranja-234636/p" 
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Lan%C3%A7amento-Agosto/MAR_28-08_Cores-da-Estacao/MV_EmailMkt_03-02.jpg" 
+            title="Body Decote V Manga Curta Com Recortes Laranja" 
+            alt="Body Decote V Manga Curta Com Recortes Laranja" />
+        </mj-column>
+
+        <mj-column padding="0px" width="50%"> </mj-column>
+
+        <mj-column padding="10px 0px 25px 5px" width="50%">
+          
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 0px 0; margin: 0px;">
+              Body Decote V Manga<br> Curta Com Recortes
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 5px 0">7x de R$ 57,12</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 0px">Por: R$ 399,90</span>
+          </mj-text>
+
+          <mj-text align="center">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 0px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/body-decote-v-manga-curta-com-recortes-laranja-234636/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+
+        <mj-column padding="0" width="100%">
+          <mj-text font-family="Roboto, serif" color="#000000" font-size="20px" padding="30px 0px 10px 0px" align="center" font-weight="600" line-height="17px" letter-spacing="1.2px" text-transform="uppercase">
+            SUGESTÕES PARA VOCÊ
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/blusa-decote-v-manga-curta-com-drapeado-rosa-231827/p" 
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230231/BLUSA-DECOTE-V-MANGA-CURTA-COM-DRAPEADO---ES-PRETO-PINK---PP.jpg?v=637327824043900000" 
+            title="Blusa Decote V Manga Curta Com Drapeado Preto/Pink" 
+            alt="Blusa Decote V Manga Curta Com Drapeado Preto/Pink" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote V<br> Manga Curta
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">6x de R$ 58,31</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 349,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-v-manga-curta-com-drapeado-rosa-231827/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/blusa-decote-redondo-manga-curta-com-botao-laranja-231861/p" 
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230360/BLUSA-DECOTE-REDONDO-MANGA-CURTA-COM-BOTAO---LI-TELHA---PP.jpg?v=637327826215270000" 
+            title="Blusa Decote Redondo Manga Curta Com Botao Laranja" 
+            alt="Blusa Decote Redondo Manga Curta Com Botao Laranja" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Blusa Decote<br> Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">5x de R$ 55,98</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 279,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/blusa-decote-redondo-manga-curta-com-botao-laranja-231861/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/saia-curta-lapis-com-recorte-verde-231928/p" 
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230530/SAIA-CURTA-LAPIS-COM-RECORTE---LI-VERDE-LIMA---PP.jpg?v=637327829864330000" 
+            title="Saia Curta Lapis Com Recorte Verde" 
+            alt="Saia Curta Lapis Com Recorte Verde" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Saia Curta Lapis<br> Com Recorte
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">7x de R$ 55,70</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 389,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/saia-curta-lapis-com-recorte-verde-231928/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/vestido-curto-decote-redondo-com-recorte-azul-231934/p" 
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230541/VESTIDO-CURTO-DECOTE-REDONDO-COM-RECORTE---LI-AZUL-MARINHO---PP.jpg?v=637327830671770000" 
+            title="Vestido Curto Decote Redondo Com Recorte Azul" 
+            alt="Vestido Curto Decote Redondo Com Recorte Azul" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Vestido Curto<br> Decote Redondo
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">9x de R$ 55,54</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 499,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/vestido-curto-decote-redondo-com-recorte-azul-231934/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/macacao-reto-fio-metalizado-dourado-231819/p" 
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230147/MACACAO-RETO-FIO-METALIZADO---LI-COBRE---PP.jpg?v=637327822937930000" 
+            title="Macacao Reto Fio Metalizado Dourado" 
+            alt="Macacao Reto Fio Metalizado Dourado" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Macacao Reto<br> Fio Metalizado
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">10x de R$ 78,99</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 789,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/macacao-reto-fio-metalizado-dourado-231819/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0 5px 25px 5px" width="33.333%">
+          <mj-image 
+            align="center" 
+            padding="0" 
+            width="200px" 
+            href="https://www.mariavalentina.com.br/chemise-midi-com-abotoamento-off-pink-231782/p" 
+            src="https://mariavalentina.vteximg.com.br/arquivos/ids/230072/CHEMISE-MIDI-COM-ABOTOAMENTO---ES-OFF-WHITE-PINK---PP.jpg?v=637327821775800000" 
+            title="Chemise Midi Com Abotoamento Off/Pink" 
+            alt="Chemise Midi Com Abotoamento Off/Pink" />
+
+          <mj-text align="center" padding="0">
+            <h1 
+              style="color: #000000; font-weight: 300; font-size: 14px; padding: 20px 0 10px 0; margin: 0px;">
+              Chemise Midi Com<br> Abotoamento
+            </h1>
+          </mj-text>
+
+          <mj-divider padding="5px 25%" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#000000" font-weight="700" font-size="16px" align="center" padding="0">
+            <span style="display: block; padding: 10px 0">10x de R$ 82,99</span>
+          </mj-text>
+
+          <mj-text color="#000000" font-weight="300" font-size="14px" align="center" padding="0">
+            <span style="display: block; padding-bottom: 10px">Por: R$ 829,90</span>
+          </mj-text>
+
+          <mj-text align="center" padding="0">
+            <a 
+              style="text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 500; color: #ffffff; background-color: #ea5b0c; display: inline-block; margin: 0px; margin-top: 5px; padding: 7px 14px; border: 1px solid #ea5b0c;" 
+              href="https://www.mariavalentina.com.br/chemise-midi-com-abotoamento-off-pink-231782/p" 
+              title="Shop now">
+              Shop now
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

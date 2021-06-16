@@ -1,0 +1,256 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+      <mj-include path="../../header/_header.mjml" />
+
+      <mj-section padding="10px 0px">
+        <mj-group>
+          <mj-column padding="0" width="100%">
+            <mj-image
+              padding="0"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=207"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_18-06_Progressiva-Junho/Email-MKT-ID_18-06%20email-topo.jpg" 
+              alt="Descontos Progressivos"
+              title="Descontos Progressivos"/>
+            <mj-image
+              padding="0"
+              href="https://www.iodice.com.br/catalogsearch/result/_todos?p=7&_t=Progressivos&pwaf_productClusterIds=213"
+              width="600px"
+              src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_18-06_Progressiva-Junho/Email-MKT-ID_18-06%20email-img.jpg" 
+              alt="Jeans"
+              title="Jeans"/>
+            <mj-text
+              font-family= "Poppins, sans-serif"
+              color="#006c79"
+              font-size="23px"
+              padding="15px 0px 5px 0px"
+              align="center"
+              font-weight="100"
+              line-height="20px">
+              JEANS LOVERS
+            </mj-text>
+            <mj-text align="center" padding="7px 0px 0px 0px">
+              <h1 style="font-family:Poppins, sans-serif; color: #006c79; font-weight: 300; font-size: 14px; margin: 0px;">
+                O Jeans Iódice que você ama com<br> até 70% OFF! Aproveite agora. 
+              </h1>
+            </mj-text>
+            <mj-text align="center" padding="0px 0px 0px 0px">
+              <a
+                style="text-decoration: none; text-transform: uppercase; font-size: 11px; color: #ffffff; background-color:#006c79; display: inline-block; margin: 0px; margin-top: 10px; padding: 7px 7px;"
+                href="https://www.iodice.com.br/catalogsearch/result/_todos?p=7&_t=Progressivos&pwaf_productClusterIds=213"
+                target="_blank"
+                title="Shop now"
+                alt="Shop now">
+                Shop now
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="40px 0px 0 0px">
+          <mj-group>
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-text align="right" padding="0">
+                <h1
+                  style="font-family: Poppins, sans-serif; color: #006c79; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                  CALCA SKINNY COS<br> INTERMEDIARIO 
+                </h1>
+              </mj-text>
+
+              <mj-text
+                text-decoration="line-through"
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="right"
+                padding="0">
+                <span style="display: block; padding-top: 0px">R$ 349,90</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="700"
+                font-size="16px"
+                align="right"
+                padding="0">
+                <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 244,93</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="right"
+                padding="0">
+                <span style="display: block; padding-bottom: 0px">ou 4x R$ 61,23</span>
+              </mj-text>
+
+              <mj-text align="right" padding="10px 0px">
+                <a
+                  style="font-family: Poppins, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #006c79; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #006c79;"
+                  href="https://www.iodice.com.br/calca-skinny-cos-intermediario-barra-diferenciada-jeans-208805"
+                  target="_blank"
+                  title="Shop now">
+                  Shop now
+                </a>
+              </mj-text>
+            </mj-column>
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-image
+                align="left"
+                padding="0"
+                width="200px"
+                href="https://www.iodice.com.br/calca-skinny-cos-intermediario-barra-diferenciada-jeans-208805"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_18-06_Progressiva-Junho/CALCA%20SKINNY%20COS%20INTERMEDIARIO%20BARRA%20DIFERENCIADA%20JEANS.jpg"
+                title="CALCA SKINNY COS INTERMEDIARIO BARRA DIFERENCIADA JEANS"
+                alt="CALCA SKINNY COS INTERMEDIARIO BARRA DIFERENCIADA JEANS" />
+            </mj-column>
+
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-image
+                align="right"
+                padding="0"
+                width="200px"
+                href="https://www.iodice.com.br/shorts-boyfriend-barra-desfiada-jeans-220191"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_18-06_Progressiva-Junho/SHORTS%20BOYFRIEND%20BARRA%20DESFIADA%20JEANS.jpg"
+                title="SHORTS BOYFRIEND BARRA DESFIADA JEANS"
+                alt="SHORTS BOYFRIEND BARRA DESFIADA JEANS" />
+            </mj-column>
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-text align="left" padding="0">
+                <h1
+                  style="font-family: Poppins, sans-serif; color: #006c79; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                  SHORTS BOYFRIEND <br>BARRA DESFIADA
+                </h1>
+              </mj-text>
+
+              <mj-text
+                text-decoration="line-through"
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="left"
+                padding="0">
+                <span style="display: block; padding-top: 0px">R$ 299,90</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="700"
+                font-size="16px"
+                align="left"
+                padding="0">
+                <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 209,93</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="left"
+                padding="0">
+                <span style="display: block; padding-bottom: 0px">ou 4x R$ 52,48</span>
+              </mj-text>
+
+              <mj-text align="left" padding="10px 0px">
+                <a
+                  style="font-family: Poppins, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #006c79; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #006c79;"
+                  href="https://www.iodice.com.br/shorts-boyfriend-barra-desfiada-jeans-220191"
+                  target="_blank"
+                  title="Shop now">
+                  Shop now
+                </a>
+              </mj-text>
+            </mj-column>
+
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-text align="right" padding="0">
+                <h1
+                  style="font-family: Poppins, sans-serif; color: #006c79; font-weight: 400; font-size: 14px; padding: 185px 0px 10px 0px; margin: 0px;">
+                  CALCA CIGARRETE COS<br> INTERMEDIARIO
+                </h1>
+              </mj-text>
+
+              <mj-text
+                text-decoration="line-through"
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="right"
+                padding="0">
+                <span style="display: block; padding-top: 0px">R$ 369,90</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="700"
+                font-size="16px"
+                align="right"
+                padding="0">
+                <span style="font-family: Poppins, sans-serif; display: block; padding: 5px 0">R$ 258,93</span>
+              </mj-text>
+
+              <mj-text
+                color="#006c79"
+                font-weight="300"
+                font-size="12px"
+                align="right"
+                padding="0">
+                <span style="display: block; padding-bottom: 0px">ou 4x R$ 51,78</span>
+              </mj-text>
+
+              <mj-text align="right" padding="10px 0px">
+                <a
+                  style="font-family: Poppins, sans-serif; font-weight: 700; text-decoration: none; text-transform: uppercase; font-size: 12px; color: #006c79; display: inline-block; margin: 0px; margin-top: 0px; padding: 5px 10px; border: 1.2px solid #006c79;"
+                  href="https://www.iodice.com.br/calca-cigarrete-cos-intermediario-com-puidos-jeans-208784"
+                  target="_blank"
+                  title="Shop now">
+                  Shop now
+                </a>
+              </mj-text>
+            </mj-column>
+
+            <mj-column padding="0 5px 25px 5px" width="50%">
+              <mj-image
+                align="left"
+                padding="0"
+                width="200px"
+                href="https://www.iodice.com.br/calca-cigarrete-cos-intermediario-com-puidos-jeans-208784"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_18-06_Progressiva-Junho/CALCA%20CIGARRETE%20COS%20INTERMEDIARIO%20COM%20PUIDOS%20JEANS.jpg"
+                title="CALCA CIGARRETE COS INTERMEDIARIO COM PUIDOS JEANS"
+                alt="CALCA CIGARRETE COS INTERMEDIARIO COM PUIDOS JEANS" />
+            </mj-column>
+
+            <mj-column padding="0px 0px" width="100%">
+              <mj-image
+                padding="20px 0px"
+                href="colocar link"
+                width="600px"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_18-06_Progressiva-Junho/Email-MKT-ID_18-06%20email-blusas.jpg" 
+                alt="Blusas"
+                title="Blusas"/>
+              <mj-image
+                padding="0"
+                href="https://www.iodice.com.br/catalogsearch/result/_todos?_t=Progressivos&pwaf_productClusterIds=211"
+                width="600px"
+                src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Progressiva-Junho/IOD_18-06_Progressiva-Junho/Email-MKT-ID_18-06%20email-vestidos.jpg" 
+                alt="Vestidos"
+                title="Vestidos"/>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+      <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,154 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=269"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Mar%C3%A7o/IOD_26-03_Semana-da-Consumidora/IOD-EmailMKT-ULTIMOS%20DIAS.jpg"
+          alt="Semana da Consumidora"
+          title="Semana da Consumidora" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="14px" padding="30px 20px 20px 20px" align="center" font-weight="400" line-height="18px">
+          O tecido indispensável que é sinônimo de durabilidade e elegância e é indispensável no inverno, se apresenta na nossa Semana da Consumidora com 60% Off! Imperdível!
+        </mj-text>
+        <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Semana%20da%20Consumidora&pwaf_productClusterIds=269" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="5px 0px 40px 0px" background-color="#fff" color="#000" border="2px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0px">Shop now</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/saia-iodice-midi-evase-detalhe-vivo-preto-230478/p"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/173643/SAIA-MIDI-EVASE-DETALHE-VIVO---LI-PRETO---36.jpg?v=637237645976800000"
+            title="SAIA IÓDICE MIDI EVASÊ DETALHE VIVO PRETO"
+            alt="SAIA IÓDICE MIDI EVASÊ DETALHE VIVO PRETO" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Saia Iódice Midi Evasê<br> Detalhe Vivo Preto
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 61,65
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 369,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/saia-iodice-midi-evase-detalhe-vivo-preto-230478/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/shorts-iodice-clochard-com-amarracao-jeans-234653/p"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/175964/SHORTS-CLOCHARD-COM-AMARRACAO---LI-JEANS-CLARO---36.jpg?v=637327716481500000"
+            title="SHORTS IÓDICE CLOCHARD COM AMARRAÇÃO JEANS"
+            alt="SHORTS IÓDICE CLOCHARD COM AMARRAÇÃO JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Shorts Iódice Clochard<br> Com Amarração Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 64,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 389,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/shorts-iodice-clochard-com-amarracao-jeans-234653/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/jaqueta-iodice-biker-com-recorte-jeans-230452/p"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/173523/JAQUETA-BIKER-COM-RECORTE---LI-JEANS-MEDIO---P.jpg?v=637237644369570000"
+            title="JAQUETA IÓDICE BIKER COM RECORTE JEANS"
+            alt="JAQUETA IÓDICE BIKER COM RECORTE JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Jaqueta Iódice Biker<br> Com Recorte Jeans
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 108,31
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 649,90
+          </mj-text>
+
+          <mj-button href="https://www.iodice.com.br/jaqueta-iodice-biker-com-recorte-jeans-230452/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.iodice.com.br/calca-iodice-skinny-cos-intermediario-compose-tecido-jeans-228912/p"
+            src="https://iodiceoficial.vteximg.com.br/arquivos/ids/173444/CALCA-SKINNY-COS-INTERMEDIARIO-COMPOSE-TECIDO---LI-JEANS-MEDIO---36.jpg?v=637237643222400000"
+            title="CALÇA IÓDICE SKINNY CÓS INTERMEDIÁRIO COMPOSÊ TECIDO JEANS"
+            alt="CALÇA IÓDICE SKINNY CÓS INTERMEDIÁRIO COMPOSÊ TECIDO JEANS" />
+
+          <mj-text align="center" color="#2d2d2d" font-weight="300" font-size="14px" padding="20px 0 10px 0">
+            Calça Iódice Skinny Cós Intermediário Compo...
+          </mj-text>
+
+          <mj-divider padding="0px 50px" border-width="1px" border-style="solid" border-color="#eeeeee" />
+
+          <mj-text color="#2d2d2d" font-weight="700" font-size="16px" align="center" padding="15px 0">
+            6x de R$ 79,98
+          </mj-text>
+
+          <mj-text color="#2d2d2d" font-weight="400" font-size="14px" align="center" padding="0">
+            Por: R$ 479,90
+          </mj-text>
+          
+          <mj-button href="https://www.iodice.com.br/calca-iodice-skinny-cos-intermediario-compose-tecido-jeans-228912/p" text-decoration="none" text-transform="uppercase" inner-padding="8px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#000" color="#ffffff" border-radius="0px" target="_blank"><span style="letter-spacing:0.7px">Shop now</span></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>
