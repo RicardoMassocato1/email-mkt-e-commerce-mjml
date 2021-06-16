@@ -68,7 +68,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
       <mj-column>
         <mj-image
           padding="0"
