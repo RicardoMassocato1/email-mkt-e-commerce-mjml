@@ -1,0 +1,97 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=279"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Laranja/zinco-topo-min.jpg"
+          alt="Laranja"
+          title="Laranja" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px 0px 0px" background-color="#72795a">
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#456687" font-size="11.5px" padding="20px 25px 10px 25px" align="center" font-weight="500" line-height="20px" letter-spacing="1px">
+          A tendÊncia laranja veio com tudo e traz um toque de calor ao nosso inverno! Aposte nessa trend e monte looks lindos!!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/t-shirt-zinco-dress-detalhe-vies-laranja-251854"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Laranja/zinco-01-min.jpg"
+            title="T-Shirt Zinco Dress Detalhe Viés Laranja"
+            alt="T-Shirt Zinco Dress Detalhe Viés Laranja" />
+
+          <mj-button href="https://www.zinco.com.br/t-shirt-zinco-dress-detalhe-vies-laranja-251854" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#72795a" color="#fff" border-radius="0px" border= "1px solid #72795a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-reta-cos-alto-detalhe-vies-laranja-251847"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Laranja/zinco-02-min.jpg"
+            title="Calça Zinco Reta Cós Alto Detalhe Viés Laranja"
+            alt="Calça Zinco Reta Cós Alto Detalhe Viés Laranja" />
+          
+          <mj-button href="https://www.zinco.com.br/calca-zinco-reta-cos-alto-detalhe-vies-laranja-251847" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#72795a" color="#fff" border-radius="0px" border= "1px solid #72795a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-curta-tricot-laranja-253994"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Laranja/zinco-03-min.jpg"
+            title="Blusa Zinco Decote Redondo Manga Curta Tricot Laranja"
+            alt="Blusa Zinco Decote Redondo Manga Curta Tricot Laranja" />
+
+          <mj-button href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-curta-tricot-laranja-253994" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#72795a" color="#fff" border-radius="0px" border= "1px solid #72795a" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/vestido-zinco-midi-decote-v-detalhe-vies-laranja-251876"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Laranja/zinco-04-min.jpg"
+            title="Vestido Zinco Midi Decote V Detalhe Viés Laranja"
+            alt="Vestido Zinco Midi Decote V Detalhe Viés Laranja" />
+          
+          <mj-button href="https://www.zinco.com.br/vestido-zinco-midi-decote-v-detalhe-vies-laranja-251876" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#72795a" color="#fff" border-radius="0px" border= "1px solid #72795a" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

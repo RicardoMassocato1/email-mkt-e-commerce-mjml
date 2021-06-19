@@ -1,0 +1,97 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Lan%C3%A7amento&pwaf_productClusterIds=279"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Pink/zinco-topo-min.jpg"
+          alt="Pink"
+          title="Pink" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0px 0px 0px" background-color="#fd96e5">
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Roboto, serif" text-transform="uppercase" color="#456687" font-size="11.5px" padding="20px 25px 10px 25px" align="center" font-weight="500" line-height="20px" letter-spacing="1px">
+          Think Pink!! Como sempre, nossa escolha do dia é sempre rosa. Entre na nossa trend e aposte no pink nesse dia!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/jaqueta-zinco-cropped-detalhe-pesponto-lilas-251593"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Pink/zinco-01-min.jpg"
+            title="Jaqueta Zinco Cropped Detalhe Pesponto Lilás"
+            alt="Jaqueta Zinco Cropped Detalhe Pesponto Lilás" />
+
+          <mj-button href="https://www.zinco.com.br/jaqueta-zinco-cropped-detalhe-pesponto-lilas-251593" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fd96e5" color="#fff" border-radius="0px" border= "1px solid #fd96e5" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 10px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/calca-zinco-cenoura-cos-alto-com-pregas-lilas-251942"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Pink/zinco-02-min.jpg"
+            title="Calça Zinco Cenoura Cós Alto Com Pregas Lilás"
+            alt="Calça Zinco Cenoura Cós Alto Com Pregas Lilás" />
+          
+          <mj-button href="https://www.zinco.com.br/calca-zinco-cenoura-cos-alto-com-pregas-lilas-251942" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fd96e5" color="#fff" border-radius="0px" border= "1px solid #fd96e5" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/macacao-zinco-cenoura-detalhe-pesponto-lilas-251608"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Pink/zinco-03-min.jpg"
+            title="Macacão Zinco Cenoura Detalhe Pesponto Lilás"
+            alt="Macacão Zinco Cenoura Detalhe Pesponto Lilás" />
+
+          <mj-button href="https://www.zinco.com.br/macacao-zinco-cenoura-detalhe-pesponto-lilas-251608" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fd96e5" color="#fff" border-radius="0px" border= "1px solid #fd96e5" target="_blank">Shop now</mj-button>
+        </mj-column>
+
+        <mj-column padding="10px 5px 0px 5px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/shorts-zinco-evase-detalhe-pesponto-lilas-251597"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Pink/zinco-04-min.jpg"
+            title="Shorts Zinco Evasê Detalhe Pesponto Lilás"
+            alt="Shorts Zinco Evasê Detalhe Pesponto Lilás" />
+          
+          <mj-button href="https://www.zinco.com.br/shorts-zinco-evase-detalhe-pesponto-lilas-251597" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="center" font-weight="500" font-size="12px" padding="15px 0px" background-color="#fd96e5" color="#fff" border-radius="0px" border= "1px solid #fd96e5" target="_blank">Shop now</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

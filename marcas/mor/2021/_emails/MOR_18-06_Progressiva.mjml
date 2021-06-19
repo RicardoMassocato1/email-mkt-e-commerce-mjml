@@ -1,0 +1,62 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Morena Rosa</mj-title>
+    <mj-preview>Morena Rosa</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../header/_header-novo.mjml" />
+    
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/catalogsearch/result/_todos?pwaf_OrderByReleaseDateDESC=%2B&pwaf_productClusterIds=196"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_18-06_Progressiva/Desconto%20PROGRESSIVO-01.jpg"
+          alt="Desconto Porgressiva"
+          title="Desconto Porgressiva" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 30px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/saia-morena-rosa-longa-evase-com-recorte-amarelo-244218"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_18-06_Progressiva/Desconto%20PROGRESSIVO-02.jpg"
+          alt="Saia Morena Rosa Longa Evasê Com Recorte Amarelo"
+          title="Saia Morena Rosa Longa Evasê Com Recorte Amarelo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px 0px 0px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/saia-morena-rosa-midi-lapis-tricot-off-white-244594"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_18-06_Progressiva/Desconto%20PROGRESSIVO-03.jpg"
+          alt="Saia Morena Rosa Midi Lápis Tricot Off White"
+          title="Saia Morena Rosa Midi Lápis Tricot Off White" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="30px 0px 10px 0px"
+          width="600px"
+          href="https://www.morenarosa.com.br/saia-morena-rosa-midi-evase-com-recorte-amarelo-243551"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/morenarosa/MOR_Junho/MOR_18-06_Progressiva/Desconto%20PROGRESSIVO-04.jpg"
+          alt="Saia Morena Rosa Midi Evasê Com Recorte Amarelo"
+          title="Saia Morena Rosa Midi Evasê Com Recorte Amarelo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

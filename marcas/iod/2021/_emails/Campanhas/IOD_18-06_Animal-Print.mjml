@@ -1,0 +1,77 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Iódice</mj-title>
+    <mj-preview>Iódice</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 0px 0px"
+          width="600px"
+          href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=273&_t=Novidades"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Junho/IOD_18-06_Animal-Print-02/ANIMAL%20PIRNT-01-min.jpg"
+          alt="T-Shirt"
+          title="T-Shirt" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="Poppins, sans-serif" text-transform="Uppercase" color="#000" font-size="13px" padding="20px 0px 10px 40px" align="left" font-weight="400" line-height="18px">
+          A estampa animal print vem<br> 
+          renovada nesse inverno para<br> 
+          trazer mais estilo e charme<br> 
+          aos seus looks. Aposte!!
+        </mj-text>
+        <mj-button href="https://www.iodice.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&pwaf_productClusterIds=273&_t=Novidades" text-decoration="none" text-transform="uppercase" inner-padding="7px 18px" align="left" font-weight="400" font-size="13px" padding="5px 0px 30px 40px" background-color="#fff" color="#000" border="1px solid #000000" border-radius="0px" target="_blank"><span style="letter-spacing:0px">Shop now</span></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 10px 10px 10px"
+          width="600px"
+          href="https://www.iodice.com.br/regata-iodice-decote-redondo-basica-bege-253265"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Junho/IOD_18-06_Animal-Print-02/ANIMAL%20PIRNT-02-min.jpg"
+          alt="REGATA IÓDICE DECOTE REDONDO BÁSICA BEGE"
+          title="REGATA IÓDICE DECOTE REDONDO BÁSICA BEGE" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0px 10px 0px 10px"
+          width="600px"
+          href="https://www.iodice.com.br/t-shirt-iodice-decote-redondo-abertura-lateral-bege-253267"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Junho/IOD_18-06_Animal-Print-02/ANIMAL%20PIRNT-03-min.jpg"
+          alt="T-SHIRT IÓDICE DECOTE REDONDO ABERTURA LATERAL BEGE"
+          title="T-SHIRT IÓDICE DECOTE REDONDO ABERTURA LATERAL BEGE" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 10px 20px 10px"
+          width="600px"
+          href="https://www.iodice.com.br/vestido-iodice-midi-decote-redondo-amarracao-cintura-bege-253274"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/iodice/IOD_Junho/IOD_18-06_Animal-Print-02/ANIMAL%20PIRNT-04-min.jpg"
+          alt="VESTIDO IÓDICE MIDI DECOTE REDONDO AMARRAÇÃO CINTURA BEGE"
+          title="VESTIDO IÓDICE MIDI DECOTE REDONDO AMARRAÇÃO CINTURA BEGE" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

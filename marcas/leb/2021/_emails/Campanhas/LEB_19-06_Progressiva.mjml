@@ -1,0 +1,86 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Lebôh</mj-title>
+    <mj-preview>Lebôh</mj-preview>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Ubuntu" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/lqda?O=OrderByReleaseDateDESC"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_19-06_Progressiva/Prancheta%201-01-min.jpg"
+            alt="Desconto Progressiva"
+            title="Desconto Progressiva" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#899b55"> 
+      <mj-column padding="30px 0px 30px 0px">
+        <mj-text font-family="Work Sans, sans-serif" color="#fff" font-size="14px" padding="0px 30px 0px 30px" align= "center" font-weight="300" line-height="17px" letter-spacing="2px">
+          O verde em seus variados tons é uma cor que valoriza as peças e que vêm com tudo nessa temporada. Conheça nossas peças lindas que você pode comprar com até 60% OFF.
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="15px 0px" background-color="#7a8f40">
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/vestido-leboh-curto-decote-quadrado-transpasse-frente-verde-246583/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_19-06_Progressiva/Prancheta%201-02-min.jpg"
+            alt="Vestido Lebôh Curto Decote Quadrado Transpasse Frente Verde"
+            title="Vestido Lebôh Curto Decote Quadrado Transpasse Frente Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calca-leboh-reta-cos-alto-bicolor-preto-243340/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_19-06_Progressiva/Prancheta%201-03-min.jpg"
+            alt="Calça Lebôh Reta Cós Alto Bicolor Preto"
+            title="Calça Lebôh Reta Cós Alto Bicolor Preto" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calca-leboh-pantalona-cos-alto-com-faixa-verde-oliva-243959/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_19-06_Progressiva/Prancheta%201-04-min.jpg"
+            alt="Calça Lebôh Pantalona Cós Alto Com Faixa Verde Oliva"
+            title="Calça Lebôh Pantalona Cós Alto Com Faixa Verde Oliva" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+          <mj-image
+            padding="0"
+            width="600px"
+            href="https://www.leboh.com.br/calca-leboh-pantalona-cos-alto-barra-larga-verde-245232/p"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/leboh/LEB_Junho/LEB_19-06_Progressiva/Prancheta%201-06-min.jpg"
+            alt="Calça Lebôh Pantalona Cós Alto Barra Larga Verde"
+            title="Calça Lebôh Pantalona Cós Alto Barra Larga Verde" />
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px" background-color="#fff">
+    </mj-section>
+  
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

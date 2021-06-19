@@ -1,0 +1,97 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Maria.Valentina</mj-title>
+    <mj-preview>Maria.Valentina</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=Desconto%20Progressivo&pwaf_productClusterIds=137"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_18-06_Progressiva/Email%201-01-min.jpg"
+          alt="Desconto Progressiva"
+          title="Desconto Progressiva" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#d4cec0"> 
+      <mj-column padding="0">
+        <mj-text font-family="'Roboto', sans-serif" color="#3b3936" font-size="14px" padding="20px 25px 30px 25px" align="center" font-weight="400" line-height="20px" letter-spacing="1.1px">
+          O tricot deixa qualquer look mais sofisticado e lindo! Aposte nessa tendência e monte um armário cheio de estilo e com até 60% OFF.
+        </mj-text>
+      </mj-column>  
+    </mj-section>
+    <mj-section padding="15px 0" background-color="#fff">  
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#d4cec0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/calca-maria-valentina-reta-cos-alto-metalizada-branco-dourado-241707"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_18-06_Progressiva/Email%201-02-min.jpg"
+          alt="Calça Maria.Valentina Reta Cós Alto Metalizada Branco/Dourado"
+          title="Calça Maria.Valentina Reta Cós Alto Metalizada Branco/Dourado" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 30px 0px" background-color="#d4cec0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/calca-maria-valentina-reta-cos-alto-texturizada-branco-dourado-244682/p"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_18-06_Progressiva/Email%201-03-min.jpg"
+          alt="Calça Maria.Valentina Reta Cós Alto Texturizada Branco/Dourado"
+          title="Calça Maria.Valentina Reta Cós Alto Texturizada Branco/Dourado" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#d4cec0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/regata-maria-valentina-decote-redondo-abertura-lateral-dourado-233917"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_18-06_Progressiva/Email%201-04-min.jpg"
+          alt="Regata Maria.Valentina Decote Redondo Abertura Lateral Dourado"
+          title="Regata Maria.Valentina Decote Redondo Abertura Lateral Dourado" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0px 0px 0px" background-color="#d4cec0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          href="https://www.mariavalentina.com.br/cardigan-maria-valentina-tricot-liso-alongado-branco-dourado-244651"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_18-06_Progressiva/Email%201-05-min.jpg"
+          alt="Cardigan Maria.Valentina Tricot Liso Alongado Branco/Dourado"
+          title="Cardigan Maria.Valentina Tricot Liso Alongado Branco/Dourado" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 0px 0px 0px" background-color="#d4cec0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          width="600px"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/mariavalentina/MAR_Junho/MAR_16-06_Vermelhoe_e_Roxo/trend-05-min.jpg"
+          alt=""
+          title="" />
+      </mj-column>
+    </mj-section>
+   
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>

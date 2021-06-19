@@ -1,0 +1,80 @@
+<mjml owa="desktop">
+  <mj-head>
+    <mj-title>Zinco</mj-title>
+    <mj-preview>Zinco</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+    <mj-breakpoint width="320px" />
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-include path="../../header/_header.mjml" />
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          padding="10px 0px 30px 0px"
+          width="600px"
+          href="https://www.zinco.com.br/catalogsearch/result/_todos?pwaf_releaseDate=-&_t=LQDA%20Progressiva&pwaf_productClusterIds=140"
+          src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Progressivo/E-mail1-topo-min.jpg"
+          alt="Desconto Progressiva"
+          title="Desconto Progressiva" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="10px 0px 10px 0px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/bata-zinco-decote-amarracao-com-transparencia-rosa-243975"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Progressivo/E-mail1-01-min.jpg"
+            title="Bata Zinco Decote Amarração Com Transparência Rosa"
+            alt="Bata Zinco Decote Amarração Com Transparência Rosa" />
+        </mj-column>
+
+        <mj-column padding="10px 0px 10px 0px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/blusa-zinco-decote-redondo-manga-curta-compose-de-tecidos-rosa-244385"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Progressivo/E-mail1-02-min.jpg"
+            title="Blusa Zinco Decote Redondo Manga Curta Composê De Tecidos Rosa"
+            alt="Blusa Zinco Decote Redondo Manga Curta Composê De Tecidos Rosa" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="20px 0px 0px 0px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-zinco-midi-gode-compose-tecido-rosa-243994"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Progressivo/E-mail1-03-min.jpg"
+            title="Saia Zinco Midi Godê Composê Tecido Rosa"
+            alt="Saia Zinco Midi Godê Composê Tecido Rosa" />
+        </mj-column>
+
+        <mj-column padding="20px 0px 0px 0px">
+          <mj-image
+            align="center"
+            padding="0"
+            width="200px"
+            href="https://www.zinco.com.br/saia-zinco-curta-linha-a-bicolor-branco-244551"
+            src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ce3f6a25-b72e-4662-afd3-c45aa4fdc306/zinco/ZIN_Junho/ZIN_18-06_Progressivo/E-mail1-04-min.jpg"
+            title="Saia Zinco Curta Linha A Bicolor Branco"
+            alt="Saia Zinco Curta Linha A Bicolor Branco" />   
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-include path="../../footer/_footer.mjml" />
+  </mj-body>
+</mjml>
